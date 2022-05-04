@@ -13,6 +13,18 @@ _Conclusion._ Our solution is able to conditionally generate novel layouts compa
 ## Example Images
 
 8 cherrypicked layouts.
+<div float="left">
+  <img src="code/examples/best-0.png" alt="drawing" width="200"/>
+  <img src="code/examples/best-1.png" alt="drawing" width="200"/>
+  <img src="code/examples/best-2.png" alt="drawing" width="200"/>
+  <img src="code/examples/best-3.png" alt="drawing" width="200"/>
+</div>
+<div float="left">
+  <img src="code/examples/best-4.png" alt="drawing" width="200"/>
+  <img src="code/examples/best-5.png" alt="drawing" width="200"/>
+  <img src="code/examples/best-6.png" alt="drawing" width="200"/>
+  <img src="code/examples/best-7.png" alt="drawing" width="200"/>
+</div>
 
 ## Usage
 
