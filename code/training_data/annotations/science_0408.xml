@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0408</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="116 116 215 215 116 116"
+               polygon_y="72 155 155 71 71 72"/>
+      <element label="text" polygon_x="11 11 105 105 11 11"
+               polygon_y="207 285 285 206 206 207"/>
+      <element label="text" polygon_x="116 116 215 215 116 116"
+               polygon_y="162 230 230 161 161 162"/>
+      <element label="text" polygon_x="116 116 215 215 116 116"
+               polygon_y="237 285 285 236 236 237"/>
+      <element label="text" polygon_x="11 11 105 105 11 11"
+               polygon_y="177 200 200 176 176 177"/>
+      <element label="image" polygon_x="1 1 110 110 1 1" polygon_y="2 170 170 1 1 2"/>
+   </layout>
+   <text>
+      <keyword>study</keyword>
+      <keyword>research</keyword>
+      <keyword>patient</keyword>
+      <keyword>discover</keyword>
+      <keyword>idea</keyword>
+      <keyword>experience</keyword>
+      <keyword>virus</keyword>
+      <keyword>lab</keyword>
+      <keyword>inspire</keyword>
+   </text>
+</annotation>

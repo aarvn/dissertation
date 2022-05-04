@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0096</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="157 285 285 156 156 157"/>
+      <element label="text" polygon_x="81 81 140 140 81 81"
+               polygon_y="157 285 285 156 156 157"/>
+      <element label="text" polygon_x="146 146 210 210 146 146"
+               polygon_y="157 245 245 156 156 157"/>
+      <element label="text" polygon_x="16 16 65 65 16 16" polygon_y="92 130 130 91 91 92"/>
+      <element label="text" polygon_x="146 146 210 210 181 180 180 146 146"
+               polygon_y="277 285 285 251 251 275 276 276 277"/>
+      <element label="text" polygon_x="16 16 65 65 16 16" polygon_y="67 85 85 66 66 67"/>
+      <element label="image" polygon_x="71 71 215 215 71 71" polygon_y="22 145 145 21 21 22"/>
+      <element label="image" polygon_x="16 16 45 45 16 16" polygon_y="22 60 60 21 21 22"/>
+      <element label="image" polygon_x="146 146 180 180 146 146"
+               polygon_y="252 275 275 251 251 252"/>
+   </layout>
+   <text>
+      <keyword>area</keyword>
+      <keyword>water</keyword>
+      <keyword>launch</keyword>
+      <keyword>specie</keyword>
+   </text>
+</annotation>

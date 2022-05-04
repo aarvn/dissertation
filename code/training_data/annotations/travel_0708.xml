@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0708</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="116 116 210 210 116 116"
+               polygon_y="92 135 135 91 91 92"/>
+      <element label="text" polygon_x="116 116 210 210 116 116"
+               polygon_y="142 185 185 141 141 142"/>
+      <element label="text" polygon_x="116 116 210 210 116 116"
+               polygon_y="192 235 235 191 191 192"/>
+      <element label="text" polygon_x="116 116 210 210 116 116"
+               polygon_y="242 285 285 241 241 242"/>
+      <element label="text" polygon_x="16 16 180 180 16 16" polygon_y="77 85 85 76 76 77"/>
+      <element label="text" polygon_x="16 16 100 100 16 16"
+               polygon_y="277 285 285 276 276 277"/>
+      <element label="text" polygon_x="16 16 70 70 16 16" polygon_y="12 15 15 11 11 12"/>
+      <element label="image" polygon_x="16 16 110 110 16 16"
+               polygon_y="152 210 210 151 151 152"/>
+      <element label="image" polygon_x="16 16 110 110 16 16" polygon_y="92 145 145 91 91 92"/>
+      <element label="image" polygon_x="16 16 75 75 16 16" polygon_y="217 270 270 216 216 217"/>
+      <element label="image" polygon_x="81 81 110 110 81 81"
+               polygon_y="217 270 270 216 216 217"/>
+      <element label="headline" polygon_x="16 16 180 180 16 16" polygon_y="32 65 65 31 31 32"/>
+   </layout>
+   <text>
+      <keyword>place</keyword>
+      <keyword>visit</keyword>
+      <keyword>house</keyword>
+      <keyword>top</keyword>
+      <keyword>book</keyword>
+      <keyword>discover</keyword>
+      <keyword>event</keyword>
+      <keyword>tour</keyword>
+   </text>
+</annotation>

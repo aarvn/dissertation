@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0126</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="26 26 80 80 26 26" polygon_y="87 280 280 86 86 87"/>
+      <element label="text" polygon_x="151 151 205 205 151 151"
+               polygon_y="87 280 280 86 86 87"/>
+      <element label="text" polygon_x="86 86 145 145 86 86" polygon_y="87 205 205 86 86 87"/>
+      <element label="text" polygon_x="71 71 165 165 71 71" polygon_y="57 65 65 56 56 57"/>
+      <element label="image" polygon_x="86 86 145 145 86 86"
+               polygon_y="212 280 280 211 211 212"/>
+      <element label="image" polygon_x="96 96 135 135 96 96" polygon_y="22 55 55 21 21 22"/>
+      <element label="headline" polygon_x="76 76 160 160 76 76" polygon_y="72 80 80 71 71 72"/>
+   </layout>
+   <text>
+      <keyword>power</keyword>
+      <keyword>state</keyword>
+      <keyword>child</keyword>
+      <keyword>fall</keyword>
+      <keyword>fear</keyword>
+      <keyword>leader</keyword>
+      <keyword>art</keyword>
+      <keyword>group</keyword>
+      <keyword>school</keyword>
+      <keyword>sense</keyword>
+      <keyword>freedom</keyword>
+      <keyword>research</keyword>
+   </text>
+</annotation>

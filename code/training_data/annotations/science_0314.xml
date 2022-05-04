@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0314</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="126 126 210 210 161 160 160 126 126"
+               polygon_y="167 235 235 131 131 165 166 166 167"/>
+      <element label="text" polygon_x="11 11 55 55 11 11" polygon_y="132 235 235 131 131 132"/>
+      <element label="text" polygon_x="61 61 110 110 61 61"
+               polygon_y="167 235 235 166 166 167"/>
+      <element label="text" polygon_x="61 61 155 155 61 61"
+               polygon_y="132 160 160 131 131 132"/>
+      <element label="text" polygon_x="171 171 210 210 171 171"
+               polygon_y="252 270 270 251 251 252"/>
+      <element label="text" polygon_x="61 61 85 85 61 61" polygon_y="252 275 275 251 251 252"/>
+      <element label="image" polygon_x="11 11 225 225 11 11" polygon_y="22 125 125 21 21 22"/>
+      <element label="image" polygon_x="1 1 55 55 1 1" polygon_y="247 280 280 246 246 247"/>
+      <element label="image" polygon_x="96 96 130 130 96 96"
+               polygon_y="247 280 280 246 246 247"/>
+      <element label="image" polygon_x="136 136 165 165 136 136"
+               polygon_y="247 280 280 246 246 247"/>
+      <element label="text-over-image" polygon_x="171 171 210 210 171 171"
+               polygon_y="27 60 60 26 26 27"/>
+      <element label="text-over-image" polygon_x="6 6 50 50 6 6"
+               polygon_y="252 275 275 251 251 252"/>
+      <element label="text-over-image" polygon_x="136 136 155 155 136 136"
+               polygon_y="252 270 270 251 251 252"/>
+      <element label="text-over-image" polygon_x="96 96 130 130 96 96"
+               polygon_y="252 260 260 251 251 252"/>
+   </layout>
+   <text>
+      <keyword>earth</keyword>
+      <keyword>decade</keyword>
+      <keyword>launch</keyword>
+      <keyword>experience</keyword>
+      <keyword>interest</keyword>
+      <keyword>fall</keyword>
+   </text>
+</annotation>

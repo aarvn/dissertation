@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0389</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="32 140 140 31 31 32"/>
+      <element label="text" polygon_x="81 81 145 145 81 81" polygon_y="32 140 140 31 31 32"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="32 140 140 31 31 32"/>
+      <element label="text" polygon_x="81 81 215 215 81 81"
+               polygon_y="162 200 200 161 161 162"/>
+      <element label="image" polygon_x="1 1 225 225 75 75 75 1 1"
+               polygon_y="187 300 300 206 206 205 186 186 187"/>
+      <element label="headline" polygon_x="11 11 70 70 11 11"
+               polygon_y="162 175 175 161 161 162"/>
+      <element label="text-over-image" polygon_x="36 36 215 215 36 36"
+               polygon_y="272 295 295 271 271 272"/>
+   </layout>
+   <text>
+      <keyword>study</keyword>
+      <keyword>scientist</keyword>
+      <keyword>place</keyword>
+      <keyword>group</keyword>
+      <keyword>interest</keyword>
+      <keyword>question</keyword>
+      <keyword>answer</keyword>
+      <keyword>land</keyword>
+   </text>
+</annotation>

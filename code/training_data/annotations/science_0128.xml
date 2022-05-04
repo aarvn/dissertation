@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0128</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 180 180 21 21"
+               polygon_y="232 285 285 231 231 232"/>
+      <element label="text" polygon_x="21 21 155 155 21 21"
+               polygon_y="212 225 225 211 211 212"/>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 195 195 1 1 2"/>
+      <element label="text-over-image" polygon_x="21 21 50 50 21 21"
+               polygon_y="12 20 20 11 11 12"/>
+   </layout>
+   <text>
+      <keyword>discover</keyword>
+      <keyword>country</keyword>
+      <keyword>west</keyword>
+   </text>
+</annotation>

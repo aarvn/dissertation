@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0196</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="151 151 205 205 151 151"
+               polygon_y="52 275 275 51 51 52"/>
+      <element label="text" polygon_x="86 86 140 140 86 86"
+               polygon_y="122 280 280 121 121 122"/>
+      <element label="text" polygon_x="21 21 70 71 71 75 75 21 21"
+               polygon_y="172 280 280 276 275 275 171 171 172"/>
+      <element label="text" polygon_x="21 21 60 60 21 21" polygon_y="142 165 165 141 141 142"/>
+      <element label="text" polygon_x="151 151 190 190 151 151" polygon_y="27 40 40 26 26 27"/>
+      <element label="text" polygon_x="11 11 50 50 11 11" polygon_y="12 20 20 11 11 12"/>
+      <element label="text" polygon_x="21 21 50 50 21 21" polygon_y="127 135 135 126 126 127"/>
+      <element label="image" polygon_x="11 11 75 75 11 11" polygon_y="27 115 115 26 26 27"/>
+      <element label="image" polygon_x="81 81 145 145 81 81" polygon_y="27 115 115 26 26 27"/>
+   </layout>
+   <text>
+      <keyword>dish</keyword>
+      <keyword>garlic</keyword>
+      <keyword>restaurant</keyword>
+      <keyword>flavour</keyword>
+      <keyword>enjoy</keyword>
+      <keyword>sauce</keyword>
+      <keyword>kitchen</keyword>
+      <keyword>fresh</keyword>
+      <keyword>chicken</keyword>
+      <keyword>coriander</keyword>
+      <keyword>plenty</keyword>
+      <keyword>dessert</keyword>
+   </text>
+</annotation>

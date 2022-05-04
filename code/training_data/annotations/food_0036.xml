@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0036</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="106 106 150 150 106 106"
+               polygon_y="187 280 280 186 186 187"/>
+      <element label="text" polygon_x="21 21 95 95 21 21" polygon_y="227 265 265 226 226 227"/>
+      <element label="text" polygon_x="21 21 95 95 21 21" polygon_y="187 215 215 186 186 187"/>
+      <element label="text" polygon_x="161 161 205 205 161 161"
+               polygon_y="192 210 210 191 191 192"/>
+      <element label="text" polygon_x="161 161 205 205 161 161"
+               polygon_y="217 235 235 216 216 217"/>
+      <element label="text" polygon_x="161 161 210 210 161 161" polygon_y="7 20 20 6 6 7"/>
+      <element label="image" polygon_x="21 21 115 115 21 21" polygon_y="27 150 150 26 26 27"/>
+      <element label="image" polygon_x="166 166 210 210 166 166" polygon_y="27 85 85 26 26 27"/>
+      <element label="image" polygon_x="166 166 210 210 166 166"
+               polygon_y="92 150 150 91 91 92"/>
+      <element label="image" polygon_x="121 121 160 160 121 121" polygon_y="27 85 85 26 26 27"/>
+      <element label="image" polygon_x="121 121 160 160 121 121"
+               polygon_y="92 150 150 91 91 92"/>
+      <element label="headline" polygon_x="21 21 180 180 21 21"
+               polygon_y="157 180 180 156 156 157"/>
+   </layout>
+   <text>
+      <keyword>wine</keyword>
+      <keyword>restaurant</keyword>
+      <keyword>cooking</keyword>
+      <keyword>glass</keyword>
+      <keyword>lunch</keyword>
+      <keyword>meal</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0623</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="146 146 171 171 170 170 146 146 210 210 146 146"
+               polygon_y="77 105 105 106 130 131 131 260 260 76 76 77"/>
+      <element label="text" polygon_x="11 11 75 75 55 55 56 56 75 75 11 11"
+               polygon_y="102 145 145 131 131 130 106 105 105 101 101 102"/>
+      <element label="text" polygon_x="81 81 140 140 81 81" polygon_y="77 105 105 76 76 77"/>
+      <element label="text" polygon_x="61 61 165 165 61 61"
+               polygon_y="112 125 125 111 111 112"/>
+      <element label="text" polygon_x="81 81 140 140 81 81"
+               polygon_y="132 145 145 131 131 132"/>
+      <element label="text" polygon_x="81 81 140 140 81 81" polygon_y="57 65 65 56 56 57"/>
+      <element label="image" polygon_x="11 11 140 140 11 11"
+               polygon_y="152 290 290 151 151 152"/>
+      <element label="image" polygon_x="11 11 75 75 11 11" polygon_y="17 95 95 16 16 17"/>
+      <element label="text-over-image" polygon_x="21 21 125 125 21 21"
+               polygon_y="162 185 185 161 161 162"/>
+      <element label="text-over-image" polygon_x="81 81 130 130 81 81"
+               polygon_y="232 260 260 231 231 232"/>
+      <element label="text-over-image" polygon_x="81 81 130 130 81 81"
+               polygon_y="197 220 220 196 196 197"/>
+   </layout>
+   <text>
+      <keyword>wedding</keyword>
+      <keyword>love</keyword>
+      <keyword>dream</keyword>
+      <keyword>flower</keyword>
+      <keyword>life</keyword>
+      <keyword>remember</keyword>
+      <keyword>moment</keyword>
+      <keyword>experience</keyword>
+      <keyword>color</keyword>
+      <keyword>mother</keyword>
+      <keyword>excite</keyword>
+      <keyword>relationship</keyword>
+      <keyword>season</keyword>
+      <keyword>romantic</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0433</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="26 26 200 200 26 26"
+               polygon_y="267 285 285 266 266 267"/>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="7 260 260 6 6 7"/>
+      <element label="text-over-image" polygon_x="21 21 205 205 21 21"
+               polygon_y="177 185 185 176 176 177"/>
+      <element label="headline-over-image" polygon_x="66 66 170 170 66 66"
+               polygon_y="107 170 170 106 106 107"/>
+   </layout>
+   <text>
+      <keyword>flower</keyword>
+      <keyword>bridesmaid</keyword>
+      <keyword>top</keyword>
+   </text>
+</annotation>

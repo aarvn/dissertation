@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0096</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="6 6 70 70 6 6" polygon_y="32 285 285 31 31 32"/>
+      <element label="text" polygon_x="151 151 220 220 151 151"
+               polygon_y="137 285 285 136 136 137"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="202 285 285 201 201 202"/>
+      <element label="text" polygon_x="81 81 125 125 81 81" polygon_y="17 100 100 16 16 17"/>
+      <element label="text" polygon_x="11 11 50 50 11 11" polygon_y="12 20 20 11 11 12"/>
+      <element label="image" polygon_x="81 81 145 146 146 225 225 136 135 135 81 81"
+               polygon_y="112 190 190 131 130 130 1 1 110 111 111 112"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>style</keyword>
+      <keyword>wear</keyword>
+      <keyword>talk</keyword>
+      <keyword>season</keyword>
+      <keyword>mother</keyword>
+      <keyword>idea</keyword>
+      <keyword>art</keyword>
+      <keyword>book</keyword>
+      <keyword>scent</keyword>
+      <keyword>fragrance</keyword>
+      <keyword>fit</keyword>
+      <keyword>body</keyword>
+      <keyword>laugh</keyword>
+      <keyword>clothes</keyword>
+      <keyword>bracelet</keyword>
+   </text>
+</annotation>

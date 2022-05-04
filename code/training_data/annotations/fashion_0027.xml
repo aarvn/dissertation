@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0027</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="16 16 110 110 16 16" polygon_y="22 155 155 21 21 22"/>
+      <element label="text" polygon_x="121 121 210 210 121 121"
+               polygon_y="22 155 155 21 21 22"/>
+      <element label="image" polygon_x="16 16 215 215 16 16"
+               polygon_y="172 300 300 171 171 172"/>
+   </layout>
+   <text>
+      <keyword>woman</keyword>
+      <keyword>mother</keyword>
+      <keyword>idea</keyword>
+      <keyword>girl</keyword>
+      <keyword>brand</keyword>
+      <keyword>watch</keyword>
+      <keyword>child</keyword>
+      <keyword>place</keyword>
+      <keyword>fit</keyword>
+      <keyword>body</keyword>
+      <keyword>dream</keyword>
+      <keyword>celebrate</keyword>
+      <keyword>company</keyword>
+      <keyword>happy</keyword>
+      <keyword>important</keyword>
+      <keyword>role</keyword>
+   </text>
+</annotation>

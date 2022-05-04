@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0444</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="146 146 210 210 146 146"
+               polygon_y="17 100 100 16 16 17"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="247 290 290 246 246 247"/>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="247 290 290 246 246 247"/>
+      <element label="text" polygon_x="151 151 210 210 151 151"
+               polygon_y="247 290 290 246 246 247"/>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="62 100 100 61 61 62"/>
+      <element label="text" polygon_x="81 81 140 140 81 81" polygon_y="62 100 100 61 61 62"/>
+      <element label="text" polygon_x="16 16 210 210 16 16"
+               polygon_y="237 240 240 236 236 237"/>
+      <element label="text" polygon_x="41 41 120 120 41 41" polygon_y="42 45 45 41 41 42"/>
+      <element label="text" polygon_x="56 56 105 105 56 56" polygon_y="17 20 20 16 16 17"/>
+      <element label="text" polygon_x="61 61 100 100 61 61" polygon_y="52 55 55 51 51 52"/>
+      <element label="image" polygon_x="16 16 210 210 16 16"
+               polygon_y="107 235 235 106 106 107"/>
+      <element label="headline" polygon_x="26 26 135 135 26 26" polygon_y="27 35 35 26 26 27"/>
+   </layout>
+   <text>
+      <keyword>plan</keyword>
+      <keyword>office</keyword>
+      <keyword>business</keyword>
+   </text>
+</annotation>

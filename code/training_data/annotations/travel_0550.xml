@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0550</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="136 136 225 225 136 136"
+               polygon_y="37 270 270 36 36 37"/>
+      <element label="text" polygon_x="1 1 120 120 1 1" polygon_y="217 225 225 216 216 217"/>
+      <element label="text" polygon_x="11 11 120 120 11 11"
+               polygon_y="177 180 180 176 176 177"/>
+      <element label="image" polygon_x="1 1 120 120 1 1" polygon_y="2 175 175 1 1 2"/>
+   </layout>
+   <text>
+      <keyword>country</keyword>
+      <keyword>experience</keyword>
+      <keyword>guest</keyword>
+      <keyword>smile</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0369</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 60 60 21 21" polygon_y="117 180 180 116 116 117"/>
+      <element label="text" polygon_x="21 21 60 60 21 21" polygon_y="192 245 245 191 191 192"/>
+      <element label="text" polygon_x="66 66 100 100 66 66"
+               polygon_y="222 280 280 221 221 222"/>
+      <element label="text" polygon_x="66 66 105 105 66 66"
+               polygon_y="117 160 160 116 116 117"/>
+      <element label="text" polygon_x="146 146 180 180 146 146"
+               polygon_y="167 215 215 166 166 167"/>
+      <element label="text" polygon_x="161 161 200 200 161 161"
+               polygon_y="77 115 115 76 76 77"/>
+      <element label="text" polygon_x="161 161 200 200 161 161"
+               polygon_y="122 155 155 121 121 122"/>
+      <element label="text" polygon_x="121 121 200 200 121 121" polygon_y="12 15 15 11 11 12"/>
+      <element label="image" polygon_x="21 21 105 105 21 21" polygon_y="27 110 110 26 26 27"/>
+      <element label="image" polygon_x="106 106 200 200 106 106"
+               polygon_y="222 280 280 221 221 222"/>
+      <element label="image" polygon_x="116 116 200 200 116 116" polygon_y="27 70 70 26 26 27"/>
+      <element label="image" polygon_x="66 66 140 140 66 66"
+               polygon_y="167 215 215 166 166 167"/>
+      <element label="image" polygon_x="116 116 155 155 116 116"
+               polygon_y="77 160 160 76 76 77"/>
+      <element label="image" polygon_x="26 26 55 55 26 26" polygon_y="252 280 280 251 251 252"/>
+      <element label="image" polygon_x="186 186 200 200 186 186"
+               polygon_y="167 215 215 166 166 167"/>
+   </layout>
+   <text>
+      <keyword>taste</keyword>
+      <keyword>wine</keyword>
+      <keyword>salad</keyword>
+      <keyword>enjoy</keyword>
+      <keyword>table</keyword>
+      <keyword>dress</keyword>
+      <keyword>choice</keyword>
+      <keyword>cuisine</keyword>
+      <keyword>herb</keyword>
+   </text>
+</annotation>

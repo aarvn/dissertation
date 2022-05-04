@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0423</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="16 16 85 85 16 16"
+               polygon_y="92 130 130 91 91 92"/>
+      <element label="text-over-image" polygon_x="176 176 205 205 176 176"
+               polygon_y="232 280 280 231 231 232"/>
+      <element label="text-over-image" polygon_x="16 16 100 100 16 16"
+               polygon_y="57 65 65 56 56 57"/>
+      <element label="text-over-image" polygon_x="171 171 200 200 171 171"
+               polygon_y="177 190 190 176 176 177"/>
+      <element label="headline-over-image" polygon_x="16 16 185 185 16 16"
+               polygon_y="17 50 50 16 16 17"/>
+   </layout>
+   <text/>
+</annotation>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0150</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 75 75 21 21" polygon_y="47 275 275 46 46 47"/>
+      <element label="text" polygon_x="146 146 200 200 146 146"
+               polygon_y="47 275 275 46 46 47"/>
+      <element label="text" polygon_x="161 161 215 215 161 161" polygon_y="12 20 20 11 11 12"/>
+      <element label="text" polygon_x="101 101 125 125 101 101"
+               polygon_y="187 195 195 186 186 187"/>
+      <element label="text" polygon_x="101 101 120 120 101 101"
+               polygon_y="262 270 270 261 261 262"/>
+      <element label="text" polygon_x="106 106 120 120 106 106"
+               polygon_y="107 115 115 106 106 107"/>
+      <element label="image" polygon_x="86 86 140 140 86 86" polygon_y="47 105 105 46 46 47"/>
+      <element label="image" polygon_x="86 86 140 140 86 86"
+               polygon_y="122 180 180 121 121 122"/>
+      <element label="image" polygon_x="86 86 140 140 86 86"
+               polygon_y="202 255 255 201 201 202"/>
+   </layout>
+   <text>
+      <keyword>place</keyword>
+      <keyword>dish</keyword>
+      <keyword>restaurant</keyword>
+      <keyword>menu</keyword>
+      <keyword>fish</keyword>
+      <keyword>chef</keyword>
+      <keyword>quality</keyword>
+   </text>
+</annotation>

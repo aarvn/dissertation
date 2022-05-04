@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0263</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="26 26 110 110 50 50 50 26 26"
+               polygon_y="17 105 105 66 66 65 16 16 17"/>
+      <element label="text" polygon_x="126 126 210 210 150 150 150 126 126"
+               polygon_y="17 105 105 66 66 65 16 16 17"/>
+      <element label="text" polygon_x="26 26 110 110 50 50 50 26 26"
+               polygon_y="117 195 195 166 166 165 116 116 117"/>
+      <element label="text" polygon_x="126 126 210 210 150 150 150 126 126"
+               polygon_y="117 195 195 166 166 165 116 116 117"/>
+      <element label="text" polygon_x="26 26 110 110 50 50 50 26 26"
+               polygon_y="217 285 285 261 261 260 216 216 217"/>
+      <element label="image" polygon_x="126 126 210 210 126 126"
+               polygon_y="217 285 285 216 216 217"/>
+      <element label="image" polygon_x="56 56 110 110 56 56" polygon_y="17 60 60 16 16 17"/>
+      <element label="image" polygon_x="56 56 110 110 56 56"
+               polygon_y="117 160 160 116 116 117"/>
+      <element label="image" polygon_x="156 156 210 210 156 156" polygon_y="17 60 60 16 16 17"/>
+      <element label="image" polygon_x="156 156 210 210 156 156"
+               polygon_y="117 160 160 116 116 117"/>
+      <element label="image" polygon_x="56 56 110 110 56 56"
+               polygon_y="217 255 255 216 216 217"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>family</keyword>
+      <keyword>friend</keyword>
+      <keyword>join</keyword>
+      <keyword>woman</keyword>
+   </text>
+</annotation>

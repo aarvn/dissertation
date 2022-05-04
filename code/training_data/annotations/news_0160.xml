@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0160</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 110 110 11 11"
+               polygon_y="132 285 285 131 131 132"/>
+      <element label="text" polygon_x="116 116 210 210 116 116"
+               polygon_y="52 175 175 51 51 52"/>
+      <element label="text" polygon_x="116 116 210 210 116 116"
+               polygon_y="182 285 285 181 181 182"/>
+      <element label="text" polygon_x="11 11 95 95 11 11" polygon_y="42 45 45 41 41 42"/>
+      <element label="image" polygon_x="11 11 110 110 11 11" polygon_y="52 125 125 51 51 52"/>
+      <element label="headline" polygon_x="11 11 145 145 11 11" polygon_y="17 25 25 16 16 17"/>
+   </layout>
+   <text>
+      <keyword>power</keyword>
+      <keyword>party</keyword>
+      <keyword>city</keyword>
+      <keyword>friend</keyword>
+      <keyword>war</keyword>
+      <keyword>leader</keyword>
+      <keyword>fight</keyword>
+      <keyword>rule</keyword>
+      <keyword>thousand</keyword>
+      <keyword>deal</keyword>
+      <keyword>top</keyword>
+   </text>
+</annotation>

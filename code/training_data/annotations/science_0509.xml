@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0509</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="116 116 161 161 160 160 116 116 220 220 116 116"
+               polygon_y="112 180 180 181 210 211 211 290 290 111 111 112"/>
+      <element label="text" polygon_x="11 11 110 110 65 65 66 66 110 110 11 11"
+               polygon_y="112 260 260 211 211 210 181 180 180 111 111 112"/>
+      <element label="text" polygon_x="11 11 110 110 11 11"
+               polygon_y="267 290 290 266 266 267"/>
+      <element label="text" polygon_x="71 71 155 155 71 71"
+               polygon_y="187 205 205 186 186 187"/>
+      <element label="image" polygon_x="11 11 220 220 11 11" polygon_y="2 100 100 1 1 2"/>
+   </layout>
+   <text>
+      <keyword>place</keyword>
+      <keyword>island</keyword>
+      <keyword>discover</keyword>
+      <keyword>planet</keyword>
+      <keyword>surface</keyword>
+      <keyword>nature</keyword>
+      <keyword>evidence</keyword>
+      <keyword>specie</keyword>
+   </text>
+</annotation>

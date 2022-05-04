@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0667</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="31 31 120 120 31 31"
+               polygon_y="262 285 285 261 261 262"/>
+      <element label="text-over-image" polygon_x="46 46 105 105 46 46"
+               polygon_y="237 255 255 236 236 237"/>
+   </layout>
+   <text>
+      <keyword>love</keyword>
+      <keyword>idea</keyword>
+      <keyword>film</keyword>
+      <keyword>artist</keyword>
+   </text>
+</annotation>

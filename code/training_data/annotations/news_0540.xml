@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0540</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 95 95 11 11" polygon_y="162 265 265 161 161 162"/>
+      <element label="text" polygon_x="151 151 210 210 151 151"
+               polygon_y="67 180 180 66 66 67"/>
+      <element label="text" polygon_x="11 11 95 95 11 11" polygon_y="137 155 155 136 136 137"/>
+      <element label="text" polygon_x="151 151 205 205 151 151" polygon_y="37 60 60 36 36 37"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="277 285 285 276 276 277"/>
+      <element label="text" polygon_x="111 111 130 130 111 111"
+               polygon_y="167 190 190 166 166 167"/>
+      <element label="text" polygon_x="151 151 205 205 151 151"
+               polygon_y="187 190 190 186 186 187"/>
+      <element label="image" polygon_x="1 1 135 135 1 1" polygon_y="37 130 130 36 36 37"/>
+      <element label="image" polygon_x="151 151 210 210 151 151"
+               polygon_y="197 300 300 196 196 197"/>
+   </layout>
+   <text>
+      <keyword>talk</keyword>
+      <keyword>leader</keyword>
+      <keyword>love</keyword>
+      <keyword>university</keyword>
+      <keyword>culture</keyword>
+      <keyword>science</keyword>
+   </text>
+</annotation>

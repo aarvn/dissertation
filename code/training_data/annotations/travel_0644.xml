@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0644</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="26 26 80 80 26 26" polygon_y="107 275 275 106 106 107"/>
+      <element label="text" polygon_x="146 146 200 200 146 146"
+               polygon_y="137 260 260 136 136 137"/>
+      <element label="text" polygon_x="96 96 140 140 96 96"
+               polygon_y="137 275 275 136 136 137"/>
+      <element label="text" polygon_x="26 26 80 80 26 26" polygon_y="22 100 100 21 21 22"/>
+      <element label="text" polygon_x="96 96 165 165 96 96"
+               polygon_y="122 130 130 121 121 122"/>
+      <element label="text" polygon_x="146 146 200 200 146 146"
+               polygon_y="267 275 275 266 266 267"/>
+      <element label="image" polygon_x="86 86 171 171 171 205 206 206 225 225 86 86"
+               polygon_y="2 115 115 116 125 125 116 115 115 1 1 2"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>town</keyword>
+      <keyword>explore</keyword>
+      <keyword>city</keyword>
+      <keyword>space</keyword>
+      <keyword>art</keyword>
+      <keyword>village</keyword>
+      <keyword>discover</keyword>
+      <keyword>celebrate</keyword>
+      <keyword>event</keyword>
+      <keyword>sky</keyword>
+      <keyword>thought</keyword>
+      <keyword>scene</keyword>
+      <keyword>young</keyword>
+   </text>
+</annotation>

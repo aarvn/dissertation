@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0211</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="22 285 285 21 21 22"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="22 215 215 21 21 22"/>
+      <element label="text" polygon_x="81 81 145 145 81 81" polygon_y="62 215 215 61 61 62"/>
+      <element label="text" polygon_x="81 81 145 145 81 81" polygon_y="47 55 55 46 46 47"/>
+      <element label="image" polygon_x="81 81 215 215 81 81"
+               polygon_y="222 285 285 221 221 222"/>
+      <element label="headline" polygon_x="81 81 120 120 81 81" polygon_y="22 30 30 21 21 22"/>
+   </layout>
+   <text>
+      <keyword>government</keyword>
+      <keyword>grow</keyword>
+      <keyword>money</keyword>
+      <keyword>public</keyword>
+      <keyword>bank</keyword>
+      <keyword>firm</keyword>
+      <keyword>promise</keyword>
+      <keyword>demand</keyword>
+      <keyword>announce</keyword>
+   </text>
+</annotation>

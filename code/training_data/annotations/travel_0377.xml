@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0377</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="71 71 200 200 71 71"
+               polygon_y="247 285 285 246 246 247"/>
+      <element label="text" polygon_x="21 21 130 130 21 21"
+               polygon_y="182 220 220 181 181 182"/>
+      <element label="text" polygon_x="31 31 185 185 31 31" polygon_y="42 45 45 41 41 42"/>
+      <element label="text" polygon_x="21 21 85 85 21 21" polygon_y="167 175 175 166 166 167"/>
+      <element label="text" polygon_x="71 71 130 130 71 71"
+               polygon_y="232 240 240 231 231 232"/>
+      <element label="image" polygon_x="21 21 136 136 136 200 200 21 21"
+               polygon_y="57 160 160 161 220 220 56 56 57"/>
+      <element label="image" polygon_x="21 21 65 65 21 21" polygon_y="232 285 285 231 231 232"/>
+      <element label="headline" polygon_x="36 36 180 180 36 36" polygon_y="22 35 35 21 21 22"/>
+   </layout>
+   <text>
+      <keyword>art</keyword>
+      <keyword>wildlife</keyword>
+   </text>
+</annotation>

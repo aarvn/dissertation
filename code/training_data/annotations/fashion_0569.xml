@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0569</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 75 75 21 21" polygon_y="187 265 265 186 186 187"/>
+      <element label="text" polygon_x="146 146 205 205 146 146"
+               polygon_y="207 270 270 206 206 207"/>
+      <element label="text" polygon_x="146 146 205 205 151 151 181 181 180 180 146 146"
+               polygon_y="192 200 200 86 86 100 100 101 190 191 191 192"/>
+      <element label="text" polygon_x="151 151 205 205 151 151" polygon_y="37 80 80 36 36 37"/>
+      <element label="text" polygon_x="21 21 105 105 21 21"
+               polygon_y="162 180 180 161 161 162"/>
+      <element label="text" polygon_x="91 91 190 190 91 91"
+               polygon_y="277 285 285 276 276 277"/>
+      <element label="text" polygon_x="41 41 85 85 41 41" polygon_y="277 285 285 276 276 277"/>
+      <element label="image"
+               polygon_x="1 1 111 111 110 110 86 86 140 141 141 175 175 145 145 145 1 1"
+               polygon_y="12 125 125 126 185 186 186 265 265 186 185 185 106 106 105 11 11 12"/>
+      <element label="headline" polygon_x="21 21 105 105 21 21"
+               polygon_y="137 155 155 136 136 137"/>
+      <element label="text-over-image" polygon_x="11 11 30 30 11 11"
+               polygon_y="17 25 25 16 16 17"/>
+      <element label="text-over-image" polygon_x="86 86 105 105 86 86"
+               polygon_y="257 265 265 256 256 257"/>
+      <element label="text-over-image" polygon_x="161 161 175 175 161 161"
+               polygon_y="177 185 185 176 176 177"/>
+   </layout>
+   <text>
+      <keyword>woman</keyword>
+      <keyword>life</keyword>
+      <keyword>skin</keyword>
+      <keyword>top</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0161</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="157 290 290 156 156 157"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="157 260 260 156 156 157"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="112 205 205 111 111 112"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="267 290 290 266 266 267"/>
+      <element label="text" polygon_x="151 151 210 210 151 151" polygon_y="22 40 40 21 21 22"/>
+      <element label="text" polygon_x="11 11 110 110 11 11"
+               polygon_y="142 150 150 141 141 142"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="97 105 105 96 96 97"/>
+      <element label="image" polygon_x="11 11 145 145 11 11" polygon_y="17 105 105 16 16 17"/>
+      <element label="image" polygon_x="151 151 215 215 151 151"
+               polygon_y="217 290 290 216 216 217"/>
+      <element label="headline" polygon_x="11 11 75 75 11 11"
+               polygon_y="112 125 125 111 111 112"/>
+   </layout>
+   <text>
+      <keyword>country</keyword>
+      <keyword>government</keyword>
+      <keyword>power</keyword>
+      <keyword>place</keyword>
+      <keyword>law</keyword>
+      <keyword>plan</keyword>
+      <keyword>debate</keyword>
+      <keyword>vote</keyword>
+      <keyword>promise</keyword>
+      <keyword>parliament</keyword>
+   </text>
+</annotation>

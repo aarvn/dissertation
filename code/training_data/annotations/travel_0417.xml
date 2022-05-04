@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0417</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="7 295 295 6 6 7"/>
+      <element label="text-over-image" polygon_x="46 46 150 150 46 46"
+               polygon_y="142 175 175 141 141 142"/>
+      <element label="headline-over-image" polygon_x="56 56 160 160 56 56"
+               polygon_y="92 135 135 91 91 92"/>
+   </layout>
+   <text/>
+</annotation>

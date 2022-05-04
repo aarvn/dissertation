@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0544</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="11 11 75 75 11 11"
+               polygon_y="137 285 285 136 136 137"/>
+      <element label="text-over-image" polygon_x="81 81 140 140 81 81"
+               polygon_y="137 285 285 136 136 137"/>
+      <element label="text-over-image" polygon_x="146 146 205 205 146 146"
+               polygon_y="137 285 285 136 136 137"/>
+      <element label="text-over-image" polygon_x="46 46 175 175 46 46"
+               polygon_y="107 120 120 106 106 107"/>
+      <element label="text-over-image" polygon_x="66 66 155 155 66 66"
+               polygon_y="127 130 130 126 126 127"/>
+      <element label="headline-over-image" polygon_x="56 56 170 170 56 56"
+               polygon_y="92 100 100 91 91 92"/>
+   </layout>
+   <text>
+      <keyword>top</keyword>
+      <keyword>salt</keyword>
+      <keyword>season</keyword>
+      <keyword>oil</keyword>
+      <keyword>eat</keyword>
+      <keyword>pan</keyword>
+      <keyword>fry</keyword>
+      <keyword>bake</keyword>
+      <keyword>flavour</keyword>
+      <keyword>cooking</keyword>
+      <keyword>butter</keyword>
+      <keyword>pepper</keyword>
+      <keyword>cheese</keyword>
+      <keyword>sauce</keyword>
+      <keyword>kitchen</keyword>
+      <keyword>life</keyword>
+      <keyword>fresh</keyword>
+      <keyword>dry</keyword>
+      <keyword>choice</keyword>
+      <keyword>grill</keyword>
+      <keyword>roast</keyword>
+      <keyword>herb</keyword>
+      <keyword>cream</keyword>
+      <keyword>cup</keyword>
+      <keyword>quality</keyword>
+      <keyword>plenty</keyword>
+   </text>
+</annotation>

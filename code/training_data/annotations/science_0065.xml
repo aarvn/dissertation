@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0065</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="36 36 195 195 36 36"
+               polygon_y="272 290 290 271 271 272"/>
+      <element label="image" polygon_x="16 16 215 215 16 16"
+               polygon_y="142 265 265 141 141 142"/>
+      <element label="image" polygon_x="16 16 215 215 16 16" polygon_y="17 135 135 16 16 17"/>
+   </layout>
+   <text>
+      <keyword>experience</keyword>
+      <keyword>south</keyword>
+   </text>
+</annotation>

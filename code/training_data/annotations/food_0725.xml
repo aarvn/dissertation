@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0725</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 70 70 21 21" polygon_y="227 285 285 226 226 227"/>
+      <element label="text" polygon_x="156 156 205 205 156 156"
+               polygon_y="202 260 260 201 201 202"/>
+      <element label="text" polygon_x="21 21 70 70 21 21" polygon_y="127 170 170 126 126 127"/>
+      <element label="text" polygon_x="21 21 70 70 21 21" polygon_y="177 220 220 176 176 177"/>
+      <element label="text" polygon_x="86 86 195 195 86 86"
+               polygon_y="177 195 195 176 176 177"/>
+      <element label="text" polygon_x="156 156 205 205 156 156"
+               polygon_y="267 285 285 266 266 267"/>
+      <element label="image"
+               polygon_x="21 21 76 76 75 75 21 21 76 76 76 205 205 76 75 75 21 21"
+               polygon_y="62 90 90 91 100 101 101 120 120 121 170 170 1 1 60 61 61 62"/>
+      <element label="image" polygon_x="76 76 150 150 76 76"
+               polygon_y="202 285 285 201 201 202"/>
+      <element label="text-over-image" polygon_x="21 21 95 95 21 21"
+               polygon_y="102 120 120 101 101 102"/>
+      <element label="headline-over-image" polygon_x="21 21 95 95 21 21"
+               polygon_y="62 90 90 61 61 62"/>
+   </layout>
+   <text>
+      <keyword>salt</keyword>
+      <keyword>taste</keyword>
+      <keyword>dish</keyword>
+      <keyword>bowl</keyword>
+      <keyword>eat</keyword>
+      <keyword>flavour</keyword>
+      <keyword>ingredient</keyword>
+      <keyword>warm</keyword>
+      <keyword>meal</keyword>
+   </text>
+</annotation>

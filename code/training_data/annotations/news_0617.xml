@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0617</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 110 110 11 11"
+               polygon_y="137 290 290 136 136 137"/>
+      <element label="text" polygon_x="166 166 215 215 166 166"
+               polygon_y="127 280 280 126 126 127"/>
+      <element label="text" polygon_x="11 11 110 110 11 11" polygon_y="67 130 130 66 66 67"/>
+      <element label="text" polygon_x="166 166 215 215 166 166"
+               polygon_y="37 120 120 36 36 37"/>
+      <element label="text" polygon_x="121 121 160 160 121 121"
+               polygon_y="202 225 225 201 201 202"/>
+      <element label="text" polygon_x="16 16 45 45 16 16" polygon_y="12 20 20 11 11 12"/>
+      <element label="text" polygon_x="166 166 215 215 166 166"
+               polygon_y="287 290 290 286 286 287"/>
+      <element label="image" polygon_x="116 116 160 160 116 116"
+               polygon_y="67 130 130 66 66 67"/>
+      <element label="image" polygon_x="116 116 160 160 116 116"
+               polygon_y="137 195 195 136 136 137"/>
+      <element label="headline" polygon_x="11 11 100 100 11 11" polygon_y="37 60 60 36 36 37"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>woman</keyword>
+      <keyword>decade</keyword>
+      <keyword>live</keyword>
+      <keyword>matter</keyword>
+      <keyword>politics</keyword>
+   </text>
+</annotation>

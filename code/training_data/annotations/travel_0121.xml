@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0121</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="151 151 171 171 170 170 151 151 210 210 151 151"
+               polygon_y="62 155 155 156 225 226 226 275 275 61 61 62"/>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="107 290 290 106 106 107"/>
+      <element label="text" polygon_x="81 81 145 145 120 120 121 121 145 145 81 81"
+               polygon_y="147 290 290 226 226 225 156 155 155 146 146 147"/>
+      <element label="text" polygon_x="126 126 165 165 126 126"
+               polygon_y="162 220 220 161 161 162"/>
+      <element label="text" polygon_x="151 151 210 210 151 151" polygon_y="17 55 55 16 16 17"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="107 140 140 106 106 107"/>
+      <element label="text" polygon_x="151 151 210 210 151 151"
+               polygon_y="282 290 290 281 281 282"/>
+      <element label="text" polygon_x="16 16 110 110 16 16" polygon_y="97 100 100 96 96 97"/>
+      <element label="image" polygon_x="16 16 145 145 16 16" polygon_y="17 95 95 16 16 17"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>house</keyword>
+      <keyword>friend</keyword>
+      <keyword>farm</keyword>
+      <keyword>dog</keyword>
+      <keyword>field</keyword>
+      <keyword>animal</keyword>
+      <keyword>happy</keyword>
+      <keyword>sheep</keyword>
+   </text>
+</annotation>

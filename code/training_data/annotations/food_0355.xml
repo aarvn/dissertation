@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0355</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 75 75 21 21" polygon_y="67 220 220 66 66 67"/>
+      <element label="text" polygon_x="146 146 200 200 146 146"
+               polygon_y="147 280 280 146 146 147"/>
+      <element label="text" polygon_x="91 91 140 140 91 91"
+               polygon_y="147 280 280 146 146 147"/>
+      <element label="text" polygon_x="21 21 75 75 21 21" polygon_y="227 280 280 226 226 227"/>
+      <element label="text" polygon_x="21 21 75 75 21 21" polygon_y="27 60 60 26 26 27"/>
+      <element label="text" polygon_x="186 186 215 215 186 186" polygon_y="12 20 20 11 11 12"/>
+      <element label="text" polygon_x="91 91 140 140 91 91"
+               polygon_y="132 135 135 131 131 132"/>
+      <element label="image" polygon_x="86 86 215 215 86 86" polygon_y="27 125 125 26 26 27"/>
+   </layout>
+   <text>
+      <keyword>wine</keyword>
+      <keyword>restaurant</keyword>
+      <keyword>ingredient</keyword>
+      <keyword>menu</keyword>
+   </text>
+</annotation>

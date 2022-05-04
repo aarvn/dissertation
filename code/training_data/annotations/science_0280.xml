@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0280</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 110 110 11 11"
+               polygon_y="137 290 290 136 136 137"/>
+      <element label="text" polygon_x="116 116 210 210 116 116"
+               polygon_y="157 290 290 156 156 157"/>
+      <element label="text" polygon_x="11 11 210 210 11 11" polygon_y="87 130 130 86 86 87"/>
+      <element label="text" polygon_x="11 11 175 175 11 11" polygon_y="67 75 75 66 66 67"/>
+      <element label="text" polygon_x="116 116 210 210 116 116"
+               polygon_y="137 150 150 136 136 137"/>
+      <element label="text" polygon_x="11 11 210 210 11 11"
+               polygon_y="297 300 300 296 296 297"/>
+      <element label="text" polygon_x="16 16 70 70 16 16" polygon_y="17 25 25 16 16 17"/>
+      <element label="headline" polygon_x="11 11 195 195 11 11" polygon_y="42 60 60 41 41 42"/>
+   </layout>
+   <text>
+      <keyword>decade</keyword>
+      <keyword>research</keyword>
+      <keyword>human</keyword>
+      <keyword>reveal</keyword>
+      <keyword>model</keyword>
+      <keyword>state</keyword>
+      <keyword>method</keyword>
+      <keyword>knowledge</keyword>
+      <keyword>structure</keyword>
+   </text>
+</annotation>

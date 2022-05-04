@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0230</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="131 131 205 205 131 131"
+               polygon_y="232 290 290 231 231 232"/>
+      <element label="text" polygon_x="131 131 205 205 131 131"
+               polygon_y="162 190 190 161 161 162"/>
+      <element label="text" polygon_x="131 131 205 205 131 131"
+               polygon_y="197 225 225 196 196 197"/>
+      <element label="text" polygon_x="61 61 170 170 61 61" polygon_y="7 25 25 6 6 7"/>
+      <element label="text" polygon_x="131 131 205 205 131 131"
+               polygon_y="102 125 125 101 101 102"/>
+      <element label="text" polygon_x="131 131 205 205 131 131"
+               polygon_y="132 155 155 131 131 132"/>
+      <element label="text" polygon_x="131 131 205 205 131 131" polygon_y="77 95 95 76 76 77"/>
+      <element label="image" polygon_x="1 1 125 125 1 1" polygon_y="77 285 285 76 76 77"/>
+      <element label="headline" polygon_x="61 61 165 165 61 61" polygon_y="37 65 65 36 36 37"/>
+   </layout>
+   <text>
+      <keyword>friend</keyword>
+      <keyword>heart</keyword>
+      <keyword>summer</keyword>
+      <keyword>relationship</keyword>
+   </text>
+</annotation>

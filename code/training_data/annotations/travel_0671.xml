@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0671</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="71 71 205 205 71 71"
+               polygon_y="222 260 260 221 221 222"/>
+      <element label="text" polygon_x="41 41 190 190 41 41"
+               polygon_y="267 285 285 266 266 267"/>
+      <element label="text" polygon_x="21 21 55 55 21 21" polygon_y="247 260 260 246 246 247"/>
+      <element label="image" polygon_x="116 116 215 215 116 116"
+               polygon_y="12 125 125 11 11 12"/>
+      <element label="image" polygon_x="16 16 110 110 16 16" polygon_y="12 125 125 11 11 12"/>
+      <element label="image" polygon_x="116 116 215 215 116 116"
+               polygon_y="132 215 215 131 131 132"/>
+      <element label="image" polygon_x="16 16 110 110 16 16"
+               polygon_y="132 215 215 131 131 132"/>
+      <element label="image" polygon_x="21 21 55 55 21 21" polygon_y="222 240 240 221 221 222"/>
+   </layout>
+   <text>
+      <keyword>taste</keyword>
+      <keyword>dream</keyword>
+      <keyword>relax</keyword>
+   </text>
+</annotation>

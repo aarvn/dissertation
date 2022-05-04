@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0120</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="161 161 205 205 161 161"
+               polygon_y="87 275 275 86 86 87"/>
+      <element label="text" polygon_x="116 116 155 155 116 116"
+               polygon_y="167 275 275 166 166 167"/>
+      <element label="text" polygon_x="116 116 205 205 116 116" polygon_y="37 70 70 36 36 37"/>
+      <element label="text" polygon_x="116 116 155 155 116 116"
+               polygon_y="107 160 160 106 106 107"/>
+      <element label="text" polygon_x="21 21 100 100 21 21"
+               polygon_y="257 280 280 256 256 257"/>
+      <element label="text" polygon_x="21 21 85 85 21 21" polygon_y="77 95 95 76 76 77"/>
+      <element label="text" polygon_x="116 116 155 155 116 116"
+               polygon_y="82 100 100 81 81 82"/>
+      <element label="text" polygon_x="21 21 65 65 21 21" polygon_y="32 40 40 31 31 32"/>
+      <element label="image" polygon_x="16 16 105 105 16 16"
+               polygon_y="102 245 245 101 101 102"/>
+      <element label="headline" polygon_x="21 21 100 100 21 21" polygon_y="47 70 70 46 46 47"/>
+   </layout>
+   <text>
+      <keyword>place</keyword>
+      <keyword>cool</keyword>
+      <keyword>bowl</keyword>
+      <keyword>fry</keyword>
+      <keyword>mixture</keyword>
+      <keyword>flour</keyword>
+      <keyword>dry</keyword>
+      <keyword>chef</keyword>
+      <keyword>small</keyword>
+      <keyword>thick</keyword>
+   </text>
+</annotation>

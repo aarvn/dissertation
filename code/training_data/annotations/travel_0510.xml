@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0510</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 85 85 21 21" polygon_y="77 280 280 76 76 77"/>
+      <element label="text" polygon_x="121 121 200 200 121 121" polygon_y="47 60 60 46 46 47"/>
+      <element label="image" polygon_x="91 91 225 225 91 91" polygon_y="67 175 175 66 66 67"/>
+      <element label="image" polygon_x="91 91 155 155 91 91"
+               polygon_y="182 280 280 181 181 182"/>
+      <element label="image" polygon_x="161 161 225 225 161 161"
+               polygon_y="182 280 280 181 181 182"/>
+      <element label="image" polygon_x="21 21 85 85 21 21" polygon_y="17 70 70 16 16 17"/>
+      <element label="headline" polygon_x="131 131 190 190 131 131"
+               polygon_y="32 40 40 31 31 32"/>
+      <element label="text-over-image" polygon_x="96 96 125 125 96 96"
+               polygon_y="67 80 80 66 66 67"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>garden</keyword>
+      <keyword>enjoy</keyword>
+      <keyword>sea</keyword>
+      <keyword>coast</keyword>
+      <keyword>inspire</keyword>
+   </text>
+</annotation>

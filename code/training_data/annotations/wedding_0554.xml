@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0554</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="146 146 161 161 160 160 146 146 210 210 146 146"
+               polygon_y="77 105 105 106 130 131 131 170 170 76 76 77"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="212 290 290 211 211 212"/>
+      <element label="text" polygon_x="11 11 75 75 60 60 61 61 75 75 11 11"
+               polygon_y="87 170 170 131 131 130 106 105 105 86 86 87"/>
+      <element label="text" polygon_x="21 21 80 80 21 21" polygon_y="212 290 290 211 211 212"/>
+      <element label="text" polygon_x="86 86 145 145 86 86"
+               polygon_y="212 290 290 211 211 212"/>
+      <element label="text" polygon_x="81 81 140 140 81 81"
+               polygon_y="132 170 170 131 131 132"/>
+      <element label="text" polygon_x="81 81 140 140 81 81" polygon_y="77 105 105 76 76 77"/>
+      <element label="text" polygon_x="81 81 150 150 81 81" polygon_y="17 35 35 16 16 17"/>
+      <element label="text" polygon_x="66 66 155 155 66 66"
+               polygon_y="112 125 125 111 111 112"/>
+      <element label="text" polygon_x="81 81 205 205 81 81" polygon_y="52 60 60 51 51 52"/>
+      <element label="text" polygon_x="21 21 80 80 21 21" polygon_y="187 200 200 186 186 187"/>
+      <element label="image" polygon_x="11 11 75 75 11 11" polygon_y="17 80 80 16 16 17"/>
+   </layout>
+   <text>
+      <keyword>wedding</keyword>
+      <keyword>guest</keyword>
+      <keyword>love</keyword>
+      <keyword>bride</keyword>
+      <keyword>couple</keyword>
+      <keyword>reception</keyword>
+      <keyword>friend</keyword>
+      <keyword>enjoy</keyword>
+      <keyword>perfect</keyword>
+      <keyword>dream</keyword>
+      <keyword>hotel</keyword>
+      <keyword>unique</keyword>
+      <keyword>life</keyword>
+      <keyword>event</keyword>
+      <keyword>heart</keyword>
+      <keyword>special</keyword>
+      <keyword>suit</keyword>
+      <keyword>fit</keyword>
+      <keyword>celebrate</keyword>
+      <keyword>plenty</keyword>
+      <keyword>menu</keyword>
+   </text>
+</annotation>

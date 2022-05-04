@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0182</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 120 120 21 21"
+               polygon_y="137 175 175 136 136 137"/>
+      <element label="text" polygon_x="126 126 200 200 126 126"
+               polygon_y="87 130 130 86 86 87"/>
+      <element label="text" polygon_x="126 126 200 200 126 126"
+               polygon_y="202 235 235 201 201 202"/>
+      <element label="text" polygon_x="21 21 70 70 21 21" polygon_y="182 230 230 181 181 182"/>
+      <element label="text" polygon_x="46 46 115 115 46 46"
+               polygon_y="242 275 275 241 241 242"/>
+      <element label="text" polygon_x="126 126 155 155 126 126"
+               polygon_y="242 275 275 241 241 242"/>
+      <element label="text" polygon_x="21 21 120 120 21 21" polygon_y="67 70 70 66 66 67"/>
+      <element label="image" polygon_x="21 21 120 120 21 21" polygon_y="77 130 130 76 76 77"/>
+      <element label="image" polygon_x="126 126 200 200 126 126"
+               polygon_y="137 195 195 136 136 137"/>
+      <element label="image" polygon_x="126 126 200 200 126 126" polygon_y="32 80 80 31 31 32"/>
+      <element label="image" polygon_x="76 76 120 120 76 76"
+               polygon_y="182 230 230 181 181 182"/>
+      <element label="image" polygon_x="161 161 200 200 161 161"
+               polygon_y="242 275 275 241 241 242"/>
+      <element label="image" polygon_x="26 26 40 40 26 26" polygon_y="242 255 255 241 241 242"/>
+      <element label="headline" polygon_x="21 21 85 85 21 21" polygon_y="32 60 60 31 31 32"/>
+   </layout>
+   <text>
+      <keyword>recipe</keyword>
+      <keyword>wine</keyword>
+      <keyword>restaurant</keyword>
+      <keyword>cuisine</keyword>
+      <keyword>cream</keyword>
+   </text>
+</annotation>

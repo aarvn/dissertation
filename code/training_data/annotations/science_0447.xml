@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0447</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="141 141 200 200 141 141"
+               polygon_y="47 125 125 46 46 47"/>
+      <element label="text" polygon_x="141 141 200 200 141 141"
+               polygon_y="202 280 280 201 201 202"/>
+      <element label="text" polygon_x="141 141 200 200 141 141"
+               polygon_y="137 195 195 136 136 137"/>
+      <element label="text" polygon_x="26 26 95 95 26 26" polygon_y="62 85 85 61 61 62"/>
+      <element label="text" polygon_x="141 141 195 195 141 141"
+               polygon_y="287 290 290 286 286 287"/>
+      <element label="image" polygon_x="1 1 130 130 1 1" polygon_y="102 300 300 101 101 102"/>
+      <element label="headline" polygon_x="31 31 70 70 31 31" polygon_y="47 55 55 46 46 47"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>patient</keyword>
+      <keyword>idea</keyword>
+      <keyword>school</keyword>
+   </text>
+</annotation>

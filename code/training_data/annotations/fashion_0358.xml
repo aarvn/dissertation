@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0358</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="117 240 240 116 116 117"/>
+      <element label="text" polygon_x="146 146 205 205 146 146"
+               polygon_y="212 280 280 211 211 212"/>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="22 75 75 21 21 22"/>
+      <element label="text" polygon_x="21 21 135 135 21 21"
+               polygon_y="252 275 275 251 251 252"/>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="82 110 110 81 81 82"/>
+      <element label="text" polygon_x="81 81 140 140 81 81"
+               polygon_y="212 240 240 211 211 212"/>
+      <element label="image" polygon_x="81 81 225 225 81 81" polygon_y="2 205 205 1 1 2"/>
+      <element label="text-over-image" polygon_x="81 81 105 105 81 81"
+               polygon_y="167 185 185 166 166 167"/>
+      <element label="text-over-image" polygon_x="151 151 175 175 151 151"
+               polygon_y="127 140 140 126 126 127"/>
+      <element label="text-over-image" polygon_x="156 156 180 180 156 156"
+               polygon_y="22 35 35 21 21 22"/>
+   </layout>
+   <text>
+      <keyword>scent</keyword>
+      <keyword>travel</keyword>
+      <keyword>fresh</keyword>
+   </text>
+</annotation>

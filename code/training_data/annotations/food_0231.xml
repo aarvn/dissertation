@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0231</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="161 161 210 210 161 161"
+               polygon_y="167 240 240 166 166 167"/>
+      <element label="text" polygon_x="161 161 210 210 161 161"
+               polygon_y="122 160 160 121 121 122"/>
+      <element label="text" polygon_x="161 161 210 210 161 161"
+               polygon_y="92 115 115 91 91 92"/>
+      <element label="text" polygon_x="161 161 200 200 161 161"
+               polygon_y="252 265 265 251 251 252"/>
+      <element label="text" polygon_x="161 161 200 200 161 161"
+               polygon_y="272 280 280 271 271 272"/>
+      <element label="image" polygon_x="11 11 155 155 11 11" polygon_y="12 290 290 11 11 12"/>
+      <element label="image" polygon_x="161 161 210 210 161 161" polygon_y="37 85 85 36 36 37"/>
+   </layout>
+   <text>
+      <keyword>mixture</keyword>
+      <keyword>saucepan</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0139</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="132 290 290 131 131 132"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="167 290 290 166 166 167"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="167 290 290 166 166 167"/>
+      <element label="text" polygon_x="11 11 145 145 11 11"
+               polygon_y="152 160 160 151 151 152"/>
+      <element label="image" polygon_x="11 11 215 215 115 115 115 16 15 15 11 11"
+               polygon_y="17 120 120 16 16 15 11 11 15 16 16 17"/>
+      <element label="headline" polygon_x="11 11 100 100 11 11"
+               polygon_y="127 135 135 126 126 127"/>
+      <element label="text-over-image" polygon_x="16 16 115 115 16 16"
+               polygon_y="12 20 20 11 11 12"/>
+   </layout>
+   <text>
+      <keyword>book</keyword>
+      <keyword>fall</keyword>
+      <keyword>money</keyword>
+      <keyword>firm</keyword>
+      <keyword>sign</keyword>
+      <keyword>economy</keyword>
+   </text>
+</annotation>

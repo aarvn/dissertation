@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0165</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="16 16 135 135 16 16"
+               polygon_y="122 170 170 121 121 122"/>
+      <element label="text" polygon_x="16 16 135 135 16 16" polygon_y="82 115 115 81 81 82"/>
+      <element label="text" polygon_x="16 16 80 80 16 16" polygon_y="232 285 285 231 231 232"/>
+      <element label="text" polygon_x="86 86 145 145 86 86"
+               polygon_y="232 285 285 231 231 232"/>
+      <element label="text" polygon_x="151 151 210 210 151 151"
+               polygon_y="232 285 285 231 231 232"/>
+      <element label="text" polygon_x="151 151 210 210 151 151"
+               polygon_y="102 135 135 101 101 102"/>
+      <element label="text" polygon_x="151 151 210 210 151 151"
+               polygon_y="142 170 170 141 141 142"/>
+      <element label="text" polygon_x="16 16 135 135 16 16"
+               polygon_y="177 185 185 176 176 177"/>
+      <element label="text" polygon_x="151 151 200 200 151 151" polygon_y="52 60 60 51 51 52"/>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="72 75 75 71 71 72"/>
+      <element label="image" polygon_x="16 16 135 135 16 16" polygon_y="12 65 65 11 11 12"/>
+      <element label="image" polygon_x="16 16 80 80 16 16" polygon_y="192 225 225 191 191 192"/>
+      <element label="image" polygon_x="86 86 145 145 86 86"
+               polygon_y="192 225 225 191 191 192"/>
+      <element label="image" polygon_x="151 151 210 210 151 151"
+               polygon_y="192 225 225 191 191 192"/>
+      <element label="image" polygon_x="151 151 210 210 151 151" polygon_y="67 95 95 66 66 67"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>visit</keyword>
+      <keyword>country</keyword>
+      <keyword>top</keyword>
+      <keyword>enjoy</keyword>
+      <keyword>area</keyword>
+      <keyword>explore</keyword>
+      <keyword>couple</keyword>
+      <keyword>sky</keyword>
+      <keyword>spring</keyword>
+      <keyword>hill</keyword>
+      <keyword>north</keyword>
+   </text>
+</annotation>

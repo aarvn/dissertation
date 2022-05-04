@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0143</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 60 60 21 21" polygon_y="62 285 285 61 61 62"/>
+      <element label="text" polygon_x="116 116 160 160 116 116"
+               polygon_y="202 285 285 201 201 202"/>
+      <element label="text" polygon_x="66 66 110 110 66 66"
+               polygon_y="217 285 285 216 216 217"/>
+      <element label="text" polygon_x="166 166 210 210 166 166"
+               polygon_y="202 260 260 201 201 202"/>
+      <element label="text" polygon_x="21 21 145 145 21 21" polygon_y="42 55 55 41 41 42"/>
+      <element label="text" polygon_x="66 66 210 210 66 66"
+               polygon_y="137 140 140 136 136 137"/>
+      <element label="text" polygon_x="181 181 210 210 181 181"
+               polygon_y="267 285 285 266 266 267"/>
+      <element label="text" polygon_x="66 66 110 110 66 66"
+               polygon_y="202 210 210 201 201 202"/>
+      <element label="text" polygon_x="21 21 55 55 21 21" polygon_y="12 20 20 11 11 12"/>
+      <element label="image" polygon_x="66 66 210 210 66 66" polygon_y="62 135 135 61 61 62"/>
+      <element label="image" polygon_x="116 116 210 210 116 116"
+               polygon_y="142 195 195 141 141 142"/>
+      <element label="image" polygon_x="66 66 110 110 66 66"
+               polygon_y="142 195 195 141 141 142"/>
+      <element label="image" polygon_x="171 171 210 210 171 171" polygon_y="22 55 55 21 21 22"/>
+      <element label="image" polygon_x="166 166 180 180 166 166"
+               polygon_y="267 285 285 266 266 267"/>
+      <element label="headline" polygon_x="21 21 145 145 21 21" polygon_y="27 35 35 26 26 27"/>
+   </layout>
+   <text>
+      <keyword>place</keyword>
+      <keyword>top</keyword>
+      <keyword>enjoy</keyword>
+      <keyword>child</keyword>
+      <keyword>story</keyword>
+      <keyword>site</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0058</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="66 66 105 105 66 66"
+               polygon_y="217 275 275 216 216 217"/>
+      <element label="text" polygon_x="116 116 155 155 116 116"
+               polygon_y="217 275 275 216 216 217"/>
+      <element label="text" polygon_x="66 66 95 95 66 66" polygon_y="187 205 205 186 186 187"/>
+      <element label="text" polygon_x="116 116 140 140 116 116"
+               polygon_y="187 205 205 186 186 187"/>
+      <element label="image" polygon_x="66 66 160 160 66 66" polygon_y="42 165 165 41 41 42"/>
+   </layout>
+   <text>
+      <keyword>animal</keyword>
+      <keyword>release</keyword>
+      <keyword>development</keyword>
+   </text>
+</annotation>

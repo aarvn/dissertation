@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0030</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="16 16 110 110 16 16" polygon_y="42 110 110 41 41 42"/>
+      <element label="text" polygon_x="116 116 210 210 116 116"
+               polygon_y="147 195 195 146 146 147"/>
+      <element label="text" polygon_x="116 116 175 175 116 116"
+               polygon_y="222 285 285 221 221 222"/>
+      <element label="text" polygon_x="116 116 195 195 116 116"
+               polygon_y="122 140 140 121 121 122"/>
+      <element label="text" polygon_x="116 116 195 195 116 116"
+               polygon_y="202 215 215 201 201 202"/>
+      <element label="text" polygon_x="16 16 70 70 16 16" polygon_y="17 35 35 16 16 17"/>
+      <element label="image" polygon_x="16 16 110 110 16 16"
+               polygon_y="122 285 285 121 121 122"/>
+      <element label="image" polygon_x="116 116 225 225 116 116" polygon_y="2 115 115 1 1 2"/>
+      <element label="image" polygon_x="181 181 225 225 181 181"
+               polygon_y="222 300 300 221 221 222"/>
+   </layout>
+   <text>
+      <keyword>love</keyword>
+      <keyword>garden</keyword>
+      <keyword>room</keyword>
+      <keyword>winter</keyword>
+      <keyword>discover</keyword>
+      <keyword>bird</keyword>
+      <keyword>park</keyword>
+      <keyword>animal</keyword>
+      <keyword>spring</keyword>
+      <keyword>nature</keyword>
+      <keyword>flight</keyword>
+   </text>
+</annotation>

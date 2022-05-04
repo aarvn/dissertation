@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0256</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="131 131 146 146 145 145 131 131 200 200 131 131"
+               polygon_y="107 170 170 171 235 236 236 265 265 106 106 107"/>
+      <element label="text" polygon_x="16 16 85 85 70 70 70 16 16"
+               polygon_y="182 280 280 236 236 235 181 181 182"/>
+      <element label="text" polygon_x="91 91 130 130 91 91"
+               polygon_y="182 230 230 181 181 182"/>
+      <element label="text" polygon_x="131 131 190 190 131 131"
+               polygon_y="272 280 280 271 271 272"/>
+      <element label="text" polygon_x="201 201 215 215 201 201" polygon_y="57 85 85 56 56 57"/>
+      <element label="image" polygon_x="1 1 120 120 1 1" polygon_y="2 175 175 1 1 2"/>
+      <element label="image" polygon_x="131 131 195 196 196 215 215 131 131"
+               polygon_y="2 100 100 51 50 50 1 1 2"/>
+   </layout>
+   <text>
+      <keyword>skin</keyword>
+      <keyword>top</keyword>
+      <keyword>star</keyword>
+      <keyword>career</keyword>
+      <keyword>london</keyword>
+      <keyword>fall</keyword>
+      <keyword>film</keyword>
+   </text>
+</annotation>

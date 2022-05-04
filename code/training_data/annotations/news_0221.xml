@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0221</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="147 290 290 146 146 147"/>
+      <element label="text" polygon_x="151 151 210 210 151 151"
+               polygon_y="47 200 200 46 46 47"/>
+      <element label="text" polygon_x="81 81 145 145 81 81" polygon_y="62 200 200 61 61 62"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="212 290 290 211 211 212"/>
+      <element label="text" polygon_x="151 151 210 210 151 151"
+               polygon_y="212 290 290 211 211 212"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="127 140 140 126 126 127"/>
+      <element label="text" polygon_x="81 81 135 135 81 81" polygon_y="47 55 55 46 46 47"/>
+      <element label="image" polygon_x="11 11 75 75 11 11" polygon_y="17 95 95 16 16 17"/>
+      <element label="headline" polygon_x="11 11 70 70 11 11"
+               polygon_y="102 120 120 101 101 102"/>
+      <element label="headline" polygon_x="81 81 125 125 81 81" polygon_y="27 35 35 26 26 27"/>
+   </layout>
+   <text>
+      <keyword>man</keyword>
+      <keyword>idea</keyword>
+      <keyword>death</keyword>
+      <keyword>father</keyword>
+      <keyword>explain</keyword>
+      <keyword>history</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0476</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="151 151 220 220 151 151"
+               polygon_y="32 175 175 31 31 32"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="187 285 285 186 186 187"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="187 285 285 186 186 187"/>
+      <element label="text" polygon_x="11 11 145 145 11 11"
+               polygon_y="152 175 175 151 151 152"/>
+      <element label="text" polygon_x="151 151 220 220 151 151" polygon_y="7 15 15 6 6 7"/>
+      <element label="image" polygon_x="1 1 145 145 1 1" polygon_y="2 145 145 1 1 2"/>
+      <element label="image" polygon_x="151 151 220 220 151 151"
+               polygon_y="182 285 285 181 181 182"/>
+      <element label="text-over-image" polygon_x="151 151 220 220 151 151"
+               polygon_y="277 285 285 276 276 277"/>
+      <element label="text-over-image" polygon_x="11 11 75 75 11 11"
+               polygon_y="137 145 145 136 136 137"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>place</keyword>
+      <keyword>country</keyword>
+      <keyword>report</keyword>
+      <keyword>inspire</keyword>
+   </text>
+</annotation>

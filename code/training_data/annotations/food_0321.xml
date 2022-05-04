@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0321</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="31 31 190 190 31 31"
+               polygon_y="237 275 275 236 236 237"/>
+      <element label="text-over-image" polygon_x="31 31 205 205 31 31"
+               polygon_y="217 230 230 216 216 217"/>
+      <element label="text-over-image" polygon_x="11 11 65 65 11 11"
+               polygon_y="12 20 20 11 11 12"/>
+      <element label="headline-over-image" polygon_x="31 31 205 205 31 31"
+               polygon_y="152 210 210 151 151 152"/>
+   </layout>
+   <text>
+      <keyword>taste</keyword>
+      <keyword>season</keyword>
+      <keyword>chef</keyword>
+      <keyword>vegetable</keyword>
+      <keyword>fruit</keyword>
+   </text>
+</annotation>

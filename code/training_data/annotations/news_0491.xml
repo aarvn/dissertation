@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0491</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="136 136 215 215 136 136"
+               polygon_y="82 195 195 81 81 82"/>
+      <element label="text" polygon_x="11 11 90 90 11 11" polygon_y="187 290 290 186 186 187"/>
+      <element label="text" polygon_x="11 11 90 90 36 35 35 11 11"
+               polygon_y="102 180 180 81 81 100 101 101 102"/>
+      <element label="text" polygon_x="136 136 215 215 136 136"
+               polygon_y="202 290 290 201 201 202"/>
+      <element label="text" polygon_x="101 101 125 125 101 101"
+               polygon_y="202 245 245 201 201 202"/>
+      <element label="text" polygon_x="101 101 125 125 101 101"
+               polygon_y="137 175 175 136 136 137"/>
+      <element label="text" polygon_x="151 151 210 210 151 151" polygon_y="22 35 35 21 21 22"/>
+      <element label="text" polygon_x="101 101 125 125 101 101"
+               polygon_y="277 290 290 276 276 277"/>
+      <element label="text" polygon_x="11 11 65 65 11 11" polygon_y="12 15 15 11 11 12"/>
+      <element label="text" polygon_x="106 106 120 120 106 106"
+               polygon_y="102 110 110 101 101 102"/>
+      <element label="image" polygon_x="11 11 35 35 11 11" polygon_y="82 100 100 81 81 82"/>
+      <element label="image" polygon_x="106 106 120 120 106 106"
+               polygon_y="117 135 135 116 116 117"/>
+      <element label="image" polygon_x="106 106 120 120 106 106"
+               polygon_y="187 195 195 186 186 187"/>
+      <element label="headline" polygon_x="11 11 120 120 11 11" polygon_y="52 75 75 51 51 52"/>
+   </layout>
+   <text>
+      <keyword>attack</keyword>
+      <keyword>deal</keyword>
+      <keyword>economy</keyword>
+      <keyword>street</keyword>
+      <keyword>announce</keyword>
+   </text>
+</annotation>

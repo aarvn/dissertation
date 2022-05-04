@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0004</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="106 106 150 150 106 106"
+               polygon_y="152 280 280 151 151 152"/>
+      <element label="text" polygon_x="161 161 205 205 161 161"
+               polygon_y="152 245 245 151 151 152"/>
+      <element label="text" polygon_x="31 31 90 90 31 31" polygon_y="137 175 175 136 136 137"/>
+      <element label="text" polygon_x="26 26 70 70 26 26" polygon_y="242 280 280 241 241 242"/>
+      <element label="text" polygon_x="161 161 205 205 161 161"
+               polygon_y="257 280 280 256 256 257"/>
+      <element label="text" polygon_x="46 46 70 70 46 46" polygon_y="202 235 235 201 201 202"/>
+      <element label="text" polygon_x="106 106 135 135 106 106"
+               polygon_y="127 145 145 126 126 127"/>
+      <element label="text" polygon_x="41 41 65 65 41 41" polygon_y="187 195 195 186 186 187"/>
+      <element label="image" polygon_x="101 101 141 141 141 205 206 206 220 220 101 101"
+               polygon_y="22 120 120 121 145 145 121 120 120 21 21 22"/>
+      <element label="image" polygon_x="11 11 95 95 11 11" polygon_y="22 130 130 21 21 22"/>
+      <element label="image" polygon_x="76 76 90 90 76 76" polygon_y="217 290 290 216 216 217"/>
+      <element label="image" polygon_x="21 21 35 35 21 21" polygon_y="177 235 235 176 176 177"/>
+   </layout>
+   <text>
+      <keyword>dish</keyword>
+      <keyword>eat</keyword>
+      <keyword>wine</keyword>
+      <keyword>cheese</keyword>
+      <keyword>menu</keyword>
+      <keyword>glass</keyword>
+      <keyword>table</keyword>
+      <keyword>small</keyword>
+      <keyword>ginger</keyword>
+      <keyword>plenty</keyword>
+      <keyword>dessert</keyword>
+      <keyword>meal</keyword>
+   </text>
+</annotation>

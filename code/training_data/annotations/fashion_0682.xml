@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0682</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="81 81 140 140 81 81"
+               polygon_y="222 285 285 221 221 222"/>
+      <element label="text" polygon_x="146 146 205 205 146 146"
+               polygon_y="222 285 285 221 221 222"/>
+      <element label="text" polygon_x="21 21 75 75 21 21" polygon_y="102 170 170 101 101 102"/>
+      <element label="text" polygon_x="81 81 205 205 81 81"
+               polygon_y="142 165 165 141 141 142"/>
+      <element label="text" polygon_x="21 21 75 75 21 21" polygon_y="237 285 285 236 236 237"/>
+      <element label="text" polygon_x="81 81 170 170 81 81"
+               polygon_y="127 135 135 126 126 127"/>
+      <element label="text" polygon_x="141 141 205 205 141 141" polygon_y="7 15 15 6 6 7"/>
+      <element label="text" polygon_x="146 146 200 200 146 146"
+               polygon_y="207 215 215 206 206 207"/>
+      <element label="text" polygon_x="81 81 130 130 81 81"
+               polygon_y="207 215 215 206 206 207"/>
+      <element label="text" polygon_x="21 21 50 50 21 21" polygon_y="87 95 95 86 86 87"/>
+      <element label="text" polygon_x="21 21 50 50 21 21" polygon_y="47 50 50 46 46 47"/>
+      <element label="image" polygon_x="81 81 205 205 81 81" polygon_y="57 120 120 56 56 57"/>
+      <element label="image" polygon_x="26 26 70 70 26 26" polygon_y="177 230 230 176 176 177"/>
+      <element label="image" polygon_x="81 81 140 140 81 81"
+               polygon_y="172 200 200 171 171 172"/>
+      <element label="image" polygon_x="146 146 205 205 146 146"
+               polygon_y="172 200 200 171 171 172"/>
+      <element label="image" polygon_x="21 21 75 75 21 21" polygon_y="57 80 80 56 56 57"/>
+      <element label="headline" polygon_x="21 21 165 165 21 21" polygon_y="27 40 40 26 26 27"/>
+   </layout>
+   <text>
+      <keyword>room</keyword>
+      <keyword>inspire</keyword>
+      <keyword>book</keyword>
+      <keyword>place</keyword>
+      <keyword>enjoy</keyword>
+      <keyword>celebrate</keyword>
+      <keyword>drink</keyword>
+   </text>
+</annotation>

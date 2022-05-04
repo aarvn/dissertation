@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0571</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="121 121 205 205 121 121"
+               polygon_y="77 110 110 76 76 77"/>
+      <element label="text" polygon_x="171 171 205 205 171 171"
+               polygon_y="122 200 200 121 121 122"/>
+      <element label="text" polygon_x="21 21 100 100 21 21"
+               polygon_y="242 270 270 241 241 242"/>
+      <element label="text" polygon_x="116 116 150 150 116 116"
+               polygon_y="212 265 265 211 211 212"/>
+      <element label="text" polygon_x="121 121 200 200 121 121" polygon_y="62 70 70 61 61 62"/>
+      <element label="text" polygon_x="21 21 45 45 21 21" polygon_y="182 210 210 181 181 182"/>
+      <element label="text" polygon_x="31 31 45 45 31 31" polygon_y="217 225 225 216 216 217"/>
+      <element label="image" polygon_x="21 21 115 115 21 21" polygon_y="27 155 155 26 26 27"/>
+      <element label="image" polygon_x="121 121 165 165 121 121"
+               polygon_y="122 200 200 121 121 122"/>
+      <element label="image" polygon_x="46 46 100 100 46 46"
+               polygon_y="177 235 235 176 176 177"/>
+      <element label="image" polygon_x="156 156 205 205 175 175 175 161 160 160 156 156"
+               polygon_y="217 265 265 216 216 215 211 211 215 216 216 217"/>
+      <element label="headline" polygon_x="121 121 200 200 121 121"
+               polygon_y="32 55 55 31 31 32"/>
+      <element label="text-over-image" polygon_x="161 161 175 175 161 161"
+               polygon_y="212 235 235 211 211 212"/>
+   </layout>
+   <text>
+      <keyword>skin</keyword>
+      <keyword>face</keyword>
+      <keyword>art</keyword>
+      <keyword>colour</keyword>
+      <keyword>model</keyword>
+      <keyword>light</keyword>
+      <keyword>makeup</keyword>
+      <keyword>texture</keyword>
+      <keyword>spring</keyword>
+   </text>
+</annotation>

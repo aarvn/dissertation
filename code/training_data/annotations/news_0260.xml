@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0260</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="81 81 145 145 81 81" polygon_y="62 290 290 61 61 62"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="17 195 195 16 16 17"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="137 290 290 136 136 137"/>
+      <element label="text" polygon_x="81 81 145 145 81 81" polygon_y="47 55 55 46 46 47"/>
+      <element label="image" polygon_x="151 151 215 215 151 151"
+               polygon_y="17 125 125 16 16 17"/>
+      <element label="image" polygon_x="11 11 75 75 11 11" polygon_y="202 285 285 201 201 202"/>
+      <element label="headline" polygon_x="81 81 120 120 81 81" polygon_y="22 30 30 21 21 22"/>
+   </layout>
+   <text>
+      <keyword>country</keyword>
+      <keyword>life</keyword>
+      <keyword>man</keyword>
+      <keyword>power</keyword>
+      <keyword>place</keyword>
+      <keyword>fall</keyword>
+      <keyword>fact</keyword>
+      <keyword>art</keyword>
+      <keyword>mother</keyword>
+      <keyword>mind</keyword>
+      <keyword>fail</keyword>
+      <keyword>bank</keyword>
+   </text>
+</annotation>

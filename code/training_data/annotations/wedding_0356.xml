@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0356</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="36 36 190 190 36 36"
+               polygon_y="267 290 290 266 266 267"/>
+      <element label="text" polygon_x="41 41 185 185 41 41" polygon_y="52 55 55 51 51 52"/>
+      <element label="text" polygon_x="56 56 170 170 56 56"
+               polygon_y="257 260 260 256 256 257"/>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="62 255 255 61 61 62"/>
+      <element label="headline" polygon_x="36 36 190 190 36 36" polygon_y="12 40 40 11 11 12"/>
+   </layout>
+   <text/>
+</annotation>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0307</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="81 81 140 140 81 81"
+               polygon_y="27 120 120 26 26 27"/>
+      <element label="text-over-image" polygon_x="146 146 205 205 146 146"
+               polygon_y="27 120 120 26 26 27"/>
+      <element label="text-over-image" polygon_x="21 21 75 75 21 21"
+               polygon_y="102 120 120 101 101 102"/>
+      <element label="text-over-image" polygon_x="176 176 205 205 176 176"
+               polygon_y="197 215 215 196 196 197"/>
+      <element label="text-over-image" polygon_x="21 21 75 75 21 21"
+               polygon_y="87 95 95 86 86 87"/>
+      <element label="text-over-image" polygon_x="26 26 70 70 26 26"
+               polygon_y="67 75 75 66 66 67"/>
+   </layout>
+   <text>
+      <keyword>top</keyword>
+      <keyword>bake</keyword>
+      <keyword>flavour</keyword>
+      <keyword>flour</keyword>
+      <keyword>family</keyword>
+      <keyword>bread</keyword>
+      <keyword>market</keyword>
+   </text>
+</annotation>

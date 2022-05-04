@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0384</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image"
+               polygon_x="1 1 21 21 21 100 101 101 190 190 100 100 101 101 205 205 100 100 101 101 205 205 150 150 150 16 15 15 1 1"
+               polygon_y="127 165 165 166 285 285 281 280 280 276 276 275 266 265 265 241 241 240 236 235 235 21 21 20 1 1 125 126 126 127"/>
+      <element label="text-over-image" polygon_x="71 71 205 205 71 71"
+               polygon_y="242 265 265 241 241 242"/>
+      <element label="text-over-image" polygon_x="106 106 135 135 106 106"
+               polygon_y="97 130 130 96 96 97"/>
+      <element label="text-over-image" polygon_x="86 86 190 190 86 86"
+               polygon_y="277 280 280 276 276 277"/>
+      <element label="text-over-image" polygon_x="111 111 140 140 111 111"
+               polygon_y="222 230 230 221 221 222"/>
+   </layout>
+   <text>
+      <keyword>fun</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0335</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="122 290 290 121 121 122"/>
+      <element label="text" polygon_x="151 151 210 210 151 151"
+               polygon_y="47 210 210 46 46 47"/>
+      <element label="text" polygon_x="81 81 145 145 81 81" polygon_y="47 170 170 46 46 47"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="222 290 290 221 221 222"/>
+      <element label="text" polygon_x="151 151 210 210 151 151"
+               polygon_y="222 290 290 221 221 222"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="177 210 210 176 176 177"/>
+      <element label="text" polygon_x="81 81 150 150 81 81" polygon_y="37 40 40 36 36 37"/>
+      <element label="image" polygon_x="11 11 75 75 11 11" polygon_y="17 110 110 16 16 17"/>
+      <element label="headline" polygon_x="81 81 115 115 81 81" polygon_y="22 30 30 21 21 22"/>
+   </layout>
+   <text>
+      <keyword>country</keyword>
+      <keyword>government</keyword>
+      <keyword>plan</keyword>
+      <keyword>school</keyword>
+      <keyword>office</keyword>
+      <keyword>fail</keyword>
+      <keyword>father</keyword>
+      <keyword>explain</keyword>
+      <keyword>question</keyword>
+   </text>
+</annotation>

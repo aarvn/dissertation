@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0273</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 125 125 21 21"
+               polygon_y="157 280 280 156 156 157"/>
+      <element label="text" polygon_x="21 21 65 65 21 21" polygon_y="92 140 140 91 91 92"/>
+      <element label="text" polygon_x="151 151 200 200 151 151"
+               polygon_y="177 210 210 176 176 177"/>
+      <element label="text" polygon_x="21 21 85 85 21 21" polygon_y="37 50 50 36 36 37"/>
+      <element label="text" polygon_x="151 151 200 200 151 151"
+               polygon_y="157 170 170 156 156 157"/>
+      <element label="text" polygon_x="21 21 65 65 21 21" polygon_y="67 75 75 66 66 67"/>
+      <element label="text" polygon_x="161 161 185 185 161 161"
+               polygon_y="272 285 285 271 271 272"/>
+      <element label="image" polygon_x="91 91 210 210 91 91" polygon_y="2 145 145 1 1 2"/>
+      <element label="image" polygon_x="131 131 151 151 151 195 195 151 150 150 131 131"
+               polygon_y="227 250 250 251 265 265 216 216 225 226 226 227"/>
+   </layout>
+   <text>
+      <keyword>love</keyword>
+      <keyword>dress</keyword>
+      <keyword>light</keyword>
+      <keyword>perfect</keyword>
+      <keyword>summer</keyword>
+      <keyword>free</keyword>
+   </text>
+</annotation>

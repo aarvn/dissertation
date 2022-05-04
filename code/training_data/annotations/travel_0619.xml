@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0619</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="26 26 110 110 26 26"
+               polygon_y="117 280 280 116 116 117"/>
+      <element label="text" polygon_x="116 116 200 200 116 116"
+               polygon_y="117 215 215 116 116 117"/>
+      <element label="text" polygon_x="116 116 200 200 116 116"
+               polygon_y="222 240 240 221 221 222"/>
+      <element label="text" polygon_x="121 121 195 195 121 121"
+               polygon_y="257 275 275 256 256 257"/>
+      <element label="image" polygon_x="26 26 85 85 26 26" polygon_y="22 110 110 21 21 22"/>
+      <element label="image" polygon_x="91 91 145 145 91 91" polygon_y="67 110 110 66 66 67"/>
+      <element label="image" polygon_x="151 151 205 205 151 151"
+               polygon_y="67 110 110 66 66 67"/>
+      <element label="image" polygon_x="91 91 145 145 91 91" polygon_y="22 60 60 21 21 22"/>
+      <element label="image" polygon_x="151 151 205 205 151 151" polygon_y="22 60 60 21 21 22"/>
+   </layout>
+   <text>
+      <keyword>place</keyword>
+      <keyword>design</keyword>
+      <keyword>village</keyword>
+      <keyword>season</keyword>
+      <keyword>moment</keyword>
+   </text>
+</annotation>

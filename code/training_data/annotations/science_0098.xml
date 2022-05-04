@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0098</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 110 110 21 21"
+               polygon_y="182 285 285 181 181 182"/>
+      <element label="text" polygon_x="26 26 195 195 26 26"
+               polygon_y="112 165 165 111 111 112"/>
+      <element label="text" polygon_x="116 116 200 200 116 116"
+               polygon_y="182 285 285 181 181 182"/>
+      <element label="image" polygon_x="76 76 150 150 76 76" polygon_y="32 105 105 31 31 32"/>
+   </layout>
+   <text>
+      <keyword>state</keyword>
+      <keyword>west</keyword>
+      <keyword>ocean</keyword>
+      <keyword>structure</keyword>
+   </text>
+</annotation>

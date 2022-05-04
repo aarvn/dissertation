@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0355</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 110 110 75 75 75 21 21"
+               polygon_y="152 255 255 216 216 215 151 151 152"/>
+      <element label="text" polygon_x="116 116 205 205 151 150 150 116 116"
+               polygon_y="217 255 255 151 151 215 216 216 217"/>
+      <element label="text" polygon_x="86 86 140 140 86 86" polygon_y="87 205 205 86 86 87"/>
+      <element label="text" polygon_x="21 21 75 75 21 21" polygon_y="32 145 145 31 31 32"/>
+      <element label="text" polygon_x="151 151 205 205 151 151"
+               polygon_y="32 145 145 31 31 32"/>
+      <element label="text" polygon_x="21 21 205 205 21 21"
+               polygon_y="262 280 280 261 261 262"/>
+      <element label="text" polygon_x="136 136 215 215 136 136" polygon_y="12 20 20 11 11 12"/>
+      <element label="image" polygon_x="86 86 140 140 86 86" polygon_y="47 80 80 46 46 47"/>
+   </layout>
+   <text>
+      <keyword>science</keyword>
+      <keyword>area</keyword>
+      <keyword>field</keyword>
+      <keyword>image</keyword>
+      <keyword>launch</keyword>
+      <keyword>system</keyword>
+      <keyword>rate</keyword>
+      <keyword>state</keyword>
+      <keyword>method</keyword>
+      <keyword>technique</keyword>
+      <keyword>material</keyword>
+      <keyword>product</keyword>
+      <keyword>brain</keyword>
+      <keyword>analysis</keyword>
+   </text>
+</annotation>

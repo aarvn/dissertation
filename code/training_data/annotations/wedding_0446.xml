@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0446</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="146 146 205 205 146 146"
+               polygon_y="62 165 165 61 61 62"/>
+      <element label="text" polygon_x="21 21 80 80 21 21" polygon_y="217 285 285 216 216 217"/>
+      <element label="text" polygon_x="146 146 205 205 146 146"
+               polygon_y="222 285 285 221 221 222"/>
+      <element label="text" polygon_x="86 86 140 140 86 86"
+               polygon_y="217 285 285 216 216 217"/>
+      <element label="text" polygon_x="146 146 205 205 146 146"
+               polygon_y="172 215 215 171 171 172"/>
+      <element label="text" polygon_x="146 146 205 205 146 146" polygon_y="27 55 55 26 26 27"/>
+      <element label="text" polygon_x="156 156 205 205 156 156" polygon_y="12 15 15 11 11 12"/>
+      <element label="image" polygon_x="1 1 140 140 1 1" polygon_y="2 210 210 1 1 2"/>
+   </layout>
+   <text>
+      <keyword>wedding</keyword>
+      <keyword>place</keyword>
+      <keyword>important</keyword>
+      <keyword>image</keyword>
+      <keyword>photographer</keyword>
+      <keyword>photo</keyword>
+      <keyword>happy</keyword>
+      <keyword>comfortable</keyword>
+   </text>
+</annotation>

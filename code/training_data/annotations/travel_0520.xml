@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0520</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="6 6 30 30 6 6" polygon_y="17 25 25 16 16 17"/>
+      <element label="image" polygon_x="6 6 215 215 6 6" polygon_y="47 285 285 46 46 47"/>
+      <element label="text-over-image" polygon_x="171 171 205 205 171 171"
+               polygon_y="122 280 280 121 121 122"/>
+      <element label="text-over-image" polygon_x="131 131 205 205 131 131"
+               polygon_y="62 115 115 61 61 62"/>
+      <element label="text-over-image" polygon_x="131 131 165 165 131 131"
+               polygon_y="122 210 210 121 121 122"/>
+   </layout>
+   <text>
+      <keyword>area</keyword>
+      <keyword>land</keyword>
+      <keyword>room</keyword>
+      <keyword>hotel</keyword>
+      <keyword>travel</keyword>
+      <keyword>fun</keyword>
+      <keyword>trip</keyword>
+   </text>
+</annotation>

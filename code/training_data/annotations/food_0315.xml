@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0315</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="146 146 205 205 146 146"
+               polygon_y="92 215 215 91 91 92"/>
+      <element label="text" polygon_x="21 21 75 75 21 21" polygon_y="107 240 240 106 106 107"/>
+      <element label="text" polygon_x="81 81 140 140 81 81"
+               polygon_y="142 245 245 141 141 142"/>
+      <element label="text" polygon_x="146 146 205 205 146 146"
+               polygon_y="242 280 280 241 241 242"/>
+      <element label="text" polygon_x="81 81 135 135 81 81" polygon_y="92 130 130 91 91 92"/>
+      <element label="text" polygon_x="21 21 75 75 21 21" polygon_y="262 280 280 261 261 262"/>
+      <element label="text" polygon_x="81 81 140 140 81 81"
+               polygon_y="267 280 280 266 266 267"/>
+      <element label="text" polygon_x="146 146 190 190 146 146"
+               polygon_y="222 235 235 221 221 222"/>
+      <element label="text" polygon_x="81 81 140 140 81 81"
+               polygon_y="252 260 260 251 251 252"/>
+      <element label="text" polygon_x="21 21 75 75 21 21" polygon_y="92 100 100 91 91 92"/>
+      <element label="text" polygon_x="21 21 75 75 21 21" polygon_y="247 255 255 246 246 247"/>
+      <element label="image" polygon_x="161 161 210 210 161 161" polygon_y="27 85 85 26 26 27"/>
+      <element label="image" polygon_x="61 61 105 105 61 61" polygon_y="27 85 85 26 26 27"/>
+      <element label="image" polygon_x="111 111 155 155 111 111" polygon_y="27 85 85 26 26 27"/>
+      <element label="headline" polygon_x="21 21 35 35 21 21" polygon_y="27 85 85 26 26 27"/>
+   </layout>
+   <text>
+      <keyword>salt</keyword>
+      <keyword>recipe</keyword>
+      <keyword>water</keyword>
+      <keyword>mixture</keyword>
+      <keyword>bake</keyword>
+      <keyword>juice</keyword>
+      <keyword>fridge</keyword>
+      <keyword>book</keyword>
+      <keyword>chilli</keyword>
+      <keyword>table</keyword>
+      <keyword>family</keyword>
+      <keyword>choice</keyword>
+      <keyword>ginger</keyword>
+      <keyword>inspire</keyword>
+   </text>
+</annotation>

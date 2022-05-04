@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0534</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="86 86 225 225 86 86"
+               polygon_y="162 205 205 161 161 162"/>
+      <element label="text" polygon_x="131 131 175 175 131 131"
+               polygon_y="212 270 270 211 211 212"/>
+      <element label="text" polygon_x="181 181 225 225 181 181"
+               polygon_y="212 270 270 211 211 212"/>
+      <element label="text" polygon_x="6 6 40 40 6 6" polygon_y="62 125 125 61 61 62"/>
+      <element label="text" polygon_x="1 1 80 80 1 1" polygon_y="192 205 205 191 191 192"/>
+      <element label="image" polygon_x="56 56 225 225 56 56" polygon_y="22 155 155 21 21 22"/>
+      <element label="image" polygon_x="26 26 125 125 26 26"
+               polygon_y="212 270 270 211 211 212"/>
+      <element label="headline" polygon_x="1 1 80 80 1 1" polygon_y="172 185 185 171 171 172"/>
+   </layout>
+   <text>
+      <keyword>country</keyword>
+      <keyword>island</keyword>
+      <keyword>nature</keyword>
+      <keyword>tour</keyword>
+   </text>
+</annotation>

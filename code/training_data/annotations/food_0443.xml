@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0443</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="41 41 95 95 41 41"
+               polygon_y="182 280 280 181 181 182"/>
+      <element label="text-over-image" polygon_x="101 101 155 155 101 101"
+               polygon_y="182 280 280 181 181 182"/>
+      <element label="text-over-image" polygon_x="161 161 210 210 161 161"
+               polygon_y="182 280 280 181 181 182"/>
+      <element label="text-over-image" polygon_x="16 16 35 35 16 16"
+               polygon_y="257 280 280 256 256 257"/>
+   </layout>
+   <text>
+      <keyword>heat</keyword>
+      <keyword>taste</keyword>
+      <keyword>oil</keyword>
+      <keyword>bowl</keyword>
+      <keyword>pan</keyword>
+      <keyword>boil</keyword>
+      <keyword>cheese</keyword>
+      <keyword>dress</keyword>
+      <keyword>herb</keyword>
+      <keyword>thick</keyword>
+      <keyword>soften</keyword>
+      <keyword>vegetable</keyword>
+      <keyword>honey</keyword>
+   </text>
+</annotation>

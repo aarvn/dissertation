@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0522</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="81 81 140 140 81 81"
+               polygon_y="232 285 285 231 231 232"/>
+      <element label="text" polygon_x="21 21 75 75 21 21" polygon_y="232 285 285 231 231 232"/>
+      <element label="text" polygon_x="146 146 200 200 146 146"
+               polygon_y="232 265 265 231 231 232"/>
+      <element label="text" polygon_x="146 146 200 200 146 146"
+               polygon_y="272 285 285 271 271 272"/>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 225 225 1 1 2"/>
+      <element label="text-over-image" polygon_x="16 16 190 190 16 16"
+               polygon_y="212 220 220 211 211 212"/>
+      <element label="headline-over-image" polygon_x="16 16 140 140 16 16"
+               polygon_y="97 205 205 96 96 97"/>
+   </layout>
+   <text>
+      <keyword>wedding</keyword>
+      <keyword>guest</keyword>
+      <keyword>love</keyword>
+      <keyword>bride</keyword>
+      <keyword>friend</keyword>
+      <keyword>flower</keyword>
+      <keyword>drink</keyword>
+      <keyword>parent</keyword>
+      <keyword>dance</keyword>
+      <keyword>food</keyword>
+      <keyword>photo</keyword>
+      <keyword>relaxed</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0274</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="16 16 215 215 16 16" polygon_y="57 280 280 56 56 57"/>
+      <element label="headline" polygon_x="41 41 151 151 151 200 200 190 190 190 41 41"
+               polygon_y="12 40 40 41 50 50 41 41 40 11 11 12"/>
+      <element label="text-over-image" polygon_x="81 81 150 150 81 81"
+               polygon_y="152 200 200 151 151 152"/>
+      <element label="text-over-image" polygon_x="96 96 135 135 96 96"
+               polygon_y="127 145 145 126 126 127"/>
+   </layout>
+   <text>
+      <keyword>summer</keyword>
+   </text>
+</annotation>

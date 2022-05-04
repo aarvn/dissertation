@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0543</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="151 151 210 210 180 180 181 181 210 210 151 151"
+               polygon_y="67 265 265 191 191 190 151 150 150 66 66 67"/>
+      <element label="text" polygon_x="11 11 65 65 11 11" polygon_y="217 285 285 216 216 217"/>
+      <element label="text" polygon_x="71 71 130 130 71 71"
+               polygon_y="217 265 265 216 216 217"/>
+      <element label="text" polygon_x="151 151 205 205 151 151" polygon_y="37 60 60 36 36 37"/>
+      <element label="text" polygon_x="11 11 65 65 11 11" polygon_y="197 210 210 196 196 197"/>
+      <element label="text" polygon_x="186 186 210 210 186 186"
+               polygon_y="157 185 185 156 156 157"/>
+      <element label="text" polygon_x="71 71 130 130 71 71"
+               polygon_y="272 280 280 271 271 272"/>
+      <element label="text" polygon_x="151 151 210 210 151 151"
+               polygon_y="272 280 280 271 271 272"/>
+      <element label="text" polygon_x="151 151 195 195 151 151"
+               polygon_y="287 295 295 286 286 287"/>
+      <element label="text" polygon_x="11 11 50 50 11 11" polygon_y="292 295 295 291 291 292"/>
+      <element label="image" polygon_x="11 11 135 135 11 11" polygon_y="37 190 190 36 36 37"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>child</keyword>
+      <keyword>fear</keyword>
+      <keyword>money</keyword>
+      <keyword>nation</keyword>
+      <keyword>matter</keyword>
+      <keyword>father</keyword>
+      <keyword>serve</keyword>
+   </text>
+</annotation>

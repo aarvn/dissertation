@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0227</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="21 21 75 75 21 21"
+               polygon_y="187 270 270 186 186 187"/>
+      <element label="text-over-image" polygon_x="21 21 75 75 21 21"
+               polygon_y="107 180 180 106 106 107"/>
+      <element label="text-over-image" polygon_x="21 21 65 65 21 21"
+               polygon_y="52 85 85 51 51 52"/>
+      <element label="text-over-image" polygon_x="21 21 65 65 21 21"
+               polygon_y="27 45 45 26 26 27"/>
+      <element label="text-over-image" polygon_x="21 21 75 75 21 21"
+               polygon_y="92 100 100 91 91 92"/>
+      <element label="text-over-image" polygon_x="176 176 215 215 176 176"
+               polygon_y="12 20 20 11 11 12"/>
+   </layout>
+   <text>
+      <keyword>top</keyword>
+      <keyword>salt</keyword>
+      <keyword>stir</keyword>
+      <keyword>cool</keyword>
+      <keyword>season</keyword>
+      <keyword>oil</keyword>
+      <keyword>bowl</keyword>
+      <keyword>fry</keyword>
+      <keyword>ingredient</keyword>
+      <keyword>onion</keyword>
+      <keyword>cheese</keyword>
+      <keyword>golden</keyword>
+      <keyword>small</keyword>
+      <keyword>soften</keyword>
+      <keyword>coriander</keyword>
+   </text>
+</annotation>

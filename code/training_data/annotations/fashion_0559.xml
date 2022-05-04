@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0559</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="16 16 225 225 16 16" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="66 66 170 170 66 66"
+               polygon_y="182 205 205 181 181 182"/>
+      <element label="text-over-image" polygon_x="26 26 75 75 26 26"
+               polygon_y="262 280 280 261 261 262"/>
+      <element label="headline-over-image"
+               polygon_x="31 31 146 146 146 215 215 205 205 205 31 31"
+               polygon_y="7 40 40 41 55 55 41 41 40 6 6 7"/>
+   </layout>
+   <text>
+      <keyword>style</keyword>
+      <keyword>top</keyword>
+      <keyword>gucci</keyword>
+   </text>
+</annotation>

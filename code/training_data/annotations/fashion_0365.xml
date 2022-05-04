@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0365</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="16 16 60 60 16 16" polygon_y="102 190 190 101 101 102"/>
+      <element label="text" polygon_x="66 66 105 105 66 66"
+               polygon_y="102 190 190 101 101 102"/>
+      <element label="text" polygon_x="111 111 150 150 111 111"
+               polygon_y="102 190 190 101 101 102"/>
+      <element label="text" polygon_x="16 16 60 60 16 16" polygon_y="197 240 240 196 196 197"/>
+      <element label="text" polygon_x="161 161 200 200 161 161"
+               polygon_y="137 185 185 136 136 137"/>
+      <element label="text" polygon_x="66 66 105 105 66 66"
+               polygon_y="197 240 240 196 196 197"/>
+      <element label="text" polygon_x="161 161 200 200 161 161"
+               polygon_y="242 285 285 241 241 242"/>
+      <element label="text" polygon_x="111 111 150 150 111 111"
+               polygon_y="197 235 235 196 196 197"/>
+      <element label="text" polygon_x="161 161 200 200 161 161"
+               polygon_y="87 125 125 86 86 87"/>
+      <element label="text" polygon_x="161 161 200 200 161 161"
+               polygon_y="197 235 235 196 196 197"/>
+      <element label="text" polygon_x="16 16 55 55 16 16" polygon_y="247 280 280 246 246 247"/>
+      <element label="text" polygon_x="66 66 105 105 66 66"
+               polygon_y="247 280 280 246 246 247"/>
+      <element label="text" polygon_x="111 111 150 150 111 111"
+               polygon_y="247 280 280 246 246 247"/>
+      <element label="text" polygon_x="161 161 200 200 161 161" polygon_y="52 80 80 51 51 52"/>
+      <element label="text" polygon_x="161 161 200 200 161 161" polygon_y="22 45 45 21 21 22"/>
+      <element label="image" polygon_x="16 16 150 150 16 16" polygon_y="2 75 75 1 1 2"/>
+      <element label="headline" polygon_x="16 16 150 150 16 16" polygon_y="82 95 95 81 81 82"/>
+   </layout>
+   <text/>
+</annotation>

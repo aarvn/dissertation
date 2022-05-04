@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0590</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="131 131 215 215 131 131"
+               polygon_y="82 290 290 81 81 82"/>
+      <element label="text" polygon_x="41 41 125 125 41 41" polygon_y="62 215 215 61 61 62"/>
+      <element label="text" polygon_x="41 41 125 125 41 41"
+               polygon_y="222 290 290 221 221 222"/>
+      <element label="text" polygon_x="11 11 35 35 11 11" polygon_y="62 120 120 61 61 62"/>
+      <element label="text" polygon_x="136 136 215 215 136 136" polygon_y="62 75 75 61 61 62"/>
+      <element label="text" polygon_x="11 11 60 60 11 11" polygon_y="12 15 15 11 11 12"/>
+   </layout>
+   <text>
+      <keyword>woman</keyword>
+      <keyword>man</keyword>
+      <keyword>child</keyword>
+      <keyword>book</keyword>
+      <keyword>win</keyword>
+      <keyword>fight</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0409</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="16 16 41 41 40 40 16 16 70 70 16 16"
+               polygon_y="77 85 85 86 155 156 156 175 175 76 76 77"/>
+      <element label="text" polygon_x="146 146 205 205 146 146" polygon_y="32 80 80 31 31 32"/>
+      <element label="text" polygon_x="146 146 205 205 146 146"
+               polygon_y="232 280 280 231 231 232"/>
+      <element label="text" polygon_x="81 81 135 135 81 81" polygon_y="32 80 80 31 31 32"/>
+      <element label="text" polygon_x="81 81 135 135 81 81"
+               polygon_y="232 280 280 231 231 232"/>
+      <element label="text" polygon_x="16 16 70 70 16 16" polygon_y="237 280 280 236 236 237"/>
+      <element label="text" polygon_x="146 146 205 205 146 146"
+               polygon_y="92 130 130 91 91 92"/>
+      <element label="text" polygon_x="146 146 205 205 146 146"
+               polygon_y="137 175 175 136 136 137"/>
+      <element label="text" polygon_x="16 16 70 70 16 16" polygon_y="187 225 225 186 186 187"/>
+      <element label="text" polygon_x="81 81 135 135 81 81"
+               polygon_y="137 175 175 136 136 137"/>
+      <element label="text" polygon_x="146 146 205 205 146 146"
+               polygon_y="192 225 225 191 191 192"/>
+      <element label="text" polygon_x="81 81 135 135 81 81" polygon_y="92 125 125 91 91 92"/>
+      <element label="text" polygon_x="81 81 135 135 81 81"
+               polygon_y="187 220 220 186 186 187"/>
+      <element label="text" polygon_x="91 91 140 140 91 91"
+               polygon_y="287 295 295 286 286 287"/>
+      <element label="text" polygon_x="16 16 35 35 16 16" polygon_y="132 150 150 131 131 132"/>
+      <element label="image" polygon_x="1 1 35 35 1 1" polygon_y="92 125 125 91 91 92"/>
+      <element label="headline" polygon_x="16 16 70 70 16 16" polygon_y="32 70 70 31 31 32"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>bag</keyword>
+      <keyword>moment</keyword>
+   </text>
+</annotation>

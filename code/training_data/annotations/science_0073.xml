@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0073</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 110 110 11 11"
+               polygon_y="177 285 285 176 176 177"/>
+      <element label="text" polygon_x="116 116 210 210 116 116"
+               polygon_y="177 285 285 176 176 177"/>
+      <element label="text" polygon_x="116 116 210 210 116 116" polygon_y="82 95 95 81 81 82"/>
+      <element label="image" polygon_x="11 11 110 110 11 11" polygon_y="17 85 85 16 16 17"/>
+      <element label="image" polygon_x="11 11 110 110 11 11" polygon_y="92 160 160 91 91 92"/>
+      <element label="image" polygon_x="116 116 210 210 116 116" polygon_y="17 75 75 16 16 17"/>
+      <element label="image" polygon_x="116 116 210 210 116 116"
+               polygon_y="102 160 160 101 101 102"/>
+      <element label="text-over-image" polygon_x="66 66 110 110 66 66"
+               polygon_y="72 85 85 71 71 72"/>
+      <element label="text-over-image" polygon_x="66 66 110 110 66 66"
+               polygon_y="152 160 160 151 151 152"/>
+   </layout>
+   <text>
+      <keyword>image</keyword>
+      <keyword>history</keyword>
+      <keyword>reason</keyword>
+      <keyword>success</keyword>
+   </text>
+</annotation>

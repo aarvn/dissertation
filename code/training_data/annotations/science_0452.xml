@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0452</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="6 6 65 65 26 25 25 6 6"
+               polygon_y="212 265 265 181 181 210 211 211 212"/>
+      <element label="text" polygon_x="76 76 150 150 76 76"
+               polygon_y="177 230 230 176 176 177"/>
+      <element label="text" polygon_x="161 161 220 220 161 161" polygon_y="27 85 85 26 26 27"/>
+      <element label="text" polygon_x="161 161 220 220 161 161"
+               polygon_y="97 150 150 96 96 97"/>
+      <element label="text" polygon_x="76 76 150 150 76 76"
+               polygon_y="237 260 260 236 236 237"/>
+      <element label="text" polygon_x="76 76 150 150 76 76"
+               polygon_y="162 170 170 161 161 162"/>
+      <element label="text" polygon_x="76 76 145 145 76 76"
+               polygon_y="272 280 280 271 271 272"/>
+      <element label="text" polygon_x="6 6 35 35 6 6" polygon_y="162 170 170 161 161 162"/>
+      <element label="text" polygon_x="156 156 215 215 156 156"
+               polygon_y="277 280 280 276 276 277"/>
+      <element label="image" polygon_x="1 1 155 155 1 1" polygon_y="22 155 155 21 21 22"/>
+      <element label="image" polygon_x="156 156 220 220 156 156"
+               polygon_y="162 275 275 161 161 162"/>
+      <element label="image" polygon_x="6 6 20 20 6 6" polygon_y="182 205 205 181 181 182"/>
+      <element label="headline" polygon_x="6 6 125 125 6 6" polygon_y="7 15 15 6 6 7"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>place</keyword>
+      <keyword>decade</keyword>
+      <keyword>experience</keyword>
+      <keyword>land</keyword>
+      <keyword>ocean</keyword>
+   </text>
+</annotation>

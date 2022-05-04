@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0654</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 85 85 21 21" polygon_y="232 285 285 231 231 232"/>
+      <element label="text" polygon_x="136 136 200 200 136 136"
+               polygon_y="232 285 285 231 231 232"/>
+      <element label="text" polygon_x="41 41 180 180 41 41"
+               polygon_y="207 220 220 206 206 207"/>
+      <element label="image" polygon_x="21 21 200 200 21 21" polygon_y="2 165 165 1 1 2"/>
+      <element label="image" polygon_x="91 91 130 130 91 91"
+               polygon_y="232 275 275 231 231 232"/>
+      <element label="headline" polygon_x="56 56 165 165 56 56"
+               polygon_y="172 200 200 171 171 172"/>
+   </layout>
+   <text>
+      <keyword>love</keyword>
+      <keyword>design</keyword>
+      <keyword>moment</keyword>
+   </text>
+</annotation>

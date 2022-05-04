@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0006</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="31 31 115 115 31 31" polygon_y="22 85 85 21 21 22"/>
+      <element label="text" polygon_x="141 141 200 200 141 141"
+               polygon_y="67 135 135 66 66 67"/>
+      <element label="text" polygon_x="131 131 205 205 131 131" polygon_y="22 45 45 21 21 22"/>
+      <element label="text" polygon_x="146 146 195 195 146 146"
+               polygon_y="142 160 160 141 141 142"/>
+      <element label="text" polygon_x="146 146 195 195 146 146"
+               polygon_y="167 185 185 166 166 167"/>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="197 300 300 196 196 197"/>
+      <element label="image" polygon_x="1 1 130 130 1 1" polygon_y="92 190 190 91 91 92"/>
+   </layout>
+   <text>
+      <keyword>research</keyword>
+      <keyword>island</keyword>
+      <keyword>specie</keyword>
+   </text>
+</annotation>

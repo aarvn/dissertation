@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0407</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="81 81 140 140 81 81"
+               polygon_y="167 285 285 166 166 167"/>
+      <element label="text" polygon_x="21 21 75 75 21 21" polygon_y="167 285 285 166 166 167"/>
+      <element label="text" polygon_x="146 146 205 205 146 146"
+               polygon_y="167 230 230 166 166 167"/>
+      <element label="text" polygon_x="21 21 140 140 21 21"
+               polygon_y="142 160 160 141 141 142"/>
+      <element label="text" polygon_x="151 151 195 195 151 151"
+               polygon_y="127 155 155 126 126 127"/>
+      <element label="text" polygon_x="146 146 195 195 146 146"
+               polygon_y="262 280 280 261 261 262"/>
+      <element label="text" polygon_x="156 156 195 195 156 156"
+               polygon_y="237 255 255 236 236 237"/>
+      <element label="image" polygon_x="21 21 140 140 21 21" polygon_y="57 135 135 56 56 57"/>
+      <element label="image" polygon_x="146 146 205 205 146 146"
+               polygon_y="57 120 120 56 56 57"/>
+      <element label="headline" polygon_x="21 21 205 205 21 21" polygon_y="27 50 50 26 26 27"/>
+      <element label="text-over-image" polygon_x="21 21 95 95 21 21"
+               polygon_y="127 135 135 126 126 127"/>
+   </layout>
+   <text>
+      <keyword>wedding</keyword>
+      <keyword>guest</keyword>
+      <keyword>couple</keyword>
+      <keyword>heart</keyword>
+      <keyword>special</keyword>
+      <keyword>wear</keyword>
+      <keyword>celebration</keyword>
+   </text>
+</annotation>

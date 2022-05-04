@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0123</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="81 81 135 135 81 81"
+               polygon_y="172 235 235 171 171 172"/>
+      <element label="text" polygon_x="21 21 75 75 21 21" polygon_y="152 210 210 151 151 152"/>
+      <element label="text" polygon_x="81 81 135 135 81 81"
+               polygon_y="242 285 285 241 241 242"/>
+      <element label="text" polygon_x="21 21 75 75 21 21" polygon_y="217 255 255 216 216 217"/>
+      <element label="text" polygon_x="21 21 75 75 21 21" polygon_y="262 285 285 261 261 262"/>
+      <element label="text" polygon_x="81 81 135 135 81 81"
+               polygon_y="152 165 165 151 151 152"/>
+      <element label="image" polygon_x="6 6 220 220 6 6" polygon_y="2 140 140 1 1 2"/>
+      <element label="image" polygon_x="141 141 210 210 141 141"
+               polygon_y="147 225 225 146 146 147"/>
+      <element label="image" polygon_x="141 141 210 210 141 141"
+               polygon_y="232 285 285 231 231 232"/>
+      <element label="text-over-image" polygon_x="16 16 155 155 16 16"
+               polygon_y="107 115 115 106 106 107"/>
+      <element label="headline-over-image" polygon_x="16 16 155 155 16 16"
+               polygon_y="87 100 100 86 86 87"/>
+   </layout>
+   <text>
+      <keyword>bake</keyword>
+      <keyword>love</keyword>
+      <keyword>table</keyword>
+      <keyword>family</keyword>
+      <keyword>choice</keyword>
+   </text>
+</annotation>

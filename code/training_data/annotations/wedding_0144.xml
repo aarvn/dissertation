@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0144</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="116 116 220 220 116 116"
+               polygon_y="227 235 235 226 226 227"/>
+      <element label="text-over-image" polygon_x="121 121 210 210 121 121"
+               polygon_y="247 255 255 246 246 247"/>
+   </layout>
+   <text>
+      <keyword>food</keyword>
+      <keyword>season</keyword>
+   </text>
+</annotation>

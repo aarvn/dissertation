@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0215</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="61 61 110 110 61 61" polygon_y="52 180 180 51 51 52"/>
+      <element label="text" polygon_x="171 171 215 215 171 171"
+               polygon_y="187 290 290 186 186 187"/>
+      <element label="text" polygon_x="116 116 215 215 116 116" polygon_y="67 95 95 66 66 67"/>
+      <element label="text" polygon_x="11 11 55 55 11 11" polygon_y="132 180 180 131 131 132"/>
+      <element label="text" polygon_x="161 161 215 215 161 161" polygon_y="7 15 15 6 6 7"/>
+      <element label="text" polygon_x="116 116 160 160 116 116" polygon_y="52 60 60 51 51 52"/>
+      <element label="image" polygon_x="11 11 165 165 11 11"
+               polygon_y="187 290 290 186 186 187"/>
+      <element label="image" polygon_x="116 116 165 165 116 116"
+               polygon_y="102 180 180 101 101 102"/>
+      <element label="image" polygon_x="11 11 55 55 11 11" polygon_y="52 125 125 51 51 52"/>
+      <element label="image" polygon_x="171 171 215 215 171 171"
+               polygon_y="142 180 180 141 141 142"/>
+      <element label="image" polygon_x="171 171 215 215 171 171"
+               polygon_y="102 135 135 101 101 102"/>
+      <element label="image" polygon_x="171 171 215 215 171 171" polygon_y="22 45 45 21 21 22"/>
+      <element label="headline" polygon_x="11 11 165 165 11 11" polygon_y="22 45 45 21 21 22"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>visit</keyword>
+      <keyword>land</keyword>
+      <keyword>coast</keyword>
+      <keyword>village</keyword>
+      <keyword>bird</keyword>
+      <keyword>site</keyword>
+      <keyword>wildlife</keyword>
+   </text>
+</annotation>

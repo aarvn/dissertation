@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0297</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 110 110 21 21"
+               polygon_y="132 155 155 131 131 132"/>
+      <element label="text" polygon_x="116 116 205 205 116 116"
+               polygon_y="132 155 155 131 131 132"/>
+      <element label="text" polygon_x="21 21 110 110 21 21"
+               polygon_y="247 265 265 246 246 247"/>
+      <element label="text" polygon_x="116 116 205 205 116 116"
+               polygon_y="247 265 265 246 246 247"/>
+      <element label="text" polygon_x="21 21 110 110 21 21"
+               polygon_y="162 170 170 161 161 162"/>
+      <element label="text" polygon_x="21 21 80 80 21 21" polygon_y="272 285 285 271 271 272"/>
+      <element label="text" polygon_x="21 21 190 190 21 21" polygon_y="52 55 55 51 51 52"/>
+      <element label="text" polygon_x="116 116 160 160 116 116"
+               polygon_y="272 285 285 271 271 272"/>
+      <element label="text" polygon_x="116 116 170 170 116 116"
+               polygon_y="162 170 170 161 161 162"/>
+      <element label="text" polygon_x="21 21 85 85 21 21" polygon_y="237 240 240 236 236 237"/>
+      <element label="text" polygon_x="21 21 65 65 21 21" polygon_y="122 125 125 121 121 122"/>
+      <element label="text" polygon_x="116 116 155 155 116 116"
+               polygon_y="122 125 125 121 121 122"/>
+      <element label="text" polygon_x="116 116 145 145 116 116"
+               polygon_y="237 240 240 236 236 237"/>
+      <element label="image" polygon_x="21 21 110 110 21 21" polygon_y="62 115 115 61 61 62"/>
+      <element label="image" polygon_x="21 21 110 110 21 21"
+               polygon_y="177 230 230 176 176 177"/>
+      <element label="image" polygon_x="116 116 205 205 116 116"
+               polygon_y="62 115 115 61 61 62"/>
+      <element label="image" polygon_x="116 116 205 205 116 116"
+               polygon_y="177 230 230 176 176 177"/>
+      <element label="headline" polygon_x="21 21 160 160 21 21" polygon_y="27 40 40 26 26 27"/>
+   </layout>
+   <text>
+      <keyword>love</keyword>
+      <keyword>bride</keyword>
+      <keyword>visit</keyword>
+      <keyword>unique</keyword>
+      <keyword>idea</keyword>
+      <keyword>married</keyword>
+   </text>
+</annotation>

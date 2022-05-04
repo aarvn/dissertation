@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0358</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="166 166 215 215 190 190 191 191 215 215 166 166"
+               polygon_y="47 285 285 171 171 170 136 135 135 46 46 47"/>
+      <element label="text" polygon_x="56 56 160 160 56 56" polygon_y="27 95 95 26 26 27"/>
+      <element label="text" polygon_x="56 56 160 160 56 56"
+               polygon_y="107 175 175 106 106 107"/>
+      <element label="text" polygon_x="56 56 160 160 56 56"
+               polygon_y="182 245 245 181 181 182"/>
+      <element label="text" polygon_x="11 11 160 160 51 50 50 11 11"
+               polygon_y="262 285 285 251 251 260 261 261 262"/>
+      <element label="text" polygon_x="66 66 160 160 66 66" polygon_y="7 20 20 6 6 7"/>
+      <element label="text" polygon_x="166 166 215 215 166 166" polygon_y="27 40 40 26 26 27"/>
+      <element label="text" polygon_x="11 11 45 45 11 11" polygon_y="12 20 20 11 11 12"/>
+      <element label="text" polygon_x="11 11 45 45 11 11" polygon_y="247 255 255 246 246 247"/>
+      <element label="image" polygon_x="191 191 225 225 191 191"
+               polygon_y="142 165 165 141 141 142"/>
+      <element label="headline" polygon_x="11 11 45 45 11 11" polygon_y="32 60 60 31 31 32"/>
+      <element label="headline" polygon_x="11 11 45 45 11 11"
+               polygon_y="107 135 135 106 106 107"/>
+      <element label="headline" polygon_x="11 11 45 45 11 11"
+               polygon_y="187 215 215 186 186 187"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>man</keyword>
+      <keyword>decade</keyword>
+      <keyword>win</keyword>
+      <keyword>law</keyword>
+      <keyword>attack</keyword>
+      <keyword>nation</keyword>
+      <keyword>father</keyword>
+   </text>
+</annotation>

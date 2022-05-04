@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0254</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 105 105 11 11"
+               polygon_y="137 285 285 136 136 137"/>
+      <element label="text" polygon_x="116 116 210 210 116 116"
+               polygon_y="52 160 160 51 51 52"/>
+      <element label="text" polygon_x="116 116 210 210 116 116"
+               polygon_y="172 280 280 171 171 172"/>
+      <element label="text" polygon_x="11 11 135 135 11 11" polygon_y="42 45 45 41 41 42"/>
+      <element label="image" polygon_x="11 11 105 105 11 11" polygon_y="52 125 125 51 51 52"/>
+      <element label="headline" polygon_x="11 11 120 120 11 11" polygon_y="17 25 25 16 16 17"/>
+   </layout>
+   <text>
+      <keyword>fact</keyword>
+      <keyword>public</keyword>
+      <keyword>fail</keyword>
+      <keyword>cost</keyword>
+      <keyword>business</keyword>
+      <keyword>struggle</keyword>
+      <keyword>firm</keyword>
+      <keyword>deal</keyword>
+      <keyword>market</keyword>
+      <keyword>technology</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0663</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="16 16 205 205 16 16" polygon_y="22 275 275 21 21 22"/>
+      <element label="text-over-image" polygon_x="156 156 195 195 156 156"
+               polygon_y="167 260 260 166 166 167"/>
+   </layout>
+   <text>
+      <keyword>model</keyword>
+      <keyword>hair</keyword>
+      <keyword>gold</keyword>
+      <keyword>chanel</keyword>
+      <keyword>gucci</keyword>
+   </text>
+</annotation>

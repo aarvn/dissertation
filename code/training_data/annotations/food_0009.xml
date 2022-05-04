@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0009</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="81 81 140 140 81 81"
+               polygon_y="207 285 285 206 206 207"/>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="92 165 165 91 91 92"/>
+      <element label="text" polygon_x="146 146 200 200 146 146"
+               polygon_y="182 255 255 181 181 182"/>
+      <element label="text" polygon_x="81 81 140 140 81 81"
+               polygon_y="132 165 165 131 131 132"/>
+      <element label="text" polygon_x="146 146 200 200 146 146"
+               polygon_y="132 165 165 131 131 132"/>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="62 80 80 61 61 62"/>
+      <element label="text" polygon_x="81 81 135 135 81 81"
+               polygon_y="182 200 200 181 181 182"/>
+      <element label="text" polygon_x="146 146 200 200 146 146"
+               polygon_y="267 280 280 266 266 267"/>
+      <element label="text" polygon_x="16 16 45 45 16 16" polygon_y="7 15 15 6 6 7"/>
+      <element label="image" polygon_x="81 81 205 205 81 81" polygon_y="27 125 125 26 26 27"/>
+      <element label="image" polygon_x="6 6 75 75 6 6" polygon_y="182 285 285 181 181 182"/>
+      <element label="text-over-image" polygon_x="86 86 135 135 86 86"
+               polygon_y="112 120 120 111 111 112"/>
+   </layout>
+   <text>
+      <keyword>eat</keyword>
+      <keyword>water</keyword>
+      <keyword>food</keyword>
+      <keyword>wine</keyword>
+      <keyword>restaurant</keyword>
+      <keyword>love</keyword>
+      <keyword>kitchen</keyword>
+      <keyword>glass</keyword>
+      <keyword>table</keyword>
+      <keyword>herb</keyword>
+      <keyword>market</keyword>
+      <keyword>style</keyword>
+   </text>
+</annotation>

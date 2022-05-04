@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0274</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 75 75 21 21" polygon_y="57 240 240 56 56 57"/>
+      <element label="text" polygon_x="21 21 70 70 21 21" polygon_y="257 280 280 256 256 257"/>
+      <element label="image" polygon_x="81 81 225 225 81 81" polygon_y="2 95 95 1 1 2"/>
+      <element label="image" polygon_x="81 81 225 225 81 81"
+               polygon_y="207 300 300 206 206 207"/>
+      <element label="image" polygon_x="81 81 150 150 81 81"
+               polygon_y="102 200 200 101 101 102"/>
+      <element label="image" polygon_x="156 156 225 225 156 156"
+               polygon_y="102 200 200 101 101 102"/>
+   </layout>
+   <text>
+      <keyword>top</keyword>
+      <keyword>enjoy</keyword>
+      <keyword>choice</keyword>
+   </text>
+</annotation>

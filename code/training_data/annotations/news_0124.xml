@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0124</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="131 131 200 200 131 131"
+               polygon_y="47 285 285 46 46 47"/>
+      <element label="text" polygon_x="16 16 90 90 16 16" polygon_y="167 285 285 166 166 167"/>
+      <element label="text" polygon_x="16 16 115 115 16 16"
+               polygon_y="137 155 155 136 136 137"/>
+      <element label="text" polygon_x="131 131 200 200 131 131" polygon_y="32 40 40 31 31 32"/>
+      <element label="image" polygon_x="16 16 125 125 16 16" polygon_y="32 110 110 31 31 32"/>
+      <element label="headline" polygon_x="16 16 100 100 16 16"
+               polygon_y="117 130 130 116 116 117"/>
+   </layout>
+   <text>
+      <keyword>man</keyword>
+      <keyword>decade</keyword>
+      <keyword>child</keyword>
+      <keyword>fact</keyword>
+      <keyword>explain</keyword>
+      <keyword>hospital</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0488</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="6 6 220 220 6 6" polygon_y="7 295 295 6 6 7"/>
+      <element label="text-over-image" polygon_x="161 161 210 210 161 161"
+               polygon_y="142 280 280 141 141 142"/>
+      <element label="text-over-image" polygon_x="11 11 85 85 36 35 35 11 11"
+               polygon_y="57 95 95 31 31 55 56 56 57"/>
+      <element label="text-over-image" polygon_x="161 161 210 210 161 161"
+               polygon_y="82 135 135 81 81 82"/>
+      <element label="text-over-image" polygon_x="161 161 205 205 161 161"
+               polygon_y="37 55 55 36 36 37"/>
+      <element label="text-over-image" polygon_x="161 161 210 210 161 161"
+               polygon_y="62 75 75 61 61 62"/>
+   </layout>
+   <text>
+      <keyword>top</keyword>
+      <keyword>salt</keyword>
+      <keyword>stir</keyword>
+      <keyword>heat</keyword>
+      <keyword>recipe</keyword>
+      <keyword>dish</keyword>
+      <keyword>oil</keyword>
+      <keyword>pan</keyword>
+      <keyword>fry</keyword>
+      <keyword>garlic</keyword>
+      <keyword>pepper</keyword>
+      <keyword>onion</keyword>
+      <keyword>enjoy</keyword>
+      <keyword>golden</keyword>
+      <keyword>warm</keyword>
+      <keyword>ginger</keyword>
+      <keyword>soften</keyword>
+      <keyword>inspire</keyword>
+   </text>
+</annotation>

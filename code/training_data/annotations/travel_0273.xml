@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0273</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="26 26 60 60 26 26" polygon_y="217 285 285 216 216 217"/>
+      <element label="text" polygon_x="106 106 190 190 106 106"
+               polygon_y="162 175 175 161 161 162"/>
+      <element label="text" polygon_x="96 96 210 210 96 96"
+               polygon_y="142 145 145 141 141 142"/>
+      <element label="text" polygon_x="131 131 170 170 131 131"
+               polygon_y="152 155 155 151 151 152"/>
+      <element label="image" polygon_x="6 6 80 81 81 185 185 80 80 80 6 6"
+               polygon_y="2 160 160 61 60 60 31 31 30 1 1 2"/>
+      <element label="image" polygon_x="66 66 210 210 66 66"
+               polygon_y="192 285 285 191 191 192"/>
+      <element label="image" polygon_x="96 96 210 210 96 96" polygon_y="77 140 140 76 76 77"/>
+      <element label="text-over-image" polygon_x="71 71 185 185 71 71"
+               polygon_y="32 60 60 31 31 32"/>
+   </layout>
+   <text>
+      <keyword>family</keyword>
+      <keyword>bird</keyword>
+      <keyword>shop</keyword>
+      <keyword>picture</keyword>
+   </text>
+</annotation>

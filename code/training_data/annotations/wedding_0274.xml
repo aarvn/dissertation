@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0274</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="136 136 200 200 136 136"
+               polygon_y="147 275 275 146 146 147"/>
+      <element label="image"
+               polygon_x="6 6 130 130 125 125 126 126 130 130 41 41 86 86 85 85 6 6"
+               polygon_y="162 300 300 161 161 160 156 155 155 76 76 155 155 156 160 161 161 162"/>
+      <element label="image" polygon_x="136 136 220 220 136 136"
+               polygon_y="27 140 140 26 26 27"/>
+      <element label="image" polygon_x="41 41 130 130 41 41" polygon_y="2 70 70 1 1 2"/>
+      <element label="image" polygon_x="6 6 35 35 6 6" polygon_y="2 155 155 1 1 2"/>
+      <element label="text-over-image" polygon_x="86 86 125 125 86 86"
+               polygon_y="147 175 175 146 146 147"/>
+   </layout>
+   <text>
+      <keyword>venue</keyword>
+      <keyword>cake</keyword>
+      <keyword>bridesmaid</keyword>
+   </text>
+</annotation>

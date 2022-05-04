@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0429</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="31 31 195 195 31 31"
+               polygon_y="272 280 280 271 271 272"/>
+      <element label="text" polygon_x="151 151 195 195 151 151"
+               polygon_y="87 105 105 86 86 87"/>
+      <element label="text" polygon_x="31 31 195 195 31 31"
+               polygon_y="207 210 210 206 206 207"/>
+      <element label="text" polygon_x="21 21 55 55 21 21" polygon_y="7 15 15 6 6 7"/>
+      <element label="image" polygon_x="11 11 210 210 145 145 145 11 11"
+               polygon_y="22 200 200 111 111 110 21 21 22"/>
+      <element label="image" polygon_x="151 151 195 196 196 220 220 151 151"
+               polygon_y="2 80 80 71 70 70 1 1 2"/>
+      <element label="image" polygon_x="146 146 195 195 146 146"
+               polygon_y="217 265 265 216 216 217"/>
+      <element label="image" polygon_x="86 86 140 140 86 86"
+               polygon_y="222 265 265 221 221 222"/>
+      <element label="image" polygon_x="31 31 80 80 31 31" polygon_y="222 265 265 221 221 222"/>
+      <element label="text-over-image" polygon_x="26 26 80 80 26 26"
+               polygon_y="27 70 70 26 26 27"/>
+      <element label="text-over-image" polygon_x="151 151 195 195 151 151"
+               polygon_y="62 80 80 61 61 62"/>
+      <element label="text-over-image" polygon_x="166 166 195 195 166 166"
+               polygon_y="167 190 190 166 166 167"/>
+      <element label="text-over-image" polygon_x="186 186 210 210 186 186"
+               polygon_y="42 50 50 41 41 42"/>
+   </layout>
+   <text>
+      <keyword>top</keyword>
+   </text>
+</annotation>

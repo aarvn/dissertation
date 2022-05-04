@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0319</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="146 146 205 205 146 146"
+               polygon_y="27 280 280 26 26 27"/>
+      <element label="text" polygon_x="81 81 140 140 81 81"
+               polygon_y="167 280 280 166 166 167"/>
+      <element label="text" polygon_x="21 21 75 75 21 21" polygon_y="167 280 280 166 166 167"/>
+      <element label="text" polygon_x="81 81 140 140 81 81" polygon_y="27 110 110 26 26 27"/>
+      <element label="text" polygon_x="21 21 75 75 21 21" polygon_y="27 110 110 26 26 27"/>
+      <element label="text" polygon_x="21 21 130 130 21 21"
+               polygon_y="122 150 150 121 121 122"/>
+      <element label="text" polygon_x="176 176 215 215 176 176" polygon_y="12 20 20 11 11 12"/>
+   </layout>
+   <text>
+      <keyword>food</keyword>
+      <keyword>meat</keyword>
+      <keyword>milk</keyword>
+      <keyword>market</keyword>
+   </text>
+</annotation>

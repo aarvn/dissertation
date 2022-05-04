@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0301</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="146 146 205 205 146 146"
+               polygon_y="27 90 90 26 26 27"/>
+      <element label="text-over-image" polygon_x="146 146 205 205 146 146"
+               polygon_y="222 280 280 221 221 222"/>
+      <element label="text-over-image" polygon_x="86 86 140 140 86 86"
+               polygon_y="152 195 195 151 151 152"/>
+      <element label="text-over-image" polygon_x="146 146 205 205 146 146"
+               polygon_y="137 175 175 136 136 137"/>
+      <element label="text-over-image" polygon_x="86 86 140 140 86 86"
+               polygon_y="72 110 110 71 71 72"/>
+      <element label="text-over-image" polygon_x="146 146 205 205 146 146"
+               polygon_y="97 130 130 96 96 97"/>
+      <element label="text-over-image" polygon_x="146 146 205 205 146 146"
+               polygon_y="182 215 215 181 181 182"/>
+      <element label="text-over-image" polygon_x="86 86 140 140 86 86"
+               polygon_y="117 145 145 116 116 117"/>
+   </layout>
+   <text>
+      <keyword>top</keyword>
+      <keyword>salt</keyword>
+      <keyword>heat</keyword>
+      <keyword>dish</keyword>
+      <keyword>season</keyword>
+      <keyword>bowl</keyword>
+      <keyword>sugar</keyword>
+      <keyword>garlic</keyword>
+      <keyword>boil</keyword>
+      <keyword>onion</keyword>
+      <keyword>salad</keyword>
+      <keyword>glass</keyword>
+      <keyword>fish</keyword>
+      <keyword>dress</keyword>
+      <keyword>roast</keyword>
+      <keyword>herb</keyword>
+      <keyword>chicken</keyword>
+      <keyword>cup</keyword>
+      <keyword>vegetable</keyword>
+      <keyword>coriander</keyword>
+   </text>
+</annotation>

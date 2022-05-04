@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0169</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="21 21 210 210 21 21" polygon_y="17 285 285 16 16 17"/>
+      <element label="text-over-image" polygon_x="156 156 200 200 156 156"
+               polygon_y="262 280 280 261 261 262"/>
+   </layout>
+   <text>
+      <keyword>mountain</keyword>
+   </text>
+</annotation>

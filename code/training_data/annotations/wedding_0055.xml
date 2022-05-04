@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0055</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 205 205 21 21"
+               polygon_y="202 230 230 201 201 202"/>
+      <element label="image" polygon_x="6 6 220 220 6 6" polygon_y="2 140 140 1 1 2"/>
+      <element label="image" polygon_x="6 6 220 220 6 6" polygon_y="237 300 300 236 236 237"/>
+      <element label="headline" polygon_x="21 21 205 205 150 150 150 76 75 75 21 21"
+               polygon_y="172 195 195 171 171 170 146 146 170 171 171 172"/>
+   </layout>
+   <text>
+      <keyword>wedding</keyword>
+      <keyword>honeymoon</keyword>
+   </text>
+</annotation>

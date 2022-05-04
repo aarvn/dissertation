@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0495</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="31 31 195 195 31 31"
+               polygon_y="217 290 290 216 216 217"/>
+      <element label="image" polygon_x="31 31 200 200 31 31" polygon_y="2 205 205 1 1 2"/>
+   </layout>
+   <text>
+      <keyword>fall</keyword>
+   </text>
+</annotation>

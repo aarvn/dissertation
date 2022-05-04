@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0652</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 105 105 21 21" polygon_y="22 160 160 21 21 22"/>
+      <element label="text" polygon_x="116 116 200 200 116 116"
+               polygon_y="167 280 280 166 166 167"/>
+      <element label="image" polygon_x="111 111 220 220 111 111" polygon_y="2 80 80 1 1 2"/>
+      <element label="image" polygon_x="111 111 220 220 111 111"
+               polygon_y="87 160 160 86 86 87"/>
+      <element label="image" polygon_x="6 6 110 110 6 6" polygon_y="167 225 225 166 166 167"/>
+      <element label="image" polygon_x="6 6 110 110 6 6" polygon_y="232 280 280 231 231 232"/>
+   </layout>
+   <text>
+      <keyword>garden</keyword>
+      <keyword>family</keyword>
+      <keyword>enjoy</keyword>
+      <keyword>room</keyword>
+      <keyword>summer</keyword>
+      <keyword>city</keyword>
+      <keyword>space</keyword>
+      <keyword>season</keyword>
+      <keyword>countryside</keyword>
+      <keyword>plan</keyword>
+      <keyword>building</keyword>
+      <keyword>spring</keyword>
+      <keyword>nature</keyword>
+      <keyword>tour</keyword>
+   </text>
+</annotation>

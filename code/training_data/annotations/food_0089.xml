@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0089</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 70 70 21 21" polygon_y="167 285 285 166 166 167"/>
+      <element label="text" polygon_x="76 76 125 125 76 76"
+               polygon_y="222 285 285 221 221 222"/>
+      <element label="text" polygon_x="131 131 180 180 131 131"
+               polygon_y="207 265 265 206 206 207"/>
+      <element label="text" polygon_x="21 21 70 70 46 45 45 21 21"
+               polygon_y="102 140 140 71 71 100 101 101 102"/>
+      <element label="text" polygon_x="21 21 170 170 21 21" polygon_y="52 65 65 51 51 52"/>
+      <element label="text" polygon_x="186 186 210 210 186 186"
+               polygon_y="232 285 285 231 231 232"/>
+      <element label="text" polygon_x="21 21 95 95 21 21" polygon_y="22 30 30 21 21 22"/>
+      <element label="text" polygon_x="21 21 55 55 21 21" polygon_y="147 160 160 146 146 147"/>
+      <element label="text" polygon_x="131 131 180 180 131 131"
+               polygon_y="277 285 285 276 276 277"/>
+      <element label="text" polygon_x="76 76 105 105 76 76"
+               polygon_y="207 215 215 206 206 207"/>
+      <element label="text" polygon_x="181 181 210 210 181 181" polygon_y="7 15 15 6 6 7"/>
+      <element label="image" polygon_x="76 76 210 210 76 76" polygon_y="72 200 200 71 71 72"/>
+      <element label="image" polygon_x="21 21 40 40 21 21" polygon_y="72 95 95 71 71 72"/>
+      <element label="headline" polygon_x="21 21 145 145 21 21" polygon_y="32 45 45 31 31 32"/>
+   </layout>
+   <text>
+      <keyword>top</keyword>
+      <keyword>recipe</keyword>
+      <keyword>cool</keyword>
+      <keyword>oil</keyword>
+      <keyword>bowl</keyword>
+      <keyword>water</keyword>
+      <keyword>boil</keyword>
+      <keyword>egg</keyword>
+      <keyword>potato</keyword>
+      <keyword>warm</keyword>
+      <keyword>dress</keyword>
+      <keyword>coriander</keyword>
+      <keyword>saucepan</keyword>
+   </text>
+</annotation>

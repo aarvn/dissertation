@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0510</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image"
+               polygon_x="146 146 161 161 160 160 146 NaN 1 1 65 66 66 146 146 146 215 216 216 225 225 161 160 160 66 66 145 146 146 146 166 166 165 165 145 145 146 146 160 160 145 145 145 66 66 76 76 75 75 65 65 66 66 70 70 60 60 60 1 NaN 60 2 60 60 NaN 60 60 66 66 60"
+               polygon_y="56 50 50 51 55 56 56 NaN 22 300 300 281 280 280 281 285 285 156 155 155 1 1 30 31 31 3.442657e+01 51 55 56 155 155 156 190 191 191 190 186 185 185 161 161 160 156 8.248611e+01 95 95 96 205 206 206 205 196 195 195 101 101 100 7.690278e+01 22 NaN 21 21 3.316783e+01 21 NaN 3.316783e+01 7.690278e+01 8.248611e+01 3.442657e+01 3.316783e+01"/>
+      <element label="text-over-image"
+               polygon_x="66 66 76 76 75 75 66 66 150 150 145 145 146 146 160 160 145 145 146 146 160 160 66 66"
+               polygon_y="32 95 95 96 205 206 206 280 280 206 206 205 186 185 185 161 161 160 51 50 50 31 31 32"/>
+   </layout>
+   <text>
+      <keyword>woman</keyword>
+      <keyword>friend</keyword>
+      <keyword>fashion</keyword>
+      <keyword>colour</keyword>
+      <keyword>brand</keyword>
+      <keyword>hair</keyword>
+      <keyword>book</keyword>
+      <keyword>fit</keyword>
+      <keyword>film</keyword>
+      <keyword>texture</keyword>
+      <keyword>gucci</keyword>
+   </text>
+</annotation>

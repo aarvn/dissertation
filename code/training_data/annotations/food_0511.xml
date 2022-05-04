@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0511</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="121 121 215 215 121 121"
+               polygon_y="87 170 170 86 86 87"/>
+      <element label="text" polygon_x="11 11 100 100 11 11"
+               polygon_y="167 240 240 166 166 167"/>
+      <element label="text" polygon_x="121 121 215 215 121 121" polygon_y="52 80 80 51 51 52"/>
+      <element label="text" polygon_x="121 121 180 180 121 121" polygon_y="32 45 45 31 31 32"/>
+      <element label="image" polygon_x="1 1 110 110 1 1" polygon_y="2 155 155 1 1 2"/>
+      <element label="image" polygon_x="121 121 215 215 121 121"
+               polygon_y="177 285 285 176 176 177"/>
+      <element label="image" polygon_x="1 1 110 110 1 1" polygon_y="247 300 300 246 246 247"/>
+      <element label="text-over-image" polygon_x="11 11 100 100 11 11"
+               polygon_y="57 100 100 56 56 57"/>
+      <element label="text-over-image" polygon_x="11 11 100 100 11 11"
+               polygon_y="107 135 135 106 106 107"/>
+      <element label="text-over-image" polygon_x="31 31 100 100 31 31"
+               polygon_y="142 155 155 141 141 142"/>
+   </layout>
+   <text>
+      <keyword>stir</keyword>
+      <keyword>heat</keyword>
+      <keyword>cool</keyword>
+      <keyword>season</keyword>
+      <keyword>oil</keyword>
+      <keyword>water</keyword>
+      <keyword>food</keyword>
+      <keyword>pan</keyword>
+      <keyword>fry</keyword>
+      <keyword>garlic</keyword>
+      <keyword>boil</keyword>
+      <keyword>flavour</keyword>
+      <keyword>cooking</keyword>
+      <keyword>butter</keyword>
+      <keyword>salad</keyword>
+      <keyword>meat</keyword>
+      <keyword>delicious</keyword>
+      <keyword>fish</keyword>
+      <keyword>dry</keyword>
+      <keyword>crisp</keyword>
+      <keyword>spice</keyword>
+      <keyword>coriander</keyword>
+   </text>
+</annotation>

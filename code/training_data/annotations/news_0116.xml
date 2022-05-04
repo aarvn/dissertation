@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0116</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="141 141 210 210 141 141"
+               polygon_y="102 280 280 101 101 102"/>
+      <element label="text" polygon_x="26 26 95 95 26 26" polygon_y="137 280 280 136 136 137"/>
+      <element label="text" polygon_x="106 106 130 130 106 106"
+               polygon_y="102 155 155 101 101 102"/>
+      <element label="image" polygon_x="26 26 210 210 26 26" polygon_y="2 90 90 1 1 2"/>
+      <element label="headline" polygon_x="26 26 80 80 26 26" polygon_y="97 125 125 96 96 97"/>
+   </layout>
+   <text>
+      <keyword>government</keyword>
+      <keyword>decade</keyword>
+      <keyword>state</keyword>
+      <keyword>party</keyword>
+      <keyword>place</keyword>
+      <keyword>win</keyword>
+      <keyword>bad</keyword>
+      <keyword>law</keyword>
+      <keyword>leader</keyword>
+      <keyword>issue</keyword>
+      <keyword>rule</keyword>
+      <keyword>election</keyword>
+      <keyword>vote</keyword>
+      <keyword>father</keyword>
+   </text>
+</annotation>

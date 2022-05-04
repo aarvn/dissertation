@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0718</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="131 131 190 190 131 131"
+               polygon_y="127 215 215 126 126 127"/>
+      <element label="text" polygon_x="71 71 125 125 71 71"
+               polygon_y="127 215 215 126 126 127"/>
+      <element label="text" polygon_x="11 11 50 50 11 11" polygon_y="172 285 285 171 171 172"/>
+      <element label="text" polygon_x="71 71 125 125 71 71"
+               polygon_y="227 285 285 226 226 227"/>
+      <element label="text" polygon_x="151 151 205 205 151 151"
+               polygon_y="227 285 285 226 226 227"/>
+      <element label="text" polygon_x="11 11 45 45 11 11" polygon_y="132 140 140 131 131 132"/>
+      <element label="image" polygon_x="11 11 225 225 11 11" polygon_y="2 110 110 1 1 2"/>
+   </layout>
+   <text>
+      <keyword>visit</keyword>
+      <keyword>country</keyword>
+      <keyword>enjoy</keyword>
+      <keyword>area</keyword>
+      <keyword>summer</keyword>
+      <keyword>coast</keyword>
+      <keyword>experience</keyword>
+      <keyword>city</keyword>
+      <keyword>site</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0709</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="161 161 210 210 161 161"
+               polygon_y="67 165 165 66 66 67"/>
+      <element label="text" polygon_x="126 126 160 160 126 126"
+               polygon_y="232 285 285 231 231 232"/>
+      <element label="text" polygon_x="171 171 210 210 171 171"
+               polygon_y="242 285 285 241 241 242"/>
+      <element label="text" polygon_x="81 81 115 115 81 81"
+               polygon_y="242 285 285 241 241 242"/>
+      <element label="text" polygon_x="21 21 150 150 21 21" polygon_y="57 60 60 56 56 57"/>
+      <element label="text" polygon_x="81 81 115 115 81 81"
+               polygon_y="227 235 235 226 226 227"/>
+      <element label="text" polygon_x="161 161 200 200 161 161" polygon_y="7 10 10 6 6 7"/>
+      <element label="image" polygon_x="21 21 70 71 71 150 150 21 21"
+               polygon_y="67 285 285 221 220 220 66 66 67"/>
+      <element label="image" polygon_x="166 166 210 210 166 166"
+               polygon_y="172 235 235 171 171 172"/>
+      <element label="image" polygon_x="166 166 200 200 166 166" polygon_y="22 65 65 21 21 22"/>
+      <element label="headline" polygon_x="21 21 150 150 21 21" polygon_y="37 50 50 36 36 37"/>
+      <element label="text-over-image" polygon_x="21 21 70 70 21 21"
+               polygon_y="202 285 285 201 201 202"/>
+      <element label="text-over-image" polygon_x="21 21 70 70 21 21"
+               polygon_y="172 195 195 171 171 172"/>
+   </layout>
+   <text>
+      <keyword>top</keyword>
+      <keyword>place</keyword>
+      <keyword>taste</keyword>
+      <keyword>eat</keyword>
+      <keyword>fry</keyword>
+      <keyword>restaurant</keyword>
+      <keyword>onion</keyword>
+      <keyword>enjoy</keyword>
+      <keyword>roll</keyword>
+      <keyword>meat</keyword>
+      <keyword>choice</keyword>
+      <keyword>free</keyword>
+   </text>
+</annotation>

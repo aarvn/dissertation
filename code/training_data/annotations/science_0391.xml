@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0391</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="32 150 150 31 31 32"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="32 150 150 31 31 32"/>
+      <element label="text" polygon_x="81 81 145 145 81 81" polygon_y="32 95 95 31 31 32"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="122 150 150 121 121 122"/>
+      <element label="image" polygon_x="11 11 215 215 11 11"
+               polygon_y="162 280 280 161 161 162"/>
+      <element label="headline" polygon_x="81 81 125 125 81 81"
+               polygon_y="102 115 115 101 101 102"/>
+      <element label="text-over-image" polygon_x="136 136 195 195 136 136"
+               polygon_y="247 260 260 246 246 247"/>
+   </layout>
+   <text>
+      <keyword>study</keyword>
+      <keyword>scientist</keyword>
+      <keyword>researcher</keyword>
+      <keyword>university</keyword>
+      <keyword>science</keyword>
+      <keyword>test</keyword>
+      <keyword>effect</keyword>
+      <keyword>field</keyword>
+      <keyword>group</keyword>
+      <keyword>evidence</keyword>
+      <keyword>technology</keyword>
+      <keyword>question</keyword>
+      <keyword>success</keyword>
+   </text>
+</annotation>

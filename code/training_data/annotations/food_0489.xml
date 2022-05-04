@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0489</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="61 61 105 105 61 61"
+               polygon_y="142 285 285 141 141 142"/>
+      <element label="text" polygon_x="11 11 55 55 11 11" polygon_y="192 235 235 191 191 192"/>
+      <element label="text" polygon_x="11 11 55 55 11 11" polygon_y="242 285 285 241 241 242"/>
+      <element label="text" polygon_x="11 11 55 55 11 11" polygon_y="142 165 165 141 141 142"/>
+      <element label="text" polygon_x="11 11 55 55 11 11" polygon_y="172 185 185 171 171 172"/>
+      <element label="text" polygon_x="11 11 80 80 11 11" polygon_y="132 135 135 131 131 132"/>
+      <element label="image" polygon_x="111 111 220 220 111 111" polygon_y="7 295 295 6 6 7"/>
+      <element label="image" polygon_x="6 6 105 105 6 6" polygon_y="7 125 125 6 6 7"/>
+      <element label="text-over-image" polygon_x="171 171 215 215 171 171"
+               polygon_y="42 165 165 41 41 42"/>
+      <element label="text-over-image" polygon_x="121 121 160 160 121 121"
+               polygon_y="97 145 145 96 96 97"/>
+      <element label="text-over-image" polygon_x="121 121 160 160 121 121"
+               polygon_y="42 70 70 41 41 42"/>
+      <element label="text-over-image" polygon_x="121 121 160 160 121 121"
+               polygon_y="77 90 90 76 76 77"/>
+      <element label="text-over-image" polygon_x="121 121 160 160 121 121"
+               polygon_y="152 165 165 151 151 152"/>
+      <element label="text-over-image" polygon_x="121 121 170 170 121 121"
+               polygon_y="32 35 35 31 31 32"/>
+      <element label="text-over-image" polygon_x="186 186 220 220 186 186"
+               polygon_y="12 15 15 11 11 12"/>
+   </layout>
+   <text>
+      <keyword>top</keyword>
+      <keyword>salt</keyword>
+      <keyword>dish</keyword>
+      <keyword>oven</keyword>
+      <keyword>sugar</keyword>
+      <keyword>water</keyword>
+      <keyword>pan</keyword>
+      <keyword>fry</keyword>
+      <keyword>garlic</keyword>
+      <keyword>boil</keyword>
+      <keyword>bake</keyword>
+      <keyword>pepper</keyword>
+      <keyword>potato</keyword>
+      <keyword>sauce</keyword>
+      <keyword>warm</keyword>
+      <keyword>fish</keyword>
+      <keyword>crisp</keyword>
+      <keyword>skin</keyword>
+      <keyword>roast</keyword>
+   </text>
+</annotation>

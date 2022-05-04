@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0217</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="42 280 280 41 41 42"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="132 280 280 131 131 132"/>
+      <element label="text" polygon_x="81 81 145 145 81 81" polygon_y="42 160 160 41 41 42"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="112 125 125 111 111 112"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="272 280 280 271 271 272"/>
+      <element label="image" polygon_x="151 151 225 225 151 151" polygon_y="2 105 105 1 1 2"/>
+      <element label="image" polygon_x="81 81 145 145 81 81"
+               polygon_y="172 265 265 171 171 172"/>
+      <element label="headline" polygon_x="16 16 140 140 16 16" polygon_y="17 35 35 16 16 17"/>
+   </layout>
+   <text>
+      <keyword>study</keyword>
+      <keyword>researcher</keyword>
+      <keyword>group</keyword>
+      <keyword>evidence</keyword>
+      <keyword>interest</keyword>
+   </text>
+</annotation>

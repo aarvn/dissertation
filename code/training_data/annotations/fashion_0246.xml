@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0246</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="116 116 146 146 145 145 116 116 195 195 116 116"
+               polygon_y="22 70 70 71 220 221 221 285 285 21 21 22"/>
+      <element label="text" polygon_x="16 16 95 95 70 70 70 16 16"
+               polygon_y="137 285 285 221 221 220 136 136 137"/>
+      <element label="text" polygon_x="16 16 70 71 71 95 95 16 16"
+               polygon_y="22 125 125 71 70 70 21 21 22"/>
+      <element label="text" polygon_x="81 81 135 135 81 81"
+               polygon_y="152 190 190 151 151 152"/>
+      <element label="text" polygon_x="81 81 135 135 81 81"
+               polygon_y="102 120 120 101 101 102"/>
+      <element label="text" polygon_x="81 81 135 135 81 81"
+               polygon_y="127 145 145 126 126 127"/>
+      <element label="text" polygon_x="91 91 125 125 91 91"
+               polygon_y="197 210 210 196 196 197"/>
+      <element label="text" polygon_x="186 186 220 220 186 186" polygon_y="7 15 15 6 6 7"/>
+      <element label="headline" polygon_x="86 86 130 130 86 86" polygon_y="77 95 95 76 76 77"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>friend</keyword>
+      <keyword>wear</keyword>
+      <keyword>mind</keyword>
+      <keyword>picture</keyword>
+      <keyword>body</keyword>
+      <keyword>money</keyword>
+      <keyword>relationship</keyword>
+      <keyword>school</keyword>
+      <keyword>drink</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0466</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="46 46 100 100 46 46"
+               polygon_y="147 170 170 146 146 147"/>
+      <element label="text-over-image" polygon_x="11 11 30 30 11 11"
+               polygon_y="197 210 210 196 196 197"/>
+      <element label="text-over-image" polygon_x="66 66 85 85 66 66"
+               polygon_y="77 90 90 76 76 77"/>
+      <element label="text-over-image" polygon_x="36 36 55 55 36 36"
+               polygon_y="282 290 290 281 281 282"/>
+      <element label="text-over-image" polygon_x="106 106 125 125 106 106"
+               polygon_y="227 235 235 226 226 227"/>
+      <element label="text-over-image" polygon_x="121 121 140 140 121 121"
+               polygon_y="57 65 65 56 56 57"/>
+      <element label="text-over-image" polygon_x="131 131 150 150 131 131"
+               polygon_y="107 115 115 106 106 107"/>
+      <element label="text-over-image" polygon_x="191 191 210 210 191 191"
+               polygon_y="252 260 260 251 251 252"/>
+      <element label="text-over-image" polygon_x="36 36 50 50 36 36"
+               polygon_y="222 230 230 221 221 222"/>
+      <element label="text-over-image" polygon_x="61 61 75 75 61 61"
+               polygon_y="217 225 225 216 216 217"/>
+      <element label="text-over-image" polygon_x="121 121 135 135 121 121"
+               polygon_y="22 30 30 21 21 22"/>
+      <element label="text-over-image" polygon_x="161 161 175 175 161 161"
+               polygon_y="22 30 30 21 21 22"/>
+      <element label="text-over-image" polygon_x="181 181 195 195 181 181"
+               polygon_y="127 135 135 126 126 127"/>
+      <element label="text-over-image" polygon_x="191 191 205 205 191 191"
+               polygon_y="17 25 25 16 16 17"/>
+      <element label="headline-over-image" polygon_x="51 51 90 90 51 51"
+               polygon_y="122 140 140 121 121 122"/>
+   </layout>
+   <text>
+      <keyword>love</keyword>
+      <keyword>price</keyword>
+   </text>
+</annotation>

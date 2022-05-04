@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0325</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="141 141 200 200 141 141"
+               polygon_y="137 285 285 136 136 137"/>
+      <element label="text" polygon_x="21 21 85 85 21 21" polygon_y="67 130 130 66 66 67"/>
+      <element label="text" polygon_x="66 66 155 155 66 66" polygon_y="42 55 55 41 41 42"/>
+      <element label="image" polygon_x="21 21 135 135 21 21"
+               polygon_y="137 285 285 136 136 137"/>
+      <element label="image" polygon_x="91 91 200 200 91 91" polygon_y="67 130 130 66 66 67"/>
+      <element label="headline" polygon_x="41 41 180 180 41 41" polygon_y="27 35 35 26 26 27"/>
+   </layout>
+   <text>
+      <keyword>love</keyword>
+      <keyword>family</keyword>
+      <keyword>friend</keyword>
+      <keyword>food</keyword>
+      <keyword>season</keyword>
+      <keyword>celebrate</keyword>
+      <keyword>fun</keyword>
+      <keyword>moment</keyword>
+   </text>
+</annotation>

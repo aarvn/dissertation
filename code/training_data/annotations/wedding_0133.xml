@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0133</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="121 121 220 220 121 121"
+               polygon_y="167 240 240 166 166 167"/>
+      <element label="text" polygon_x="121 121 220 220 121 121"
+               polygon_y="117 160 160 116 116 117"/>
+      <element label="text" polygon_x="121 121 220 220 121 121"
+               polygon_y="77 110 110 76 76 77"/>
+      <element label="text" polygon_x="121 121 220 220 121 121"
+               polygon_y="247 280 280 246 246 247"/>
+      <element label="text" polygon_x="121 121 220 220 121 121" polygon_y="17 40 40 16 16 17"/>
+      <element label="text" polygon_x="121 121 220 220 121 121" polygon_y="47 70 70 46 46 47"/>
+      <element label="text" polygon_x="11 11 100 100 11 11"
+               polygon_y="127 145 145 126 126 127"/>
+      <element label="text" polygon_x="6 6 60 60 6 6" polygon_y="262 285 285 261 261 262"/>
+      <element label="text" polygon_x="11 11 100 100 11 11" polygon_y="22 35 35 21 21 22"/>
+      <element label="text" polygon_x="41 41 105 105 41 41"
+               polygon_y="207 215 215 206 206 207"/>
+      <element label="image" polygon_x="1 1 110 110 1 1" polygon_y="42 120 120 41 41 42"/>
+      <element label="image" polygon_x="36 36 110 110 36 36"
+               polygon_y="157 200 200 156 156 157"/>
+      <element label="image" polygon_x="66 66 110 110 66 66"
+               polygon_y="222 285 285 221 221 222"/>
+      <element label="image" polygon_x="1 1 60 60 1 1" polygon_y="222 255 255 221 221 222"/>
+      <element label="image" polygon_x="1 1 30 30 1 1" polygon_y="157 215 215 156 156 157"/>
+   </layout>
+   <text>
+      <keyword>wedding</keyword>
+      <keyword>guest</keyword>
+      <keyword>love</keyword>
+      <keyword>bride</keyword>
+      <keyword>couple</keyword>
+      <keyword>ceremony</keyword>
+      <keyword>reception</keyword>
+      <keyword>visit</keyword>
+      <keyword>budget</keyword>
+      <keyword>dream</keyword>
+      <keyword>flower</keyword>
+      <keyword>unique</keyword>
+      <keyword>event</keyword>
+      <keyword>heart</keyword>
+      <keyword>bridesmaid</keyword>
+      <keyword>host</keyword>
+      <keyword>wear</keyword>
+      <keyword>color</keyword>
+      <keyword>fit</keyword>
+      <keyword>opportunity</keyword>
+      <keyword>dinner</keyword>
+      <keyword>cost</keyword>
+      <keyword>plenty</keyword>
+      <keyword>theme</keyword>
+      <keyword>personality</keyword>
+      <keyword>season</keyword>
+   </text>
+</annotation>

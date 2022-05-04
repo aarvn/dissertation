@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0215</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 65 66 66 75 75 11 11"
+               polygon_y="32 285 285 101 100 100 31 31 32"/>
+      <element label="text" polygon_x="151 151 161 161 161 215 215 151 151"
+               polygon_y="32 100 100 101 285 285 31 31 32"/>
+      <element label="text" polygon_x="81 81 145 145 81 81" polygon_y="32 100 100 31 31 32"/>
+      <element label="text" polygon_x="71 71 155 155 71 71"
+               polygon_y="237 285 285 236 236 237"/>
+      <element label="text" polygon_x="61 61 165 165 61 61"
+               polygon_y="292 295 295 291 291 292"/>
+      <element label="image" polygon_x="71 71 155 155 71 71"
+               polygon_y="107 230 230 106 106 107"/>
+      <element label="headline" polygon_x="11 11 185 185 11 11" polygon_y="17 25 25 16 16 17"/>
+   </layout>
+   <text>
+      <keyword>study</keyword>
+      <keyword>area</keyword>
+      <keyword>water</keyword>
+      <keyword>focus</keyword>
+      <keyword>south</keyword>
+   </text>
+</annotation>

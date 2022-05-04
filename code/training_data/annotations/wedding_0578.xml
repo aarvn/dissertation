@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0578</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="16 16 115 115 16 16" polygon_y="32 145 145 31 31 32"/>
+      <element label="text" polygon_x="121 121 215 215 121 121"
+               polygon_y="92 145 145 91 91 92"/>
+      <element label="image" polygon_x="11 11 215 215 11 11"
+               polygon_y="152 290 290 151 151 152"/>
+      <element label="image" polygon_x="121 121 215 215 121 121" polygon_y="17 85 85 16 16 17"/>
+      <element label="text-over-image" polygon_x="61 61 135 135 61 61"
+               polygon_y="207 220 220 206 206 207"/>
+      <element label="text-over-image" polygon_x="21 21 50 50 21 21"
+               polygon_y="207 240 240 206 206 207"/>
+      <element label="text-over-image" polygon_x="61 61 135 135 61 61"
+               polygon_y="232 240 240 231 231 232"/>
+   </layout>
+   <text>
+      <keyword>bride</keyword>
+      <keyword>ceremony</keyword>
+      <keyword>place</keyword>
+      <keyword>enjoy</keyword>
+      <keyword>event</keyword>
+      <keyword>moment</keyword>
+      <keyword>experience</keyword>
+      <keyword>image</keyword>
+      <keyword>idea</keyword>
+      <keyword>service</keyword>
+      <keyword>color</keyword>
+      <keyword>beautiful</keyword>
+   </text>
+</annotation>

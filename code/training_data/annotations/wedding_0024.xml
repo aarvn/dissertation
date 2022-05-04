@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0024</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="26 26 80 80 26 26" polygon_y="37 130 130 36 36 37"/>
+      <element label="text" polygon_x="146 146 200 200 146 146"
+               polygon_y="237 285 285 236 236 237"/>
+      <element label="text" polygon_x="26 26 80 80 26 26" polygon_y="137 180 180 136 136 137"/>
+      <element label="text" polygon_x="86 86 140 140 86 86"
+               polygon_y="262 285 285 261 261 262"/>
+      <element label="text" polygon_x="86 86 140 140 86 86"
+               polygon_y="237 255 255 236 236 237"/>
+      <element label="text" polygon_x="26 26 80 80 26 26" polygon_y="187 195 195 186 186 187"/>
+      <element label="text" polygon_x="16 16 65 65 16 16" polygon_y="17 25 25 16 16 17"/>
+      <element label="image" polygon_x="86 86 200 200 86 86" polygon_y="92 230 230 91 91 92"/>
+      <element label="image" polygon_x="86 86 200 200 86 86" polygon_y="2 85 85 1 1 2"/>
+      <element label="image" polygon_x="26 26 80 80 26 26" polygon_y="202 285 285 201 201 202"/>
+   </layout>
+   <text>
+      <keyword>wedding</keyword>
+      <keyword>ceremony</keyword>
+      <keyword>dress</keyword>
+      <keyword>enjoy</keyword>
+      <keyword>choice</keyword>
+      <keyword>perfect</keyword>
+      <keyword>design</keyword>
+      <keyword>arrange</keyword>
+      <keyword>bridesmaid</keyword>
+      <keyword>married</keyword>
+      <keyword>wear</keyword>
+      <keyword>hair</keyword>
+      <keyword>tie</keyword>
+      <keyword>relaxed</keyword>
+      <keyword>happy</keyword>
+      <keyword>theme</keyword>
+      <keyword>cool</keyword>
+      <keyword>garden</keyword>
+   </text>
+</annotation>

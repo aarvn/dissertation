@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0062</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="176 176 225 225 176 176"
+               polygon_y="282 290 290 281 281 282"/>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="12 210 210 11 11 12"/>
+      <element label="headline" polygon_x="1 1 225 225 1 1"
+               polygon_y="212 240 240 211 211 212"/>
+   </layout>
+   <text>
+      <keyword>dream</keyword>
+   </text>
+</annotation>

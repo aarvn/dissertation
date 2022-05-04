@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0359</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 110 110 11 11" polygon_y="47 115 115 46 46 47"/>
+      <element label="text" polygon_x="11 11 110 110 11 11"
+               polygon_y="192 235 235 191 191 192"/>
+      <element label="text" polygon_x="121 121 215 215 121 121"
+               polygon_y="192 235 235 191 191 192"/>
+      <element label="text" polygon_x="11 11 110 110 11 11"
+               polygon_y="132 170 170 131 131 132"/>
+      <element label="text" polygon_x="11 11 110 110 11 11"
+               polygon_y="252 285 285 251 251 252"/>
+      <element label="text" polygon_x="121 121 215 215 121 121"
+               polygon_y="252 285 285 251 251 252"/>
+      <element label="image" polygon_x="121 121 225 225 121 121"
+               polygon_y="32 180 180 31 31 32"/>
+      <element label="headline" polygon_x="11 11 110 110 11 11" polygon_y="32 40 40 31 31 32"/>
+   </layout>
+   <text>
+      <keyword>study</keyword>
+      <keyword>researcher</keyword>
+      <keyword>science</keyword>
+      <keyword>water</keyword>
+      <keyword>cancer</keyword>
+      <keyword>evolution</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0564</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="62 285 285 61 61 62"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="62 150 150 61 61 62"/>
+      <element label="text" polygon_x="81 81 145 145 81 81" polygon_y="62 150 150 61 61 62"/>
+      <element label="image" polygon_x="11 11 145 145 11 11"
+               polygon_y="157 290 290 156 156 157"/>
+      <element label="image" polygon_x="11 11 105 105 11 11" polygon_y="2 55 55 1 1 2"/>
+      <element label="headline" polygon_x="111 111 205 205 111 111" polygon_y="7 50 50 6 6 7"/>
+      <element label="text-over-image" polygon_x="36 36 140 140 36 36"
+               polygon_y="212 225 225 211 211 212"/>
+      <element label="text-over-image" polygon_x="16 16 140 140 16 16"
+               polygon_y="162 170 170 161 161 162"/>
+      <element label="text-over-image" polygon_x="26 26 55 55 26 26"
+               polygon_y="257 285 285 256 256 257"/>
+   </layout>
+   <text>
+      <keyword>wedding</keyword>
+      <keyword>guest</keyword>
+      <keyword>bride</keyword>
+      <keyword>style</keyword>
+      <keyword>couple</keyword>
+      <keyword>ceremony</keyword>
+      <keyword>venue</keyword>
+      <keyword>family</keyword>
+      <keyword>reception</keyword>
+      <keyword>friend</keyword>
+      <keyword>place</keyword>
+      <keyword>dream</keyword>
+      <keyword>cake</keyword>
+      <keyword>event</keyword>
+      <keyword>special</keyword>
+      <keyword>photographer</keyword>
+      <keyword>parent</keyword>
+      <keyword>dance</keyword>
+      <keyword>invite</keyword>
+      <keyword>location</keyword>
+      <keyword>serve</keyword>
+      <keyword>dinner</keyword>
+      <keyword>cost</keyword>
+      <keyword>celebration</keyword>
+      <keyword>husband</keyword>
+      <keyword>personality</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0446</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="131 131 180 180 131 131"
+               polygon_y="32 145 145 31 31 32"/>
+      <element label="text-over-image" polygon_x="71 71 125 125 71 71"
+               polygon_y="52 145 145 51 51 52"/>
+      <element label="text-over-image" polygon_x="11 11 65 65 11 11"
+               polygon_y="52 85 85 51 51 52"/>
+      <element label="text-over-image" polygon_x="11 11 65 65 11 11"
+               polygon_y="117 145 145 116 116 117"/>
+      <element label="text-over-image" polygon_x="11 11 65 65 11 11"
+               polygon_y="92 110 110 91 91 92"/>
+      <element label="text-over-image" polygon_x="186 186 210 210 186 186"
+               polygon_y="32 70 70 31 31 32"/>
+      <element label="text-over-image" polygon_x="11 11 65 65 11 11"
+               polygon_y="32 45 45 31 31 32"/>
+      <element label="text-over-image" polygon_x="71 71 110 110 71 71"
+               polygon_y="32 45 45 31 31 32"/>
+      <element label="text-over-image" polygon_x="186 186 210 210 186 186"
+               polygon_y="127 145 145 126 126 127"/>
+      <element label="text-over-image" polygon_x="181 181 220 220 181 181"
+               polygon_y="12 15 15 11 11 12"/>
+   </layout>
+   <text>
+      <keyword>top</keyword>
+      <keyword>salt</keyword>
+      <keyword>stir</keyword>
+      <keyword>heat</keyword>
+      <keyword>recipe</keyword>
+      <keyword>season</keyword>
+      <keyword>oil</keyword>
+      <keyword>fry</keyword>
+      <keyword>mixture</keyword>
+      <keyword>garlic</keyword>
+      <keyword>boil</keyword>
+      <keyword>cooking</keyword>
+      <keyword>butter</keyword>
+      <keyword>flour</keyword>
+      <keyword>pepper</keyword>
+      <keyword>golden</keyword>
+      <keyword>juice</keyword>
+      <keyword>fridge</keyword>
+      <keyword>choice</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0716</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="36 36 95 95 36 36" polygon_y="42 190 190 41 41 42"/>
+      <element label="text" polygon_x="36 36 95 95 36 36" polygon_y="197 285 285 196 196 197"/>
+      <element label="text" polygon_x="121 121 210 210 121 121"
+               polygon_y="197 235 235 196 196 197"/>
+      <element label="text" polygon_x="136 136 205 205 136 136"
+               polygon_y="267 290 290 266 266 267"/>
+      <element label="text" polygon_x="121 121 150 150 121 121" polygon_y="12 40 40 11 11 12"/>
+      <element label="text" polygon_x="121 121 210 210 121 121"
+               polygon_y="187 190 190 186 186 187"/>
+      <element label="text" polygon_x="146 146 190 190 146 146"
+               polygon_y="252 260 260 251 251 252"/>
+      <element label="image" polygon_x="121 121 185 185 121 121"
+               polygon_y="82 145 145 81 81 82"/>
+      <element label="image" polygon_x="156 156 220 220 156 156" polygon_y="12 75 75 11 11 12"/>
+      <element label="image" polygon_x="121 121 150 150 121 121" polygon_y="47 75 75 46 46 47"/>
+      <element label="image" polygon_x="121 121 150 150 121 121"
+               polygon_y="152 180 180 151 151 152"/>
+      <element label="image" polygon_x="156 156 185 185 156 156"
+               polygon_y="152 180 180 151 151 152"/>
+      <element label="image" polygon_x="191 191 220 220 191 191"
+               polygon_y="82 110 110 81 81 82"/>
+      <element label="image" polygon_x="191 191 220 220 191 191"
+               polygon_y="117 145 145 116 116 117"/>
+      <element label="image" polygon_x="191 191 220 220 191 191"
+               polygon_y="152 180 180 151 151 152"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>visit</keyword>
+      <keyword>child</keyword>
+      <keyword>hotel</keyword>
+      <keyword>experience</keyword>
+      <keyword>travel</keyword>
+      <keyword>art</keyword>
+      <keyword>trip</keyword>
+   </text>
+</annotation>

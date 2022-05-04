@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0209</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="157 290 290 156 156 157"/>
+      <element label="text" polygon_x="151 151 210 210 151 151"
+               polygon_y="157 290 290 156 156 157"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="187 290 290 186 186 187"/>
+      <element label="text" polygon_x="56 56 175 175 56 56" polygon_y="82 95 95 81 81 82"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="157 180 180 156 156 157"/>
+      <element label="image" polygon_x="16 16 210 210 16 16"
+               polygon_y="102 150 150 101 101 102"/>
+      <element label="headline" polygon_x="61 61 170 170 61 61" polygon_y="32 80 80 31 31 32"/>
+   </layout>
+   <text>
+      <keyword>house</keyword>
+      <keyword>city</keyword>
+      <keyword>travel</keyword>
+      <keyword>serve</keyword>
+      <keyword>building</keyword>
+   </text>
+</annotation>

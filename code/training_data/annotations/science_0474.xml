@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0474</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="171 171 220 220 171 171"
+               polygon_y="57 165 165 56 56 57"/>
+      <element label="text" polygon_x="91 91 165 165 91 91"
+               polygon_y="157 220 220 156 156 157"/>
+      <element label="text" polygon_x="171 171 220 220 171 171"
+               polygon_y="197 285 285 196 196 197"/>
+      <element label="text" polygon_x="11 11 85 85 11 11" polygon_y="177 220 220 176 176 177"/>
+      <element label="text" polygon_x="116 116 165 165 116 116"
+               polygon_y="232 285 285 231 231 232"/>
+      <element label="text" polygon_x="61 61 110 110 61 61"
+               polygon_y="237 285 285 236 236 237"/>
+      <element label="text" polygon_x="11 11 55 55 11 11" polygon_y="237 285 285 236 236 237"/>
+      <element label="text" polygon_x="11 11 35 35 11 11" polygon_y="12 20 20 11 11 12"/>
+      <element label="image" polygon_x="11 11 165 165 11 11" polygon_y="37 150 150 36 36 37"/>
+      <element label="headline" polygon_x="11 11 85 85 11 11"
+               polygon_y="157 165 165 156 156 157"/>
+      <element label="headline" polygon_x="171 171 215 215 171 171"
+               polygon_y="37 50 50 36 36 37"/>
+      <element label="headline" polygon_x="11 11 100 100 11 11"
+               polygon_y="227 230 230 226 226 227"/>
+      <element label="headline" polygon_x="171 171 215 215 171 171"
+               polygon_y="177 185 185 176 176 177"/>
+   </layout>
+   <text>
+      <keyword>earth</keyword>
+      <keyword>university</keyword>
+      <keyword>human</keyword>
+      <keyword>rate</keyword>
+   </text>
+</annotation>

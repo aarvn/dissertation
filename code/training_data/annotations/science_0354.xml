@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0354</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="16 16 110 110 16 16"
+               polygon_y="147 185 185 146 146 147"/>
+      <element label="text" polygon_x="16 16 110 110 16 16"
+               polygon_y="192 230 230 191 191 192"/>
+      <element label="text" polygon_x="116 116 210 210 116 116"
+               polygon_y="207 245 245 206 206 207"/>
+      <element label="text" polygon_x="116 116 210 210 116 116"
+               polygon_y="172 200 200 171 171 172"/>
+      <element label="text" polygon_x="16 16 110 110 16 16"
+               polygon_y="237 260 260 236 236 237"/>
+      <element label="text" polygon_x="16 16 210 210 16 16"
+               polygon_y="132 140 140 131 131 132"/>
+      <element label="text" polygon_x="116 116 210 210 116 116"
+               polygon_y="147 165 165 146 146 147"/>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="272 285 285 271 271 272"/>
+      <element label="text" polygon_x="171 171 210 210 171 171"
+               polygon_y="272 280 280 271 271 272"/>
+      <element label="image" polygon_x="16 16 210 210 16 16" polygon_y="27 130 130 26 26 27"/>
+      <element label="headline" polygon_x="11 11 155 155 11 11" polygon_y="12 20 20 11 11 12"/>
+   </layout>
+   <text>
+      <keyword>researcher</keyword>
+      <keyword>research</keyword>
+      <keyword>create</keyword>
+      <keyword>project</keyword>
+      <keyword>technology</keyword>
+      <keyword>develop</keyword>
+      <keyword>future</keyword>
+      <keyword>opportunity</keyword>
+   </text>
+</annotation>

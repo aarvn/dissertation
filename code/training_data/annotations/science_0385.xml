@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0385</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="46 46 210 210 46 46" polygon_y="52 150 150 51 51 52"/>
+      <element label="text" polygon_x="46 46 210 210 46 46"
+               polygon_y="157 220 220 156 156 157"/>
+      <element label="text" polygon_x="46 46 210 210 46 46"
+               polygon_y="227 285 285 226 226 227"/>
+      <element label="image" polygon_x="11 11 40 40 11 11" polygon_y="157 190 190 156 156 157"/>
+      <element label="image" polygon_x="11 11 40 40 11 11" polygon_y="227 260 260 226 226 227"/>
+      <element label="image" polygon_x="11 11 40 40 11 11" polygon_y="52 80 80 51 51 52"/>
+      <element label="image" polygon_x="11 11 40 40 11 11" polygon_y="87 115 115 86 86 87"/>
+      <element label="image" polygon_x="11 11 40 40 11 11" polygon_y="122 150 150 121 121 122"/>
+      <element label="headline" polygon_x="11 11 70 70 11 11" polygon_y="32 40 40 31 31 32"/>
+   </layout>
+   <text>
+      <keyword>university</keyword>
+      <keyword>science</keyword>
+      <keyword>idea</keyword>
+      <keyword>focus</keyword>
+      <keyword>history</keyword>
+      <keyword>virus</keyword>
+      <keyword>lab</keyword>
+      <keyword>disease</keyword>
+      <keyword>design</keyword>
+      <keyword>interest</keyword>
+      <keyword>future</keyword>
+      <keyword>development</keyword>
+   </text>
+</annotation>

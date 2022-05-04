@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0588</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 95 95 11 11" polygon_y="62 290 290 61 61 62"/>
+      <element label="text" polygon_x="101 101 185 185 101 101"
+               polygon_y="62 290 290 61 61 62"/>
+   </layout>
+   <text>
+      <keyword>war</keyword>
+      <keyword>bad</keyword>
+      <keyword>story</keyword>
+      <keyword>fail</keyword>
+      <keyword>struggle</keyword>
+      <keyword>serve</keyword>
+      <keyword>question</keyword>
+      <keyword>service</keyword>
+   </text>
+</annotation>

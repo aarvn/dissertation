@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0041</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="146 146 210 210 146 146" polygon_y="7 20 20 6 6 7"/>
+      <element label="image" polygon_x="1 1 210 210 1 1" polygon_y="27 285 285 26 26 27"/>
+      <element label="text-over-image" polygon_x="136 136 185 185 136 136"
+               polygon_y="37 120 120 36 36 37"/>
+      <element label="text-over-image" polygon_x="26 26 70 70 26 26"
+               polygon_y="37 120 120 36 36 37"/>
+      <element label="text-over-image" polygon_x="81 81 125 125 81 81"
+               polygon_y="37 75 75 36 36 37"/>
+      <element label="text-over-image" polygon_x="81 81 125 125 81 81"
+               polygon_y="87 120 120 86 86 87"/>
+      <element label="text-over-image" polygon_x="21 21 65 65 21 21"
+               polygon_y="267 275 275 266 266 267"/>
+   </layout>
+   <text>
+      <keyword>top</keyword>
+      <keyword>cool</keyword>
+      <keyword>bowl</keyword>
+      <keyword>sugar</keyword>
+      <keyword>boil</keyword>
+      <keyword>fridge</keyword>
+      <keyword>soft</keyword>
+      <keyword>saucepan</keyword>
+   </text>
+</annotation>

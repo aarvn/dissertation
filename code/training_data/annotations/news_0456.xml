@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0456</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="81 81 145 145 81 81" polygon_y="12 290 290 11 11 12"/>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="12 260 260 11 11 12"/>
+      <element label="text" polygon_x="151 151 210 210 151 151"
+               polygon_y="112 290 290 111 111 112"/>
+      <element label="text" polygon_x="151 151 210 210 151 151"
+               polygon_y="12 105 105 11 11 12"/>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="267 290 290 266 266 267"/>
+   </layout>
+   <text>
+      <keyword>decade</keyword>
+      <keyword>talk</keyword>
+      <keyword>child</keyword>
+      <keyword>party</keyword>
+      <keyword>city</keyword>
+      <keyword>friend</keyword>
+      <keyword>family</keyword>
+      <keyword>win</keyword>
+      <keyword>money</keyword>
+      <keyword>problem</keyword>
+      <keyword>struggle</keyword>
+      <keyword>firm</keyword>
+      <keyword>economy</keyword>
+      <keyword>explain</keyword>
+      <keyword>young</keyword>
+      <keyword>hospital</keyword>
+   </text>
+</annotation>

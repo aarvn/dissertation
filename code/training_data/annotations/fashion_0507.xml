@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0507</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="111 111 210 210 111 111"
+               polygon_y="197 260 260 196 196 197"/>
+      <element label="text-over-image" polygon_x="111 111 200 200 111 111"
+               polygon_y="177 190 190 176 176 177"/>
+   </layout>
+   <text>
+      <keyword>love</keyword>
+      <keyword>idea</keyword>
+      <keyword>brand</keyword>
+      <keyword>job</keyword>
+      <keyword>enjoy</keyword>
+      <keyword>product</keyword>
+      <keyword>makeup</keyword>
+   </text>
+</annotation>

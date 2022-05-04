@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0697</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="56 56 105 105 56 56"
+               polygon_y="137 290 290 136 136 137"/>
+      <element label="text" polygon_x="6 6 50 50 6 6" polygon_y="137 215 215 136 136 137"/>
+      <element label="text" polygon_x="166 166 220 220 166 166"
+               polygon_y="242 290 290 241 241 242"/>
+      <element label="text" polygon_x="6 6 45 45 6 6" polygon_y="227 290 290 226 226 227"/>
+      <element label="text" polygon_x="111 111 160 160 111 111"
+               polygon_y="242 290 290 241 241 242"/>
+      <element label="image" polygon_x="1 1 111 111 111 220 220 1 1"
+               polygon_y="2 130 130 131 235 235 1 1 2"/>
+      <element label="text-over-image" polygon_x="181 181 215 215 181 181"
+               polygon_y="112 125 125 111 111 112"/>
+      <element label="text-over-image" polygon_x="191 191 215 215 191 191"
+               polygon_y="222 230 230 221 221 222"/>
+   </layout>
+   <text>
+      <keyword>top</keyword>
+      <keyword>land</keyword>
+      <keyword>summer</keyword>
+      <keyword>coast</keyword>
+      <keyword>experience</keyword>
+      <keyword>winter</keyword>
+      <keyword>field</keyword>
+      <keyword>sky</keyword>
+      <keyword>north</keyword>
+      <keyword>valley</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0316</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="56 56 90 90 56 56" polygon_y="252 275 275 251 251 252"/>
+      <element label="text" polygon_x="171 171 210 210 171 171"
+               polygon_y="252 270 270 251 251 252"/>
+      <element label="text" polygon_x="136 136 165 165 136 136"
+               polygon_y="252 275 275 251 251 252"/>
+      <element label="text" polygon_x="16 16 50 50 16 16" polygon_y="252 270 270 251 251 252"/>
+      <element label="text" polygon_x="96 96 130 130 96 96"
+               polygon_y="252 270 270 251 251 252"/>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="17 245 245 16 16 17"/>
+      <element label="text-over-image" polygon_x="126 126 210 210 126 126"
+               polygon_y="77 115 115 76 76 77"/>
+      <element label="text-over-image" polygon_x="11 11 55 55 11 11"
+               polygon_y="47 110 110 46 46 47"/>
+      <element label="text-over-image" polygon_x="61 61 105 105 61 61"
+               polygon_y="47 110 110 46 46 47"/>
+      <element label="text-over-image" polygon_x="116 116 205 205 116 116"
+               polygon_y="47 70 70 46 46 47"/>
+      <element label="text-over-image" polygon_x="161 161 200 200 161 161"
+               polygon_y="122 135 135 121 121 122"/>
+   </layout>
+   <text>
+      <keyword>create</keyword>
+      <keyword>discover</keyword>
+      <keyword>develop</keyword>
+      <keyword>development</keyword>
+   </text>
+</annotation>

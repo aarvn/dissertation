@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0278</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="26 26 80 80 26 26" polygon_y="137 195 195 136 136 137"/>
+      <element label="text" polygon_x="116 116 155 155 116 116"
+               polygon_y="217 280 280 216 216 217"/>
+      <element label="text" polygon_x="31 31 200 200 31 31" polygon_y="57 60 60 56 56 57"/>
+      <element label="image"
+               polygon_x="26 26 110 111 111 171 171 171 200 201 201 225 225 86 85 85 26 26"
+               polygon_y="202 280 280 211 210 210 211 280 280 211 210 210 66 66 200 201 201 202"/>
+      <element label="image" polygon_x="1 1 80 80 1 1" polygon_y="67 130 130 66 66 67"/>
+      <element label="headline" polygon_x="31 31 200 200 31 31" polygon_y="17 50 50 16 16 17"/>
+      <element label="text-over-image" polygon_x="171 171 200 200 171 171"
+               polygon_y="207 280 280 206 206 207"/>
+      <element label="text-over-image" polygon_x="91 91 130 130 91 91"
+               polygon_y="87 135 135 86 86 87"/>
+      <element label="text-over-image" polygon_x="136 136 165 165 136 136"
+               polygon_y="87 135 135 86 86 87"/>
+      <element label="text-over-image" polygon_x="91 91 165 165 91 91"
+               polygon_y="72 80 80 71 71 72"/>
+   </layout>
+   <text>
+      <keyword>wedding</keyword>
+      <keyword>guest</keyword>
+      <keyword>style</keyword>
+      <keyword>ceremony</keyword>
+      <keyword>reception</keyword>
+      <keyword>friend</keyword>
+      <keyword>heart</keyword>
+      <keyword>drink</keyword>
+      <keyword>party</keyword>
+      <keyword>plenty</keyword>
+   </text>
+</annotation>

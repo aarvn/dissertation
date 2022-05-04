@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0495</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="6 6 85 85 6 6" polygon_y="67 85 85 66 66 67"/>
+      <element label="text-over-image" polygon_x="6 6 85 85 6 6"
+               polygon_y="92 100 100 91 91 92"/>
+      <element label="headline-over-image" polygon_x="6 6 85 85 6 6"
+               polygon_y="37 60 60 36 36 37"/>
+   </layout>
+   <text>
+      <keyword>coast</keyword>
+   </text>
+</annotation>

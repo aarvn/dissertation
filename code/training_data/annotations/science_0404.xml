@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0404</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="32 170 170 31 31 32"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="32 170 170 31 31 32"/>
+      <element label="text" polygon_x="81 81 145 145 81 81" polygon_y="32 145 145 31 31 32"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="152 170 170 151 151 152"/>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="177 300 300 176 176 177"/>
+      <element label="text-over-image" polygon_x="11 11 100 100 11 11"
+               polygon_y="187 280 280 186 186 187"/>
+      <element label="text-over-image" polygon_x="126 126 215 215 126 126"
+               polygon_y="267 280 280 266 266 267"/>
+   </layout>
+   <text>
+      <keyword>study</keyword>
+      <keyword>researcher</keyword>
+      <keyword>university</keyword>
+      <keyword>patient</keyword>
+      <keyword>test</keyword>
+      <keyword>effect</keyword>
+      <keyword>field</keyword>
+      <keyword>human</keyword>
+      <keyword>nature</keyword>
+      <keyword>method</keyword>
+      <keyword>therapy</keyword>
+      <keyword>success</keyword>
+   </text>
+</annotation>

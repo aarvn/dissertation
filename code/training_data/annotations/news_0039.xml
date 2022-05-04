@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0039</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="166 166 205 205 166 166"
+               polygon_y="62 185 185 61 61 62"/>
+      <element label="text" polygon_x="6 6 50 50 6 6" polygon_y="77 185 185 76 76 77"/>
+      <element label="text" polygon_x="111 111 131 131 130 130 111 111 155 155 111 111"
+               polygon_y="62 85 85 86 130 131 131 185 185 61 61 62"/>
+      <element label="text" polygon_x="61 61 100 100 85 85 86 86 100 100 61 61"
+               polygon_y="62 185 185 131 131 130 86 85 85 61 61 62"/>
+      <element label="text" polygon_x="186 186 205 205 186 186"
+               polygon_y="212 280 280 211 211 212"/>
+      <element label="text" polygon_x="6 6 50 50 6 6" polygon_y="62 70 70 61 61 62"/>
+      <element label="text" polygon_x="186 186 200 200 186 186"
+               polygon_y="197 205 205 196 196 197"/>
+      <element label="text" polygon_x="16 16 40 40 16 16" polygon_y="12 15 15 11 11 12"/>
+      <element label="image" polygon_x="6 6 180 180 6 6" polygon_y="197 285 285 196 196 197"/>
+      <element label="image" polygon_x="91 91 125 125 91 91" polygon_y="92 125 125 91 91 92"/>
+      <element label="headline" polygon_x="6 6 195 195 6 6" polygon_y="32 50 50 31 31 32"/>
+   </layout>
+   <text>
+      <keyword>country</keyword>
+      <keyword>woman</keyword>
+      <keyword>fight</keyword>
+      <keyword>fact</keyword>
+      <keyword>mother</keyword>
+      <keyword>sign</keyword>
+   </text>
+</annotation>

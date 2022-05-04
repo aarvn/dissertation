@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0204</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="161 161 215 215 161 161"
+               polygon_y="42 230 230 41 41 42"/>
+      <element label="text" polygon_x="11 11 80 80 11 11" polygon_y="207 235 235 206 206 207"/>
+      <element label="text" polygon_x="11 11 80 80 11 11" polygon_y="152 175 175 151 151 152"/>
+      <element label="text" polygon_x="86 86 125 125 86 86"
+               polygon_y="152 190 190 151 151 152"/>
+      <element label="text" polygon_x="11 11 80 80 11 11" polygon_y="182 200 200 181 181 182"/>
+      <element label="text" polygon_x="161 161 215 215 161 161"
+               polygon_y="262 280 280 261 261 262"/>
+      <element label="text" polygon_x="161 161 200 200 161 161"
+               polygon_y="237 255 255 236 236 237"/>
+      <element label="text" polygon_x="161 161 215 215 161 161" polygon_y="27 35 35 26 26 27"/>
+      <element label="image" polygon_x="1 1 155 155 1 1" polygon_y="2 145 145 1 1 2"/>
+      <element label="image" polygon_x="86 86 140 140 86 86"
+               polygon_y="197 280 280 196 196 197"/>
+      <element label="image" polygon_x="11 11 80 80 11 11" polygon_y="242 280 280 241 241 242"/>
+      <element label="headline-over-image" polygon_x="6 6 50 50 6 6"
+               polygon_y="12 40 40 11 11 12"/>
+   </layout>
+   <text>
+      <keyword>science</keyword>
+      <keyword>launch</keyword>
+      <keyword>answer</keyword>
+      <keyword>sky</keyword>
+      <keyword>product</keyword>
+   </text>
+</annotation>

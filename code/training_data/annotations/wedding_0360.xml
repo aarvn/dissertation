@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0360</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 45 45 21 21" polygon_y="12 15 15 11 11 12"/>
+      <element label="image" polygon_x="1 1 135 135 1 1" polygon_y="157 285 285 156 156 157"/>
+      <element label="image" polygon_x="1 1 130 130 1 1" polygon_y="22 150 150 21 21 22"/>
+      <element label="image" polygon_x="136 136 225 225 136 136" polygon_y="2 150 150 1 1 2"/>
+      <element label="image" polygon_x="141 141 225 225 141 141"
+               polygon_y="157 300 300 156 156 157"/>
+      <element label="text-over-image" polygon_x="21 21 130 130 21 21"
+               polygon_y="82 125 125 81 81 82"/>
+      <element label="text-over-image" polygon_x="141 141 200 200 141 141"
+               polygon_y="227 265 265 226 226 227"/>
+      <element label="text-over-image" polygon_x="21 21 70 70 21 21"
+               polygon_y="227 260 260 226 226 227"/>
+      <element label="text-over-image" polygon_x="21 21 95 95 21 21"
+               polygon_y="62 75 75 61 61 62"/>
+      <element label="text-over-image" polygon_x="21 21 110 110 21 21"
+               polygon_y="132 140 140 131 131 132"/>
+      <element label="text-over-image" polygon_x="141 141 200 200 141 141"
+               polygon_y="207 220 220 206 206 207"/>
+      <element label="text-over-image" polygon_x="151 151 205 205 151 151"
+               polygon_y="122 135 135 121 121 122"/>
+      <element label="text-over-image" polygon_x="21 21 70 70 21 21"
+               polygon_y="207 220 220 206 206 207"/>
+      <element label="text-over-image" polygon_x="21 21 65 65 21 21"
+               polygon_y="267 280 280 266 266 267"/>
+      <element label="text-over-image" polygon_x="141 141 185 185 141 141"
+               polygon_y="272 280 280 271 271 272"/>
+   </layout>
+   <text>
+      <keyword>family</keyword>
+      <keyword>heart</keyword>
+      <keyword>mother</keyword>
+   </text>
+</annotation>

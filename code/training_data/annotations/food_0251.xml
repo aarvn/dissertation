@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0251</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="116 116 200 200 116 116"
+               polygon_y="217 280 280 216 216 217"/>
+      <element label="text" polygon_x="21 21 105 105 21 21"
+               polygon_y="167 195 195 166 166 167"/>
+      <element label="text" polygon_x="21 21 95 95 21 21" polygon_y="227 255 255 226 226 227"/>
+      <element label="text" polygon_x="21 21 105 105 21 21"
+               polygon_y="262 280 280 261 261 262"/>
+      <element label="text" polygon_x="116 116 195 195 116 116"
+               polygon_y="167 185 185 166 166 167"/>
+      <element label="text" polygon_x="21 21 75 75 21 21" polygon_y="202 220 220 201 201 202"/>
+      <element label="text" polygon_x="116 116 165 165 116 116"
+               polygon_y="192 210 210 191 191 192"/>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 155 155 1 1 2"/>
+      <element label="text-over-image" polygon_x="116 116 145 145 116 116"
+               polygon_y="17 40 40 16 16 17"/>
+   </layout>
+   <text>
+      <keyword>salt</keyword>
+      <keyword>taste</keyword>
+      <keyword>cool</keyword>
+      <keyword>season</keyword>
+      <keyword>oil</keyword>
+      <keyword>oven</keyword>
+      <keyword>garlic</keyword>
+      <keyword>flavour</keyword>
+      <keyword>butter</keyword>
+      <keyword>salad</keyword>
+      <keyword>juice</keyword>
+      <keyword>herb</keyword>
+      <keyword>bread</keyword>
+      <keyword>vegetable</keyword>
+   </text>
+</annotation>

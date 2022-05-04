@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0305</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 100 100 95 95 96 96 100 100 21 21"
+               polygon_y="27 275 275 201 201 200 61 60 60 26 26 27"/>
+      <element label="text" polygon_x="106 106 180 180 106 106"
+               polygon_y="202 275 275 201 201 202"/>
+      <element label="text" polygon_x="106 106 180 180 106 106" polygon_y="27 60 60 26 26 27"/>
+      <element label="image" polygon_x="101 101 210 210 101 101"
+               polygon_y="67 195 195 66 66 67"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>reveal</keyword>
+      <keyword>land</keyword>
+      <keyword>future</keyword>
+      <keyword>fall</keyword>
+   </text>
+</annotation>

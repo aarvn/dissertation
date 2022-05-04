@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0153</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="22 290 290 21 21 22"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="217 290 290 216 216 217"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="217 290 290 216 216 217"/>
+      <element label="text" polygon_x="81 81 145 145 81 81" polygon_y="22 90 90 21 21 22"/>
+      <element label="text" polygon_x="151 151 215 215 151 151" polygon_y="22 90 90 21 21 22"/>
+      <element label="text" polygon_x="81 81 155 155 81 81"
+               polygon_y="202 210 210 201 201 202"/>
+      <element label="image" polygon_x="81 81 215 215 81 81" polygon_y="97 165 165 96 96 97"/>
+      <element label="headline" polygon_x="81 81 145 145 81 81"
+               polygon_y="172 190 190 171 171 172"/>
+   </layout>
+   <text>
+      <keyword>country</keyword>
+      <keyword>life</keyword>
+      <keyword>woman</keyword>
+      <keyword>president</keyword>
+      <keyword>grow</keyword>
+      <keyword>art</keyword>
+      <keyword>public</keyword>
+      <keyword>demand</keyword>
+      <keyword>court</keyword>
+      <keyword>politics</keyword>
+      <keyword>parliament</keyword>
+   </text>
+</annotation>

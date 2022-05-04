@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0417</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="111 111 175 175 111 111"
+               polygon_y="47 120 120 46 46 47"/>
+      <element label="text" polygon_x="141 141 175 175 141 141"
+               polygon_y="177 285 285 176 176 177"/>
+      <element label="text" polygon_x="186 186 215 215 186 186"
+               polygon_y="107 180 180 106 106 107"/>
+      <element label="text" polygon_x="186 186 215 215 186 186"
+               polygon_y="237 285 285 236 236 237"/>
+      <element label="text" polygon_x="11 11 65 65 11 11" polygon_y="262 285 285 261 261 262"/>
+      <element label="text" polygon_x="11 11 45 45 11 11" polygon_y="247 255 255 246 246 247"/>
+      <element label="image" polygon_x="1 1 105 105 1 1" polygon_y="2 165 165 1 1 2"/>
+      <element label="image" polygon_x="76 76 135 135 76 76"
+               polygon_y="177 285 285 176 176 177"/>
+      <element label="image" polygon_x="11 11 65 65 11 11" polygon_y="187 240 240 186 186 187"/>
+      <element label="image" polygon_x="186 186 225 225 186 186" polygon_y="27 95 95 26 26 27"/>
+      <element label="image" polygon_x="111 111 175 175 111 111"
+               polygon_y="127 165 165 126 126 127"/>
+      <element label="image" polygon_x="186 186 215 215 186 186"
+               polygon_y="192 230 230 191 191 192"/>
+      <element label="headline" polygon_x="111 111 175 175 111 111"
+               polygon_y="22 35 35 21 21 22"/>
+   </layout>
+   <text>
+      <keyword>woman</keyword>
+      <keyword>love</keyword>
+      <keyword>style</keyword>
+      <keyword>colour</keyword>
+      <keyword>inspire</keyword>
+      <keyword>bag</keyword>
+      <keyword>perfect</keyword>
+      <keyword>fall</keyword>
+      <keyword>shoe</keyword>
+      <keyword>wedding</keyword>
+      <keyword>spirit</keyword>
+      <keyword>travel</keyword>
+   </text>
+</annotation>

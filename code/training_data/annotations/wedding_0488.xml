@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0488</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="26 26 105 105 26 26"
+               polygon_y="167 280 280 166 166 167"/>
+      <element label="text" polygon_x="121 121 195 195 121 121"
+               polygon_y="37 145 145 36 36 37"/>
+      <element label="text" polygon_x="26 26 85 85 26 26" polygon_y="157 160 160 156 156 157"/>
+      <element label="text" polygon_x="121 121 160 160 121 121" polygon_y="27 30 30 26 26 27"/>
+      <element label="image" polygon_x="26 26 115 115 26 26" polygon_y="27 145 145 26 26 27"/>
+      <element label="image" polygon_x="111 111 195 195 111 111"
+               polygon_y="157 280 280 156 156 157"/>
+   </layout>
+   <text>
+      <keyword>bride</keyword>
+      <keyword>style</keyword>
+      <keyword>family</keyword>
+      <keyword>friend</keyword>
+      <keyword>budget</keyword>
+      <keyword>heart</keyword>
+      <keyword>service</keyword>
+      <keyword>appointment</keyword>
+   </text>
+</annotation>

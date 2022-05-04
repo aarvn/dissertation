@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0409</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="81 81 145 145 81 81" polygon_y="72 290 290 71 71 72"/>
+      <element label="text" polygon_x="151 151 210 210 151 151"
+               polygon_y="12 220 220 11 11 12"/>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="122 290 290 121 121 122"/>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="12 115 115 11 11 12"/>
+      <element label="text" polygon_x="151 151 210 210 151 151"
+               polygon_y="227 290 290 226 226 227"/>
+      <element label="text" polygon_x="81 81 145 145 81 81" polygon_y="12 65 65 11 11 12"/>
+   </layout>
+   <text>
+      <keyword>friend</keyword>
+      <keyword>war</keyword>
+      <keyword>issue</keyword>
+      <keyword>attack</keyword>
+      <keyword>nation</keyword>
+      <keyword>campaign</keyword>
+      <keyword>support</keyword>
+      <keyword>deal</keyword>
+      <keyword>street</keyword>
+      <keyword>politics</keyword>
+   </text>
+</annotation>

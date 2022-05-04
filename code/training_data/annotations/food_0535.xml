@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0535</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="131 131 210 210 131 131"
+               polygon_y="137 285 285 136 136 137"/>
+      <element label="text" polygon_x="131 131 210 210 131 131"
+               polygon_y="77 130 130 76 76 77"/>
+      <element label="image" polygon_x="11 11 125 125 11 11"
+               polygon_y="147 300 300 146 146 147"/>
+      <element label="image" polygon_x="11 11 125 125 11 11" polygon_y="2 140 140 1 1 2"/>
+      <element label="headline" polygon_x="131 131 185 185 131 131"
+               polygon_y="47 70 70 46 46 47"/>
+   </layout>
+   <text>
+      <keyword>place</keyword>
+      <keyword>recipe</keyword>
+      <keyword>season</keyword>
+      <keyword>oven</keyword>
+      <keyword>food</keyword>
+      <keyword>restaurant</keyword>
+      <keyword>bake</keyword>
+      <keyword>flavour</keyword>
+      <keyword>salad</keyword>
+      <keyword>menu</keyword>
+      <keyword>warm</keyword>
+      <keyword>book</keyword>
+      <keyword>cuisine</keyword>
+   </text>
+</annotation>

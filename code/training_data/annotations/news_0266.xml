@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0266</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 110 110 61 60 60 11 11"
+               polygon_y="182 290 290 146 146 180 181 181 182"/>
+      <element label="text" polygon_x="116 116 215 215 116 116"
+               polygon_y="17 105 105 16 16 17"/>
+      <element label="text" polygon_x="116 116 215 215 116 116"
+               polygon_y="147 215 215 146 146 147"/>
+      <element label="text" polygon_x="116 116 215 215 116 116"
+               polygon_y="227 290 290 226 226 227"/>
+      <element label="text" polygon_x="11 11 110 110 11 11" polygon_y="62 105 105 61 61 62"/>
+      <element label="text" polygon_x="11 11 110 110 11 11" polygon_y="17 50 50 16 16 17"/>
+      <element label="text" polygon_x="11 11 130 130 11 11"
+               polygon_y="137 140 140 136 136 137"/>
+      <element label="image" polygon_x="11 11 55 55 11 11" polygon_y="147 175 175 146 146 147"/>
+      <element label="headline" polygon_x="11 11 70 70 11 11"
+               polygon_y="112 125 125 111 111 112"/>
+   </layout>
+   <text>
+      <keyword>country</keyword>
+      <keyword>government</keyword>
+      <keyword>power</keyword>
+      <keyword>study</keyword>
+      <keyword>thousand</keyword>
+      <keyword>fail</keyword>
+      <keyword>business</keyword>
+      <keyword>promise</keyword>
+      <keyword>deal</keyword>
+      <keyword>history</keyword>
+      <keyword>court</keyword>
+      <keyword>budget</keyword>
+   </text>
+</annotation>

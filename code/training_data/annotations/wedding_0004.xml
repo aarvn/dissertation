@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0004</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="151 151 205 205 151 151"
+               polygon_y="37 105 105 36 36 37"/>
+      <element label="text" polygon_x="31 31 110 110 31 31"
+               polygon_y="162 195 195 161 161 162"/>
+      <element label="text" polygon_x="116 116 195 195 116 116"
+               polygon_y="162 190 190 161 161 162"/>
+      <element label="text" polygon_x="151 151 205 205 151 151"
+               polygon_y="112 140 140 111 111 112"/>
+      <element label="text" polygon_x="151 151 205 205 151 151" polygon_y="12 30 30 11 11 12"/>
+      <element label="text" polygon_x="31 31 80 80 31 31" polygon_y="147 155 155 146 146 147"/>
+      <element label="image" polygon_x="1 1 220 220 1 1" polygon_y="197 300 300 196 196 197"/>
+      <element label="image" polygon_x="6 6 145 145 6 6" polygon_y="2 140 140 1 1 2"/>
+   </layout>
+   <text>
+      <keyword>guest</keyword>
+      <keyword>bride</keyword>
+      <keyword>couple</keyword>
+      <keyword>family</keyword>
+      <keyword>friend</keyword>
+      <keyword>enjoy</keyword>
+      <keyword>dream</keyword>
+      <keyword>life</keyword>
+      <keyword>beach</keyword>
+      <keyword>relax</keyword>
+      <keyword>fun</keyword>
+      <keyword>opportunity</keyword>
+      <keyword>honeymoon</keyword>
+      <keyword>resort</keyword>
+      <keyword>celebrate</keyword>
+   </text>
+</annotation>

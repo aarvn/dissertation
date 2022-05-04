@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0466</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="81 81 145 145 81 81" polygon_y="12 290 290 11 11 12"/>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="97 290 290 96 96 97"/>
+      <element label="text" polygon_x="151 151 210 210 151 151"
+               polygon_y="132 260 260 131 131 132"/>
+      <element label="text" polygon_x="151 151 210 210 151 151"
+               polygon_y="12 125 125 11 11 12"/>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="12 90 90 11 11 12"/>
+      <element label="text" polygon_x="151 151 210 210 151 151"
+               polygon_y="267 290 290 266 266 267"/>
+   </layout>
+   <text>
+      <keyword>book</keyword>
+      <keyword>family</keyword>
+      <keyword>plan</keyword>
+      <keyword>money</keyword>
+      <keyword>live</keyword>
+      <keyword>struggle</keyword>
+      <keyword>street</keyword>
+      <keyword>sense</keyword>
+   </text>
+</annotation>

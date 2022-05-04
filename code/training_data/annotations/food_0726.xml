@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0726</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="76 76 150 150 76 76"
+               polygon_y="112 115 115 111 111 112"/>
+      <element label="image"
+               polygon_x="1 1 66 66 65 65 1 1 75 76 76 81 81 81 150 151 151 156 156 156 225 225 160 160 161 161 225 225 156 155 155 65 65 65 2 66 1 NaN 130 66 131 156 156 155 155 136 135 135 130 130 130"
+               polygon_y="112 195 195 196 200 201 201 300 300 221 220 220 221 300 300 221 220 220 221 300 300 181 181 180 176 175 175 106 106 120 121 121 120 111 111 151 112 NaN 191 151 190 190 191 195 196 196 200 201 201 200 191"/>
+      <element label="image" polygon_x="146 146 225 225 146 146" polygon_y="2 100 100 1 1 2"/>
+      <element label="image" polygon_x="71 71 91 91 91 130 131 131 140 140 71 71"
+               polygon_y="2 100 100 101 105 105 101 100 100 1 1 2"/>
+      <element label="image" polygon_x="1 1 65 65 1 1" polygon_y="2 105 105 1 1 2"/>
+      <element label="text-over-image" polygon_x="66 66 130 131 131 160 160 66 66"
+               polygon_y="122 220 220 191 190 190 121 121 122"/>
+      <element label="headline-over-image" polygon_x="91 91 130 130 91 91"
+               polygon_y="97 105 105 96 96 97"/>
+   </layout>
+   <text>
+      <keyword>recipe</keyword>
+      <keyword>eat</keyword>
+      <keyword>love</keyword>
+      <keyword>enjoy</keyword>
+      <keyword>kitchen</keyword>
+      <keyword>life</keyword>
+      <keyword>grill</keyword>
+   </text>
+</annotation>

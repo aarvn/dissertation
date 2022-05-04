@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0450</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 110 110 80 80 81 81 110 110 11 11"
+               polygon_y="212 285 285 281 281 280 216 215 215 211 211 212"/>
+      <element label="text" polygon_x="116 116 146 146 145 145 116 116 215 215 116 116"
+               polygon_y="212 215 215 216 280 281 281 285 285 211 211 212"/>
+      <element label="image"
+               polygon_x="1 1 11 11 11 130 131 131 136 136 136 215 216 216 225 225 1 1"
+               polygon_y="2 140 140 141 190 190 141 140 140 141 190 190 141 140 140 1 1 2"/>
+      <element label="image" polygon_x="86 86 140 140 86 86"
+               polygon_y="222 275 275 221 221 222"/>
+      <element label="headline" polygon_x="56 56 175 175 56 56"
+               polygon_y="197 205 205 196 196 197"/>
+      <element label="text-over-image" polygon_x="96 96 130 130 96 96"
+               polygon_y="232 265 265 231 231 232"/>
+      <element label="text-over-image" polygon_x="6 6 60 60 6 6" polygon_y="7 20 20 6 6 7"/>
+   </layout>
+   <text>
+      <keyword>love</keyword>
+      <keyword>idea</keyword>
+      <keyword>heart</keyword>
+      <keyword>room</keyword>
+      <keyword>inspire</keyword>
+      <keyword>star</keyword>
+      <keyword>perfect</keyword>
+      <keyword>wedding</keyword>
+   </text>
+</annotation>

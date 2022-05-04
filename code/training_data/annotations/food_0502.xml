@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0502</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="71 71 120 120 71 71"
+               polygon_y="72 285 285 71 71 72"/>
+      <element label="text-over-image" polygon_x="11 11 65 65 11 11"
+               polygon_y="127 185 185 126 126 127"/>
+      <element label="text-over-image" polygon_x="11 11 65 65 11 11"
+               polygon_y="192 235 235 191 191 192"/>
+      <element label="text-over-image" polygon_x="126 126 175 175 126 126"
+               polygon_y="72 115 115 71 71 72"/>
+      <element label="text-over-image" polygon_x="131 131 180 180 131 131"
+               polygon_y="247 285 285 246 246 247"/>
+      <element label="text-over-image" polygon_x="11 11 65 65 11 11"
+               polygon_y="92 120 120 91 91 92"/>
+      <element label="text-over-image" polygon_x="11 11 65 65 11 11"
+               polygon_y="242 270 270 241 241 242"/>
+      <element label="text-over-image" polygon_x="11 11 195 195 11 11"
+               polygon_y="57 60 60 56 56 57"/>
+      <element label="text-over-image" polygon_x="11 11 65 65 11 11"
+               polygon_y="72 85 85 71 71 72"/>
+      <element label="text-over-image" polygon_x="11 11 65 65 11 11"
+               polygon_y="277 285 285 276 276 277"/>
+      <element label="text-over-image" polygon_x="11 11 70 70 11 11"
+               polygon_y="32 35 35 31 31 32"/>
+      <element label="text-over-image" polygon_x="191 191 220 220 191 191"
+               polygon_y="12 15 15 11 11 12"/>
+      <element label="headline-over-image" polygon_x="11 11 115 115 11 11"
+               polygon_y="42 50 50 41 41 42"/>
+   </layout>
+   <text>
+      <keyword>top</keyword>
+      <keyword>heat</keyword>
+      <keyword>season</keyword>
+      <keyword>oil</keyword>
+      <keyword>oven</keyword>
+      <keyword>pan</keyword>
+      <keyword>garlic</keyword>
+      <keyword>bake</keyword>
+      <keyword>pepper</keyword>
+      <keyword>cheese</keyword>
+      <keyword>salad</keyword>
+      <keyword>roll</keyword>
+      <keyword>fat</keyword>
+      <keyword>warm</keyword>
+      <keyword>chilli</keyword>
+      <keyword>grill</keyword>
+      <keyword>chicken</keyword>
+      <keyword>coriander</keyword>
+   </text>
+</annotation>

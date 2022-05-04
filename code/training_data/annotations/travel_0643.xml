@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0643</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="156 156 200 200 175 175 175 156 156"
+               polygon_y="62 270 270 146 146 145 61 61 62"/>
+      <element label="text" polygon_x="26 26 80 80 26 26" polygon_y="52 155 155 51 51 52"/>
+      <element label="text" polygon_x="86 86 145 145 86 86"
+               polygon_y="112 190 190 111 111 112"/>
+      <element label="text" polygon_x="31 31 65 65 31 31" polygon_y="202 260 260 201 201 202"/>
+      <element label="text" polygon_x="71 71 100 100 71 71"
+               polygon_y="202 245 245 201 201 202"/>
+      <element label="text" polygon_x="106 106 135 135 106 106"
+               polygon_y="237 275 275 236 236 237"/>
+      <element label="text" polygon_x="156 156 200 200 156 156" polygon_y="32 55 55 31 31 32"/>
+      <element label="text" polygon_x="106 106 135 135 106 106"
+               polygon_y="202 230 230 201 201 202"/>
+      <element label="text" polygon_x="71 71 100 100 71 71"
+               polygon_y="252 275 275 251 251 252"/>
+      <element label="text" polygon_x="86 86 145 145 86 86" polygon_y="97 105 105 96 96 97"/>
+      <element label="text" polygon_x="31 31 65 65 31 31" polygon_y="267 275 275 266 266 267"/>
+      <element label="image" polygon_x="181 181 225 225 181 181"
+               polygon_y="62 140 140 61 61 62"/>
+      <element label="image" polygon_x="86 86 145 145 86 86" polygon_y="52 95 95 51 51 52"/>
+      <element label="image" polygon_x="26 26 80 80 26 26" polygon_y="162 190 190 161 161 162"/>
+      <element label="headline" polygon_x="26 26 145 145 26 26" polygon_y="27 45 45 26 26 27"/>
+   </layout>
+   <text>
+      <keyword>place</keyword>
+      <keyword>design</keyword>
+      <keyword>city</keyword>
+      <keyword>plant</keyword>
+      <keyword>travel</keyword>
+      <keyword>plan</keyword>
+      <keyword>taste</keyword>
+      <keyword>moment</keyword>
+      <keyword>dream</keyword>
+   </text>
+</annotation>

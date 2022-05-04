@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0419</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="151 151 210 210 151 151"
+               polygon_y="12 290 290 11 11 12"/>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="112 290 290 111 111 112"/>
+      <element label="text" polygon_x="81 81 145 145 81 81" polygon_y="12 140 140 11 11 12"/>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="12 105 105 11 11 12"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="232 290 290 231 231 232"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="147 190 190 146 146 147"/>
+      <element label="image" polygon_x="81 81 145 145 81 81"
+               polygon_y="197 225 225 196 196 197"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>man</keyword>
+      <keyword>talk</keyword>
+      <keyword>power</keyword>
+      <keyword>state</keyword>
+      <keyword>book</keyword>
+      <keyword>fall</keyword>
+      <keyword>idea</keyword>
+      <keyword>bad</keyword>
+      <keyword>company</keyword>
+      <keyword>story</keyword>
+      <keyword>future</keyword>
+      <keyword>job</keyword>
+      <keyword>thousand</keyword>
+      <keyword>school</keyword>
+      <keyword>office</keyword>
+      <keyword>business</keyword>
+      <keyword>moment</keyword>
+      <keyword>wife</keyword>
+      <keyword>serve</keyword>
+      <keyword>street</keyword>
+      <keyword>history</keyword>
+      <keyword>culture</keyword>
+      <keyword>parliament</keyword>
+      <keyword>budget</keyword>
+      <keyword>speech</keyword>
+   </text>
+</annotation>

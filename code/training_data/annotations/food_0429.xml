@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0429</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="6 6 220 220 6 6" polygon_y="82 295 295 81 81 82"/>
+      <element label="image" polygon_x="6 6 110 110 6 6" polygon_y="7 75 75 6 6 7"/>
+      <element label="image" polygon_x="116 116 220 220 116 116" polygon_y="7 75 75 6 6 7"/>
+      <element label="text-over-image" polygon_x="6 6 95 95 6 6"
+               polygon_y="117 135 135 116 116 117"/>
+      <element label="text-over-image" polygon_x="6 6 145 145 6 6"
+               polygon_y="272 280 280 271 271 272"/>
+      <element label="headline-over-image" polygon_x="6 6 140 140 6 6"
+               polygon_y="82 110 110 81 81 82"/>
+   </layout>
+   <text>
+      <keyword>place</keyword>
+      <keyword>taste</keyword>
+      <keyword>book</keyword>
+   </text>
+</annotation>

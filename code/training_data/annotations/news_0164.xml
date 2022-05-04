@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0164</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="152 290 290 151 151 152"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="152 290 290 151 151 152"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="152 225 225 151 151 152"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="232 290 290 231 231 232"/>
+      <element label="text" polygon_x="11 11 145 145 11 11"
+               polygon_y="137 145 145 136 136 137"/>
+      <element label="text" polygon_x="151 151 205 205 151 151"
+               polygon_y="112 120 120 111 111 112"/>
+      <element label="image" polygon_x="11 11 215 215 11 11" polygon_y="12 105 105 11 11 12"/>
+      <element label="headline" polygon_x="11 11 100 100 11 11"
+               polygon_y="112 120 120 111 111 112"/>
+   </layout>
+   <text>
+      <keyword>country</keyword>
+      <keyword>company</keyword>
+      <keyword>grow</keyword>
+      <keyword>deal</keyword>
+      <keyword>top</keyword>
+   </text>
+</annotation>

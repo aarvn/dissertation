@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0431</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="26 26 165 165 26 26"
+               polygon_y="177 195 195 176 176 177"/>
+      <element label="text" polygon_x="151 151 195 195 151 151"
+               polygon_y="207 240 240 206 206 207"/>
+      <element label="text" polygon_x="151 151 195 195 151 151"
+               polygon_y="247 280 280 246 246 247"/>
+      <element label="text" polygon_x="106 106 190 190 106 106" polygon_y="37 40 40 36 36 37"/>
+      <element label="text" polygon_x="26 26 70 70 26 26" polygon_y="27 30 30 26 26 27"/>
+      <element label="text" polygon_x="26 26 55 55 26 26" polygon_y="167 170 170 166 166 167"/>
+      <element label="image" polygon_x="26 26 200 200 26 26" polygon_y="47 160 160 46 46 47"/>
+      <element label="image" polygon_x="26 26 145 145 26 26"
+               polygon_y="202 280 280 201 201 202"/>
+      <element label="headline" polygon_x="106 106 155 155 106 106"
+               polygon_y="22 30 30 21 21 22"/>
+   </layout>
+   <text>
+      <keyword>land</keyword>
+      <keyword>technique</keyword>
+      <keyword>camera</keyword>
+   </text>
+</annotation>

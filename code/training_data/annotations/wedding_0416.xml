@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0416</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="81 81 140 140 81 81"
+               polygon_y="167 285 285 166 166 167"/>
+      <element label="text" polygon_x="21 21 75 75 21 21" polygon_y="167 285 285 166 166 167"/>
+      <element label="text" polygon_x="146 146 200 200 146 146"
+               polygon_y="167 285 285 166 166 167"/>
+      <element label="text" polygon_x="21 21 90 90 21 21" polygon_y="147 160 160 146 146 147"/>
+      <element label="text" polygon_x="21 21 50 50 21 21" polygon_y="12 15 15 11 11 12"/>
+      <element label="image" polygon_x="21 21 96 96 96 215 215 96 95 95 21 21"
+               polygon_y="57 140 140 141 160 160 1 1 55 56 56 57"/>
+      <element label="text-over-image" polygon_x="161 161 205 205 161 161"
+               polygon_y="147 155 155 146 146 147"/>
+      <element label="headline-over-image" polygon_x="21 21 105 105 21 21"
+               polygon_y="57 140 140 56 56 57"/>
+   </layout>
+   <text>
+      <keyword>bride</keyword>
+      <keyword>plan</keyword>
+      <keyword>invite</keyword>
+      <keyword>fit</keyword>
+   </text>
+</annotation>

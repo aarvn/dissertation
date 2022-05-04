@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0032</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="16 16 110 110 16 16"
+               polygon_y="122 170 170 121 121 122"/>
+      <element label="text" polygon_x="16 16 110 110 16 16"
+               polygon_y="177 210 210 176 176 177"/>
+      <element label="text" polygon_x="16 16 110 110 16 16" polygon_y="92 115 115 91 91 92"/>
+      <element label="text" polygon_x="16 16 110 110 16 16" polygon_y="77 85 85 76 76 77"/>
+      <element label="text" polygon_x="16 16 110 110 16 16"
+               polygon_y="217 220 220 216 216 217"/>
+      <element label="image" polygon_x="116 116 215 215 116 116"
+               polygon_y="147 215 215 146 146 147"/>
+      <element label="image" polygon_x="116 116 215 215 116 116"
+               polygon_y="222 290 290 221 221 222"/>
+      <element label="image" polygon_x="116 116 215 215 116 116"
+               polygon_y="77 140 140 76 76 77"/>
+      <element label="image" polygon_x="16 16 110 110 16 16"
+               polygon_y="227 290 290 226 226 227"/>
+      <element label="headline" polygon_x="16 16 195 195 16 16" polygon_y="37 65 65 36 36 37"/>
+   </layout>
+   <text>
+      <keyword>place</keyword>
+      <keyword>visit</keyword>
+      <keyword>enjoy</keyword>
+      <keyword>explore</keyword>
+      <keyword>story</keyword>
+      <keyword>plan</keyword>
+   </text>
+</annotation>

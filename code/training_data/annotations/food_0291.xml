@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0291</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="181 181 215 215 181 181" polygon_y="12 20 20 11 11 12"/>
+      <element label="image" polygon_x="16 16 215 215 16 16" polygon_y="22 295 295 21 21 22"/>
+      <element label="text-over-image" polygon_x="81 81 200 200 81 81"
+               polygon_y="27 155 155 26 26 27"/>
+      <element label="text-over-image" polygon_x="21 21 65 65 21 21"
+               polygon_y="122 160 160 121 121 122"/>
+   </layout>
+   <text>
+      <keyword>salt</keyword>
+      <keyword>season</keyword>
+      <keyword>flavour</keyword>
+      <keyword>enjoy</keyword>
+      <keyword>roll</keyword>
+      <keyword>sweet</keyword>
+      <keyword>summer</keyword>
+      <keyword>cuisine</keyword>
+   </text>
+</annotation>

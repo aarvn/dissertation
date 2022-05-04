@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0158</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="61 61 110 110 61 61"
+               polygon_y="177 265 265 176 176 177"/>
+      <element label="text" polygon_x="6 6 55 55 6 6" polygon_y="212 265 265 211 211 212"/>
+      <element label="text" polygon_x="6 6 215 215 6 6" polygon_y="277 285 285 276 276 277"/>
+      <element label="text" polygon_x="6 6 55 55 6 6" polygon_y="172 175 175 171 171 172"/>
+      <element label="image" polygon_x="6 6 55 56 56 225 225 6 6"
+               polygon_y="2 165 165 136 135 135 1 1 2"/>
+      <element label="image" polygon_x="116 116 225 225 116 116"
+               polygon_y="142 265 265 141 141 142"/>
+      <element label="headline" polygon_x="6 6 55 55 6 6" polygon_y="182 205 205 181 181 182"/>
+      <element label="headline" polygon_x="61 61 110 110 61 61"
+               polygon_y="152 170 170 151 151 152"/>
+      <element label="text-over-image" polygon_x="111 111 160 160 111 111"
+               polygon_y="112 135 135 111 111 112"/>
+      <element label="text-over-image" polygon_x="166 166 215 215 166 166"
+               polygon_y="112 135 135 111 111 112"/>
+      <element label="text-over-image" polygon_x="61 61 105 105 61 61"
+               polygon_y="112 135 135 111 111 112"/>
+      <element label="text-over-image" polygon_x="11 11 40 40 11 11"
+               polygon_y="112 120 120 111 111 112"/>
+      <element label="text-over-image" polygon_x="191 191 220 220 191 191"
+               polygon_y="142 150 150 141 141 142"/>
+      <element label="headline-over-image" polygon_x="61 61 210 210 61 61"
+               polygon_y="97 105 105 96 96 97"/>
+   </layout>
+   <text>
+      <keyword>study</keyword>
+      <keyword>earth</keyword>
+      <keyword>planet</keyword>
+      <keyword>surface</keyword>
+      <keyword>answer</keyword>
+      <keyword>rock</keyword>
+      <keyword>universe</keyword>
+   </text>
+</annotation>

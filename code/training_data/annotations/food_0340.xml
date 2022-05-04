@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0340</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="116 116 195 195 116 116"
+               polygon_y="167 260 260 166 166 167"/>
+      <element label="text-over-image" polygon_x="21 21 110 110 21 21"
+               polygon_y="137 200 200 136 136 137"/>
+      <element label="text-over-image" polygon_x="31 31 155 155 31 31"
+               polygon_y="37 60 60 36 36 37"/>
+      <element label="text-over-image" polygon_x="21 21 110 110 21 21"
+               polygon_y="102 130 130 101 101 102"/>
+      <element label="text-over-image" polygon_x="26 26 75 75 26 26"
+               polygon_y="222 270 270 221 221 222"/>
+      <element label="text-over-image" polygon_x="21 21 110 110 21 21"
+               polygon_y="77 95 95 76 76 77"/>
+      <element label="text-over-image" polygon_x="116 116 175 175 116 116"
+               polygon_y="132 160 160 131 131 132"/>
+      <element label="text-over-image" polygon_x="116 116 185 185 116 116"
+               polygon_y="107 125 125 106 106 107"/>
+      <element label="text-over-image" polygon_x="116 116 160 160 116 116"
+               polygon_y="77 100 100 76 76 77"/>
+      <element label="text-over-image" polygon_x="116 116 165 165 116 116"
+               polygon_y="267 280 280 266 266 267"/>
+   </layout>
+   <text>
+      <keyword>stir</keyword>
+      <keyword>heat</keyword>
+      <keyword>recipe</keyword>
+      <keyword>cool</keyword>
+      <keyword>sugar</keyword>
+      <keyword>water</keyword>
+      <keyword>mixture</keyword>
+      <keyword>boil</keyword>
+      <keyword>butter</keyword>
+      <keyword>juice</keyword>
+      <keyword>soft</keyword>
+      <keyword>fresh</keyword>
+      <keyword>hot</keyword>
+      <keyword>cup</keyword>
+      <keyword>vanilla</keyword>
+   </text>
+</annotation>

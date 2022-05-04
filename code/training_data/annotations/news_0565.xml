@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0565</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 85 85 11 11" polygon_y="207 285 285 206 206 207"/>
+      <element label="text" polygon_x="91 91 170 170 91 91"
+               polygon_y="207 265 265 206 206 207"/>
+      <element label="text" polygon_x="176 176 210 210 176 176"
+               polygon_y="217 255 255 216 216 217"/>
+      <element label="text" polygon_x="11 11 70 70 11 11" polygon_y="182 200 200 181 181 182"/>
+      <element label="text" polygon_x="91 91 170 170 91 91"
+               polygon_y="272 285 285 271 271 272"/>
+      <element label="image" polygon_x="11 11 215 215 11 11" polygon_y="37 175 175 36 36 37"/>
+   </layout>
+   <text>
+      <keyword>country</keyword>
+      <keyword>book</keyword>
+      <keyword>city</keyword>
+      <keyword>family</keyword>
+      <keyword>fear</keyword>
+      <keyword>thousand</keyword>
+   </text>
+</annotation>

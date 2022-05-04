@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0246</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="17 290 290 16 16 17"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="17 95 95 16 16 17"/>
+      <element label="text" polygon_x="81 81 145 145 81 81" polygon_y="27 95 95 26 26 27"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="227 290 290 226 226 227"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="227 290 290 226 226 227"/>
+      <element label="text" polygon_x="11 11 145 145 11 11"
+               polygon_y="217 220 220 216 216 217"/>
+      <element label="image" polygon_x="11 11 145 145 11 11"
+               polygon_y="102 185 185 101 101 102"/>
+      <element label="headline" polygon_x="11 11 85 85 11 11"
+               polygon_y="192 200 200 191 191 192"/>
+   </layout>
+   <text>
+      <keyword>government</keyword>
+      <keyword>party</keyword>
+      <keyword>city</keyword>
+      <keyword>war</keyword>
+      <keyword>win</keyword>
+      <keyword>fear</keyword>
+      <keyword>attack</keyword>
+      <keyword>thousand</keyword>
+      <keyword>election</keyword>
+      <keyword>support</keyword>
+      <keyword>parliament</keyword>
+   </text>
+</annotation>

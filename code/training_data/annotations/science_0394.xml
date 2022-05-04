@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0394</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 110 110 11 11" polygon_y="72 285 285 71 71 72"/>
+      <element label="text" polygon_x="116 116 215 215 116 116"
+               polygon_y="247 285 285 246 246 247"/>
+      <element label="text" polygon_x="11 11 150 150 11 11" polygon_y="47 60 60 46 46 47"/>
+      <element label="text" polygon_x="116 116 215 215 116 116"
+               polygon_y="217 235 235 216 216 217"/>
+      <element label="image" polygon_x="116 116 225 225 116 116"
+               polygon_y="72 205 205 71 71 72"/>
+      <element label="headline" polygon_x="11 11 100 100 11 11" polygon_y="32 40 40 31 31 32"/>
+      <element label="text-over-image" polygon_x="121 121 215 215 121 121"
+               polygon_y="192 195 195 191 191 192"/>
+   </layout>
+   <text>
+      <keyword>researcher</keyword>
+      <keyword>university</keyword>
+      <keyword>decade</keyword>
+      <keyword>virus</keyword>
+      <keyword>lab</keyword>
+      <keyword>report</keyword>
+      <keyword>culture</keyword>
+   </text>
+</annotation>

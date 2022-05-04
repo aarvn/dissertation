@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0092</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="176 176 225 225 176 176"
+               polygon_y="37 190 190 36 36 37"/>
+      <element label="text" polygon_x="6 6 160 160 6 6" polygon_y="222 240 240 221 221 222"/>
+      <element label="text" polygon_x="6 6 80 80 6 6" polygon_y="247 285 285 246 246 247"/>
+      <element label="text" polygon_x="91 91 165 165 91 91"
+               polygon_y="247 285 285 246 246 247"/>
+      <element label="text" polygon_x="176 176 215 215 176 176"
+               polygon_y="197 220 220 196 196 197"/>
+      <element label="text" polygon_x="176 176 215 215 176 176" polygon_y="22 30 30 21 21 22"/>
+      <element label="image" polygon_x="1 1 165 165 1 1" polygon_y="2 215 215 1 1 2"/>
+      <element label="image" polygon_x="176 176 225 225 176 176"
+               polygon_y="232 285 285 231 231 232"/>
+      <element label="headline-over-image" polygon_x="6 6 145 145 6 6"
+               polygon_y="197 215 215 196 196 197"/>
+   </layout>
+   <text>
+      <keyword>woman</keyword>
+      <keyword>skin</keyword>
+      <keyword>star</keyword>
+      <keyword>beauty</keyword>
+      <keyword>young</keyword>
+      <keyword>paris</keyword>
+   </text>
+</annotation>

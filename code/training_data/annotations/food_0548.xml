@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0548</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="16 16 130 130 16 16"
+               polygon_y="112 170 170 111 111 112"/>
+      <element label="text" polygon_x="16 16 210 210 16 16"
+               polygon_y="257 285 285 256 256 257"/>
+      <element label="text" polygon_x="66 66 130 130 66 66"
+               polygon_y="182 240 240 181 181 182"/>
+      <element label="text" polygon_x="141 141 170 170 141 141"
+               polygon_y="127 240 240 126 126 127"/>
+      <element label="text" polygon_x="181 181 210 210 181 181"
+               polygon_y="22 110 110 21 21 22"/>
+      <element label="image" polygon_x="11 11 16 16 16 130 130 16 15 15 11 11"
+               polygon_y="37 45 45 46 105 105 21 21 35 36 36 37"/>
+      <element label="image" polygon_x="181 181 210 210 181 181"
+               polygon_y="127 240 240 126 126 127"/>
+      <element label="image" polygon_x="141 141 170 170 141 141"
+               polygon_y="22 120 120 21 21 22"/>
+      <element label="image" polygon_x="16 16 60 60 16 16" polygon_y="182 240 240 181 181 182"/>
+      <element label="text-over-image" polygon_x="11 11 55 55 11 11"
+               polygon_y="37 45 45 36 36 37"/>
+   </layout>
+   <text>
+      <keyword>taste</keyword>
+      <keyword>wine</keyword>
+      <keyword>restaurant</keyword>
+      <keyword>fruit</keyword>
+      <keyword>market</keyword>
+   </text>
+</annotation>

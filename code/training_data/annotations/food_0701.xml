@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0701</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="116 116 151 151 151 200 200 116 116"
+               polygon_y="197 205 205 206 285 285 196 196 197"/>
+      <element label="text" polygon_x="21 21 70 71 71 110 110 21 21"
+               polygon_y="167 230 230 201 200 200 166 166 167"/>
+      <element label="text" polygon_x="21 21 70 70 21 21" polygon_y="237 285 285 236 236 237"/>
+      <element label="text" polygon_x="116 116 200 200 116 116"
+               polygon_y="167 190 190 166 166 167"/>
+      <element label="text" polygon_x="26 26 200 200 26 26"
+               polygon_y="157 160 160 156 156 157"/>
+      <element label="text" polygon_x="86 86 140 140 86 86"
+               polygon_y="142 150 150 141 141 142"/>
+      <element label="image" polygon_x="51 51 170 170 51 51" polygon_y="2 110 110 1 1 2"/>
+      <element label="image" polygon_x="76 76 145 145 76 76"
+               polygon_y="212 285 285 211 211 212"/>
+      <element label="headline" polygon_x="36 36 185 185 36 36"
+               polygon_y="117 135 135 116 116 117"/>
+   </layout>
+   <text>
+      <keyword>taste</keyword>
+      <keyword>dish</keyword>
+      <keyword>pan</keyword>
+      <keyword>restaurant</keyword>
+      <keyword>butter</keyword>
+      <keyword>egg</keyword>
+      <keyword>potato</keyword>
+      <keyword>milk</keyword>
+      <keyword>hot</keyword>
+      <keyword>meal</keyword>
+   </text>
+</annotation>

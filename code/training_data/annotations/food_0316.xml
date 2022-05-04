@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0316</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="81 81 140 140 81 81"
+               polygon_y="182 280 280 181 181 182"/>
+      <element label="text" polygon_x="146 146 210 210 146 146"
+               polygon_y="197 280 280 196 196 197"/>
+      <element label="text" polygon_x="21 21 75 75 21 21" polygon_y="227 280 280 226 226 227"/>
+      <element label="text" polygon_x="21 21 75 75 21 21" polygon_y="202 215 215 201 201 202"/>
+      <element label="image" polygon_x="21 21 140 140 21 21" polygon_y="2 175 175 1 1 2"/>
+      <element label="image" polygon_x="146 146 210 210 146 146"
+               polygon_y="102 190 190 101 101 102"/>
+      <element label="image" polygon_x="146 146 210 210 146 146" polygon_y="12 95 95 11 11 12"/>
+      <element label="headline" polygon_x="21 21 75 75 21 21"
+               polygon_y="182 195 195 181 181 182"/>
+   </layout>
+   <text>
+      <keyword>cool</keyword>
+      <keyword>free</keyword>
+      <keyword>lunch</keyword>
+   </text>
+</annotation>

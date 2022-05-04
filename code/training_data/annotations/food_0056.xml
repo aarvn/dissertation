@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0056</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 80 80 21 21" polygon_y="102 260 260 101 101 102"/>
+      <element label="text" polygon_x="91 91 120 120 91 91"
+               polygon_y="117 260 260 116 116 117"/>
+      <element label="text" polygon_x="126 126 155 155 126 126"
+               polygon_y="117 235 235 116 116 117"/>
+      <element label="text" polygon_x="171 171 205 205 171 171"
+               polygon_y="102 145 145 101 101 102"/>
+      <element label="text" polygon_x="76 76 190 190 76 76" polygon_y="77 85 85 76 76 77"/>
+      <element label="text" polygon_x="171 171 205 205 171 171"
+               polygon_y="197 220 220 196 196 197"/>
+      <element label="text" polygon_x="171 171 205 205 171 171"
+               polygon_y="262 285 285 261 261 262"/>
+      <element label="text" polygon_x="76 76 160 160 76 76" polygon_y="37 45 45 36 36 37"/>
+      <element label="text" polygon_x="126 126 155 155 126 126"
+               polygon_y="242 260 260 241 241 242"/>
+      <element label="text" polygon_x="26 26 65 65 26 26" polygon_y="272 280 280 271 271 272"/>
+      <element label="text" polygon_x="186 186 210 210 186 186" polygon_y="7 15 15 6 6 7"/>
+      <element label="text" polygon_x="91 91 135 135 91 91"
+               polygon_y="107 110 110 106 106 107"/>
+      <element label="text" polygon_x="171 171 205 205 171 171"
+               polygon_y="152 155 155 151 151 152"/>
+      <element label="image" polygon_x="21 21 70 70 21 21" polygon_y="32 95 95 31 31 32"/>
+      <element label="image" polygon_x="171 171 210 210 171 171"
+               polygon_y="157 190 190 156 156 157"/>
+      <element label="image" polygon_x="171 171 210 210 171 171"
+               polygon_y="227 255 255 226 226 227"/>
+      <element label="headline" polygon_x="76 76 200 200 76 76" polygon_y="47 70 70 46 46 47"/>
+   </layout>
+   <text>
+      <keyword>wine</keyword>
+      <keyword>restaurant</keyword>
+      <keyword>love</keyword>
+      <keyword>crisp</keyword>
+      <keyword>inspire</keyword>
+   </text>
+</annotation>

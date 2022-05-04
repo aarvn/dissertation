@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0121</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="141 141 200 200 141 141"
+               polygon_y="197 280 280 196 196 197"/>
+      <element label="text" polygon_x="21 21 75 75 21 21" polygon_y="197 280 280 196 196 197"/>
+      <element label="text" polygon_x="81 81 135 135 81 81"
+               polygon_y="192 230 230 191 191 192"/>
+      <element label="text" polygon_x="81 81 135 135 81 81"
+               polygon_y="242 280 280 241 241 242"/>
+      <element label="text" polygon_x="161 161 200 200 161 161" polygon_y="12 20 20 11 11 12"/>
+      <element label="image" polygon_x="1 1 200 200 1 1" polygon_y="32 190 190 31 31 32"/>
+   </layout>
+   <text>
+      <keyword>child</keyword>
+      <keyword>idea</keyword>
+      <keyword>mother</keyword>
+      <keyword>cost</keyword>
+      <keyword>technology</keyword>
+      <keyword>hospital</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0321</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="131 131 210 210 131 131"
+               polygon_y="37 215 215 36 36 37"/>
+      <element label="text" polygon_x="131 131 210 210 131 131"
+               polygon_y="227 285 285 226 226 227"/>
+      <element label="text" polygon_x="11 11 60 60 11 11" polygon_y="47 125 125 46 46 47"/>
+      <element label="text" polygon_x="76 76 120 120 76 76" polygon_y="47 125 125 46 46 47"/>
+      <element label="text" polygon_x="11 11 55 55 11 11" polygon_y="202 275 275 201 201 202"/>
+      <element label="text" polygon_x="76 76 120 120 76 76"
+               polygon_y="227 275 275 226 226 227"/>
+      <element label="image" polygon_x="11 11 61 61 61 100 101 101 120 121 121 125 125 11 11"
+               polygon_y="132 195 195 196 220 220 211 210 210 196 195 195 131 131 132"/>
+      <element label="text-over-image" polygon_x="91 91 120 120 91 91"
+               polygon_y="197 210 210 196 196 197"/>
+   </layout>
+   <text>
+      <keyword>researcher</keyword>
+      <keyword>launch</keyword>
+      <keyword>story</keyword>
+      <keyword>project</keyword>
+      <keyword>north</keyword>
+      <keyword>develop</keyword>
+      <keyword>fall</keyword>
+      <keyword>program</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0362</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="146 146 205 205 146 146"
+               polygon_y="27 280 280 26 26 27"/>
+      <element label="text" polygon_x="21 21 75 75 21 21" polygon_y="27 280 280 26 26 27"/>
+      <element label="text" polygon_x="81 81 140 140 81 81"
+               polygon_y="147 185 185 146 146 147"/>
+      <element label="text" polygon_x="81 81 140 140 81 81"
+               polygon_y="217 245 245 216 216 217"/>
+      <element label="text" polygon_x="81 81 140 140 81 81"
+               polygon_y="252 280 280 251 251 252"/>
+      <element label="text" polygon_x="81 81 130 130 81 81"
+               polygon_y="122 130 130 121 121 122"/>
+      <element label="text" polygon_x="86 86 130 130 86 86"
+               polygon_y="202 210 210 201 201 202"/>
+      <element label="text" polygon_x="11 11 50 50 11 11" polygon_y="12 20 20 11 11 12"/>
+      <element label="image" polygon_x="81 81 140 140 81 81" polygon_y="27 115 115 26 26 27"/>
+   </layout>
+   <text>
+      <keyword>place</keyword>
+      <keyword>dish</keyword>
+      <keyword>eat</keyword>
+      <keyword>water</keyword>
+      <keyword>garlic</keyword>
+      <keyword>love</keyword>
+      <keyword>enjoy</keyword>
+      <keyword>menu</keyword>
+      <keyword>crisp</keyword>
+      <keyword>sweet</keyword>
+      <keyword>chef</keyword>
+      <keyword>dress</keyword>
+      <keyword>cuisine</keyword>
+      <keyword>vegetable</keyword>
+      <keyword>coriander</keyword>
+      <keyword>plenty</keyword>
+   </text>
+</annotation>

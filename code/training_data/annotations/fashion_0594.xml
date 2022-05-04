@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0594</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="31 31 115 115 31 31" polygon_y="67 165 165 66 66 67"/>
+      <element label="text" polygon_x="41 41 110 110 41 41" polygon_y="37 60 60 36 36 37"/>
+      <element label="text" polygon_x="126 126 160 160 126 126"
+               polygon_y="182 185 185 181 181 182"/>
+      <element label="image" polygon_x="126 126 225 225 126 126"
+               polygon_y="27 175 175 26 26 27"/>
+      <element label="image" polygon_x="86 86 205 205 86 86"
+               polygon_y="192 280 280 191 191 192"/>
+      <element label="image" polygon_x="1 1 75 75 1 1" polygon_y="187 300 300 186 186 187"/>
+      <element label="text-over-image" polygon_x="131 131 170 170 131 131"
+               polygon_y="162 175 175 161 161 162"/>
+      <element label="text-over-image" polygon_x="46 46 75 75 46 46"
+               polygon_y="187 195 195 186 186 187"/>
+   </layout>
+   <text>
+      <keyword>woman</keyword>
+      <keyword>style</keyword>
+      <keyword>wear</keyword>
+      <keyword>dress</keyword>
+      <keyword>top</keyword>
+      <keyword>idea</keyword>
+      <keyword>brand</keyword>
+      <keyword>light</keyword>
+      <keyword>important</keyword>
+   </text>
+</annotation>

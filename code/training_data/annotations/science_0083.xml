@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0083</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="157 285 285 156 156 157"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="157 270 270 156 156 157"/>
+      <element label="text" polygon_x="161 161 210 210 161 161" polygon_y="37 85 85 36 36 37"/>
+      <element label="text" polygon_x="161 161 210 210 161 161"
+               polygon_y="147 195 195 146 146 147"/>
+      <element label="text" polygon_x="161 161 210 210 161 161"
+               polygon_y="92 120 120 91 91 92"/>
+      <element label="text" polygon_x="161 161 210 210 161 161"
+               polygon_y="202 230 230 201 201 202"/>
+      <element label="text" polygon_x="161 161 210 210 161 161"
+               polygon_y="237 265 265 236 236 237"/>
+      <element label="text" polygon_x="51 51 135 135 51 51"
+               polygon_y="137 150 150 136 136 137"/>
+      <element label="text" polygon_x="161 161 210 210 161 161"
+               polygon_y="127 140 140 126 126 127"/>
+      <element label="text" polygon_x="161 161 205 205 161 161"
+               polygon_y="272 285 285 271 271 272"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="277 285 285 276 276 277"/>
+      <element label="image" polygon_x="16 16 155 155 16 16" polygon_y="17 100 100 16 16 17"/>
+      <element label="image" polygon_x="16 16 45 45 16 16" polygon_y="107 145 145 106 106 107"/>
+      <element label="headline" polygon_x="51 51 115 115 51 51"
+               polygon_y="107 130 130 106 106 107"/>
+      <element label="text-over-image" polygon_x="16 16 55 55 16 16"
+               polygon_y="17 30 30 16 16 17"/>
+   </layout>
+   <text>
+      <keyword>earth</keyword>
+      <keyword>test</keyword>
+      <keyword>launch</keyword>
+      <keyword>project</keyword>
+      <keyword>interest</keyword>
+      <keyword>question</keyword>
+      <keyword>space</keyword>
+   </text>
+</annotation>

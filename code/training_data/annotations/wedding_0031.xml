@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0031</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="86 86 140 140 86 86" polygon_y="67 140 140 66 66 67"/>
+      <element label="text" polygon_x="26 26 80 80 26 26" polygon_y="162 220 220 161 161 162"/>
+      <element label="text" polygon_x="146 146 195 195 146 146"
+               polygon_y="67 130 130 66 66 67"/>
+      <element label="text" polygon_x="26 26 80 80 26 26" polygon_y="112 155 155 111 111 112"/>
+      <element label="text" polygon_x="146 146 195 195 146 146"
+               polygon_y="177 220 220 176 176 177"/>
+      <element label="text" polygon_x="26 26 80 80 26 26" polygon_y="67 105 105 66 66 67"/>
+      <element label="text" polygon_x="156 156 195 195 156 156"
+               polygon_y="232 280 280 231 231 232"/>
+      <element label="text" polygon_x="86 86 140 140 86 86"
+               polygon_y="152 185 185 151 151 152"/>
+      <element label="text" polygon_x="146 146 195 195 146 146"
+               polygon_y="137 170 170 136 136 137"/>
+      <element label="text" polygon_x="86 86 140 140 86 86"
+               polygon_y="192 220 220 191 191 192"/>
+      <element label="image" polygon_x="26 26 145 145 26 26"
+               polygon_y="227 285 285 226 226 227"/>
+      <element label="image" polygon_x="151 151 220 220 151 151" polygon_y="2 60 60 1 1 2"/>
+      <element label="image" polygon_x="86 86 145 145 86 86" polygon_y="2 60 60 1 1 2"/>
+      <element label="image" polygon_x="26 26 80 80 26 26" polygon_y="2 60 60 1 1 2"/>
+   </layout>
+   <text>
+      <keyword>wedding</keyword>
+      <keyword>love</keyword>
+      <keyword>ceremony</keyword>
+      <keyword>reception</keyword>
+      <keyword>friend</keyword>
+      <keyword>place</keyword>
+      <keyword>choice</keyword>
+      <keyword>life</keyword>
+      <keyword>moment</keyword>
+      <keyword>heart</keyword>
+      <keyword>beach</keyword>
+      <keyword>fun</keyword>
+      <keyword>space</keyword>
+      <keyword>photographer</keyword>
+      <keyword>restaurant</keyword>
+      <keyword>resort</keyword>
+      <keyword>island</keyword>
+      <keyword>relaxed</keyword>
+      <keyword>vow</keyword>
+      <keyword>mother</keyword>
+      <keyword>husband</keyword>
+      <keyword>ring</keyword>
+   </text>
+</annotation>

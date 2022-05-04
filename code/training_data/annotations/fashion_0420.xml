@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0420</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="151 151 210 210 151 151" polygon_y="27 40 40 26 26 27"/>
+      <element label="text" polygon_x="61 61 65 65 61 61" polygon_y="137 140 140 136 136 137"/>
+      <element label="text" polygon_x="81 81 85 85 81 81" polygon_y="137 140 140 136 136 137"/>
+      <element label="image"
+               polygon_x="1 1 11 11 11 70 70 60 60 61 61 86 86 85 85 76 76 140 141 141 145 145 1 1"
+               polygon_y="2 135 135 136 195 195 141 141 140 136 135 135 136 140 141 141 195 195 136 135 135 1 1 2"/>
+      <element label="image" polygon_x="76 76 140 140 76 76"
+               polygon_y="207 285 285 206 206 207"/>
+      <element label="image" polygon_x="11 11 70 70 11 11" polygon_y="207 285 285 206 206 207"/>
+      <element label="image" polygon_x="151 151 210 210 151 151"
+               polygon_y="92 145 145 91 91 92"/>
+      <element label="image" polygon_x="151 151 210 210 151 151" polygon_y="47 85 85 46 46 47"/>
+      <element label="image" polygon_x="151 151 210 210 151 151"
+               polygon_y="152 190 190 151 151 152"/>
+      <element label="image" polygon_x="151 151 210 210 151 151"
+               polygon_y="197 235 235 196 196 197"/>
+      <element label="image" polygon_x="151 151 210 210 151 151"
+               polygon_y="242 280 280 241 241 242"/>
+      <element label="text-over-image" polygon_x="76 76 140 140 86 85 85 76 76"
+               polygon_y="142 195 195 111 111 140 141 141 142"/>
+      <element label="text-over-image" polygon_x="11 11 70 70 60 60 60 11 11"
+               polygon_y="112 195 195 141 141 140 111 111 112"/>
+   </layout>
+   <text>
+      <keyword>style</keyword>
+      <keyword>heart</keyword>
+      <keyword>collection</keyword>
+      <keyword>perfect</keyword>
+      <keyword>diamond</keyword>
+      <keyword>flower</keyword>
+   </text>
+</annotation>

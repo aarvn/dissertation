@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0403</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="101 101 155 155 101 101"
+               polygon_y="42 235 235 41 41 42"/>
+      <element label="text" polygon_x="161 161 215 215 161 161"
+               polygon_y="102 260 260 101 101 102"/>
+      <element label="text" polygon_x="41 41 95 95 41 41" polygon_y="132 220 220 131 131 132"/>
+      <element label="text" polygon_x="11 11 95 95 11 11" polygon_y="242 280 280 241 241 242"/>
+      <element label="text" polygon_x="161 161 215 215 161 161" polygon_y="42 95 95 41 41 42"/>
+      <element label="text" polygon_x="101 101 155 155 101 101"
+               polygon_y="242 280 280 241 241 242"/>
+      <element label="text" polygon_x="41 41 95 95 41 41" polygon_y="227 235 235 226 226 227"/>
+      <element label="image" polygon_x="11 11 95 95 11 11" polygon_y="12 125 125 11 11 12"/>
+   </layout>
+   <text>
+      <keyword>top</keyword>
+      <keyword>salt</keyword>
+      <keyword>place</keyword>
+      <keyword>cool</keyword>
+      <keyword>sugar</keyword>
+      <keyword>ingredient</keyword>
+      <keyword>egg</keyword>
+      <keyword>milk</keyword>
+      <keyword>cup</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0123</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="91 91 140 140 91 91" polygon_y="77 280 280 76 76 77"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="82 200 200 81 81 82"/>
+      <element label="text" polygon_x="151 151 205 205 151 151"
+               polygon_y="162 255 255 161 161 162"/>
+      <element label="text" polygon_x="11 11 75 75 51 50 50 11 11"
+               polygon_y="252 280 280 216 216 250 251 251 252"/>
+      <element label="text" polygon_x="121 121 200 200 121 121" polygon_y="42 65 65 41 41 42"/>
+      <element label="text" polygon_x="151 151 205 205 151 151"
+               polygon_y="262 280 280 261 261 262"/>
+      <element label="text" polygon_x="151 151 205 205 151 151"
+               polygon_y="147 155 155 146 146 147"/>
+      <element label="image" polygon_x="146 146 210 210 146 146"
+               polygon_y="72 140 140 71 71 72"/>
+      <element label="image" polygon_x="11 11 75 75 11 11" polygon_y="32 75 75 31 31 32"/>
+      <element label="image" polygon_x="6 6 45 45 6 6" polygon_y="207 245 245 206 206 207"/>
+      <element label="image" polygon_x="91 91 115 115 91 91" polygon_y="32 65 65 31 31 32"/>
+   </layout>
+   <text>
+      <keyword>water</keyword>
+      <keyword>field</keyword>
+      <keyword>planet</keyword>
+      <keyword>human</keyword>
+      <keyword>interest</keyword>
+      <keyword>atmosphere</keyword>
+      <keyword>rate</keyword>
+      <keyword>warm</keyword>
+   </text>
+</annotation>

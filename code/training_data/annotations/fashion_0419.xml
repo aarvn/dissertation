@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0419</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 205 205 21 21"
+               polygon_y="282 285 285 281 281 282"/>
+      <element label="text" polygon_x="201 201 220 220 201 201"
+               polygon_y="77 115 115 76 76 77"/>
+      <element label="text" polygon_x="201 201 220 220 201 201"
+               polygon_y="157 195 195 156 156 157"/>
+      <element label="text" polygon_x="201 201 220 220 201 201" polygon_y="47 70 70 46 46 47"/>
+      <element label="text" polygon_x="201 201 220 220 201 201"
+               polygon_y="122 145 145 121 121 122"/>
+      <element label="text" polygon_x="66 66 150 150 66 66"
+               polygon_y="272 275 275 271 271 272"/>
+      <element label="image" polygon_x="11 11 100 100 11 11"
+               polygon_y="147 265 265 146 146 147"/>
+      <element label="image" polygon_x="11 11 100 100 11 11" polygon_y="27 140 140 26 26 27"/>
+      <element label="image" polygon_x="111 111 195 195 111 111"
+               polygon_y="147 265 265 146 146 147"/>
+      <element label="image" polygon_x="111 111 195 195 111 111"
+               polygon_y="27 140 140 26 26 27"/>
+   </layout>
+   <text>
+      <keyword>dress</keyword>
+      <keyword>ring</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0229</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="11 11 220 220 11 11" polygon_y="12 285 285 11 11 12"/>
+      <element label="text-over-image" polygon_x="146 146 161 161 161 205 205 146 146"
+               polygon_y="67 75 75 76 140 140 66 66 67"/>
+      <element label="text-over-image" polygon_x="21 21 70 70 21 21"
+               polygon_y="107 165 165 106 106 107"/>
+      <element label="text-over-image" polygon_x="21 21 70 70 21 21"
+               polygon_y="222 280 280 221 221 222"/>
+      <element label="text-over-image" polygon_x="146 146 205 205 146 146"
+               polygon_y="147 195 195 146 146 147"/>
+      <element label="text-over-image" polygon_x="21 21 70 70 21 21"
+               polygon_y="172 215 215 171 171 172"/>
+      <element label="text-over-image" polygon_x="21 21 70 70 21 21"
+               polygon_y="62 100 100 61 61 62"/>
+      <element label="text-over-image" polygon_x="151 151 200 200 151 151"
+               polygon_y="222 260 260 221 221 222"/>
+      <element label="text-over-image" polygon_x="51 51 180 180 51 51"
+               polygon_y="47 50 50 46 46 47"/>
+      <element label="headline-over-image" polygon_x="61 61 165 165 61 61"
+               polygon_y="22 40 40 21 21 22"/>
+   </layout>
+   <text>
+      <keyword>top</keyword>
+      <keyword>stir</keyword>
+      <keyword>place</keyword>
+      <keyword>taste</keyword>
+      <keyword>bowl</keyword>
+      <keyword>water</keyword>
+      <keyword>pan</keyword>
+      <keyword>fry</keyword>
+      <keyword>bake</keyword>
+      <keyword>cooking</keyword>
+      <keyword>egg</keyword>
+      <keyword>potato</keyword>
+      <keyword>soft</keyword>
+      <keyword>fish</keyword>
+      <keyword>dress</keyword>
+      <keyword>grill</keyword>
+      <keyword>soften</keyword>
+   </text>
+</annotation>

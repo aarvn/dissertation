@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0157</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="32 285 285 31 31 32"/>
+      <element label="text" polygon_x="81 81 145 145 81 81" polygon_y="32 100 100 31 31 32"/>
+      <element label="text" polygon_x="11 11 70 70 11 11" polygon_y="32 100 100 31 31 32"/>
+      <element label="text" polygon_x="11 11 140 140 11 11"
+               polygon_y="107 130 130 106 106 107"/>
+      <element label="text" polygon_x="11 11 80 80 11 11" polygon_y="12 20 20 11 11 12"/>
+      <element label="image" polygon_x="11 11 145 145 11 11"
+               polygon_y="137 285 285 136 136 137"/>
+      <element label="text-over-image" polygon_x="111 111 140 140 111 111"
+               polygon_y="142 155 155 141 141 142"/>
+   </layout>
+   <text>
+      <keyword>study</keyword>
+      <keyword>life</keyword>
+      <keyword>place</keyword>
+      <keyword>earth</keyword>
+      <keyword>university</keyword>
+      <keyword>water</keyword>
+      <keyword>discover</keyword>
+      <keyword>planet</keyword>
+      <keyword>focus</keyword>
+      <keyword>launch</keyword>
+      <keyword>design</keyword>
+      <keyword>atmosphere</keyword>
+      <keyword>space</keyword>
+      <keyword>temperature</keyword>
+      <keyword>analysis</keyword>
+   </text>
+</annotation>

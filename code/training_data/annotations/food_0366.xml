@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0366</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 75 75 21 21" polygon_y="77 280 280 76 76 77"/>
+      <element label="text" polygon_x="146 146 205 205 146 146"
+               polygon_y="27 190 190 26 26 27"/>
+      <element label="text" polygon_x="81 81 140 140 81 81"
+               polygon_y="232 280 280 231 231 232"/>
+      <element label="text" polygon_x="146 146 205 205 146 146"
+               polygon_y="232 280 280 231 231 232"/>
+      <element label="text" polygon_x="146 146 190 190 146 146"
+               polygon_y="197 225 225 196 196 197"/>
+      <element label="text" polygon_x="21 21 75 75 21 21" polygon_y="52 70 70 51 51 52"/>
+      <element label="text" polygon_x="81 81 125 125 81 81"
+               polygon_y="202 210 210 201 201 202"/>
+      <element label="text" polygon_x="11 11 50 50 11 11" polygon_y="12 20 20 11 11 12"/>
+      <element label="text" polygon_x="21 21 50 50 21 21" polygon_y="37 40 40 36 36 37"/>
+      <element label="image" polygon_x="81 81 140 140 81 81" polygon_y="27 195 195 26 26 27"/>
+   </layout>
+   <text>
+      <keyword>salt</keyword>
+      <keyword>place</keyword>
+      <keyword>dish</keyword>
+      <keyword>garlic</keyword>
+      <keyword>menu</keyword>
+      <keyword>chilli</keyword>
+      <keyword>fresh</keyword>
+      <keyword>fish</keyword>
+      <keyword>roast</keyword>
+   </text>
+</annotation>

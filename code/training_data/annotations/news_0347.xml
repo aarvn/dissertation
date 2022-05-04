@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0347</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 65 66 66 75 75 11 11"
+               polygon_y="57 290 290 161 160 160 56 56 57"/>
+      <element label="text" polygon_x="151 151 161 161 161 215 215 151 151"
+               polygon_y="62 160 160 161 290 290 61 61 62"/>
+      <element label="text" polygon_x="81 81 145 145 81 81" polygon_y="82 160 160 81 81 82"/>
+      <element label="text" polygon_x="81 81 145 145 81 81" polygon_y="62 75 75 61 61 62"/>
+      <element label="text" polygon_x="151 151 185 185 151 151" polygon_y="22 45 45 21 21 22"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="12 20 20 11 11 12"/>
+      <element label="image" polygon_x="71 71 155 155 71 71"
+               polygon_y="167 285 285 166 166 167"/>
+      <element label="headline" polygon_x="11 11 70 70 11 11" polygon_y="27 35 35 26 26 27"/>
+   </layout>
+   <text>
+      <keyword>man</keyword>
+      <keyword>war</keyword>
+      <keyword>fear</keyword>
+      <keyword>company</keyword>
+      <keyword>fail</keyword>
+      <keyword>matter</keyword>
+      <keyword>father</keyword>
+      <keyword>culture</keyword>
+   </text>
+</annotation>

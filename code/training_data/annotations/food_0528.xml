@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0528</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="81 81 210 210 81 81"
+               polygon_y="207 285 285 206 206 207"/>
+      <element label="text" polygon_x="11 11 105 105 11 11"
+               polygon_y="157 190 190 156 156 157"/>
+      <element label="text" polygon_x="116 116 160 160 116 116"
+               polygon_y="127 185 185 126 126 127"/>
+      <element label="text" polygon_x="11 11 50 50 11 11" polygon_y="17 20 20 16 16 17"/>
+      <element label="image" polygon_x="11 11 105 105 11 11" polygon_y="32 150 150 31 31 32"/>
+      <element label="image" polygon_x="111 111 210 210 185 185 185 111 111"
+               polygon_y="32 115 115 46 46 45 31 31 32"/>
+      <element label="image" polygon_x="6 6 11 11 11 75 75 11 10 10 6 6"
+               polygon_y="217 225 225 226 300 300 206 206 215 216 216 217"/>
+      <element label="image" polygon_x="166 166 210 210 166 166"
+               polygon_y="122 190 190 121 121 122"/>
+      <element label="text-over-image" polygon_x="176 176 210 210 176 176"
+               polygon_y="47 115 115 46 46 47"/>
+      <element label="text-over-image" polygon_x="6 6 40 40 6 6"
+               polygon_y="217 225 225 216 216 217"/>
+   </layout>
+   <text>
+      <keyword>salt</keyword>
+      <keyword>place</keyword>
+      <keyword>taste</keyword>
+      <keyword>season</keyword>
+      <keyword>food</keyword>
+      <keyword>flavour</keyword>
+      <keyword>table</keyword>
+      <keyword>chef</keyword>
+      <keyword>inspire</keyword>
+   </text>
+</annotation>

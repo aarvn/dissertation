@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0228</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="81 81 140 140 81 81"
+               polygon_y="207 270 270 206 206 207"/>
+      <element label="text-over-image" polygon_x="146 146 205 205 146 146"
+               polygon_y="107 170 170 106 106 107"/>
+      <element label="text-over-image" polygon_x="146 146 205 205 146 146"
+               polygon_y="227 280 280 226 226 227"/>
+      <element label="text-over-image" polygon_x="21 21 75 75 21 21"
+               polygon_y="227 280 280 226 226 227"/>
+      <element label="text-over-image" polygon_x="146 146 205 205 146 146"
+               polygon_y="177 220 220 176 176 177"/>
+      <element label="text-over-image" polygon_x="146 146 205 205 146 146"
+               polygon_y="62 100 100 61 61 62"/>
+      <element label="text-over-image" polygon_x="146 146 205 205 146 146"
+               polygon_y="27 55 55 26 26 27"/>
+      <element label="text-over-image" polygon_x="21 21 75 75 21 21"
+               polygon_y="207 220 220 206 206 207"/>
+      <element label="text-over-image" polygon_x="96 96 135 135 96 96"
+               polygon_y="172 180 180 171 171 172"/>
+   </layout>
+   <text>
+      <keyword>stir</keyword>
+      <keyword>heat</keyword>
+      <keyword>cool</keyword>
+      <keyword>oil</keyword>
+      <keyword>oven</keyword>
+      <keyword>sugar</keyword>
+      <keyword>water</keyword>
+      <keyword>pan</keyword>
+      <keyword>fry</keyword>
+      <keyword>wine</keyword>
+      <keyword>garlic</keyword>
+      <keyword>bake</keyword>
+      <keyword>flavour</keyword>
+      <keyword>golden</keyword>
+      <keyword>potato</keyword>
+      <keyword>juice</keyword>
+      <keyword>fat</keyword>
+      <keyword>soft</keyword>
+      <keyword>sauce</keyword>
+      <keyword>chilli</keyword>
+      <keyword>tomato</keyword>
+      <keyword>dry</keyword>
+      <keyword>crisp</keyword>
+      <keyword>dress</keyword>
+      <keyword>grill</keyword>
+      <keyword>soften</keyword>
+      <keyword>chicken</keyword>
+      <keyword>bread</keyword>
+      <keyword>vegetable</keyword>
+      <keyword>coriander</keyword>
+      <keyword>honey</keyword>
+   </text>
+</annotation>

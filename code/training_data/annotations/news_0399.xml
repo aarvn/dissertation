@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0399</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="26 26 155 155 26 26"
+               polygon_y="257 285 285 256 256 257"/>
+      <element label="text" polygon_x="171 171 200 200 171 171"
+               polygon_y="257 285 285 256 256 257"/>
+      <element label="text" polygon_x="26 26 200 200 26 26"
+               polygon_y="242 245 245 241 241 242"/>
+      <element label="image" polygon_x="16 16 210 210 16 16" polygon_y="12 235 235 11 11 12"/>
+      <element label="headline-over-image" polygon_x="81 81 165 165 81 81"
+               polygon_y="177 210 210 176 176 177"/>
+   </layout>
+   <text>
+      <keyword>friend</keyword>
+      <keyword>wife</keyword>
+   </text>
+</annotation>

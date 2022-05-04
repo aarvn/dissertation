@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0245</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="122 285 285 121 121 122"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="137 290 290 136 136 137"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="22 85 85 21 21 22"/>
+      <element label="text" polygon_x="151 151 215 215 151 151" polygon_y="22 85 85 21 21 22"/>
+      <element label="text" polygon_x="81 81 145 145 81 81" polygon_y="27 85 85 26 26 27"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="122 180 180 121 121 122"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="122 130 130 121 121 122"/>
+      <element label="text" polygon_x="11 11 135 135 11 11"
+               polygon_y="112 115 115 111 111 112"/>
+      <element label="image" polygon_x="81 81 145 145 81 81"
+               polygon_y="192 280 280 191 191 192"/>
+      <element label="headline" polygon_x="151 151 205 205 151 151"
+               polygon_y="92 105 105 91 91 92"/>
+      <element label="headline" polygon_x="11 11 60 60 11 11" polygon_y="92 105 105 91 91 92"/>
+   </layout>
+   <text>
+      <keyword>government</keyword>
+      <keyword>power</keyword>
+      <keyword>president</keyword>
+      <keyword>fear</keyword>
+      <keyword>plan</keyword>
+      <keyword>public</keyword>
+      <keyword>cost</keyword>
+      <keyword>question</keyword>
+      <keyword>parliament</keyword>
+   </text>
+</annotation>

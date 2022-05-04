@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0320</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="166 166 215 215 166 166"
+               polygon_y="57 275 275 56 56 57"/>
+      <element label="text" polygon_x="16 16 95 95 16 16" polygon_y="47 130 130 46 46 47"/>
+      <element label="text" polygon_x="111 111 155 155 111 111"
+               polygon_y="47 130 130 46 46 47"/>
+      <element label="text" polygon_x="106 106 125 125 106 106"
+               polygon_y="227 275 275 226 226 227"/>
+      <element label="image" polygon_x="1 1 150 150 1 1" polygon_y="137 220 220 136 136 137"/>
+      <element label="image" polygon_x="16 16 100 100 16 16"
+               polygon_y="227 285 285 226 226 227"/>
+      <element label="image" polygon_x="131 131 160 160 131 131"
+               polygon_y="227 275 275 226 226 227"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>launch</keyword>
+      <keyword>technique</keyword>
+   </text>
+</annotation>

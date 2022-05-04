@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0357</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="71 71 150 150 71 71"
+               polygon_y="197 280 280 196 196 197"/>
+      <element label="text" polygon_x="116 116 156 156 156 215 215 116 116"
+               polygon_y="182 190 190 191 285 285 181 181 182"/>
+      <element label="text" polygon_x="11 11 110 110 70 70 70 11 11"
+               polygon_y="47 130 130 101 101 100 46 46 47"/>
+      <element label="text" polygon_x="116 116 215 215 156 155 155 116 116"
+               polygon_y="102 125 125 46 46 100 101 101 102"/>
+      <element label="text" polygon_x="11 11 110 110 11 11"
+               polygon_y="137 190 190 136 136 137"/>
+      <element label="text" polygon_x="11 11 65 65 11 11" polygon_y="197 285 285 196 196 197"/>
+      <element label="text" polygon_x="116 116 215 215 116 116"
+               polygon_y="137 175 175 136 136 137"/>
+      <element label="text" polygon_x="96 96 130 130 96 96" polygon_y="12 20 20 11 11 12"/>
+      <element label="text" polygon_x="181 181 215 215 181 181" polygon_y="7 15 15 6 6 7"/>
+      <element label="image" polygon_x="76 76 150 150 76 76" polygon_y="47 95 95 46 46 47"/>
+      <element label="headline" polygon_x="36 36 190 190 36 36" polygon_y="27 40 40 26 26 27"/>
+   </layout>
+   <text>
+      <keyword>live</keyword>
+      <keyword>future</keyword>
+      <keyword>public</keyword>
+      <keyword>office</keyword>
+      <keyword>street</keyword>
+      <keyword>technology</keyword>
+   </text>
+</annotation>

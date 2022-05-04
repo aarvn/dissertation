@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0334</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="16 16 140 140 16 16"
+               polygon_y="197 285 285 196 196 197"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="62 155 155 61 61 62"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="162 230 230 161 161 162"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="237 285 285 236 236 237"/>
+      <element label="text" polygon_x="101 101 205 205 101 101" polygon_y="32 45 45 31 31 32"/>
+      <element label="text" polygon_x="16 16 60 60 16 16" polygon_y="22 45 45 21 21 22"/>
+      <element label="text" polygon_x="16 16 40 40 16 16" polygon_y="62 70 70 61 61 62"/>
+      <element label="image" polygon_x="16 16 140 140 16 16" polygon_y="92 190 190 91 91 92"/>
+      <element label="headline" polygon_x="16 16 135 135 16 16" polygon_y="77 85 85 76 76 77"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>science</keyword>
+      <keyword>research</keyword>
+      <keyword>planet</keyword>
+      <keyword>human</keyword>
+      <keyword>focus</keyword>
+      <keyword>launch</keyword>
+      <keyword>cancer</keyword>
+      <keyword>technology</keyword>
+      <keyword>school</keyword>
+   </text>
+</annotation>

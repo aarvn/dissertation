@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0056</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="31 31 110 110 31 31"
+               polygon_y="137 285 285 136 136 137"/>
+      <element label="text" polygon_x="116 116 195 195 116 116"
+               polygon_y="137 285 285 136 136 137"/>
+      <element label="text" polygon_x="156 156 185 185 156 156"
+               polygon_y="112 125 125 111 111 112"/>
+      <element label="image" polygon_x="71 71 150 150 71 71" polygon_y="22 125 125 21 21 22"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>place</keyword>
+      <keyword>island</keyword>
+      <keyword>field</keyword>
+      <keyword>story</keyword>
+      <keyword>animal</keyword>
+      <keyword>state</keyword>
+      <keyword>camera</keyword>
+      <keyword>success</keyword>
+      <keyword>inspire</keyword>
+   </text>
+</annotation>

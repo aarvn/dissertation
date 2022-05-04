@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0187</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="6 6 220 220 6 6" polygon_y="7 295 295 6 6 7"/>
+      <element label="text-over-image" polygon_x="61 61 165 165 140 140 140 86 85 85 61 61"
+               polygon_y="242 285 285 241 241 240 226 226 240 241 241 242"/>
+      <element label="text-over-image" polygon_x="96 96 130 130 96 96"
+               polygon_y="32 65 65 31 31 32"/>
+      <element label="headline-over-image" polygon_x="66 66 165 165 66 66"
+               polygon_y="117 155 155 116 116 117"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>research</keyword>
+      <keyword>treatment</keyword>
+      <keyword>technique</keyword>
+   </text>
+</annotation>

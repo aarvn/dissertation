@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0268</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="146 146 205 205 146 146"
+               polygon_y="77 280 280 76 76 77"/>
+      <element label="text" polygon_x="21 21 75 75 21 21" polygon_y="197 280 280 196 196 197"/>
+      <element label="text" polygon_x="146 146 190 190 146 146" polygon_y="27 40 40 26 26 27"/>
+      <element label="text" polygon_x="11 11 50 50 11 11" polygon_y="12 15 15 11 11 12"/>
+      <element label="image" polygon_x="11 11 140 140 11 11" polygon_y="17 190 190 16 16 17"/>
+      <element label="image" polygon_x="81 81 140 140 81 81"
+               polygon_y="197 280 280 196 196 197"/>
+   </layout>
+   <text>
+      <keyword>ingredient</keyword>
+      <keyword>love</keyword>
+      <keyword>menu</keyword>
+      <keyword>kitchen</keyword>
+      <keyword>family</keyword>
+      <keyword>herb</keyword>
+      <keyword>bread</keyword>
+      <keyword>free</keyword>
+      <keyword>meal</keyword>
+   </text>
+</annotation>

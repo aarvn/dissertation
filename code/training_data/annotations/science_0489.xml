@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0489</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 70 70 11 11" polygon_y="82 285 285 81 81 82"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="237 285 285 236 236 237"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="237 285 285 236 236 237"/>
+      <element label="text" polygon_x="11 11 155 155 11 11" polygon_y="57 65 65 56 56 57"/>
+      <element label="text" polygon_x="81 81 215 215 81 81"
+               polygon_y="217 225 225 216 216 217"/>
+      <element label="text" polygon_x="11 11 30 30 11 11" polygon_y="12 25 25 11 11 12"/>
+      <element label="image" polygon_x="81 81 215 215 81 81" polygon_y="72 210 210 71 71 72"/>
+      <element label="headline" polygon_x="11 11 105 105 11 11" polygon_y="37 50 50 36 36 37"/>
+   </layout>
+   <text>
+      <keyword>story</keyword>
+      <keyword>experience</keyword>
+      <keyword>question</keyword>
+      <keyword>land</keyword>
+   </text>
+</annotation>

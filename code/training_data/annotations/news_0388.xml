@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0388</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="146 146 210 210 146 146"
+               polygon_y="32 290 290 31 31 32"/>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="12 75 75 11 11 12"/>
+      <element label="text" polygon_x="81 81 140 140 81 81" polygon_y="12 75 75 11 11 12"/>
+      <element label="text" polygon_x="146 146 210 210 146 146" polygon_y="12 25 25 11 11 12"/>
+      <element label="text" polygon_x="36 36 125 125 36 36"
+               polygon_y="287 290 290 286 286 287"/>
+      <element label="image" polygon_x="16 16 140 140 16 16" polygon_y="82 280 280 81 81 82"/>
+   </layout>
+   <text>
+      <keyword>woman</keyword>
+      <keyword>man</keyword>
+      <keyword>power</keyword>
+      <keyword>child</keyword>
+      <keyword>death</keyword>
+      <keyword>mother</keyword>
+      <keyword>school</keyword>
+   </text>
+</annotation>

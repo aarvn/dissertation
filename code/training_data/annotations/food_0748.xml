@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0748</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="46 46 180 180 46 46"
+               polygon_y="262 280 280 261 261 262"/>
+      <element label="text" polygon_x="161 161 205 205 161 161" polygon_y="7 10 10 6 6 7"/>
+      <element label="image" polygon_x="21 21 205 205 21 21" polygon_y="17 215 215 16 16 17"/>
+      <element label="headline" polygon_x="51 51 175 175 51 51"
+               polygon_y="222 255 255 221 221 222"/>
+   </layout>
+   <text/>
+</annotation>

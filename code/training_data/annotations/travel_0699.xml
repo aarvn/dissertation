@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0699</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="146 146 205 205 146 146"
+               polygon_y="72 165 165 71 71 72"/>
+      <element label="text" polygon_x="146 146 205 205 146 146"
+               polygon_y="172 210 210 171 171 172"/>
+      <element label="text" polygon_x="26 26 205 205 26 26" polygon_y="57 65 65 56 56 57"/>
+      <element label="text" polygon_x="146 146 205 205 146 146"
+               polygon_y="217 245 245 216 216 217"/>
+      <element label="text" polygon_x="146 146 205 205 146 146"
+               polygon_y="252 275 275 251 251 252"/>
+      <element label="text" polygon_x="146 146 205 205 146 146"
+               polygon_y="282 290 290 281 281 282"/>
+      <element label="image"
+               polygon_x="1 1 100 101 101 140 140 100 100 101 101 140 140 100 100 101 101 140 140 1 1"
+               polygon_y="72 300 300 291 290 290 216 216 215 211 210 210 136 136 135 131 130 130 71 71 72"/>
+      <element label="headline" polygon_x="26 26 175 175 26 26" polygon_y="37 50 50 36 36 37"/>
+      <element label="text-over-image" polygon_x="81 81 140 140 81 81"
+               polygon_y="72 130 130 71 71 72"/>
+      <element label="text-over-image" polygon_x="96 96 140 140 96 96"
+               polygon_y="217 290 290 216 216 217"/>
+      <element label="text-over-image" polygon_x="91 91 101 101 101 140 140 91 91"
+               polygon_y="137 145 145 146 210 210 136 136 137"/>
+   </layout>
+   <text>
+      <keyword>place</keyword>
+      <keyword>love</keyword>
+      <keyword>visit</keyword>
+      <keyword>friend</keyword>
+      <keyword>coast</keyword>
+      <keyword>food</keyword>
+      <keyword>experience</keyword>
+      <keyword>travel</keyword>
+      <keyword>restaurant</keyword>
+      <keyword>beautiful</keyword>
+      <keyword>trip</keyword>
+      <keyword>north</keyword>
+   </text>
+</annotation>

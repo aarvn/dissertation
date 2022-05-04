@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0523</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="166 166 215 215 166 166"
+               polygon_y="167 285 285 166 166 167"/>
+      <element label="text" polygon_x="1 1 70 70 1 1" polygon_y="117 155 155 116 116 117"/>
+      <element label="text" polygon_x="76 76 145 145 76 76"
+               polygon_y="117 155 155 116 116 117"/>
+      <element label="text" polygon_x="101 101 140 140 101 101"
+               polygon_y="217 285 285 216 216 217"/>
+      <element label="text" polygon_x="6 6 55 55 6 6" polygon_y="247 285 285 246 246 247"/>
+      <element label="text" polygon_x="101 101 140 140 101 101"
+               polygon_y="167 210 210 166 166 167"/>
+      <element label="text" polygon_x="61 61 95 95 61 61" polygon_y="167 215 215 166 166 167"/>
+      <element label="text" polygon_x="61 61 95 95 61 61" polygon_y="222 255 255 221 221 222"/>
+      <element label="text" polygon_x="61 61 95 95 61 61" polygon_y="262 285 285 261 261 262"/>
+      <element label="text" polygon_x="151 151 175 175 151 151" polygon_y="47 65 65 46 46 47"/>
+      <element label="text" polygon_x="166 166 215 215 166 166"
+               polygon_y="127 135 135 126 126 127"/>
+      <element label="image" polygon_x="6 6 145 145 6 6" polygon_y="2 95 95 1 1 2"/>
+      <element label="image" polygon_x="1 1 55 55 1 1" polygon_y="167 215 215 166 166 167"/>
+      <element label="image" polygon_x="166 166 215 215 166 166"
+               polygon_y="77 125 125 76 76 77"/>
+      <element label="headline" polygon_x="6 6 55 55 6 6" polygon_y="222 240 240 221 221 222"/>
+      <element label="headline" polygon_x="166 166 215 215 166 166"
+               polygon_y="142 160 160 141 141 142"/>
+      <element label="headline" polygon_x="6 6 80 80 6 6" polygon_y="102 110 110 101 101 102"/>
+   </layout>
+   <text>
+      <keyword>summer</keyword>
+      <keyword>town</keyword>
+      <keyword>taste</keyword>
+      <keyword>north</keyword>
+   </text>
+</annotation>

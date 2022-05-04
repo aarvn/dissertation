@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0505</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 55 55 11 11" polygon_y="162 230 230 161 161 162"/>
+      <element label="text" polygon_x="11 11 55 55 11 11" polygon_y="92 155 155 91 91 92"/>
+      <element label="text" polygon_x="11 11 55 55 11 11" polygon_y="237 270 270 236 236 237"/>
+      <element label="text" polygon_x="11 11 55 55 11 11" polygon_y="277 290 290 276 276 277"/>
+      <element label="text" polygon_x="181 181 215 215 181 181" polygon_y="37 50 50 36 36 37"/>
+      <element label="text" polygon_x="171 171 210 210 171 171"
+               polygon_y="282 290 290 281 281 282"/>
+      <element label="image"
+               polygon_x="11 11 101 101 100 100 61 61 101 101 100 100 61 61 101 101 100 100 61 61 101 101 100 100 61 61 170 171 171 210 210 170 170 171 171 210 210 170 170 171 171 210 210 170 170 171 171 210 210 170 170 170 101 100 100 11 11"
+               polygon_y="67 85 85 86 90 91 91 135 135 136 140 141 141 195 195 196 200 201 201 265 265 266 270 271 271 290 290 276 275 275 221 221 220 216 215 215 151 151 150 146 145 145 96 96 95 91 90 90 66 66 65 56 56 65 66 66 67"/>
+      <element label="image" polygon_x="181 181 215 215 181 181" polygon_y="12 35 35 11 11 12"/>
+      <element label="headline" polygon_x="11 11 100 100 11 11" polygon_y="12 30 30 11 11 12"/>
+      <element label="text-over-image" polygon_x="61 61 110 110 61 61"
+               polygon_y="202 265 265 201 201 202"/>
+      <element label="text-over-image" polygon_x="166 166 210 210 166 166"
+               polygon_y="152 215 215 151 151 152"/>
+      <element label="text-over-image" polygon_x="61 61 105 105 61 61"
+               polygon_y="142 195 195 141 141 142"/>
+      <element label="text-over-image" polygon_x="166 166 210 210 166 166"
+               polygon_y="222 275 275 221 221 222"/>
+      <element label="text-over-image" polygon_x="166 166 210 210 166 166"
+               polygon_y="97 145 145 96 96 97"/>
+      <element label="text-over-image" polygon_x="61 61 105 105 61 61"
+               polygon_y="92 135 135 91 91 92"/>
+      <element label="text-over-image" polygon_x="11 11 105 105 11 11"
+               polygon_y="67 85 85 66 66 67"/>
+      <element label="text-over-image" polygon_x="166 166 210 210 166 166"
+               polygon_y="67 90 90 66 66 67"/>
+      <element label="text-over-image" polygon_x="61 61 105 105 61 61"
+               polygon_y="272 290 290 271 271 272"/>
+   </layout>
+   <text>
+      <keyword>country</keyword>
+      <keyword>woman</keyword>
+      <keyword>deal</keyword>
+   </text>
+</annotation>

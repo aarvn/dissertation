@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0067</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="166 166 210 210 166 166"
+               polygon_y="47 160 160 46 46 47"/>
+      <element label="text" polygon_x="71 71 110 110 71 71" polygon_y="47 160 160 46 46 47"/>
+      <element label="text" polygon_x="71 71 110 110 71 71"
+               polygon_y="172 275 275 171 171 172"/>
+      <element label="text" polygon_x="166 166 210 210 166 166"
+               polygon_y="172 245 245 171 171 172"/>
+      <element label="text" polygon_x="21 21 65 65 21 21" polygon_y="107 160 160 106 106 107"/>
+      <element label="text" polygon_x="116 116 160 160 116 116"
+               polygon_y="107 160 160 106 106 107"/>
+      <element label="text" polygon_x="21 21 65 65 21 21" polygon_y="232 275 275 231 231 232"/>
+      <element label="text" polygon_x="116 116 160 160 116 116"
+               polygon_y="232 275 275 231 231 232"/>
+      <element label="text" polygon_x="21 21 135 135 21 21" polygon_y="27 35 35 26 26 27"/>
+      <element label="text" polygon_x="166 166 210 210 166 166"
+               polygon_y="257 275 275 256 256 257"/>
+      <element label="text" polygon_x="181 181 210 210 181 181" polygon_y="7 15 15 6 6 7"/>
+      <element label="image" polygon_x="21 21 65 65 21 21" polygon_y="47 100 100 46 46 47"/>
+      <element label="image" polygon_x="21 21 65 65 21 21" polygon_y="172 225 225 171 171 172"/>
+      <element label="image" polygon_x="116 116 160 160 116 116"
+               polygon_y="47 100 100 46 46 47"/>
+      <element label="image" polygon_x="116 116 160 160 116 116"
+               polygon_y="172 225 225 171 171 172"/>
+   </layout>
+   <text>
+      <keyword>top</keyword>
+      <keyword>bowl</keyword>
+      <keyword>water</keyword>
+      <keyword>flavour</keyword>
+      <keyword>skin</keyword>
+      <keyword>cream</keyword>
+      <keyword>fruit</keyword>
+   </text>
+</annotation>

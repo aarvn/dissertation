@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0573</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="6 6 220 220 6 6" polygon_y="7 295 295 6 6 7"/>
+      <element label="text-over-image" polygon_x="21 21 110 110 21 21"
+               polygon_y="222 280 280 221 221 222"/>
+      <element label="text-over-image" polygon_x="21 21 110 110 21 21"
+               polygon_y="92 135 135 91 91 92"/>
+      <element label="text-over-image" polygon_x="66 66 110 110 66 66"
+               polygon_y="167 215 215 166 166 167"/>
+      <element label="text-over-image" polygon_x="21 21 60 60 21 21"
+               polygon_y="167 215 215 166 166 167"/>
+      <element label="text-over-image" polygon_x="21 21 110 110 21 21"
+               polygon_y="142 160 160 141 141 142"/>
+      <element label="text-over-image" polygon_x="136 136 175 175 136 136"
+               polygon_y="132 170 170 131 131 132"/>
+      <element label="text-over-image" polygon_x="26 26 60 60 26 26"
+               polygon_y="42 85 85 41 41 42"/>
+      <element label="text-over-image" polygon_x="71 71 105 105 71 71"
+               polygon_y="42 85 85 41 41 42"/>
+      <element label="text-over-image" polygon_x="21 21 110 110 21 21"
+               polygon_y="22 35 35 21 21 22"/>
+   </layout>
+   <text>
+      <keyword>top</keyword>
+      <keyword>stir</keyword>
+      <keyword>cool</keyword>
+      <keyword>oven</keyword>
+      <keyword>bowl</keyword>
+      <keyword>bake</keyword>
+      <keyword>golden</keyword>
+      <keyword>roll</keyword>
+      <keyword>crisp</keyword>
+      <keyword>quality</keyword>
+   </text>
+</annotation>

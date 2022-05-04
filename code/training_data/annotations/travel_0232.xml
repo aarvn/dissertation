@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0232</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="26 26 170 170 115 115 115 26 26"
+               polygon_y="57 250 250 141 141 140 56 56 57"/>
+      <element label="text" polygon_x="181 181 205 205 181 181"
+               polygon_y="142 190 190 141 141 142"/>
+      <element label="text" polygon_x="26 26 85 85 26 26" polygon_y="32 50 50 31 31 32"/>
+      <element label="text" polygon_x="56 56 125 125 56 56"
+               polygon_y="277 285 285 276 276 277"/>
+      <element label="image" polygon_x="121 121 205 205 121 121"
+               polygon_y="57 135 135 56 56 57"/>
+      <element label="image" polygon_x="26 26 55 55 26 26" polygon_y="257 285 285 256 256 257"/>
+   </layout>
+   <text>
+      <keyword>place</keyword>
+      <keyword>life</keyword>
+      <keyword>book</keyword>
+      <keyword>discover</keyword>
+      <keyword>event</keyword>
+      <keyword>history</keyword>
+      <keyword>moment</keyword>
+      <keyword>woman</keyword>
+   </text>
+</annotation>

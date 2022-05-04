@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0243</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="22 290 290 21 21 22"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="127 290 290 126 126 127"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="127 200 200 126 126 127"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="22 75 75 21 21 22"/>
+      <element label="text" polygon_x="81 81 145 145 81 81" polygon_y="27 75 75 26 26 27"/>
+      <element label="text" polygon_x="11 11 80 80 11 11" polygon_y="117 120 120 116 116 117"/>
+      <element label="image" polygon_x="81 81 145 145 81 81"
+               polygon_y="212 290 290 211 211 212"/>
+      <element label="headline" polygon_x="11 11 100 100 11 11"
+               polygon_y="87 100 100 86 86 87"/>
+   </layout>
+   <text>
+      <keyword>decade</keyword>
+      <keyword>party</keyword>
+      <keyword>win</keyword>
+      <keyword>thousand</keyword>
+      <keyword>election</keyword>
+      <keyword>bank</keyword>
+      <keyword>vote</keyword>
+      <keyword>fund</keyword>
+      <keyword>market</keyword>
+      <keyword>politics</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0248</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="116 116 200 200 116 116"
+               polygon_y="222 280 280 221 221 222"/>
+      <element label="text" polygon_x="21 21 100 100 21 21"
+               polygon_y="197 245 245 196 196 197"/>
+      <element label="text" polygon_x="116 116 200 200 116 116"
+               polygon_y="172 210 210 171 171 172"/>
+      <element label="text" polygon_x="21 21 100 100 21 21"
+               polygon_y="252 280 280 251 251 252"/>
+      <element label="text" polygon_x="21 21 100 100 21 21"
+               polygon_y="172 190 190 171 171 172"/>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 165 165 1 1 2"/>
+   </layout>
+   <text>
+      <keyword>salt</keyword>
+      <keyword>taste</keyword>
+      <keyword>cool</keyword>
+      <keyword>season</keyword>
+      <keyword>oil</keyword>
+      <keyword>oven</keyword>
+      <keyword>bowl</keyword>
+      <keyword>wine</keyword>
+      <keyword>bake</keyword>
+      <keyword>golden</keyword>
+      <keyword>juice</keyword>
+      <keyword>fresh</keyword>
+      <keyword>dry</keyword>
+      <keyword>crisp</keyword>
+      <keyword>summer</keyword>
+      <keyword>skin</keyword>
+      <keyword>cuisine</keyword>
+   </text>
+</annotation>

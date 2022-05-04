@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0407</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="16 16 110 110 16 16" polygon_y="12 125 125 11 11 12"/>
+      <element label="text" polygon_x="116 116 210 210 116 116"
+               polygon_y="12 120 120 11 11 12"/>
+      <element label="text" polygon_x="86 86 145 145 86 86"
+               polygon_y="137 290 290 136 136 137"/>
+      <element label="text" polygon_x="151 151 210 210 151 151"
+               polygon_y="137 290 290 136 136 137"/>
+      <element label="text" polygon_x="16 16 80 80 16 16" polygon_y="172 290 290 171 171 172"/>
+      <element label="text" polygon_x="16 16 60 60 16 16" polygon_y="137 145 145 136 136 137"/>
+      <element label="image" polygon_x="16 16 60 60 16 16" polygon_y="152 165 165 151 151 152"/>
+   </layout>
+   <text>
+      <keyword>country</keyword>
+      <keyword>woman</keyword>
+      <keyword>talk</keyword>
+      <keyword>state</keyword>
+      <keyword>city</keyword>
+      <keyword>president</keyword>
+      <keyword>law</keyword>
+      <keyword>fact</keyword>
+      <keyword>thousand</keyword>
+      <keyword>nation</keyword>
+      <keyword>campaign</keyword>
+      <keyword>moment</keyword>
+      <keyword>street</keyword>
+      <keyword>history</keyword>
+      <keyword>police</keyword>
+   </text>
+</annotation>

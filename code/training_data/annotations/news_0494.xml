@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0494</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="42 290 290 41 41 42"/>
+      <element label="text" polygon_x="116 116 160 160 116 116"
+               polygon_y="202 270 270 201 201 202"/>
+      <element label="text" polygon_x="166 166 215 215 166 166"
+               polygon_y="137 190 190 136 136 137"/>
+      <element label="text" polygon_x="116 116 160 160 116 116"
+               polygon_y="137 195 195 136 136 137"/>
+      <element label="text" polygon_x="166 166 215 215 166 166"
+               polygon_y="267 280 280 266 266 267"/>
+      <element label="text" polygon_x="116 116 205 205 116 116"
+               polygon_y="127 130 130 126 126 127"/>
+      <element label="image" polygon_x="116 116 215 215 116 116"
+               polygon_y="62 125 125 61 61 62"/>
+      <element label="image" polygon_x="166 166 215 215 166 166"
+               polygon_y="197 265 265 196 196 197"/>
+      <element label="headline" polygon_x="116 116 200 200 116 116"
+               polygon_y="42 55 55 41 41 42"/>
+   </layout>
+   <text>
+      <keyword>friend</keyword>
+      <keyword>family</keyword>
+      <keyword>law</keyword>
+      <keyword>fear</keyword>
+      <keyword>problem</keyword>
+      <keyword>matter</keyword>
+      <keyword>history</keyword>
+      <keyword>police</keyword>
+   </text>
+</annotation>

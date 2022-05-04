@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0245</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="31 31 105 105 31 31"
+               polygon_y="182 285 285 181 181 182"/>
+      <element label="text" polygon_x="131 131 205 205 131 131"
+               polygon_y="192 285 285 191 191 192"/>
+      <element label="text" polygon_x="131 131 205 205 131 131"
+               polygon_y="122 185 185 121 121 122"/>
+      <element label="text" polygon_x="21 21 115 115 21 21"
+               polygon_y="147 175 175 146 146 147"/>
+      <element label="text" polygon_x="6 6 40 40 6 6" polygon_y="7 15 15 6 6 7"/>
+      <element label="image" polygon_x="31 31 105 106 106 220 220 101 100 100 95 95 95 31 31"
+               polygon_y="22 140 140 116 115 115 6 6 90 91 91 90 21 21 22"/>
+      <element label="text-over-image" polygon_x="31 31 105 105 95 95 95 31 31"
+               polygon_y="22 140 140 91 91 90 21 21 22"/>
+   </layout>
+   <text>
+      <keyword>skin</keyword>
+      <keyword>man</keyword>
+      <keyword>room</keyword>
+      <keyword>mind</keyword>
+      <keyword>ring</keyword>
+      <keyword>body</keyword>
+      <keyword>london</keyword>
+      <keyword>fall</keyword>
+      <keyword>beautiful</keyword>
+      <keyword>school</keyword>
+      <keyword>drink</keyword>
+   </text>
+</annotation>

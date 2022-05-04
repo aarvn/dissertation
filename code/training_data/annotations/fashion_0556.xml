@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0556</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="71 71 150 150 71 71" polygon_y="42 70 70 41 41 42"/>
+      <element label="text" polygon_x="11 11 55 55 11 11" polygon_y="12 20 20 11 11 12"/>
+      <element label="text" polygon_x="171 171 195 195 171 171" polygon_y="67 75 75 66 66 67"/>
+      <element label="image" polygon_x="1 1 70 71 71 210 210 76 75 75 70 70 70 1 1"
+               polygon_y="27 290 290 281 280 280 81 81 175 176 176 175 26 26 27"/>
+      <element label="image" polygon_x="156 156 210 210 156 156" polygon_y="2 60 60 1 1 2"/>
+      <element label="headline" polygon_x="81 81 140 140 81 81" polygon_y="27 35 35 26 26 27"/>
+      <element label="text-over-image" polygon_x="61 61 210 210 76 75 75 61 61"
+               polygon_y="177 280 280 81 81 175 176 176 177"/>
+      <element label="text-over-image" polygon_x="16 16 35 35 16 16"
+               polygon_y="252 270 270 251 251 252"/>
+   </layout>
+   <text>
+      <keyword>woman</keyword>
+      <keyword>style</keyword>
+      <keyword>dress</keyword>
+      <keyword>season</keyword>
+      <keyword>face</keyword>
+      <keyword>girl</keyword>
+      <keyword>colour</keyword>
+      <keyword>collection</keyword>
+      <keyword>design</keyword>
+      <keyword>fun</keyword>
+      <keyword>fit</keyword>
+      <keyword>fall</keyword>
+      <keyword>kid</keyword>
+      <keyword>inspiration</keyword>
+      <keyword>drink</keyword>
+      <keyword>texture</keyword>
+      <keyword>shop</keyword>
+      <keyword>cool</keyword>
+      <keyword>paris</keyword>
+      <keyword>instagram</keyword>
+      <keyword>lady</keyword>
+   </text>
+</annotation>

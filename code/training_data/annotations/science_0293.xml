@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0293</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="156 156 205 205 156 156"
+               polygon_y="42 270 270 41 41 42"/>
+      <element label="text" polygon_x="16 16 95 95 16 16" polygon_y="147 270 270 146 146 147"/>
+      <element label="text" polygon_x="101 101 150 150 111 110 110 101 101"
+               polygon_y="147 230 230 41 41 145 146 146 147"/>
+      <element label="text" polygon_x="101 101 205 205 101 101" polygon_y="17 35 35 16 16 17"/>
+      <element label="text" polygon_x="16 16 80 80 16 16" polygon_y="17 35 35 16 16 17"/>
+      <element label="image" polygon_x="16 16 105 105 16 16" polygon_y="42 115 115 41 41 42"/>
+      <element label="image" polygon_x="101 101 150 150 101 101"
+               polygon_y="237 270 270 236 236 237"/>
+      <element label="headline" polygon_x="16 16 105 105 16 16"
+               polygon_y="122 140 140 121 121 122"/>
+   </layout>
+   <text>
+      <keyword>place</keyword>
+      <keyword>reason</keyword>
+      <keyword>question</keyword>
+   </text>
+</annotation>

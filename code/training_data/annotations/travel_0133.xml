@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0133</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="116 116 210 210 116 116"
+               polygon_y="197 260 260 196 196 197"/>
+      <element label="text" polygon_x="116 116 210 210 116 116" polygon_y="27 65 65 26 26 27"/>
+      <element label="text" polygon_x="116 116 210 210 116 116"
+               polygon_y="72 110 110 71 71 72"/>
+      <element label="text" polygon_x="116 116 210 210 116 116"
+               polygon_y="117 155 155 116 116 117"/>
+      <element label="text" polygon_x="116 116 210 210 116 116"
+               polygon_y="162 190 190 161 161 162"/>
+      <element label="text" polygon_x="136 136 210 210 136 136"
+               polygon_y="272 285 285 271 271 272"/>
+      <element label="image" polygon_x="16 16 110 110 16 16"
+               polygon_y="152 220 220 151 151 152"/>
+      <element label="image" polygon_x="16 16 110 110 16 16" polygon_y="17 80 80 16 16 17"/>
+      <element label="image" polygon_x="16 16 110 110 16 16" polygon_y="87 145 145 86 86 87"/>
+      <element label="image" polygon_x="16 16 110 110 16 16"
+               polygon_y="227 285 285 226 226 227"/>
+      <element label="image" polygon_x="116 116 135 135 116 116"
+               polygon_y="267 285 285 266 266 267"/>
+   </layout>
+   <text>
+      <keyword>love</keyword>
+      <keyword>visit</keyword>
+      <keyword>beach</keyword>
+      <keyword>room</keyword>
+      <keyword>farm</keyword>
+      <keyword>story</keyword>
+      <keyword>history</keyword>
+      <keyword>visitor</keyword>
+      <keyword>adventure</keyword>
+   </text>
+</annotation>

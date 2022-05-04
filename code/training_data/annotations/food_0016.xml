@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0016</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="21 21 225 225 21 21" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="91 91 140 140 91 91"
+               polygon_y="22 125 125 21 21 22"/>
+      <element label="text-over-image" polygon_x="146 146 190 190 146 146"
+               polygon_y="22 100 100 21 21 22"/>
+      <element label="text-over-image" polygon_x="36 36 85 85 36 36"
+               polygon_y="77 130 130 76 76 77"/>
+      <element label="text-over-image" polygon_x="36 36 85 85 36 36"
+               polygon_y="22 50 50 21 21 22"/>
+      <element label="text-over-image" polygon_x="36 36 85 85 36 36"
+               polygon_y="57 70 70 56 56 57"/>
+   </layout>
+   <text>
+      <keyword>top</keyword>
+      <keyword>stir</keyword>
+      <keyword>heat</keyword>
+      <keyword>water</keyword>
+      <keyword>mixture</keyword>
+      <keyword>fridge</keyword>
+      <keyword>soft</keyword>
+      <keyword>milk</keyword>
+      <keyword>fresh</keyword>
+      <keyword>soften</keyword>
+      <keyword>fruit</keyword>
+   </text>
+</annotation>

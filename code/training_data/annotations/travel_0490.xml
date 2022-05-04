@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0490</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="111 111 210 210 111 111"
+               polygon_y="162 265 265 161 161 162"/>
+      <element label="text" polygon_x="111 111 210 210 111 111"
+               polygon_y="272 280 280 271 271 272"/>
+      <element label="image" polygon_x="101 101 210 210 101 101" polygon_y="2 145 145 1 1 2"/>
+      <element label="image" polygon_x="1 1 95 95 1 1" polygon_y="22 155 155 21 21 22"/>
+      <element label="image" polygon_x="6 6 95 95 6 6" polygon_y="162 280 280 161 161 162"/>
+      <element label="text-over-image" polygon_x="6 6 40 40 6 6"
+               polygon_y="162 180 180 161 161 162"/>
+      <element label="text-over-image" polygon_x="66 66 95 95 66 66"
+               polygon_y="22 40 40 21 21 22"/>
+      <element label="text-over-image" polygon_x="106 106 145 145 106 106"
+               polygon_y="7 20 20 6 6 7"/>
+   </layout>
+   <text>
+      <keyword>place</keyword>
+      <keyword>view</keyword>
+      <keyword>design</keyword>
+      <keyword>beach</keyword>
+      <keyword>friend</keyword>
+      <keyword>travel</keyword>
+      <keyword>season</keyword>
+      <keyword>beautiful</keyword>
+      <keyword>thought</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0348</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="41 41 110 110 41 41"
+               polygon_y="137 290 290 136 136 137"/>
+      <element label="text" polygon_x="116 116 180 180 116 116"
+               polygon_y="137 240 240 136 136 137"/>
+      <element label="text" polygon_x="56 56 160 160 56 56"
+               polygon_y="117 130 130 116 116 117"/>
+      <element label="image" polygon_x="6 6 220 220 6 6" polygon_y="2 95 95 1 1 2"/>
+      <element label="image" polygon_x="116 116 180 180 116 116"
+               polygon_y="247 290 290 246 246 247"/>
+      <element label="headline" polygon_x="31 31 195 195 31 31"
+               polygon_y="102 110 110 101 101 102"/>
+   </layout>
+   <text>
+      <keyword>explore</keyword>
+      <keyword>food</keyword>
+      <keyword>travel</keyword>
+      <keyword>trip</keyword>
+   </text>
+</annotation>

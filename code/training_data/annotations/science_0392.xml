@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0392</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="72 285 285 71 71 72"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="167 285 285 166 166 167"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="207 285 285 206 206 207"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="167 200 200 166 166 167"/>
+      <element label="text" polygon_x="11 11 130 130 11 11" polygon_y="47 60 60 46 46 47"/>
+      <element label="image" polygon_x="81 81 215 215 81 81" polygon_y="72 160 160 71 71 72"/>
+      <element label="headline" polygon_x="11 11 115 115 11 11" polygon_y="32 40 40 31 31 32"/>
+   </layout>
+   <text>
+      <keyword>scientist</keyword>
+      <keyword>life</keyword>
+      <keyword>researcher</keyword>
+      <keyword>research</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0562</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 85 85 11 11" polygon_y="207 290 290 206 206 207"/>
+      <element label="text" polygon_x="91 91 165 165 91 91"
+               polygon_y="207 265 265 206 206 207"/>
+      <element label="text" polygon_x="91 91 160 160 91 91"
+               polygon_y="272 290 290 271 271 272"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="182 195 195 181 181 182"/>
+      <element label="text" polygon_x="176 176 205 205 176 176"
+               polygon_y="217 240 240 216 216 217"/>
+      <element label="image" polygon_x="11 11 215 215 11 11" polygon_y="37 175 175 36 36 37"/>
+   </layout>
+   <text>
+      <keyword>woman</keyword>
+      <keyword>job</keyword>
+      <keyword>nation</keyword>
+      <keyword>serve</keyword>
+      <keyword>top</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0014</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="91 91 140 140 91 91"
+               polygon_y="232 280 280 231 231 232"/>
+      <element label="text" polygon_x="156 156 200 200 156 156"
+               polygon_y="227 280 280 226 226 227"/>
+      <element label="text" polygon_x="91 91 140 140 91 91"
+               polygon_y="182 225 225 181 181 182"/>
+      <element label="text" polygon_x="26 26 75 75 26 26" polygon_y="177 215 215 176 176 177"/>
+      <element label="text" polygon_x="26 26 75 75 26 26" polygon_y="222 260 260 221 221 222"/>
+      <element label="text" polygon_x="156 156 200 200 156 156"
+               polygon_y="182 220 220 181 181 182"/>
+      <element label="text" polygon_x="156 156 200 200 156 156"
+               polygon_y="147 175 175 146 146 147"/>
+      <element label="text" polygon_x="26 26 75 75 26 26" polygon_y="147 170 170 146 146 147"/>
+      <element label="text" polygon_x="26 26 75 75 26 26" polygon_y="267 280 280 266 266 267"/>
+      <element label="text" polygon_x="91 91 140 140 91 91"
+               polygon_y="167 175 175 166 166 167"/>
+      <element label="text" polygon_x="91 91 125 125 91 91"
+               polygon_y="152 160 160 151 151 152"/>
+      <element label="image" polygon_x="86 86 220 220 86 86" polygon_y="2 140 140 1 1 2"/>
+      <element label="image" polygon_x="6 6 80 80 6 6" polygon_y="2 140 140 1 1 2"/>
+   </layout>
+   <text>
+      <keyword>wedding</keyword>
+      <keyword>bride</keyword>
+      <keyword>style</keyword>
+      <keyword>couple</keyword>
+      <keyword>ceremony</keyword>
+      <keyword>dream</keyword>
+      <keyword>arrange</keyword>
+      <keyword>suit</keyword>
+      <keyword>location</keyword>
+      <keyword>beautiful</keyword>
+      <keyword>island</keyword>
+      <keyword>ideal</keyword>
+      <keyword>cool</keyword>
+      <keyword>issue</keyword>
+   </text>
+</annotation>

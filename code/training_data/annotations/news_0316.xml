@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0316</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="137 290 290 136 136 137"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="22 125 125 21 21 22"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="207 290 290 206 206 207"/>
+      <element label="text" polygon_x="86 86 140 140 86 86"
+               polygon_y="207 290 290 206 206 207"/>
+      <element label="text" polygon_x="11 11 135 135 11 11"
+               polygon_y="192 200 200 191 191 192"/>
+      <element label="image" polygon_x="11 11 145 145 115 115 115 16 15 15 11 11"
+               polygon_y="17 165 165 16 16 15 11 11 15 16 16 17"/>
+      <element label="headline" polygon_x="11 11 120 120 11 11"
+               polygon_y="172 180 180 171 171 172"/>
+      <element label="text-over-image" polygon_x="16 16 115 115 16 16"
+               polygon_y="12 20 20 11 11 12"/>
+   </layout>
+   <text>
+      <keyword>decade</keyword>
+      <keyword>fall</keyword>
+      <keyword>president</keyword>
+      <keyword>bad</keyword>
+      <keyword>grow</keyword>
+      <keyword>money</keyword>
+      <keyword>business</keyword>
+      <keyword>struggle</keyword>
+      <keyword>bank</keyword>
+      <keyword>promise</keyword>
+      <keyword>market</keyword>
+   </text>
+</annotation>

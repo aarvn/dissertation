@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0283</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 145 145 21 21"
+               polygon_y="257 285 285 256 256 257"/>
+      <element label="text" polygon_x="21 21 145 145 21 21"
+               polygon_y="142 155 155 141 141 142"/>
+      <element label="text" polygon_x="161 161 190 190 161 161"
+               polygon_y="137 155 155 136 136 137"/>
+      <element label="text" polygon_x="161 161 190 190 161 161"
+               polygon_y="262 280 280 261 261 262"/>
+      <element label="text" polygon_x="21 21 80 80 21 21" polygon_y="132 135 135 131 131 132"/>
+      <element label="image" polygon_x="6 6 145 146 146 151 151 151 220 220 6 6"
+               polygon_y="2 125 125 41 40 40 41 80 80 1 1 2"/>
+      <element label="image" polygon_x="6 6 145 145 6 6" polygon_y="162 245 245 161 161 162"/>
+      <element label="image" polygon_x="151 151 220 220 151 151"
+               polygon_y="162 245 245 161 161 162"/>
+      <element label="image" polygon_x="151 151 220 220 151 151"
+               polygon_y="87 125 125 86 86 87"/>
+   </layout>
+   <text>
+      <keyword>place</keyword>
+   </text>
+</annotation>

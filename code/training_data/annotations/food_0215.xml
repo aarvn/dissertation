@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0215</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 75 75 21 21" polygon_y="107 220 220 106 106 107"/>
+      <element label="text" polygon_x="151 151 205 205 151 151"
+               polygon_y="182 280 280 181 181 182"/>
+      <element label="text" polygon_x="86 86 140 140 86 86"
+               polygon_y="137 200 200 136 136 137"/>
+      <element label="text" polygon_x="151 151 205 205 151 151"
+               polygon_y="97 155 155 96 96 97"/>
+      <element label="text" polygon_x="86 86 140 140 86 86"
+               polygon_y="227 280 280 226 226 227"/>
+      <element label="text" polygon_x="21 21 75 75 21 21" polygon_y="242 280 280 241 241 242"/>
+      <element label="text" polygon_x="86 86 140 140 86 86" polygon_y="92 120 120 91 91 92"/>
+      <element label="text" polygon_x="86 86 140 140 86 86"
+               polygon_y="207 220 220 206 206 207"/>
+      <element label="text" polygon_x="21 21 75 75 21 21" polygon_y="92 100 100 91 91 92"/>
+      <element label="text" polygon_x="21 21 75 75 21 21" polygon_y="227 235 235 226 226 227"/>
+      <element label="text" polygon_x="151 151 205 205 151 151"
+               polygon_y="167 175 175 166 166 167"/>
+      <element label="image" polygon_x="36 36 80 80 36 36" polygon_y="27 80 80 26 26 27"/>
+      <element label="image" polygon_x="126 126 165 165 126 126" polygon_y="27 80 80 26 26 27"/>
+      <element label="image" polygon_x="171 171 210 210 171 171" polygon_y="27 80 80 26 26 27"/>
+      <element label="image" polygon_x="86 86 120 120 86 86" polygon_y="27 80 80 26 26 27"/>
+      <element label="headline" polygon_x="21 21 30 30 21 21" polygon_y="27 80 80 26 26 27"/>
+   </layout>
+   <text>
+      <keyword>recipe</keyword>
+      <keyword>season</keyword>
+      <keyword>eat</keyword>
+      <keyword>food</keyword>
+      <keyword>restaurant</keyword>
+      <keyword>ingredient</keyword>
+      <keyword>love</keyword>
+      <keyword>sauce</keyword>
+      <keyword>kitchen</keyword>
+      <keyword>book</keyword>
+      <keyword>chilli</keyword>
+      <keyword>coriander</keyword>
+   </text>
+</annotation>

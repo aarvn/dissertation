@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0533</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="56 56 160 160 56 56"
+               polygon_y="222 275 275 221 221 222"/>
+      <element label="text" polygon_x="171 171 215 215 171 171"
+               polygon_y="202 275 275 201 201 202"/>
+      <element label="text" polygon_x="1 1 120 120 1 1" polygon_y="202 205 205 201 201 202"/>
+      <element label="text" polygon_x="171 171 215 215 171 171"
+               polygon_y="187 195 195 186 186 187"/>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="32 165 165 31 31 32"/>
+      <element label="headline" polygon_x="1 1 95 95 1 1" polygon_y="177 195 195 176 176 177"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>family</keyword>
+      <keyword>beach</keyword>
+      <keyword>friend</keyword>
+      <keyword>fun</keyword>
+      <keyword>spring</keyword>
+      <keyword>nature</keyword>
+      <keyword>flight</keyword>
+   </text>
+</annotation>

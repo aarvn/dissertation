@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0085</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="167 285 285 166 166 167"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="167 265 265 166 166 167"/>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="167 265 265 166 166 167"/>
+      <element label="text" polygon_x="31 31 135 135 31 31"
+               polygon_y="272 285 285 271 271 272"/>
+      <element label="image" polygon_x="16 16 130 130 16 16" polygon_y="17 85 85 16 16 17"/>
+      <element label="image" polygon_x="116 116 215 215 116 116"
+               polygon_y="92 160 160 91 91 92"/>
+      <element label="image" polygon_x="16 16 110 110 16 16" polygon_y="92 160 160 91 91 92"/>
+      <element label="image" polygon_x="136 136 215 215 136 136" polygon_y="17 85 85 16 16 17"/>
+      <element label="text-over-image" polygon_x="16 16 55 55 16 16"
+               polygon_y="17 30 30 16 16 17"/>
+      <element label="text-over-image" polygon_x="136 136 165 165 136 136"
+               polygon_y="17 35 35 16 16 17"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>decade</keyword>
+      <keyword>animal</keyword>
+      <keyword>south</keyword>
+      <keyword>question</keyword>
+      <keyword>state</keyword>
+      <keyword>method</keyword>
+      <keyword>fall</keyword>
+   </text>
+</annotation>

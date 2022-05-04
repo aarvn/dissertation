@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0455</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="16 16 210 210 16 16"
+               polygon_y="152 165 165 151 151 152"/>
+      <element label="headline-over-image" polygon_x="11 11 215 215 11 11"
+               polygon_y="132 145 145 131 131 132"/>
+   </layout>
+   <text>
+      <keyword>heat</keyword>
+   </text>
+</annotation>

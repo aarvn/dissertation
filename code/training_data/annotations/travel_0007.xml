@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0007</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="16 16 65 65 16 16" polygon_y="72 285 285 71 71 72"/>
+      <element label="text" polygon_x="161 161 210 210 161 161"
+               polygon_y="72 265 265 71 71 72"/>
+      <element label="text" polygon_x="71 71 125 125 71 71"
+               polygon_y="167 250 250 166 166 167"/>
+      <element label="text" polygon_x="26 26 200 200 26 26" polygon_y="47 55 55 46 46 47"/>
+      <element label="text" polygon_x="71 71 125 125 71 71"
+               polygon_y="257 285 285 256 256 257"/>
+      <element label="text" polygon_x="131 131 155 155 131 131"
+               polygon_y="207 240 240 206 206 207"/>
+      <element label="text" polygon_x="161 161 210 210 161 161"
+               polygon_y="272 285 285 271 271 272"/>
+      <element label="image" polygon_x="66 66 160 160 66 66" polygon_y="72 160 160 71 71 72"/>
+      <element label="image" polygon_x="131 131 155 155 131 131"
+               polygon_y="167 200 200 166 166 167"/>
+      <element label="headline" polygon_x="61 61 165 165 61 61" polygon_y="32 45 45 31 31 32"/>
+   </layout>
+   <text>
+      <keyword>love</keyword>
+      <keyword>book</keyword>
+      <keyword>travel</keyword>
+      <keyword>bird</keyword>
+      <keyword>sky</keyword>
+      <keyword>beautiful</keyword>
+      <keyword>picture</keyword>
+      <keyword>moment</keyword>
+   </text>
+</annotation>

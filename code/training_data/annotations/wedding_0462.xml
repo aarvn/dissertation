@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0462</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="51 51 105 105 51 51" polygon_y="97 165 165 96 96 97"/>
+      <element label="text" polygon_x="111 111 165 165 111 111"
+               polygon_y="227 280 280 226 226 227"/>
+      <element label="text" polygon_x="111 111 170 170 111 111"
+               polygon_y="137 185 185 136 136 137"/>
+      <element label="text" polygon_x="76 76 170 170 76 76" polygon_y="62 90 90 61 61 62"/>
+      <element label="text" polygon_x="51 51 105 105 51 51"
+               polygon_y="172 210 210 171 171 172"/>
+      <element label="text" polygon_x="111 111 170 170 111 111"
+               polygon_y="97 130 130 96 96 97"/>
+      <element label="text" polygon_x="111 111 170 170 111 111"
+               polygon_y="192 220 220 191 191 192"/>
+      <element label="image" polygon_x="1 1 45 46 46 105 105 45 45 46 46 70 70 15 15 15 1 1"
+               polygon_y="47 300 300 281 280 280 216 216 215 91 90 90 61 61 60 46 46 47"/>
+      <element label="image" polygon_x="171 171 176 176 176 225 225 176 175 175 171 171"
+               polygon_y="222 260 260 261 300 300 1 1 220 221 221 222"/>
+      <element label="headline" polygon_x="21 21 170 170 21 21" polygon_y="17 55 55 16 16 17"/>
+      <element label="text-over-image" polygon_x="171 171 215 215 171 171"
+               polygon_y="222 260 260 221 221 222"/>
+      <element label="text-over-image" polygon_x="46 46 105 105 46 46"
+               polygon_y="272 280 280 271 271 272"/>
+   </layout>
+   <text>
+      <keyword>love</keyword>
+      <keyword>dream</keyword>
+      <keyword>plan</keyword>
+      <keyword>parent</keyword>
+      <keyword>husband</keyword>
+   </text>
+</annotation>

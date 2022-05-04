@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0102</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 70 70 11 11" polygon_y="192 280 280 191 191 192"/>
+      <element label="text" polygon_x="76 76 145 145 76 76"
+               polygon_y="252 280 280 251 251 252"/>
+      <element label="text" polygon_x="151 151 210 210 151 151"
+               polygon_y="247 280 280 246 246 247"/>
+      <element label="text" polygon_x="151 151 210 210 151 151"
+               polygon_y="212 240 240 211 211 212"/>
+      <element label="image" polygon_x="6 6 106 106 105 105 76 76 145 146 146 220 220 6 6"
+               polygon_y="7 140 140 141 190 191 191 245 245 206 205 205 6 6 7"/>
+      <element label="image" polygon_x="41 41 75 75 41 41" polygon_y="177 185 185 176 176 177"/>
+      <element label="headline" polygon_x="26 26 90 90 26 26"
+               polygon_y="147 170 170 146 146 147"/>
+      <element label="text-over-image" polygon_x="161 161 215 215 161 161"
+               polygon_y="12 40 40 11 11 12"/>
+   </layout>
+   <text>
+      <keyword>west</keyword>
+      <keyword>air</keyword>
+   </text>
+</annotation>

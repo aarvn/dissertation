@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0380</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="81 81 145 145 81 81" polygon_y="32 180 180 31 31 32"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="32 170 170 31 31 32"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="32 105 105 31 31 32"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="222 285 285 221 221 222"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="177 215 215 176 176 177"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="147 180 180 146 146 147"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="112 140 140 111 111 112"/>
+      <element label="text" polygon_x="86 86 140 140 86 86"
+               polygon_y="192 225 225 191 191 192"/>
+      <element label="image" polygon_x="86 86 210 210 86 86"
+               polygon_y="237 280 280 236 236 237"/>
+      <element label="image" polygon_x="146 146 210 210 146 146"
+               polygon_y="192 225 225 191 191 192"/>
+   </layout>
+   <text>
+      <keyword>scientist</keyword>
+      <keyword>researcher</keyword>
+      <keyword>research</keyword>
+      <keyword>patient</keyword>
+      <keyword>create</keyword>
+      <keyword>surface</keyword>
+      <keyword>group</keyword>
+      <keyword>cancer</keyword>
+      <keyword>virus</keyword>
+      <keyword>development</keyword>
+      <keyword>therapy</keyword>
+      <keyword>success</keyword>
+   </text>
+</annotation>

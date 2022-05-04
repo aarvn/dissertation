@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0042</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="6 6 190 190 6 6" polygon_y="7 50 50 6 6 7"/>
+      <element label="text-over-image" polygon_x="116 116 205 205 116 116"
+               polygon_y="167 205 205 166 166 167"/>
+      <element label="text-over-image" polygon_x="116 116 210 210 116 116"
+               polygon_y="247 270 270 246 246 247"/>
+      <element label="text-over-image" polygon_x="116 116 175 175 116 116"
+               polygon_y="277 290 290 276 276 277"/>
+      <element label="text-over-image" polygon_x="6 6 55 55 6 6"
+               polygon_y="282 295 295 281 281 282"/>
+      <element label="text-over-image" polygon_x="181 181 210 210 181 181"
+               polygon_y="277 290 290 276 276 277"/>
+   </layout>
+   <text>
+      <keyword>money</keyword>
+      <keyword>support</keyword>
+   </text>
+</annotation>

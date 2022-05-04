@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0466</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="177 280 280 176 176 177"/>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="92 170 170 91 91 92"/>
+      <element label="text" polygon_x="86 86 145 145 86 86"
+               polygon_y="227 280 280 226 226 227"/>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="42 75 75 41 41 42"/>
+      <element label="text" polygon_x="181 181 205 205 181 181"
+               polygon_y="222 230 230 221 221 222"/>
+      <element label="image" polygon_x="86 86 215 215 86 86" polygon_y="37 210 210 36 36 37"/>
+   </layout>
+   <text>
+      <keyword>earth</keyword>
+      <keyword>ocean</keyword>
+   </text>
+</annotation>

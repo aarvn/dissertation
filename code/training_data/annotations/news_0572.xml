@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0572</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="156 156 210 210 180 180 181 181 210 210 156 156"
+               polygon_y="67 270 270 161 161 160 111 110 110 66 66 67"/>
+      <element label="text" polygon_x="11 11 90 90 11 11" polygon_y="157 270 270 156 156 157"/>
+      <element label="text" polygon_x="156 156 205 205 156 156" polygon_y="37 60 60 36 36 37"/>
+      <element label="text" polygon_x="186 186 210 210 186 186"
+               polygon_y="117 155 155 116 116 117"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="137 150 150 136 136 137"/>
+      <element label="text" polygon_x="11 11 90 90 11 11" polygon_y="277 285 285 276 276 277"/>
+      <element label="text" polygon_x="101 101 125 125 101 101"
+               polygon_y="162 185 185 161 161 162"/>
+      <element label="text" polygon_x="156 156 210 210 156 156"
+               polygon_y="277 285 285 276 276 277"/>
+      <element label="image" polygon_x="1 1 135 135 1 1" polygon_y="37 130 130 36 36 37"/>
+   </layout>
+   <text>
+      <keyword>man</keyword>
+      <keyword>win</keyword>
+      <keyword>live</keyword>
+      <keyword>love</keyword>
+      <keyword>mind</keyword>
+      <keyword>history</keyword>
+   </text>
+</annotation>

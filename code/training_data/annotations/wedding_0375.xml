@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0375</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image"
+               polygon_x="1 1 16 16 16 110 111 111 190 190 110 110 111 111 200 200 110 110 111 111 215 216 216 225 225 86 85 85 1 1"
+               polygon_y="22 145 145 146 285 285 281 280 280 276 276 275 271 270 270 241 241 240 236 235 235 146 145 145 1 1 20 21 21 22"/>
+      <element label="text-over-image" polygon_x="71 71 200 200 71 71"
+               polygon_y="242 270 270 241 241 242"/>
+      <element label="text-over-image" polygon_x="66 66 95 95 66 66"
+               polygon_y="122 150 150 121 121 122"/>
+      <element label="text-over-image" polygon_x="86 86 190 190 86 86"
+               polygon_y="277 280 280 276 276 277"/>
+      <element label="text-over-image" polygon_x="116 116 150 150 116 116"
+               polygon_y="222 230 230 221 221 222"/>
+   </layout>
+   <text>
+      <keyword>style</keyword>
+      <keyword>venue</keyword>
+      <keyword>reception</keyword>
+      <keyword>store</keyword>
+      <keyword>plenty</keyword>
+   </text>
+</annotation>

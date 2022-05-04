@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0127</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="26 26 85 85 26 26" polygon_y="72 280 280 71 71 72"/>
+      <element label="text" polygon_x="151 151 210 210 151 151"
+               polygon_y="172 280 280 171 171 172"/>
+      <element label="text" polygon_x="91 91 145 145 91 91"
+               polygon_y="212 280 280 211 211 212"/>
+      <element label="text" polygon_x="151 151 210 210 151 151"
+               polygon_y="147 165 165 146 146 147"/>
+      <element label="text" polygon_x="26 26 195 195 26 26" polygon_y="52 55 55 51 51 52"/>
+      <element label="text" polygon_x="26 26 55 55 26 26" polygon_y="62 65 65 61 61 62"/>
+      <element label="image" polygon_x="91 91 210 210 91 91" polygon_y="62 140 140 61 61 62"/>
+      <element label="image" polygon_x="91 91 145 145 91 91"
+               polygon_y="147 205 205 146 146 147"/>
+      <element label="headline" polygon_x="26 26 180 180 26 26" polygon_y="37 45 45 36 36 37"/>
+   </layout>
+   <text>
+      <keyword>woman</keyword>
+      <keyword>decade</keyword>
+      <keyword>art</keyword>
+      <keyword>issue</keyword>
+      <keyword>debate</keyword>
+      <keyword>mind</keyword>
+      <keyword>deal</keyword>
+      <keyword>explain</keyword>
+      <keyword>culture</keyword>
+      <keyword>challenge</keyword>
+   </text>
+</annotation>

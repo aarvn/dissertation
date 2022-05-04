@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0099</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="101 101 155 155 101 101"
+               polygon_y="227 285 285 226 226 227"/>
+      <element label="text" polygon_x="51 51 205 205 51 51"
+               polygon_y="207 220 220 206 206 207"/>
+      <element label="text" polygon_x="161 161 205 205 161 161"
+               polygon_y="227 275 275 226 226 227"/>
+      <element label="text" polygon_x="51 51 95 95 51 51" polygon_y="252 285 285 251 251 252"/>
+      <element label="text" polygon_x="51 51 95 95 51 51" polygon_y="227 245 245 226 226 227"/>
+      <element label="text" polygon_x="66 66 165 165 66 66" polygon_y="62 65 65 61 61 62"/>
+      <element label="text" polygon_x="96 96 130 130 96 96" polygon_y="12 20 20 11 11 12"/>
+      <element label="text" polygon_x="161 161 205 205 161 161"
+               polygon_y="282 285 285 281 281 282"/>
+      <element label="image" polygon_x="11 11 215 215 11 11" polygon_y="72 200 200 71 71 72"/>
+      <element label="image" polygon_x="21 21 45 45 21 21" polygon_y="207 240 240 206 206 207"/>
+      <element label="headline" polygon_x="46 46 185 185 46 46" polygon_y="27 55 55 26 26 27"/>
+      <element label="text-over-image" polygon_x="156 156 215 215 156 156"
+               polygon_y="187 200 200 186 186 187"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>family</keyword>
+      <keyword>area</keyword>
+      <keyword>farm</keyword>
+      <keyword>snow</keyword>
+   </text>
+</annotation>

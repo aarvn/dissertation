@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0376</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 110 110 11 11" polygon_y="82 180 180 81 81 82"/>
+      <element label="text" polygon_x="11 11 110 110 11 11"
+               polygon_y="187 285 285 186 186 187"/>
+      <element label="text" polygon_x="116 116 215 215 116 116"
+               polygon_y="127 200 200 126 126 127"/>
+      <element label="text" polygon_x="116 116 215 215 116 116"
+               polygon_y="72 120 120 71 71 72"/>
+      <element label="text" polygon_x="11 11 110 110 11 11" polygon_y="32 75 75 31 31 32"/>
+      <element label="text" polygon_x="116 116 215 215 116 116"
+               polygon_y="242 285 285 241 241 242"/>
+      <element label="text" polygon_x="116 116 215 215 116 116" polygon_y="32 65 65 31 31 32"/>
+      <element label="text" polygon_x="116 116 215 215 116 116"
+               polygon_y="207 235 235 206 206 207"/>
+   </layout>
+   <text>
+      <keyword>scientist</keyword>
+      <keyword>research</keyword>
+      <keyword>patient</keyword>
+      <keyword>test</keyword>
+      <keyword>discover</keyword>
+      <keyword>country</keyword>
+      <keyword>experience</keyword>
+      <keyword>cancer</keyword>
+      <keyword>lab</keyword>
+      <keyword>question</keyword>
+      <keyword>answer</keyword>
+      <keyword>treatment</keyword>
+      <keyword>develop</keyword>
+      <keyword>tumor</keyword>
+      <keyword>fall</keyword>
+      <keyword>therapy</keyword>
+   </text>
+</annotation>

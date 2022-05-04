@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0308</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="22 285 285 21 21 22"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="22 195 195 21 21 22"/>
+      <element label="text" polygon_x="81 81 145 145 81 81" polygon_y="57 215 215 56 56 57"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="207 215 215 206 206 207"/>
+      <element label="image" polygon_x="81 81 215 215 81 81"
+               polygon_y="222 285 285 221 221 222"/>
+      <element label="headline" polygon_x="81 81 120 120 81 81" polygon_y="22 35 35 21 21 22"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>woman</keyword>
+      <keyword>art</keyword>
+      <keyword>issue</keyword>
+      <keyword>young</keyword>
+   </text>
+</annotation>

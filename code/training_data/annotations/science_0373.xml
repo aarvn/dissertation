@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0373</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 110 110 11 11"
+               polygon_y="162 205 205 161 161 162"/>
+      <element label="text" polygon_x="116 116 215 215 116 116"
+               polygon_y="207 245 245 206 206 207"/>
+      <element label="text" polygon_x="11 11 110 110 11 11"
+               polygon_y="212 245 245 211 211 212"/>
+      <element label="text" polygon_x="116 116 215 215 116 116"
+               polygon_y="167 200 200 166 166 167"/>
+      <element label="text" polygon_x="116 116 215 215 116 116"
+               polygon_y="252 285 285 251 251 252"/>
+      <element label="text" polygon_x="11 11 110 110 11 11"
+               polygon_y="257 285 285 256 256 257"/>
+      <element label="text" polygon_x="116 116 215 215 116 116"
+               polygon_y="132 160 160 131 131 132"/>
+      <element label="text" polygon_x="11 11 110 110 11 11"
+               polygon_y="132 155 155 131 131 132"/>
+      <element label="text" polygon_x="11 11 110 110 11 11"
+               polygon_y="107 125 125 106 106 107"/>
+      <element label="text" polygon_x="116 116 215 215 116 116"
+               polygon_y="107 125 125 106 106 107"/>
+      <element label="text" polygon_x="11 11 110 110 11 11" polygon_y="82 85 85 81 81 82"/>
+      <element label="text" polygon_x="116 116 215 215 116 116" polygon_y="82 85 85 81 81 82"/>
+      <element label="image" polygon_x="11 11 110 110 11 11" polygon_y="2 75 75 1 1 2"/>
+      <element label="image" polygon_x="116 116 215 215 116 116" polygon_y="2 75 75 1 1 2"/>
+      <element label="headline" polygon_x="116 116 215 215 116 116"
+               polygon_y="92 105 105 91 91 92"/>
+      <element label="headline" polygon_x="11 11 85 85 11 11" polygon_y="92 105 105 91 91 92"/>
+   </layout>
+   <text>
+      <keyword>study</keyword>
+      <keyword>idea</keyword>
+      <keyword>cancer</keyword>
+      <keyword>school</keyword>
+      <keyword>treatment</keyword>
+      <keyword>tumor</keyword>
+   </text>
+</annotation>

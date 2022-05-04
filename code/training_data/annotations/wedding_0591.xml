@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0591</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 70 70 11 11" polygon_y="92 140 140 91 91 92"/>
+      <element label="text" polygon_x="111 111 210 210 111 111"
+               polygon_y="262 290 290 261 261 262"/>
+      <element label="text" polygon_x="11 11 105 105 11 11"
+               polygon_y="262 290 290 261 261 262"/>
+      <element label="text" polygon_x="31 31 190 190 31 31"
+               polygon_y="242 255 255 241 241 242"/>
+      <element label="text" polygon_x="11 11 70 70 11 11" polygon_y="42 75 75 41 41 42"/>
+      <element label="text" polygon_x="1 1 35 35 1 1" polygon_y="7 15 15 6 6 7"/>
+      <element label="image" polygon_x="76 76 225 225 76 76" polygon_y="2 215 215 1 1 2"/>
+      <element label="image" polygon_x="1 1 70 70 1 1" polygon_y="172 215 215 171 171 172"/>
+      <element label="headline" polygon_x="26 26 195 195 26 26"
+               polygon_y="222 230 230 221 221 222"/>
+   </layout>
+   <text>
+      <keyword>wedding</keyword>
+      <keyword>place</keyword>
+      <keyword>life</keyword>
+      <keyword>remember</keyword>
+      <keyword>music</keyword>
+      <keyword>relationship</keyword>
+   </text>
+</annotation>

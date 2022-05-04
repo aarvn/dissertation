@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0412</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="32 245 245 31 31 32"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="32 160 160 31 31 32"/>
+      <element label="text" polygon_x="81 81 145 145 81 81" polygon_y="32 160 160 31 31 32"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="257 285 285 256 256 257"/>
+      <element label="image" polygon_x="91 91 140 140 91 91"
+               polygon_y="177 225 225 176 176 177"/>
+      <element label="image" polygon_x="41 41 85 85 41 41" polygon_y="177 225 225 176 176 177"/>
+      <element label="image" polygon_x="91 91 140 140 91 91"
+               polygon_y="232 275 275 231 231 232"/>
+      <element label="image" polygon_x="41 41 85 85 41 41" polygon_y="232 275 275 231 231 232"/>
+   </layout>
+   <text>
+      <keyword>study</keyword>
+      <keyword>scientist</keyword>
+      <keyword>place</keyword>
+      <keyword>researcher</keyword>
+      <keyword>image</keyword>
+      <keyword>nature</keyword>
+      <keyword>method</keyword>
+      <keyword>report</keyword>
+      <keyword>impact</keyword>
+      <keyword>challenge</keyword>
+      <keyword>analysis</keyword>
+   </text>
+</annotation>

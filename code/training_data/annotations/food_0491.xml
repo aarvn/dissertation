@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0491</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="6 6 220 220 6 6" polygon_y="7 295 295 6 6 7"/>
+      <element label="text-over-image" polygon_x="66 66 110 110 66 66"
+               polygon_y="222 285 285 221 221 222"/>
+      <element label="text-over-image" polygon_x="116 116 160 160 116 116"
+               polygon_y="222 285 285 221 221 222"/>
+      <element label="text-over-image" polygon_x="166 166 210 210 166 166"
+               polygon_y="222 285 285 221 221 222"/>
+      <element label="text-over-image" polygon_x="11 11 60 60 11 11"
+               polygon_y="222 240 240 221 221 222"/>
+      <element label="text-over-image" polygon_x="11 11 60 60 11 11"
+               polygon_y="267 285 285 266 266 267"/>
+      <element label="text-over-image" polygon_x="11 11 60 60 11 11"
+               polygon_y="247 260 260 246 246 247"/>
+      <element label="text-over-image" polygon_x="11 11 60 60 11 11"
+               polygon_y="212 215 215 211 211 212"/>
+      <element label="text-over-image" polygon_x="191 191 220 220 191 191"
+               polygon_y="12 15 15 11 11 12"/>
+   </layout>
+   <text>
+      <keyword>salt</keyword>
+      <keyword>season</keyword>
+      <keyword>oven</keyword>
+      <keyword>bowl</keyword>
+      <keyword>wine</keyword>
+      <keyword>garlic</keyword>
+      <keyword>pepper</keyword>
+      <keyword>juice</keyword>
+      <keyword>fat</keyword>
+      <keyword>skin</keyword>
+      <keyword>spice</keyword>
+      <keyword>herb</keyword>
+      <keyword>chicken</keyword>
+      <keyword>honey</keyword>
+   </text>
+</annotation>

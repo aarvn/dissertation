@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0066</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="6 6 80 80 6 6" polygon_y="67 125 125 66 66 67"/>
+      <element label="text" polygon_x="6 6 80 80 6 6" polygon_y="172 215 215 171 171 172"/>
+      <element label="text" polygon_x="6 6 80 80 6 6" polygon_y="222 260 260 221 221 222"/>
+      <element label="text" polygon_x="6 6 80 80 6 6" polygon_y="132 165 165 131 131 132"/>
+      <element label="text" polygon_x="6 6 55 55 6 6" polygon_y="42 50 50 41 41 42"/>
+      <element label="image" polygon_x="91 91 225 225 91 91" polygon_y="67 275 275 66 66 67"/>
+      <element label="headline" polygon_x="6 6 175 175 6 6" polygon_y="27 35 35 26 26 27"/>
+   </layout>
+   <text>
+      <keyword>wedding</keyword>
+      <keyword>love</keyword>
+      <keyword>venue</keyword>
+      <keyword>enjoy</keyword>
+      <keyword>budget</keyword>
+      <keyword>perfect</keyword>
+      <keyword>important</keyword>
+      <keyword>flower</keyword>
+      <keyword>remember</keyword>
+      <keyword>image</keyword>
+      <keyword>relax</keyword>
+      <keyword>wear</keyword>
+      <keyword>hair</keyword>
+      <keyword>appointment</keyword>
+      <keyword>photo</keyword>
+      <keyword>menu</keyword>
+   </text>
+</annotation>

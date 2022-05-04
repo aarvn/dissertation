@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0354</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="151 151 205 205 151 151"
+               polygon_y="152 280 280 151 151 152"/>
+      <element label="text" polygon_x="151 151 205 205 151 151"
+               polygon_y="77 145 145 76 76 77"/>
+      <element label="text" polygon_x="151 151 190 190 151 151" polygon_y="27 70 70 26 26 27"/>
+      <element label="image" polygon_x="11 11 145 145 11 11"
+               polygon_y="107 195 195 106 106 107"/>
+      <element label="image" polygon_x="76 76 145 145 76 76" polygon_y="12 100 100 11 11 12"/>
+      <element label="image" polygon_x="11 11 75 75 11 11" polygon_y="202 295 295 201 201 202"/>
+      <element label="image" polygon_x="81 81 145 145 81 81"
+               polygon_y="202 295 295 201 201 202"/>
+      <element label="image" polygon_x="11 11 70 70 11 11" polygon_y="12 100 100 11 11 12"/>
+   </layout>
+   <text>
+      <keyword>eat</keyword>
+      <keyword>table</keyword>
+      <keyword>cuisine</keyword>
+   </text>
+</annotation>

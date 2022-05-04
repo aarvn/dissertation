@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0492</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 45 45 21 21" polygon_y="262 275 275 261 261 262"/>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 245 245 1 1 2"/>
+      <element label="headline" polygon_x="136 136 210 210 136 136"
+               polygon_y="272 285 285 271 271 272"/>
+   </layout>
+   <text/>
+</annotation>

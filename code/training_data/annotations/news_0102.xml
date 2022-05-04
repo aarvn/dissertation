@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0102</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="141 141 200 200 141 141"
+               polygon_y="37 280 280 36 36 37"/>
+      <element label="image" polygon_x="6 6 135 135 6 6" polygon_y="37 285 285 36 36 37"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>city</keyword>
+      <keyword>family</keyword>
+      <keyword>win</keyword>
+      <keyword>live</keyword>
+      <keyword>love</keyword>
+      <keyword>attack</keyword>
+      <keyword>mother</keyword>
+      <keyword>wife</keyword>
+      <keyword>father</keyword>
+      <keyword>important</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0355</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 110 110 11 11"
+               polygon_y="177 235 235 176 176 177"/>
+      <element label="text" polygon_x="11 11 110 110 75 75 75 11 11"
+               polygon_y="42 105 105 91 91 90 41 41 42"/>
+      <element label="text" polygon_x="11 11 110 110 11 11"
+               polygon_y="117 155 155 116 116 117"/>
+      <element label="text" polygon_x="116 116 215 215 116 116"
+               polygon_y="117 155 155 116 116 117"/>
+      <element label="text" polygon_x="116 116 215 215 116 116"
+               polygon_y="252 285 285 251 251 252"/>
+      <element label="text" polygon_x="116 116 215 215 116 116"
+               polygon_y="212 240 240 211 211 212"/>
+      <element label="text" polygon_x="116 116 215 215 151 150 150 116 116"
+               polygon_y="92 105 105 71 71 90 91 91 92"/>
+      <element label="text" polygon_x="11 11 110 110 11 11"
+               polygon_y="242 265 265 241 241 242"/>
+      <element label="text" polygon_x="116 116 215 215 116 116"
+               polygon_y="177 200 200 176 176 177"/>
+      <element label="text" polygon_x="151 151 215 215 151 151" polygon_y="42 60 60 41 41 42"/>
+      <element label="text" polygon_x="66 66 170 170 66 66" polygon_y="12 20 20 11 11 12"/>
+      <element label="text" polygon_x="11 11 110 110 11 11"
+               polygon_y="272 280 280 271 271 272"/>
+      <element label="text" polygon_x="186 186 215 215 186 186" polygon_y="12 20 20 11 11 12"/>
+      <element label="image" polygon_x="81 81 145 145 81 81" polygon_y="42 85 85 41 41 42"/>
+      <element label="headline" polygon_x="11 11 165 165 11 11" polygon_y="27 35 35 26 26 27"/>
+      <element label="headline" polygon_x="11 11 180 180 11 11"
+               polygon_y="167 170 170 166 166 167"/>
+   </layout>
+   <text>
+      <keyword>woman</keyword>
+      <keyword>man</keyword>
+      <keyword>state</keyword>
+      <keyword>place</keyword>
+      <keyword>issue</keyword>
+      <keyword>attack</keyword>
+   </text>
+</annotation>

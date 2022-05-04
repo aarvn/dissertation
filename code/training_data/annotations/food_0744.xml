@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0744</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="17 285 285 16 16 17"/>
+      <element label="text-over-image" polygon_x="76 76 160 160 76 76"
+               polygon_y="147 190 190 146 146 147"/>
+      <element label="headline-over-image" polygon_x="46 46 180 180 46 46"
+               polygon_y="107 140 140 106 106 107"/>
+   </layout>
+   <text>
+      <keyword>book</keyword>
+      <keyword>life</keyword>
+   </text>
+</annotation>

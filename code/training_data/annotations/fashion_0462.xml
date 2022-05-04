@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0462</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="106 106 155 155 106 106"
+               polygon_y="247 285 285 246 246 247"/>
+      <element label="image" polygon_x="106 106 225 225 106 106"
+               polygon_y="62 240 240 61 61 62"/>
+      <element label="image" polygon_x="11 11 100 100 11 11" polygon_y="17 155 155 16 16 17"/>
+      <element label="image" polygon_x="11 11 100 100 11 11"
+               polygon_y="162 285 285 161 161 162"/>
+   </layout>
+   <text>
+      <keyword>ring</keyword>
+      <keyword>shoe</keyword>
+      <keyword>gucci</keyword>
+      <keyword>shirt</keyword>
+   </text>
+</annotation>

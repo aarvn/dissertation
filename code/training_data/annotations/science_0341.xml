@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0341</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="6 6 75 75 6 6" polygon_y="62 285 285 61 61 62"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="97 285 285 96 96 97"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="177 285 285 176 176 177"/>
+      <element label="text" polygon_x="81 81 145 145 81 81" polygon_y="97 150 150 96 96 97"/>
+      <element label="text" polygon_x="11 11 65 65 11 11" polygon_y="42 55 55 41 41 42"/>
+      <element label="text" polygon_x="81 81 135 135 81 81"
+               polygon_y="157 170 170 156 156 157"/>
+      <element label="text" polygon_x="11 11 45 45 11 11" polygon_y="22 35 35 21 21 22"/>
+      <element label="image" polygon_x="81 81 215 215 81 81" polygon_y="2 90 90 1 1 2"/>
+   </layout>
+   <text>
+      <keyword>research</keyword>
+      <keyword>area</keyword>
+      <keyword>north</keyword>
+      <keyword>problem</keyword>
+      <keyword>system</keyword>
+      <keyword>treatment</keyword>
+      <keyword>rate</keyword>
+      <keyword>culture</keyword>
+      <keyword>structure</keyword>
+      <keyword>landscape</keyword>
+   </text>
+</annotation>

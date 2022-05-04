@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0593</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="126 126 215 215 126 126"
+               polygon_y="187 270 270 186 186 187"/>
+      <element label="text" polygon_x="151 151 190 190 151 151"
+               polygon_y="172 180 180 171 171 172"/>
+      <element label="image" polygon_x="1 1 115 116 116 225 225 1 1"
+               polygon_y="2 300 300 156 155 155 1 1 2"/>
+      <element label="text-over-image" polygon_x="191 191 215 215 191 191"
+               polygon_y="7 25 25 6 6 7"/>
+   </layout>
+   <text>
+      <keyword>place</keyword>
+      <keyword>area</keyword>
+      <keyword>hotel</keyword>
+      <keyword>village</keyword>
+   </text>
+</annotation>

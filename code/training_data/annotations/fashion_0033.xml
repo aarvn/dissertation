@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0033</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="16 16 70 70 60 60 61 61 65 65 16 16"
+               polygon_y="62 275 275 166 166 165 91 90 90 61 61 62"/>
+      <element label="text" polygon_x="86 86 96 96 95 95 86 86 120 121 121 140 140 86 86"
+               polygon_y="62 90 90 91 180 181 181 275 275 206 205 205 61 61 62"/>
+      <element label="text" polygon_x="151 151 166 166 166 205 205 151 151"
+               polygon_y="107 205 205 206 275 275 106 106 107"/>
+      <element label="image" polygon_x="91 91 166 166 166 210 210 166 165 165 91 91"
+               polygon_y="27 40 40 41 100 100 16 16 25 26 26 27"/>
+      <element label="image" polygon_x="126 126 160 160 126 126"
+               polygon_y="212 275 275 211 211 212"/>
+      <element label="image" polygon_x="71 71 90 90 71 71" polygon_y="97 155 155 96 96 97"/>
+      <element label="text-over-image" polygon_x="91 91 170 170 91 91"
+               polygon_y="27 40 40 26 26 27"/>
+   </layout>
+   <text>
+      <keyword>friend</keyword>
+      <keyword>fashion</keyword>
+      <keyword>model</keyword>
+      <keyword>job</keyword>
+      <keyword>family</keyword>
+      <keyword>book</keyword>
+      <keyword>fun</keyword>
+      <keyword>career</keyword>
+      <keyword>enjoy</keyword>
+      <keyword>money</keyword>
+      <keyword>beautiful</keyword>
+   </text>
+</annotation>

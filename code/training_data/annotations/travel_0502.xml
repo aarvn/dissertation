@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0502</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="86 86 150 150 86 86"
+               polygon_y="177 280 280 176 176 177"/>
+      <element label="text" polygon_x="21 21 80 80 21 21" polygon_y="177 280 280 176 176 177"/>
+      <element label="text" polygon_x="156 156 220 220 156 156"
+               polygon_y="177 260 260 176 176 177"/>
+      <element label="text" polygon_x="156 156 220 220 156 156"
+               polygon_y="267 280 280 266 266 267"/>
+      <element label="text" polygon_x="21 21 100 100 21 21"
+               polygon_y="287 295 295 286 286 287"/>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 170 170 1 1 2"/>
+      <element label="text-over-image" polygon_x="191 191 220 220 191 191"
+               polygon_y="12 20 20 11 11 12"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>sea</keyword>
+      <keyword>child</keyword>
+      <keyword>space</keyword>
+      <keyword>island</keyword>
+      <keyword>air</keyword>
+      <keyword>history</keyword>
+      <keyword>smile</keyword>
+   </text>
+</annotation>

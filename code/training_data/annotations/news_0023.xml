@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0023</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="136 136 210 210 136 136"
+               polygon_y="17 275 275 16 16 17"/>
+      <element label="text" polygon_x="56 56 130 130 56 56"
+               polygon_y="172 275 275 171 171 172"/>
+      <element label="text" polygon_x="11 11 45 45 11 11" polygon_y="107 130 130 106 106 107"/>
+      <element label="image" polygon_x="1 1 130 130 1 1" polygon_y="17 100 100 16 16 17"/>
+      <element label="image" polygon_x="56 56 130 130 56 56"
+               polygon_y="107 165 165 106 106 107"/>
+   </layout>
+   <text>
+      <keyword>government</keyword>
+      <keyword>woman</keyword>
+      <keyword>fall</keyword>
+      <keyword>company</keyword>
+      <keyword>thousand</keyword>
+      <keyword>speech</keyword>
+   </text>
+</annotation>

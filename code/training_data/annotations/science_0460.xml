@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0460</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="116 116 195 195 116 116"
+               polygon_y="47 280 280 46 46 47"/>
+      <element label="text" polygon_x="26 26 110 110 26 26"
+               polygon_y="172 280 280 171 171 172"/>
+      <element label="text" polygon_x="26 26 110 110 26 26" polygon_y="47 95 95 46 46 47"/>
+      <element label="text" polygon_x="26 26 105 105 26 26"
+               polygon_y="132 155 155 131 131 132"/>
+      <element label="text" polygon_x="26 26 110 110 26 26"
+               polygon_y="107 115 115 106 106 107"/>
+   </layout>
+   <text>
+      <keyword>human</keyword>
+      <keyword>nature</keyword>
+      <keyword>south</keyword>
+      <keyword>reason</keyword>
+      <keyword>system</keyword>
+      <keyword>specie</keyword>
+      <keyword>land</keyword>
+      <keyword>fall</keyword>
+   </text>
+</annotation>

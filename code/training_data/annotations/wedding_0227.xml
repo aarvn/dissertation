@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0227</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="31 31 190 190 31 31"
+               polygon_y="107 120 120 106 106 107"/>
+      <element label="text" polygon_x="156 156 185 185 156 156" polygon_y="12 35 35 11 11 12"/>
+      <element label="text" polygon_x="36 36 70 70 36 36" polygon_y="197 210 210 196 196 197"/>
+      <element label="text" polygon_x="131 131 165 165 131 131"
+               polygon_y="267 280 280 266 266 267"/>
+      <element label="text" polygon_x="71 71 100 100 71 71"
+               polygon_y="267 280 280 266 266 267"/>
+      <element label="text" polygon_x="101 101 130 130 101 101"
+               polygon_y="197 210 210 196 196 197"/>
+      <element label="text" polygon_x="161 161 190 190 161 161"
+               polygon_y="197 210 210 196 196 197"/>
+      <element label="image" polygon_x="86 86 145 145 86 86"
+               polygon_y="142 195 195 141 141 142"/>
+      <element label="image" polygon_x="26 26 80 80 26 26" polygon_y="142 195 195 141 141 142"/>
+      <element label="image" polygon_x="56 56 110 110 56 56"
+               polygon_y="217 265 265 216 216 217"/>
+      <element label="image" polygon_x="116 116 170 170 116 116"
+               polygon_y="217 265 265 216 216 217"/>
+      <element label="image" polygon_x="151 151 200 200 151 151"
+               polygon_y="142 195 195 141 141 142"/>
+      <element label="headline" polygon_x="26 26 195 195 26 26"
+               polygon_y="47 100 100 46 46 47"/>
+   </layout>
+   <text/>
+</annotation>

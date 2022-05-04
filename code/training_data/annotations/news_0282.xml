@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0282</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="146 146 210 210 146 146"
+               polygon_y="132 285 285 131 131 132"/>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="132 285 285 131 131 132"/>
+      <element label="text" polygon_x="81 81 140 140 81 81"
+               polygon_y="132 285 285 131 131 132"/>
+      <element label="text" polygon_x="16 16 110 110 16 16" polygon_y="32 95 95 31 31 32"/>
+      <element label="text" polygon_x="116 116 210 210 116 116" polygon_y="32 95 95 31 31 32"/>
+      <element label="text" polygon_x="16 16 155 155 16 16"
+               polygon_y="122 125 125 121 121 122"/>
+      <element label="text" polygon_x="31 31 65 65 31 31" polygon_y="12 20 20 11 11 12"/>
+      <element label="headline" polygon_x="16 16 65 65 16 16"
+               polygon_y="107 115 115 106 106 107"/>
+   </layout>
+   <text>
+      <keyword>decade</keyword>
+      <keyword>place</keyword>
+      <keyword>fall</keyword>
+      <keyword>job</keyword>
+      <keyword>technology</keyword>
+   </text>
+</annotation>

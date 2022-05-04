@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0187</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="132 190 190 131 131 132"/>
+      <element label="text" polygon_x="26 26 75 75 26 26" polygon_y="222 285 285 221 221 222"/>
+      <element label="text" polygon_x="26 26 75 75 26 26" polygon_y="157 215 215 156 156 157"/>
+      <element label="text" polygon_x="151 151 205 205 151 151"
+               polygon_y="152 190 190 151 151 152"/>
+      <element label="image"
+               polygon_x="26 26 75 76 76 151 151 151 205 205 195 195 196 196 205 205 195 195 196 196 205 205 195 195 195 26 26"
+               polygon_y="2 150 150 126 125 125 126 145 145 86 86 85 81 80 80 31 31 30 16 15 15 11 11 10 1 1 2"/>
+      <element label="image" polygon_x="81 81 225 225 81 81"
+               polygon_y="197 300 300 196 196 197"/>
+      <element label="text-over-image" polygon_x="151 151 205 205 151 151"
+               polygon_y="87 145 145 86 86 87"/>
+      <element label="text-over-image" polygon_x="81 81 135 135 81 81"
+               polygon_y="197 250 250 196 196 197"/>
+      <element label="text-over-image" polygon_x="26 26 75 75 26 26"
+               polygon_y="92 150 150 91 91 92"/>
+      <element label="text-over-image" polygon_x="151 151 205 205 151 151"
+               polygon_y="32 80 80 31 31 32"/>
+      <element label="text-over-image" polygon_x="141 141 205 205 141 141"
+               polygon_y="12 15 15 11 11 12"/>
+   </layout>
+   <text>
+      <keyword>wedding</keyword>
+      <keyword>bride</keyword>
+      <keyword>ceremony</keyword>
+      <keyword>friend</keyword>
+      <keyword>plan</keyword>
+      <keyword>relax</keyword>
+      <keyword>service</keyword>
+      <keyword>food</keyword>
+      <keyword>photo</keyword>
+      <keyword>amaze</keyword>
+      <keyword>vow</keyword>
+   </text>
+</annotation>

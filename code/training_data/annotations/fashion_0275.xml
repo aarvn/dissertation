@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0275</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 135 135 11 11"
+               polygon_y="282 290 290 281 281 282"/>
+      <element label="text" polygon_x="11 11 45 45 11 11" polygon_y="267 275 275 266 266 267"/>
+      <element label="image"
+               polygon_x="1 1 56 56 56 145 146 146 151 151 151 220 221 221 225 225 1 1"
+               polygon_y="2 225 225 226 280 280 226 225 225 226 235 235 226 225 225 1 1 2"/>
+      <element label="image" polygon_x="166 166 195 195 166 166"
+               polygon_y="262 290 290 261 261 262"/>
+      <element label="text-over-image" polygon_x="151 151 220 220 151 151"
+               polygon_y="167 235 235 166 166 167"/>
+      <element label="text-over-image" polygon_x="151 151 215 215 151 151"
+               polygon_y="32 85 85 31 31 32"/>
+      <element label="text-over-image" polygon_x="156 156 210 210 156 156"
+               polygon_y="107 140 140 106 106 107"/>
+      <element label="text-over-image" polygon_x="166 166 195 195 166 166"
+               polygon_y="262 290 290 261 261 262"/>
+      <element label="text-over-image" polygon_x="171 171 195 195 171 171"
+               polygon_y="92 95 95 91 91 92"/>
+   </layout>
+   <text>
+      <keyword>beautiful</keyword>
+   </text>
+</annotation>

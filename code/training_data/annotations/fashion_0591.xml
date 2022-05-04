@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0591</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="36 36 185 185 130 130 131 131 185 185 36 36"
+               polygon_y="32 275 275 231 231 230 71 70 70 31 31 32"/>
+      <element label="text" polygon_x="136 136 200 200 136 136"
+               polygon_y="207 225 225 206 206 207"/>
+      <element label="image" polygon_x="141 141 225 225 141 141"
+               polygon_y="77 200 200 76 76 77"/>
+      <element label="text-over-image" polygon_x="146 146 175 175 146 146"
+               polygon_y="77 85 85 76 76 77"/>
+   </layout>
+   <text>
+      <keyword>friend</keyword>
+      <keyword>style</keyword>
+      <keyword>dress</keyword>
+      <keyword>colour</keyword>
+      <keyword>brand</keyword>
+      <keyword>designer</keyword>
+      <keyword>career</keyword>
+      <keyword>london</keyword>
+      <keyword>dream</keyword>
+      <keyword>store</keyword>
+      <keyword>clothes</keyword>
+      <keyword>important</keyword>
+      <keyword>paris</keyword>
+      <keyword>instagram</keyword>
+   </text>
+</annotation>

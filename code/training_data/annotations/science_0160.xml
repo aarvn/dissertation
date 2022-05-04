@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0160</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="107 205 205 106 106 107"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="212 290 290 211 211 212"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="77 135 135 76 76 77"/>
+      <element label="text" polygon_x="81 81 145 145 81 81" polygon_y="92 150 150 91 91 92"/>
+      <element label="text" polygon_x="11 11 210 210 11 11" polygon_y="62 70 70 61 61 62"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="142 165 165 141 141 142"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="82 100 100 81 81 82"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="157 170 170 156 156 157"/>
+      <element label="text" polygon_x="81 81 145 145 81 81" polygon_y="77 85 85 76 76 77"/>
+      <element label="text" polygon_x="161 161 215 215 161 161" polygon_y="12 20 20 11 11 12"/>
+      <element label="image" polygon_x="11 11 145 145 11 11"
+               polygon_y="172 290 290 171 171 172"/>
+      <element label="headline" polygon_x="11 11 210 210 11 11" polygon_y="32 55 55 31 31 32"/>
+      <element label="text-over-image" polygon_x="11 11 55 55 11 11"
+               polygon_y="172 185 185 171 171 172"/>
+   </layout>
+   <text>
+      <keyword>study</keyword>
+      <keyword>place</keyword>
+      <keyword>earth</keyword>
+      <keyword>decade</keyword>
+      <keyword>science</keyword>
+      <keyword>discover</keyword>
+      <keyword>idea</keyword>
+      <keyword>human</keyword>
+      <keyword>nature</keyword>
+      <keyword>problem</keyword>
+      <keyword>interest</keyword>
+      <keyword>question</keyword>
+      <keyword>answer</keyword>
+      <keyword>sky</keyword>
+      <keyword>space</keyword>
+      <keyword>knowledge</keyword>
+      <keyword>universe</keyword>
+      <keyword>inspire</keyword>
+      <keyword>warm</keyword>
+   </text>
+</annotation>

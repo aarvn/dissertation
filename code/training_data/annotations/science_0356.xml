@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0356</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 205 205 21 21" polygon_y="62 105 105 61 61 62"/>
+      <element label="text" polygon_x="116 116 205 205 116 116"
+               polygon_y="232 280 280 231 231 232"/>
+      <element label="text" polygon_x="21 21 110 110 21 21"
+               polygon_y="237 280 280 236 236 237"/>
+      <element label="text" polygon_x="116 116 200 200 151 150 150 116 116"
+               polygon_y="207 225 225 161 161 205 206 206 207"/>
+      <element label="text" polygon_x="21 21 110 110 75 75 75 21 21"
+               polygon_y="182 230 230 206 206 205 181 181 182"/>
+      <element label="text" polygon_x="21 21 75 75 21 21" polygon_y="112 175 175 111 111 112"/>
+      <element label="text" polygon_x="151 151 205 205 151 151"
+               polygon_y="112 155 155 111 111 112"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="182 200 200 181 181 182"/>
+      <element label="text" polygon_x="11 11 50 50 11 11" polygon_y="22 35 35 21 21 22"/>
+      <element label="image" polygon_x="81 81 145 145 81 81"
+               polygon_y="112 175 175 111 111 112"/>
+      <element label="headline" polygon_x="21 21 120 120 21 21" polygon_y="42 55 55 41 41 42"/>
+   </layout>
+   <text>
+      <keyword>scientist</keyword>
+      <keyword>life</keyword>
+      <keyword>science</keyword>
+      <keyword>research</keyword>
+      <keyword>test</keyword>
+      <keyword>area</keyword>
+      <keyword>story</keyword>
+      <keyword>reason</keyword>
+      <keyword>disease</keyword>
+      <keyword>question</keyword>
+      <keyword>develop</keyword>
+      <keyword>state</keyword>
+      <keyword>space</keyword>
+      <keyword>challenge</keyword>
+      <keyword>success</keyword>
+      <keyword>brain</keyword>
+      <keyword>opportunity</keyword>
+   </text>
+</annotation>

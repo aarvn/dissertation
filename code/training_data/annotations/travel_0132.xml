@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0132</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="116 116 210 210 116 116"
+               polygon_y="242 290 290 241 241 242"/>
+      <element label="text" polygon_x="16 16 110 110 16 16"
+               polygon_y="212 235 235 211 211 212"/>
+      <element label="text" polygon_x="16 16 110 110 16 16"
+               polygon_y="242 265 265 241 241 242"/>
+      <element label="text" polygon_x="116 116 210 210 116 116"
+               polygon_y="212 235 235 211 211 212"/>
+      <element label="text" polygon_x="16 16 110 110 16 16"
+               polygon_y="272 290 290 271 271 272"/>
+      <element label="image" polygon_x="16 16 210 210 16 16" polygon_y="17 140 140 16 16 17"/>
+      <element label="image" polygon_x="16 16 110 110 16 16"
+               polygon_y="147 205 205 146 146 147"/>
+      <element label="image" polygon_x="116 116 210 210 116 116"
+               polygon_y="147 205 205 146 146 147"/>
+   </layout>
+   <text>
+      <keyword>garden</keyword>
+      <keyword>tree</keyword>
+      <keyword>explore</keyword>
+      <keyword>inspire</keyword>
+      <keyword>hill</keyword>
+      <keyword>valley</keyword>
+      <keyword>wildlife</keyword>
+      <keyword>holiday</keyword>
+      <keyword>tour</keyword>
+   </text>
+</annotation>

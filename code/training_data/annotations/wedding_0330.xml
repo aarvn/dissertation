@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0330</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 75 75 21 21" polygon_y="82 125 125 81 81 82"/>
+      <element label="text" polygon_x="31 31 195 195 31 31"
+               polygon_y="272 280 280 271 271 272"/>
+      <element label="text" polygon_x="31 31 195 195 31 31"
+               polygon_y="207 210 210 206 206 207"/>
+      <element label="image" polygon_x="1 1 81 81 81 225 225 1 1"
+               polygon_y="2 75 75 76 125 125 1 1 2"/>
+      <element label="image" polygon_x="146 146 215 215 146 146"
+               polygon_y="132 195 195 131 131 132"/>
+      <element label="image" polygon_x="86 86 140 140 86 86"
+               polygon_y="217 265 265 216 216 217"/>
+      <element label="image" polygon_x="31 31 80 80 31 31" polygon_y="217 265 265 216 216 217"/>
+      <element label="image" polygon_x="146 146 195 195 146 146"
+               polygon_y="217 265 265 216 216 217"/>
+      <element label="headline" polygon_x="21 21 140 140 21 21"
+               polygon_y="132 195 195 131 131 132"/>
+      <element label="text-over-image" polygon_x="156 156 205 205 156 156"
+               polygon_y="12 85 85 11 11 12"/>
+      <element label="text-over-image" polygon_x="151 151 195 195 151 151"
+               polygon_y="132 145 145 131 131 132"/>
+      <element label="text-over-image" polygon_x="166 166 210 210 166 166"
+               polygon_y="112 120 120 111 111 112"/>
+   </layout>
+   <text>
+      <keyword>perfect</keyword>
+      <keyword>design</keyword>
+   </text>
+</annotation>

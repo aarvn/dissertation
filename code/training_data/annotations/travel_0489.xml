@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0489</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 120 120 21 21"
+               polygon_y="182 280 280 181 181 182"/>
+      <element label="image" polygon_x="21 21 225 225 21 21" polygon_y="12 175 175 11 11 12"/>
+      <element label="image" polygon_x="126 126 205 205 126 126"
+               polygon_y="182 280 280 181 181 182"/>
+      <element label="text-over-image" polygon_x="21 21 60 60 21 21"
+               polygon_y="12 35 35 11 11 12"/>
+      <element label="text-over-image" polygon_x="126 126 165 165 126 126"
+               polygon_y="182 195 195 181 181 182"/>
+   </layout>
+   <text>
+      <keyword>place</keyword>
+      <keyword>life</keyword>
+      <keyword>house</keyword>
+      <keyword>room</keyword>
+      <keyword>summer</keyword>
+      <keyword>space</keyword>
+      <keyword>couple</keyword>
+      <keyword>art</keyword>
+      <keyword>guest</keyword>
+      <keyword>history</keyword>
+   </text>
+</annotation>

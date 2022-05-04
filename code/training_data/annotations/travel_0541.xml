@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0541</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="151 151 220 220 151 151"
+               polygon_y="37 275 275 36 36 37"/>
+      <element label="text" polygon_x="41 41 145 145 41 41"
+               polygon_y="182 230 230 181 181 182"/>
+      <element label="text" polygon_x="41 41 145 145 41 41"
+               polygon_y="237 275 275 236 236 237"/>
+      <element label="text" polygon_x="6 6 25 25 6 6" polygon_y="167 215 215 166 166 167"/>
+      <element label="image" polygon_x="6 6 125 125 6 6" polygon_y="12 160 160 11 11 12"/>
+   </layout>
+   <text>
+      <keyword>family</keyword>
+      <keyword>beach</keyword>
+      <keyword>man</keyword>
+      <keyword>resort</keyword>
+      <keyword>site</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0142</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="136 136 200 200 136 136"
+               polygon_y="112 215 215 111 111 112"/>
+      <element label="text" polygon_x="21 21 120 120 21 21"
+               polygon_y="152 215 215 151 151 152"/>
+      <element label="text" polygon_x="21 21 120 120 21 21"
+               polygon_y="232 275 275 231 231 232"/>
+      <element label="text" polygon_x="131 131 200 200 131 131"
+               polygon_y="232 275 275 231 231 232"/>
+      <element label="text" polygon_x="11 11 50 50 11 11" polygon_y="12 20 20 11 11 12"/>
+      <element label="text" polygon_x="151 151 185 185 151 151"
+               polygon_y="97 105 105 96 96 97"/>
+      <element label="image" polygon_x="21 21 120 120 90 90 90 51 50 50 21 21"
+               polygon_y="32 140 140 31 31 30 26 26 30 31 31 32"/>
+      <element label="image" polygon_x="141 141 195 195 141 141" polygon_y="42 90 90 41 41 42"/>
+      <element label="text-over-image" polygon_x="51 51 90 90 51 51"
+               polygon_y="27 35 35 26 26 27"/>
+   </layout>
+   <text>
+      <keyword>salt</keyword>
+      <keyword>bowl</keyword>
+      <keyword>food</keyword>
+      <keyword>butter</keyword>
+      <keyword>pepper</keyword>
+      <keyword>hot</keyword>
+      <keyword>market</keyword>
+   </text>
+</annotation>

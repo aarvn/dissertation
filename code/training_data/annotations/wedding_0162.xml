@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0162</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="6 6 80 80 6 6" polygon_y="62 125 125 61 61 62"/>
+      <element label="text" polygon_x="6 6 80 80 6 6" polygon_y="132 180 180 131 131 132"/>
+      <element label="text" polygon_x="6 6 80 80 6 6" polygon_y="187 215 215 186 186 187"/>
+      <element label="text" polygon_x="6 6 80 80 6 6" polygon_y="222 250 250 221 221 222"/>
+      <element label="text" polygon_x="6 6 80 80 6 6" polygon_y="257 275 275 256 256 257"/>
+      <element label="text" polygon_x="6 6 85 85 6 6" polygon_y="47 50 50 46 46 47"/>
+      <element label="image" polygon_x="91 91 225 225 91 91" polygon_y="62 275 275 61 61 62"/>
+      <element label="headline" polygon_x="6 6 60 60 6 6" polygon_y="27 40 40 26 26 27"/>
+   </layout>
+   <text>
+      <keyword>guest</keyword>
+      <keyword>love</keyword>
+      <keyword>reception</keyword>
+      <keyword>place</keyword>
+      <keyword>visit</keyword>
+      <keyword>event</keyword>
+      <keyword>design</keyword>
+      <keyword>image</keyword>
+      <keyword>arrange</keyword>
+      <keyword>bridesmaid</keyword>
+      <keyword>parent</keyword>
+      <keyword>dance</keyword>
+      <keyword>stress</keyword>
+      <keyword>honor</keyword>
+      <keyword>comfortable</keyword>
+   </text>
+</annotation>

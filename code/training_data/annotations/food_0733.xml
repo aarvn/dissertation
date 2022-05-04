@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0733</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="151 151 205 205 151 151"
+               polygon_y="162 235 235 161 161 162"/>
+      <element label="text" polygon_x="21 21 80 80 21 21" polygon_y="177 220 220 176 176 177"/>
+      <element label="text" polygon_x="86 86 111 111 111 140 140 86 86"
+               polygon_y="202 220 220 221 260 260 201 201 202"/>
+      <element label="text" polygon_x="21 21 140 140 21 21"
+               polygon_y="162 170 170 161 161 162"/>
+      <element label="text" polygon_x="21 21 60 60 21 21" polygon_y="227 255 255 226 226 227"/>
+      <element label="text" polygon_x="86 86 140 140 86 86"
+               polygon_y="177 195 195 176 176 177"/>
+      <element label="text" polygon_x="151 151 205 205 151 151"
+               polygon_y="242 260 260 241 241 242"/>
+      <element label="text" polygon_x="116 116 200 200 116 116"
+               polygon_y="272 280 280 271 271 272"/>
+      <element label="image" polygon_x="1 1 21 21 21 205 206 206 225 225 1 1"
+               polygon_y="12 150 150 151 155 155 151 150 150 11 11 12"/>
+      <element label="image" polygon_x="21 21 65 66 66 105 105 66 65 65 21 21"
+               polygon_y="262 295 295 286 285 285 226 226 260 261 261 262"/>
+      <element label="headline-over-image" polygon_x="21 21 205 205 21 21"
+               polygon_y="142 155 155 141 141 142"/>
+   </layout>
+   <text>
+      <keyword>top</keyword>
+      <keyword>cooking</keyword>
+      <keyword>onion</keyword>
+      <keyword>cheese</keyword>
+      <keyword>enjoy</keyword>
+      <keyword>delicious</keyword>
+      <keyword>summer</keyword>
+   </text>
+</annotation>

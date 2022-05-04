@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0471</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="136 136 210 210 136 136"
+               polygon_y="147 230 230 146 146 147"/>
+      <element label="text" polygon_x="61 61 130 130 61 61"
+               polygon_y="147 230 230 146 146 147"/>
+      <element label="text" polygon_x="106 106 210 210 106 106"
+               polygon_y="247 280 280 246 246 247"/>
+      <element label="text" polygon_x="6 6 50 50 6 6" polygon_y="27 65 65 26 26 27"/>
+      <element label="text" polygon_x="6 6 50 50 6 6" polygon_y="72 110 110 71 71 72"/>
+      <element label="text" polygon_x="6 6 50 50 6 6" polygon_y="117 150 150 116 116 117"/>
+      <element label="text" polygon_x="6 6 50 50 6 6" polygon_y="157 190 190 156 156 157"/>
+      <element label="text" polygon_x="6 6 50 50 6 6" polygon_y="197 230 230 196 196 197"/>
+      <element label="text" polygon_x="71 71 200 200 71 71"
+               polygon_y="132 140 140 131 131 132"/>
+      <element label="image" polygon_x="61 61 210 210 61 61" polygon_y="2 120 120 1 1 2"/>
+      <element label="image" polygon_x="1 1 100 100 1 1" polygon_y="242 300 300 241 241 242"/>
+      <element label="headline" polygon_x="91 91 175 175 91 91"
+               polygon_y="127 130 130 126 126 127"/>
+   </layout>
+   <text>
+      <keyword>country</keyword>
+      <keyword>view</keyword>
+      <keyword>top</keyword>
+      <keyword>sea</keyword>
+      <keyword>land</keyword>
+      <keyword>farm</keyword>
+      <keyword>resort</keyword>
+      <keyword>sheep</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0269</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="26 26 105 105 26 26"
+               polygon_y="192 270 270 191 191 192"/>
+      <element label="text" polygon_x="31 31 105 105 31 31"
+               polygon_y="277 280 280 276 276 277"/>
+      <element label="image" polygon_x="26 26 85 86 86 121 121 121 205 205 26 26"
+               polygon_y="22 185 185 176 175 175 176 280 280 21 21 22"/>
+      <element label="text-over-image" polygon_x="141 141 205 205 141 141"
+               polygon_y="32 55 55 31 31 32"/>
+      <element label="headline-over-image" polygon_x="26 26 85 85 26 26"
+               polygon_y="162 185 185 161 161 162"/>
+   </layout>
+   <text>
+      <keyword>wedding</keyword>
+      <keyword>enjoy</keyword>
+      <keyword>perfect</keyword>
+      <keyword>dream</keyword>
+      <keyword>cost</keyword>
+   </text>
+</annotation>

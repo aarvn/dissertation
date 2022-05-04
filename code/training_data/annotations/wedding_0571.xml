@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0571</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 115 115 21 21"
+               polygon_y="222 290 290 221 221 222"/>
+      <element label="text" polygon_x="121 121 215 215 121 121"
+               polygon_y="222 290 290 221 221 222"/>
+      <element label="text" polygon_x="81 81 155 155 81 81" polygon_y="87 110 110 86 86 87"/>
+      <element label="image" polygon_x="1 1 75 75 1 1" polygon_y="62 155 155 61 61 62"/>
+      <element label="image" polygon_x="81 81 155 155 81 81" polygon_y="2 80 80 1 1 2"/>
+      <element label="image" polygon_x="1 1 100 100 1 1" polygon_y="162 215 215 161 161 162"/>
+      <element label="image" polygon_x="1 1 75 75 1 1" polygon_y="2 55 55 1 1 2"/>
+      <element label="image" polygon_x="161 161 225 225 161 161" polygon_y="2 55 55 1 1 2"/>
+      <element label="image" polygon_x="161 161 225 225 161 161"
+               polygon_y="162 215 215 161 161 162"/>
+      <element label="image" polygon_x="161 161 225 225 161 161"
+               polygon_y="107 155 155 106 106 107"/>
+      <element label="image" polygon_x="81 81 155 155 81 81"
+               polygon_y="117 155 155 116 116 117"/>
+      <element label="image" polygon_x="106 106 155 155 106 106"
+               polygon_y="162 215 215 161 161 162"/>
+      <element label="image" polygon_x="161 161 225 225 161 161"
+               polygon_y="62 100 100 61 61 62"/>
+   </layout>
+   <text>
+      <keyword>wedding</keyword>
+      <keyword>love</keyword>
+      <keyword>couple</keyword>
+      <keyword>ceremony</keyword>
+      <keyword>dress</keyword>
+      <keyword>family</keyword>
+      <keyword>reception</keyword>
+      <keyword>friend</keyword>
+      <keyword>choice</keyword>
+      <keyword>life</keyword>
+      <keyword>event</keyword>
+      <keyword>experience</keyword>
+      <keyword>photographer</keyword>
+      <keyword>parent</keyword>
+      <keyword>party</keyword>
+      <keyword>food</keyword>
+      <keyword>dinner</keyword>
+      <keyword>music</keyword>
+      <keyword>happy</keyword>
+      <keyword>vow</keyword>
+   </text>
+</annotation>

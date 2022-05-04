@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0634</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="76 76 145 145 76 76"
+               polygon_y="107 265 265 106 106 107"/>
+      <element label="text" polygon_x="151 151 210 210 151 151"
+               polygon_y="122 270 270 121 121 122"/>
+      <element label="text" polygon_x="11 11 55 55 11 11" polygon_y="152 230 230 151 151 152"/>
+      <element label="text" polygon_x="11 11 70 70 11 11" polygon_y="107 145 145 106 106 107"/>
+      <element label="text" polygon_x="11 11 70 70 11 11" polygon_y="237 275 275 236 236 237"/>
+      <element label="text" polygon_x="151 151 210 210 151 151" polygon_y="42 75 75 41 41 42"/>
+      <element label="text" polygon_x="151 151 210 210 151 151"
+               polygon_y="82 115 115 81 81 82"/>
+      <element label="image" polygon_x="11 11 135 135 11 11" polygon_y="2 100 100 1 1 2"/>
+   </layout>
+   <text>
+      <keyword>place</keyword>
+      <keyword>cool</keyword>
+      <keyword>bowl</keyword>
+      <keyword>sugar</keyword>
+      <keyword>pan</keyword>
+      <keyword>mixture</keyword>
+      <keyword>boil</keyword>
+      <keyword>butter</keyword>
+      <keyword>egg</keyword>
+      <keyword>flour</keyword>
+      <keyword>soft</keyword>
+      <keyword>cake</keyword>
+      <keyword>sweet</keyword>
+      <keyword>cream</keyword>
+      <keyword>vanilla</keyword>
+   </text>
+</annotation>

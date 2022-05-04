@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0171</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="6 6 75 75 6 6" polygon_y="267 285 285 266 266 267"/>
+      <element label="text" polygon_x="151 151 220 220 151 151"
+               polygon_y="267 285 285 266 266 267"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="267 285 285 266 266 267"/>
+      <element label="text" polygon_x="126 126 205 205 126 126" polygon_y="7 20 20 6 6 7"/>
+      <element label="text" polygon_x="6 6 75 75 6 6" polygon_y="162 175 175 161 161 162"/>
+      <element label="text" polygon_x="76 76 145 145 76 76" polygon_y="52 65 65 51 51 52"/>
+      <element label="text" polygon_x="151 151 220 220 151 151" polygon_y="52 65 65 51 51 52"/>
+      <element label="text" polygon_x="151 151 220 220 151 151"
+               polygon_y="162 175 175 161 161 162"/>
+      <element label="text" polygon_x="6 6 70 70 6 6" polygon_y="52 65 65 51 51 52"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="162 175 175 161 161 162"/>
+      <element label="text" polygon_x="6 6 125 125 6 6" polygon_y="42 45 45 41 41 42"/>
+      <element label="image" polygon_x="6 6 75 75 6 6" polygon_y="72 160 160 71 71 72"/>
+      <element label="image" polygon_x="6 6 75 75 6 6" polygon_y="177 265 265 176 176 177"/>
+      <element label="image" polygon_x="151 151 220 220 151 151"
+               polygon_y="72 160 160 71 71 72"/>
+      <element label="image" polygon_x="151 151 220 220 151 151"
+               polygon_y="177 265 265 176 176 177"/>
+      <element label="image" polygon_x="81 81 145 145 81 81" polygon_y="72 160 160 71 71 72"/>
+      <element label="image" polygon_x="81 81 145 145 81 81"
+               polygon_y="177 265 265 176 176 177"/>
+      <element label="headline" polygon_x="6 6 80 80 6 6" polygon_y="32 40 40 31 31 32"/>
+   </layout>
+   <text>
+      <keyword>planet</keyword>
+      <keyword>image</keyword>
+      <keyword>south</keyword>
+      <keyword>camera</keyword>
+   </text>
+</annotation>

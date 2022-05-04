@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0315</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 60 60 11 11" polygon_y="32 235 235 31 31 32"/>
+      <element label="text" polygon_x="116 116 160 160 116 116"
+               polygon_y="87 285 285 86 86 87"/>
+      <element label="text" polygon_x="66 66 110 110 66 66"
+               polygon_y="142 290 290 141 141 142"/>
+      <element label="text" polygon_x="166 166 210 210 166 166"
+               polygon_y="22 155 155 21 21 22"/>
+      <element label="text" polygon_x="166 166 210 210 166 166"
+               polygon_y="172 250 250 171 171 172"/>
+      <element label="text" polygon_x="66 66 110 110 66 66" polygon_y="52 125 125 51 51 52"/>
+      <element label="text" polygon_x="11 11 60 60 11 11" polygon_y="247 295 295 246 246 247"/>
+      <element label="text" polygon_x="116 116 160 160 116 116" polygon_y="27 80 80 26 26 27"/>
+      <element label="text" polygon_x="166 166 210 210 166 166"
+               polygon_y="267 290 290 266 266 267"/>
+      <element label="text" polygon_x="66 66 110 110 66 66" polygon_y="27 40 40 26 26 27"/>
+      <element label="text" polygon_x="11 11 40 40 11 11" polygon_y="22 25 25 21 21 22"/>
+      <element label="text" polygon_x="66 66 95 95 66 66" polygon_y="132 135 135 131 131 132"/>
+      <element label="text" polygon_x="166 166 190 190 166 166"
+               polygon_y="162 165 165 161 161 162"/>
+   </layout>
+   <text>
+      <keyword>family</keyword>
+      <keyword>law</keyword>
+      <keyword>company</keyword>
+   </text>
+</annotation>

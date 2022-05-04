@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0186</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="16 16 70 70 16 16" polygon_y="127 275 275 126 126 127"/>
+      <element label="text" polygon_x="181 181 215 215 181 181"
+               polygon_y="212 255 255 211 211 212"/>
+      <element label="image" polygon_x="1 1 215 215 1 1" polygon_y="2 115 115 1 1 2"/>
+      <element label="image" polygon_x="76 76 215 215 76 76"
+               polygon_y="127 205 205 126 126 127"/>
+      <element label="image" polygon_x="76 76 175 175 76 76"
+               polygon_y="212 275 275 211 211 212"/>
+   </layout>
+   <text>
+      <keyword>planet</keyword>
+      <keyword>design</keyword>
+      <keyword>camera</keyword>
+      <keyword>inspire</keyword>
+   </text>
+</annotation>

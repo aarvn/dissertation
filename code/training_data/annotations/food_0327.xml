@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0327</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="161 161 200 200 161 161"
+               polygon_y="107 155 155 106 106 107"/>
+      <element label="text-over-image" polygon_x="26 26 65 65 26 26"
+               polygon_y="132 140 140 131 131 132"/>
+      <element label="text-over-image" polygon_x="166 166 195 195 166 166"
+               polygon_y="97 100 100 96 96 97"/>
+   </layout>
+   <text>
+      <keyword>stir</keyword>
+      <keyword>grill</keyword>
+      <keyword>dessert</keyword>
+   </text>
+</annotation>

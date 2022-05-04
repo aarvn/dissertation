@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0062</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 105 105 21 21"
+               polygon_y="137 180 180 136 136 137"/>
+      <element label="text" polygon_x="21 21 105 105 21 21"
+               polygon_y="187 225 225 186 186 187"/>
+      <element label="text" polygon_x="21 21 105 105 21 21" polygon_y="62 90 90 61 61 62"/>
+      <element label="text" polygon_x="21 21 105 105 21 21" polygon_y="17 35 35 16 16 17"/>
+      <element label="text" polygon_x="21 21 105 105 21 21" polygon_y="42 55 55 41 41 42"/>
+      <element label="text" polygon_x="21 21 105 105 21 21" polygon_y="97 110 110 96 96 97"/>
+      <element label="text" polygon_x="21 21 105 105 21 21"
+               polygon_y="117 130 130 116 116 117"/>
+      <element label="text" polygon_x="41 41 85 85 41 41" polygon_y="232 255 255 231 231 232"/>
+      <element label="text" polygon_x="36 36 90 90 36 36" polygon_y="272 285 285 271 271 272"/>
+      <element label="image" polygon_x="111 111 220 220 111 111" polygon_y="2 80 80 1 1 2"/>
+      <element label="image" polygon_x="111 111 220 220 111 111"
+               polygon_y="232 300 300 231 231 232"/>
+      <element label="image" polygon_x="111 111 220 220 111 111"
+               polygon_y="162 225 225 161 161 162"/>
+      <element label="image" polygon_x="166 166 220 220 166 166"
+               polygon_y="87 155 155 86 86 87"/>
+      <element label="image" polygon_x="111 111 160 160 111 111"
+               polygon_y="87 155 155 86 86 87"/>
+      <element label="image" polygon_x="56 56 75 75 56 56" polygon_y="257 270 270 256 256 257"/>
+   </layout>
+   <text>
+      <keyword>wedding</keyword>
+      <keyword>guest</keyword>
+      <keyword>couple</keyword>
+      <keyword>enjoy</keyword>
+      <keyword>hotel</keyword>
+      <keyword>top</keyword>
+      <keyword>restaurant</keyword>
+      <keyword>opportunity</keyword>
+      <keyword>vow</keyword>
+      <keyword>cool</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0604</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 65 65 11 11" polygon_y="27 100 100 26 26 27"/>
+      <element label="text" polygon_x="11 11 110 110 11 11"
+               polygon_y="257 290 290 256 256 257"/>
+      <element label="text" polygon_x="116 116 210 210 116 116"
+               polygon_y="257 290 290 256 256 257"/>
+      <element label="text" polygon_x="31 31 185 185 31 31"
+               polygon_y="237 250 250 236 236 237"/>
+      <element label="text" polygon_x="11 11 65 65 11 11" polygon_y="117 155 155 116 116 117"/>
+      <element label="text" polygon_x="1 1 35 35 1 1" polygon_y="7 15 15 6 6 7"/>
+      <element label="image" polygon_x="76 76 225 225 76 76" polygon_y="2 215 215 1 1 2"/>
+      <element label="image" polygon_x="1 1 70 70 1 1" polygon_y="167 215 215 166 166 167"/>
+      <element label="headline" polygon_x="61 61 155 155 61 61"
+               polygon_y="222 230 230 221 221 222"/>
+   </layout>
+   <text>
+      <keyword>wedding</keyword>
+      <keyword>love</keyword>
+      <keyword>couple</keyword>
+      <keyword>family</keyword>
+      <keyword>friend</keyword>
+      <keyword>enjoy</keyword>
+      <keyword>plan</keyword>
+      <keyword>parent</keyword>
+      <keyword>photo</keyword>
+      <keyword>celebrate</keyword>
+      <keyword>relationship</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0247</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="131 131 146 146 145 145 131 131 205 205 131 131"
+               polygon_y="22 105 105 106 145 146 146 235 235 21 21 22"/>
+      <element label="text" polygon_x="31 31 105 105 31 31"
+               polygon_y="147 280 280 146 146 147"/>
+      <element label="text" polygon_x="31 31 105 105 31 31" polygon_y="47 105 105 46 46 47"/>
+      <element label="text" polygon_x="21 21 125 125 21 21"
+               polygon_y="112 140 140 111 111 112"/>
+      <element label="text" polygon_x="111 111 200 200 111 111"
+               polygon_y="247 280 280 246 246 247"/>
+      <element label="text" polygon_x="31 31 105 105 31 31" polygon_y="22 40 40 21 21 22"/>
+      <element label="text" polygon_x="6 6 40 40 6 6" polygon_y="7 15 15 6 6 7"/>
+   </layout>
+   <text>
+      <keyword>love</keyword>
+      <keyword>mother</keyword>
+      <keyword>light</keyword>
+      <keyword>place</keyword>
+      <keyword>fit</keyword>
+      <keyword>body</keyword>
+      <keyword>money</keyword>
+      <keyword>lady</keyword>
+   </text>
+</annotation>

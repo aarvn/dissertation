@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0622</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="16 16 105 105 80 80 80 16 16"
+               polygon_y="192 275 275 221 221 220 191 191 192"/>
+      <element label="text-over-image" polygon_x="116 116 210 210 156 155 155 116 116"
+               polygon_y="222 275 275 191 191 220 221 221 222"/>
+      <element label="text-over-image" polygon_x="51 51 170 170 51 51"
+               polygon_y="77 95 95 76 76 77"/>
+      <element label="headline-over-image" polygon_x="61 61 155 155 61 61"
+               polygon_y="22 70 70 21 21 22"/>
+   </layout>
+   <text>
+      <keyword>taste</keyword>
+      <keyword>dish</keyword>
+      <keyword>cool</keyword>
+      <keyword>eat</keyword>
+      <keyword>cooking</keyword>
+      <keyword>love</keyword>
+      <keyword>enjoy</keyword>
+      <keyword>milk</keyword>
+      <keyword>delicious</keyword>
+      <keyword>warm</keyword>
+      <keyword>cake</keyword>
+      <keyword>life</keyword>
+      <keyword>hot</keyword>
+      <keyword>sweet</keyword>
+   </text>
+</annotation>

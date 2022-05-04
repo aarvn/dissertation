@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0161</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 200 200 21 21"
+               polygon_y="287 290 290 286 286 287"/>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 130 130 1 1 2"/>
+      <element label="image" polygon_x="6 6 150 150 6 6" polygon_y="202 280 280 201 201 202"/>
+      <element label="image" polygon_x="156 156 220 220 156 156"
+               polygon_y="137 280 280 136 136 137"/>
+      <element label="image" polygon_x="6 6 75 75 6 6" polygon_y="137 195 195 136 136 137"/>
+      <element label="image" polygon_x="81 81 150 150 81 81"
+               polygon_y="137 195 195 136 136 137"/>
+      <element label="text-over-image" polygon_x="91 91 135 135 91 91"
+               polygon_y="72 105 105 71 71 72"/>
+      <element label="text-over-image" polygon_x="91 91 135 135 91 91"
+               polygon_y="112 125 125 111 111 112"/>
+      <element label="text-over-image" polygon_x="6 6 60 60 6 6" polygon_y="47 55 55 46 46 47"/>
+      <element label="text-over-image" polygon_x="161 161 215 215 161 161"
+               polygon_y="47 55 55 46 46 47"/>
+      <element label="headline-over-image" polygon_x="71 71 155 155 71 71"
+               polygon_y="42 60 60 41 41 42"/>
+   </layout>
+   <text>
+      <keyword>wedding</keyword>
+      <keyword>reception</keyword>
+   </text>
+</annotation>

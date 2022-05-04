@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0328</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 125 125 21 21"
+               polygon_y="162 190 190 161 161 162"/>
+      <element label="text" polygon_x="21 21 130 130 21 21"
+               polygon_y="252 265 265 251 251 252"/>
+      <element label="text" polygon_x="21 21 70 70 21 21" polygon_y="277 290 290 276 276 277"/>
+      <element label="text" polygon_x="86 86 140 140 86 86" polygon_y="37 45 45 36 36 37"/>
+      <element label="image" polygon_x="21 21 95 95 21 21" polygon_y="52 155 155 51 51 52"/>
+      <element label="image" polygon_x="131 131 205 205 131 131"
+               polygon_y="142 245 245 141 141 142"/>
+      <element label="image" polygon_x="21 21 125 125 21 21"
+               polygon_y="197 245 245 196 196 197"/>
+      <element label="image" polygon_x="101 101 205 205 101 101" polygon_y="52 95 95 51 51 52"/>
+      <element label="image" polygon_x="131 131 205 205 131 131"
+               polygon_y="102 135 135 101 101 102"/>
+      <element label="image" polygon_x="101 101 125 125 101 101"
+               polygon_y="102 125 125 101 101 102"/>
+      <element label="image" polygon_x="101 101 125 125 101 101"
+               polygon_y="132 155 155 131 131 132"/>
+      <element label="image" polygon_x="106 106 120 120 106 106" polygon_y="17 35 35 16 16 17"/>
+   </layout>
+   <text>
+      <keyword>summer</keyword>
+      <keyword>dream</keyword>
+   </text>
+</annotation>

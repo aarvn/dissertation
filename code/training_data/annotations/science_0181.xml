@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0181</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="26 26 70 70 26 26"
+               polygon_y="122 280 280 121 121 122"/>
+      <element label="text-over-image" polygon_x="26 26 85 85 26 26"
+               polygon_y="77 100 100 76 76 77"/>
+      <element label="text-over-image" polygon_x="21 21 210 210 21 21"
+               polygon_y="52 55 55 51 51 52"/>
+      <element label="text-over-image" polygon_x="26 26 100 100 26 26"
+               polygon_y="107 115 115 106 106 107"/>
+      <element label="headline-over-image" polygon_x="21 21 210 210 21 21"
+               polygon_y="27 45 45 26 26 27"/>
+   </layout>
+   <text>
+      <keyword>researcher</keyword>
+      <keyword>university</keyword>
+      <keyword>create</keyword>
+   </text>
+</annotation>

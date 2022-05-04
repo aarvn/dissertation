@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0106</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="156 156 210 210 156 156"
+               polygon_y="222 280 280 221 221 222"/>
+      <element label="text" polygon_x="91 91 145 145 91 91"
+               polygon_y="237 280 280 236 236 237"/>
+      <element label="text" polygon_x="26 26 80 80 26 26" polygon_y="242 280 280 241 241 242"/>
+      <element label="text" polygon_x="26 26 145 145 26 26"
+               polygon_y="217 230 230 216 216 217"/>
+      <element label="text" polygon_x="31 31 140 140 31 31"
+               polygon_y="182 185 185 181 181 182"/>
+      <element label="text" polygon_x="26 26 70 70 26 26" polygon_y="17 25 25 16 16 17"/>
+      <element label="image" polygon_x="26 26 225 225 26 26" polygon_y="32 180 180 31 31 32"/>
+      <element label="headline" polygon_x="26 26 205 205 26 26"
+               polygon_y="192 205 205 191 191 192"/>
+   </layout>
+   <text>
+      <keyword>talk</keyword>
+      <keyword>party</keyword>
+      <keyword>election</keyword>
+      <keyword>young</keyword>
+   </text>
+</annotation>

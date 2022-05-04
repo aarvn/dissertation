@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0078</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 110 110 11 11"
+               polygon_y="127 280 280 126 126 127"/>
+      <element label="text" polygon_x="136 136 210 210 136 136"
+               polygon_y="112 280 280 111 111 112"/>
+      <element label="text" polygon_x="11 11 110 110 11 11" polygon_y="22 115 115 21 21 22"/>
+      <element label="text" polygon_x="136 136 210 210 136 136"
+               polygon_y="92 100 100 91 91 92"/>
+      <element label="image" polygon_x="136 136 225 225 136 136" polygon_y="7 85 85 6 6 7"/>
+   </layout>
+   <text>
+      <keyword>country</keyword>
+      <keyword>woman</keyword>
+      <keyword>decade</keyword>
+      <keyword>bad</keyword>
+      <keyword>rule</keyword>
+      <keyword>support</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0410</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="101 101 155 155 101 101"
+               polygon_y="117 270 270 116 116 117"/>
+      <element label="text" polygon_x="161 161 215 215 161 161"
+               polygon_y="132 280 280 131 131 132"/>
+      <element label="text" polygon_x="161 161 215 215 161 161"
+               polygon_y="62 125 125 61 61 62"/>
+      <element label="text" polygon_x="101 101 155 155 101 101"
+               polygon_y="62 110 110 61 61 62"/>
+      <element label="text" polygon_x="101 101 155 155 101 101" polygon_y="37 55 55 36 36 37"/>
+      <element label="text" polygon_x="161 161 215 215 161 161" polygon_y="37 55 55 36 36 37"/>
+      <element label="image" polygon_x="1 1 95 95 1 1" polygon_y="147 300 300 146 146 147"/>
+      <element label="image" polygon_x="1 1 95 95 1 1" polygon_y="2 140 140 1 1 2"/>
+   </layout>
+   <text>
+      <keyword>stir</keyword>
+      <keyword>cool</keyword>
+      <keyword>sugar</keyword>
+      <keyword>pan</keyword>
+      <keyword>butter</keyword>
+      <keyword>ingredient</keyword>
+      <keyword>egg</keyword>
+      <keyword>fat</keyword>
+      <keyword>cupcake</keyword>
+      <keyword>vanilla</keyword>
+   </text>
+</annotation>

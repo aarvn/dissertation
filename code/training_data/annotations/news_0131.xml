@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0131</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="26 26 80 80 26 26" polygon_y="87 280 280 86 86 87"/>
+      <element label="text" polygon_x="151 151 161 161 161 205 205 151 151"
+               polygon_y="87 200 200 201 280 280 86 86 87"/>
+      <element label="text" polygon_x="86 86 145 145 86 86" polygon_y="87 200 200 86 86 87"/>
+      <element label="text" polygon_x="71 71 160 160 71 71" polygon_y="57 60 60 56 56 57"/>
+      <element label="image" polygon_x="81 81 155 155 81 81"
+               polygon_y="207 280 280 206 206 207"/>
+      <element label="image" polygon_x="96 96 135 135 96 96" polygon_y="22 55 55 21 21 22"/>
+      <element label="headline" polygon_x="61 61 175 175 61 61" polygon_y="72 80 80 71 71 72"/>
+   </layout>
+   <text>
+      <keyword>country</keyword>
+      <keyword>life</keyword>
+      <keyword>woman</keyword>
+      <keyword>book</keyword>
+      <keyword>friend</keyword>
+      <keyword>idea</keyword>
+      <keyword>fact</keyword>
+      <keyword>group</keyword>
+      <keyword>mind</keyword>
+      <keyword>sound</keyword>
+      <keyword>challenge</keyword>
+   </text>
+</annotation>

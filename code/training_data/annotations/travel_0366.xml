@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0366</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="111 111 180 180 111 111"
+               polygon_y="17 115 115 16 16 17"/>
+      <element label="text" polygon_x="41 41 105 105 41 41" polygon_y="17 115 115 16 16 17"/>
+      <element label="image" polygon_x="6 6 220 220 6 6" polygon_y="122 300 300 121 121 122"/>
+   </layout>
+   <text>
+      <keyword>family</keyword>
+      <keyword>enjoy</keyword>
+      <keyword>hotel</keyword>
+      <keyword>village</keyword>
+      <keyword>resort</keyword>
+   </text>
+</annotation>

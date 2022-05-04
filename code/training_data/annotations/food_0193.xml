@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0193</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="6 6 220 220 6 6" polygon_y="12 290 290 11 11 12"/>
+      <element label="text-over-image" polygon_x="21 21 75 75 21 21"
+               polygon_y="32 175 175 31 31 32"/>
+      <element label="text-over-image" polygon_x="151 151 205 205 151 151"
+               polygon_y="32 175 175 31 31 32"/>
+      <element label="text-over-image" polygon_x="86 86 135 135 86 86"
+               polygon_y="32 175 175 31 31 32"/>
+      <element label="text-over-image" polygon_x="176 176 215 215 176 176"
+               polygon_y="12 20 20 11 11 12"/>
+   </layout>
+   <text>
+      <keyword>water</keyword>
+      <keyword>love</keyword>
+      <keyword>fat</keyword>
+      <keyword>life</keyword>
+      <keyword>table</keyword>
+      <keyword>honey</keyword>
+   </text>
+</annotation>

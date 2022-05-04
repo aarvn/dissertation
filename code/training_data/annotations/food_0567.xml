@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0567</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="6 6 220 220 6 6" polygon_y="7 295 295 6 6 7"/>
+      <element label="text-over-image" polygon_x="121 121 200 200 121 121"
+               polygon_y="47 105 105 46 46 47"/>
+      <element label="text-over-image" polygon_x="21 21 110 110 21 21"
+               polygon_y="47 75 75 46 46 47"/>
+      <element label="text-over-image" polygon_x="71 71 110 110 71 71"
+               polygon_y="82 110 110 81 81 82"/>
+      <element label="text-over-image" polygon_x="36 36 65 65 36 36"
+               polygon_y="82 110 110 81 81 82"/>
+   </layout>
+   <text>
+      <keyword>top</keyword>
+      <keyword>place</keyword>
+      <keyword>oven</keyword>
+      <keyword>eat</keyword>
+      <keyword>butter</keyword>
+      <keyword>cheese</keyword>
+      <keyword>golden</keyword>
+      <keyword>hot</keyword>
+      <keyword>bread</keyword>
+   </text>
+</annotation>

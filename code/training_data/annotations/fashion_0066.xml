@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0066</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="6 6 50 50 6 6" polygon_y="177 280 280 176 176 177"/>
+      <element label="text" polygon_x="61 61 105 105 90 90 90 61 61"
+               polygon_y="222 285 285 236 236 235 221 221 222"/>
+      <element label="text" polygon_x="116 116 145 146 146 160 160 131 130 130 116 116"
+               polygon_y="242 285 285 241 240 240 201 201 240 241 241 242"/>
+      <element label="text" polygon_x="116 116 160 160 116 116"
+               polygon_y="137 190 190 136 136 137"/>
+      <element label="text" polygon_x="171 171 215 215 171 171"
+               polygon_y="197 235 235 196 196 197"/>
+      <element label="text" polygon_x="6 6 95 95 6 6" polygon_y="157 170 170 156 156 157"/>
+      <element label="text" polygon_x="61 61 90 91 91 100 100 61 61"
+               polygon_y="177 210 210 196 195 195 176 176 177"/>
+      <element label="text" polygon_x="196 196 220 220 196 196" polygon_y="37 75 75 36 36 37"/>
+      <element label="text" polygon_x="116 116 160 160 116 116"
+               polygon_y="117 130 130 116 116 117"/>
+      <element label="image" polygon_x="1 1 110 110 90 90 90 1 1"
+               polygon_y="22 150 150 56 56 55 21 21 22"/>
+      <element label="image"
+               polygon_x="96 96 116 116 116 165 166 166 190 190 180 180 180 96 96"
+               polygon_y="2 50 50 51 110 110 76 75 75 51 51 50 1 1 2"/>
+      <element label="image" polygon_x="171 171 225 225 171 171"
+               polygon_y="82 185 185 81 81 82"/>
+      <element label="image" polygon_x="156 156 225 225 156 156"
+               polygon_y="247 300 300 246 246 247"/>
+      <element label="image" polygon_x="96 96 130 130 96 96"
+               polygon_y="202 235 235 201 201 202"/>
+      <element label="headline-over-image" polygon_x="11 11 85 85 11 11"
+               polygon_y="117 145 145 116 116 117"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>friend</keyword>
+      <keyword>brand</keyword>
+      <keyword>light</keyword>
+      <keyword>place</keyword>
+      <keyword>perfect</keyword>
+      <keyword>store</keyword>
+      <keyword>company</keyword>
+      <keyword>travel</keyword>
+   </text>
+</annotation>

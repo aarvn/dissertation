@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0524</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="86 86 125 125 86 86"
+               polygon_y="132 205 205 131 131 132"/>
+      <element label="text" polygon_x="86 86 150 150 86 86"
+               polygon_y="242 285 285 241 241 242"/>
+      <element label="text" polygon_x="156 156 215 215 156 156"
+               polygon_y="242 285 285 241 241 242"/>
+      <element label="text" polygon_x="6 6 60 60 6 6" polygon_y="87 125 125 86 86 87"/>
+      <element label="text" polygon_x="6 6 40 40 6 6" polygon_y="132 185 185 131 131 132"/>
+      <element label="text" polygon_x="46 46 80 80 46 46" polygon_y="132 180 180 131 131 132"/>
+      <element label="text" polygon_x="46 46 80 80 46 46" polygon_y="187 205 205 186 186 187"/>
+      <element label="text" polygon_x="6 6 35 35 6 6" polygon_y="192 205 205 191 191 192"/>
+      <element label="text" polygon_x="6 6 35 35 6 6" polygon_y="17 25 25 16 16 17"/>
+      <element label="text" polygon_x="201 201 215 215 201 201" polygon_y="62 80 80 61 61 62"/>
+      <element label="image" polygon_x="66 66 195 195 66 66" polygon_y="17 125 125 16 16 17"/>
+      <element label="image" polygon_x="136 136 220 220 136 136"
+               polygon_y="132 195 195 131 131 132"/>
+      <element label="image" polygon_x="6 6 80 80 6 6" polygon_y="222 285 285 221 221 222"/>
+      <element label="headline" polygon_x="86 86 215 215 86 86"
+               polygon_y="222 235 235 221 221 222"/>
+      <element label="headline" polygon_x="6 6 50 50 6 6" polygon_y="57 80 80 56 56 57"/>
+   </layout>
+   <text>
+      <keyword>beach</keyword>
+      <keyword>city</keyword>
+      <keyword>spring</keyword>
+      <keyword>site</keyword>
+   </text>
+</annotation>

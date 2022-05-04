@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0330</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="166 166 205 205 166 166"
+               polygon_y="217 290 290 216 216 217"/>
+      <element label="image" polygon_x="6 6 155 156 156 220 220 6 6"
+               polygon_y="2 300 300 211 210 210 1 1 2"/>
+   </layout>
+   <text/>
+</annotation>

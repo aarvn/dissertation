@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0221</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="11 11 210 210 11 11" polygon_y="22 285 285 21 21 22"/>
+      <element label="text-over-image" polygon_x="156 156 205 205 156 156"
+               polygon_y="27 40 40 26 26 27"/>
+   </layout>
+   <text>
+      <keyword>view</keyword>
+   </text>
+</annotation>

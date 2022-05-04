@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0021</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="26 26 80 80 26 26" polygon_y="177 230 230 176 176 177"/>
+      <element label="text" polygon_x="26 26 80 80 26 26" polygon_y="122 170 170 121 121 122"/>
+      <element label="text" polygon_x="86 86 140 140 86 86"
+               polygon_y="147 185 185 146 146 147"/>
+      <element label="text" polygon_x="86 86 140 140 86 86"
+               polygon_y="107 140 140 106 106 107"/>
+      <element label="text" polygon_x="146 146 200 200 146 146"
+               polygon_y="117 150 150 116 116 117"/>
+      <element label="text" polygon_x="146 146 200 200 146 146"
+               polygon_y="157 185 185 156 156 157"/>
+      <element label="text" polygon_x="26 26 80 80 26 26" polygon_y="92 115 115 91 91 92"/>
+      <element label="text" polygon_x="26 26 80 80 26 26" polygon_y="237 260 260 236 236 237"/>
+      <element label="text" polygon_x="86 86 200 200 86 86"
+               polygon_y="277 285 285 276 276 277"/>
+      <element label="text" polygon_x="146 146 200 200 146 146"
+               polygon_y="92 110 110 91 91 92"/>
+      <element label="text" polygon_x="26 26 80 80 26 26" polygon_y="267 280 280 266 266 267"/>
+      <element label="text" polygon_x="86 86 140 140 86 86" polygon_y="92 100 100 91 91 92"/>
+      <element label="text" polygon_x="86 86 130 130 86 86"
+               polygon_y="262 270 270 261 261 262"/>
+      <element label="image" polygon_x="6 6 110 110 6 6" polygon_y="2 85 85 1 1 2"/>
+      <element label="image" polygon_x="116 116 220 220 116 116" polygon_y="2 85 85 1 1 2"/>
+      <element label="image" polygon_x="86 86 200 200 86 86"
+               polygon_y="197 260 260 196 196 197"/>
+   </layout>
+   <text>
+      <keyword>love</keyword>
+      <keyword>visit</keyword>
+      <keyword>choice</keyword>
+      <keyword>hotel</keyword>
+      <keyword>book</keyword>
+      <keyword>beach</keyword>
+      <keyword>married</keyword>
+      <keyword>party</keyword>
+      <keyword>island</keyword>
+      <keyword>vow</keyword>
+      <keyword>plenty</keyword>
+   </text>
+</annotation>

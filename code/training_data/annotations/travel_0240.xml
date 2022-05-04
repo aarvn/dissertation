@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0240</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="56 56 200 200 56 56"
+               polygon_y="247 275 275 246 246 247"/>
+      <element label="text" polygon_x="116 116 200 200 116 116"
+               polygon_y="172 215 215 171 171 172"/>
+      <element label="text" polygon_x="56 56 200 200 116 115 115 56 56"
+               polygon_y="232 240 240 221 221 230 231 231 232"/>
+      <element label="text" polygon_x="56 56 165 165 56 56" polygon_y="57 75 75 56 56 57"/>
+      <element label="text" polygon_x="116 116 200 200 116 116"
+               polygon_y="142 165 165 141 141 142"/>
+      <element label="text" polygon_x="116 116 200 200 116 116"
+               polygon_y="92 110 110 91 91 92"/>
+      <element label="text" polygon_x="116 116 200 200 116 116"
+               polygon_y="117 135 135 116 116 117"/>
+      <element label="text" polygon_x="56 56 145 145 56 56"
+               polygon_y="282 290 290 281 281 282"/>
+      <element label="image" polygon_x="21 21 110 110 21 21" polygon_y="87 225 225 86 86 87"/>
+      <element label="headline" polygon_x="36 36 185 185 36 36" polygon_y="22 50 50 21 21 22"/>
+   </layout>
+   <text>
+      <keyword>place</keyword>
+      <keyword>life</keyword>
+      <keyword>family</keyword>
+      <keyword>friend</keyword>
+      <keyword>town</keyword>
+      <keyword>travel</keyword>
+      <keyword>celebrate</keyword>
+      <keyword>plan</keyword>
+      <keyword>trip</keyword>
+      <keyword>imagine</keyword>
+      <keyword>holiday</keyword>
+      <keyword>flight</keyword>
+   </text>
+</annotation>

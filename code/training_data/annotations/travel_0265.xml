@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0265</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="26 26 70 70 26 26" polygon_y="217 290 290 216 216 217"/>
+      <element label="text" polygon_x="161 161 210 210 161 161"
+               polygon_y="72 135 135 71 71 72"/>
+      <element label="text" polygon_x="161 161 210 210 161 161"
+               polygon_y="237 290 290 236 236 237"/>
+      <element label="text" polygon_x="86 86 135 135 86 86"
+               polygon_y="107 130 130 106 106 107"/>
+      <element label="text" polygon_x="36 36 80 80 36 36" polygon_y="107 130 130 106 106 107"/>
+      <element label="text" polygon_x="161 161 210 210 161 161"
+               polygon_y="217 230 230 216 216 217"/>
+      <element label="text" polygon_x="51 51 120 120 51 51"
+               polygon_y="167 170 170 166 166 167"/>
+      <element label="text" polygon_x="161 161 195 195 161 161"
+               polygon_y="202 210 210 201 201 202"/>
+      <element label="text" polygon_x="161 161 190 190 161 161" polygon_y="57 65 65 56 56 57"/>
+      <element label="image" polygon_x="21 21 145 145 21 21" polygon_y="17 100 100 16 16 17"/>
+      <element label="image" polygon_x="76 76 145 145 76 76"
+               polygon_y="197 290 290 196 196 197"/>
+      <element label="image" polygon_x="161 161 210 210 161 161"
+               polygon_y="147 195 195 146 146 147"/>
+      <element label="image" polygon_x="161 161 210 210 161 161" polygon_y="17 50 50 16 16 17"/>
+      <element label="headline" polygon_x="36 36 130 130 36 36"
+               polygon_y="152 160 160 151 151 152"/>
+   </layout>
+   <text>
+      <keyword>place</keyword>
+      <keyword>life</keyword>
+      <keyword>love</keyword>
+      <keyword>child</keyword>
+      <keyword>friend</keyword>
+   </text>
+</annotation>

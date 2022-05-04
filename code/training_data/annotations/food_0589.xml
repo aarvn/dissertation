@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0589</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 135 135 11 11"
+               polygon_y="132 170 170 131 131 132"/>
+      <element label="text" polygon_x="11 11 55 55 11 11" polygon_y="182 285 285 181 181 182"/>
+      <element label="text" polygon_x="141 141 210 210 141 141"
+               polygon_y="57 110 110 56 56 57"/>
+      <element label="text" polygon_x="116 116 210 210 116 116"
+               polygon_y="182 220 220 181 181 182"/>
+      <element label="text" polygon_x="11 11 90 90 11 11" polygon_y="42 45 45 41 41 42"/>
+      <element label="image" polygon_x="11 11 135 135 11 11" polygon_y="57 125 125 56 56 57"/>
+      <element label="image" polygon_x="116 116 210 210 116 116"
+               polygon_y="227 285 285 226 226 227"/>
+      <element label="image" polygon_x="61 61 105 105 61 61"
+               polygon_y="182 285 285 181 181 182"/>
+      <element label="image" polygon_x="141 141 210 210 141 141"
+               polygon_y="117 170 170 116 116 117"/>
+      <element label="headline" polygon_x="11 11 130 130 11 11" polygon_y="22 35 35 21 21 22"/>
+   </layout>
+   <text>
+      <keyword>dish</keyword>
+      <keyword>wine</keyword>
+      <keyword>enjoy</keyword>
+      <keyword>glass</keyword>
+      <keyword>family</keyword>
+      <keyword>quality</keyword>
+   </text>
+</annotation>

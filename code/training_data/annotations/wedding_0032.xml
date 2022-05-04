@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0032</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="116 116 205 205 116 116"
+               polygon_y="222 255 255 221 221 222"/>
+      <element label="text" polygon_x="26 26 110 110 26 26"
+               polygon_y="197 230 230 196 196 197"/>
+      <element label="text" polygon_x="26 26 110 110 26 26"
+               polygon_y="237 270 270 236 236 237"/>
+      <element label="text" polygon_x="116 116 205 205 116 116"
+               polygon_y="192 215 215 191 191 192"/>
+      <element label="text" polygon_x="116 116 205 205 116 116"
+               polygon_y="262 285 285 261 261 262"/>
+      <element label="text" polygon_x="26 26 110 110 26 26"
+               polygon_y="177 190 190 176 176 177"/>
+      <element label="text" polygon_x="116 116 205 205 116 116"
+               polygon_y="177 185 185 176 176 177"/>
+      <element label="text" polygon_x="26 26 110 110 26 26"
+               polygon_y="277 285 285 276 276 277"/>
+      <element label="image" polygon_x="6 6 220 220 6 6" polygon_y="2 170 170 1 1 2"/>
+      <element label="text-over-image" polygon_x="31 31 195 195 31 31"
+               polygon_y="47 70 70 46 46 47"/>
+      <element label="headline-over-image" polygon_x="26 26 200 200 26 26"
+               polygon_y="17 40 40 16 16 17"/>
+   </layout>
+   <text>
+      <keyword>guest</keyword>
+      <keyword>couple</keyword>
+      <keyword>choice</keyword>
+      <keyword>perfect</keyword>
+      <keyword>hotel</keyword>
+      <keyword>design</keyword>
+      <keyword>plan</keyword>
+      <keyword>beach</keyword>
+      <keyword>service</keyword>
+      <keyword>top</keyword>
+      <keyword>food</keyword>
+      <keyword>serve</keyword>
+      <keyword>restaurant</keyword>
+      <keyword>resort</keyword>
+   </text>
+</annotation>

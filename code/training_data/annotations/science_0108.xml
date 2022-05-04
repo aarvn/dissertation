@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0108</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 110 110 11 11"
+               polygon_y="162 285 285 161 161 162"/>
+      <element label="text" polygon_x="116 116 210 210 116 116"
+               polygon_y="192 285 285 191 191 192"/>
+      <element label="text" polygon_x="116 116 210 210 116 116"
+               polygon_y="162 185 185 161 161 162"/>
+      <element label="image" polygon_x="11 11 210 210 11 11" polygon_y="12 155 155 11 11 12"/>
+      <element label="text-over-image" polygon_x="16 16 60 60 16 16"
+               polygon_y="132 150 150 131 131 132"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>place</keyword>
+      <keyword>area</keyword>
+      <keyword>history</keyword>
+      <keyword>country</keyword>
+      <keyword>story</keyword>
+      <keyword>south</keyword>
+      <keyword>land</keyword>
+      <keyword>fall</keyword>
+      <keyword>culture</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0402</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="76 76 130 130 76 76"
+               polygon_y="107 185 185 106 106 107"/>
+      <element label="image" polygon_x="76 76 220 220 76 76"
+               polygon_y="192 300 300 191 191 192"/>
+      <element label="image"
+               polygon_x="76 76 205 205 180 180 181 181 205 205 180 180 180 76 76"
+               polygon_y="2 100 100 26 26 25 21 20 20 6 6 5 1 1 2"/>
+      <element label="image" polygon_x="16 16 70 70 16 16" polygon_y="127 290 290 126 126 127"/>
+      <element label="image" polygon_x="136 136 220 220 136 136"
+               polygon_y="107 185 185 106 106 107"/>
+      <element label="image" polygon_x="16 16 70 70 16 16" polygon_y="12 70 70 11 11 12"/>
+      <element label="headline" polygon_x="16 16 70 70 16 16" polygon_y="77 120 120 76 76 77"/>
+      <element label="text-over-image" polygon_x="156 156 205 205 156 156"
+               polygon_y="27 100 100 26 26 27"/>
+      <element label="text-over-image" polygon_x="91 91 160 160 91 91"
+               polygon_y="192 230 230 191 191 192"/>
+      <element label="headline-over-image" polygon_x="156 156 205 205 156 156"
+               polygon_y="7 20 20 6 6 7"/>
+   </layout>
+   <text>
+      <keyword>wedding</keyword>
+      <keyword>guest</keyword>
+      <keyword>venue</keyword>
+      <keyword>garden</keyword>
+   </text>
+</annotation>

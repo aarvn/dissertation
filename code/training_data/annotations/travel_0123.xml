@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0123</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="16 16 110 110 16 16"
+               polygon_y="152 185 185 151 151 152"/>
+      <element label="text" polygon_x="116 116 210 210 116 116"
+               polygon_y="152 185 185 151 151 152"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="237 285 285 236 236 237"/>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="237 285 285 236 236 237"/>
+      <element label="text" polygon_x="151 151 210 210 151 151"
+               polygon_y="237 285 285 236 236 237"/>
+      <element label="text" polygon_x="86 86 145 145 86 86" polygon_y="52 85 85 51 51 52"/>
+      <element label="text" polygon_x="151 151 210 210 151 151" polygon_y="52 85 85 51 51 52"/>
+      <element label="text" polygon_x="86 86 210 210 86 86" polygon_y="37 45 45 36 36 37"/>
+      <element label="image" polygon_x="16 16 80 80 16 16" polygon_y="2 85 85 1 1 2"/>
+      <element label="image" polygon_x="16 16 110 110 16 16" polygon_y="92 145 145 91 91 92"/>
+      <element label="image" polygon_x="116 116 210 210 116 116"
+               polygon_y="92 145 145 91 91 92"/>
+      <element label="image" polygon_x="81 81 145 145 81 81"
+               polygon_y="192 230 230 191 191 192"/>
+      <element label="image" polygon_x="16 16 75 75 16 16" polygon_y="192 230 230 191 191 192"/>
+      <element label="image" polygon_x="151 151 210 210 151 151"
+               polygon_y="192 230 230 191 191 192"/>
+      <element label="headline" polygon_x="86 86 210 210 86 86" polygon_y="17 30 30 16 16 17"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>love</keyword>
+      <keyword>garden</keyword>
+      <keyword>family</keyword>
+      <keyword>child</keyword>
+      <keyword>friend</keyword>
+      <keyword>join</keyword>
+      <keyword>countryside</keyword>
+      <keyword>park</keyword>
+      <keyword>dog</keyword>
+      <keyword>field</keyword>
+      <keyword>mountain</keyword>
+      <keyword>happy</keyword>
+      <keyword>young</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0194</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="126 126 210 210 126 126"
+               polygon_y="142 235 235 141 141 142"/>
+      <element label="text" polygon_x="36 36 71 71 71 115 115 36 36"
+               polygon_y="152 180 180 181 275 275 151 151 152"/>
+      <element label="text" polygon_x="36 36 115 115 36 36" polygon_y="72 140 140 71 71 72"/>
+      <element label="text" polygon_x="126 126 210 210 126 126"
+               polygon_y="72 135 135 71 71 72"/>
+      <element label="text" polygon_x="16 16 65 65 16 16" polygon_y="192 275 275 191 191 192"/>
+      <element label="text" polygon_x="126 126 210 210 126 126"
+               polygon_y="247 255 255 246 246 247"/>
+      <element label="text" polygon_x="126 126 190 190 126 126"
+               polygon_y="267 275 275 266 266 267"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>earth</keyword>
+      <keyword>university</keyword>
+      <keyword>planet</keyword>
+      <keyword>human</keyword>
+      <keyword>launch</keyword>
+      <keyword>project</keyword>
+      <keyword>evidence</keyword>
+      <keyword>future</keyword>
+      <keyword>space</keyword>
+      <keyword>brain</keyword>
+      <keyword>universe</keyword>
+   </text>
+</annotation>

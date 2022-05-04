@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0642</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="111 111 205 205 111 111"
+               polygon_y="242 285 285 241 241 242"/>
+      <element label="image"
+               polygon_x="16 16 105 106 106 225 225 91 90 90 21 21 91 91 90 90 16 16"
+               polygon_y="217 285 285 236 235 235 26 26 175 176 176 210 210 211 215 216 216 217"/>
+      <element label="image" polygon_x="11 11 85 85 11 11" polygon_y="52 140 140 51 51 52"/>
+      <element label="headline" polygon_x="31 31 85 85 31 31"
+               polygon_y="147 170 170 146 146 147"/>
+      <element label="text-over-image" polygon_x="16 16 105 105 16 16"
+               polygon_y="217 285 285 216 216 217"/>
+      <element label="text-over-image" polygon_x="21 21 100 100 21 21"
+               polygon_y="177 210 210 176 176 177"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>friend</keyword>
+      <keyword>job</keyword>
+      <keyword>child</keyword>
+      <keyword>career</keyword>
+      <keyword>money</keyword>
+   </text>
+</annotation>

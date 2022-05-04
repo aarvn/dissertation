@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0451</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="61 61 110 110 61 61" polygon_y="32 95 95 31 31 32"/>
+      <element label="text" polygon_x="166 166 215 215 166 166"
+               polygon_y="162 225 225 161 161 162"/>
+      <element label="text" polygon_x="11 11 55 55 11 11" polygon_y="32 95 95 31 31 32"/>
+      <element label="text" polygon_x="116 116 160 160 116 116"
+               polygon_y="162 225 225 161 161 162"/>
+      <element label="image" polygon_x="116 116 225 225 116 116" polygon_y="2 150 150 1 1 2"/>
+      <element label="image" polygon_x="1 1 110 110 1 1" polygon_y="157 300 300 156 156 157"/>
+      <element label="image" polygon_x="61 61 110 110 61 61"
+               polygon_y="102 150 150 101 101 102"/>
+      <element label="image" polygon_x="166 166 215 215 166 166"
+               polygon_y="232 280 280 231 231 232"/>
+      <element label="image" polygon_x="11 11 55 55 11 11" polygon_y="102 150 150 101 101 102"/>
+      <element label="image" polygon_x="116 116 160 160 116 116"
+               polygon_y="232 280 280 231 231 232"/>
+   </layout>
+   <text>
+      <keyword>top</keyword>
+      <keyword>oven</keyword>
+      <keyword>pan</keyword>
+      <keyword>fry</keyword>
+      <keyword>ingredient</keyword>
+      <keyword>pepper</keyword>
+      <keyword>cheese</keyword>
+      <keyword>bread</keyword>
+      <keyword>plenty</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0189</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="16 16 215 215 16 16" polygon_y="2 290 290 1 1 2"/>
+      <element label="headline-over-image" polygon_x="16 16 215 215 16 16"
+               polygon_y="242 290 290 241 241 242"/>
+   </layout>
+   <text>
+      <keyword>spring</keyword>
+   </text>
+</annotation>

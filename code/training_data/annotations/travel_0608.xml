@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0608</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="167 220 220 166 166 167"/>
+      <element label="text" polygon_x="91 91 145 145 91 91"
+               polygon_y="152 210 210 151 151 152"/>
+      <element label="text" polygon_x="91 91 145 145 91 91"
+               polygon_y="217 275 275 216 216 217"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="227 275 275 226 226 227"/>
+      <element label="text" polygon_x="21 21 145 145 21 21"
+               polygon_y="132 140 140 131 131 132"/>
+      <element label="image"
+               polygon_x="11 11 86 86 86 145 146 146 151 151 151 215 216 216 225 225 11 11"
+               polygon_y="2 115 115 116 125 125 116 115 115 116 155 155 116 115 115 1 1 2"/>
+      <element label="image" polygon_x="11 11 26 26 26 85 85 75 75 76 76 85 85 21 20 20 11 11"
+               polygon_y="197 245 245 246 280 280 241 241 240 201 200 200 146 146 195 196 196 197"/>
+      <element label="text-over-image" polygon_x="21 21 40 40 21 21"
+               polygon_y="72 110 110 71 71 72"/>
+      <element label="text-over-image" polygon_x="146 146 170 170 146 146"
+               polygon_y="97 110 110 96 96 97"/>
+      <element label="headline-over-image" polygon_x="86 86 145 145 86 86"
+               polygon_y="102 125 125 101 101 102"/>
+   </layout>
+   <text>
+      <keyword>place</keyword>
+      <keyword>top</keyword>
+      <keyword>enjoy</keyword>
+      <keyword>design</keyword>
+      <keyword>beach</keyword>
+      <keyword>tree</keyword>
+      <keyword>room</keyword>
+      <keyword>sky</keyword>
+      <keyword>picture</keyword>
+   </text>
+</annotation>

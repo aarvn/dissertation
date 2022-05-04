@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0257</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="46 46 115 115 85 85 86 86 115 115 46 46"
+               polygon_y="137 290 290 231 231 230 171 170 170 136 136 137"/>
+      <element label="text" polygon_x="121 121 146 146 145 145 121 121 185 185 121 121"
+               polygon_y="137 170 170 171 230 231 231 290 290 136 136 137"/>
+      <element label="text" polygon_x="66 66 170 170 66 66"
+               polygon_y="102 120 120 101 101 102"/>
+      <element label="image" polygon_x="91 91 140 140 91 91"
+               polygon_y="177 225 225 176 176 177"/>
+      <element label="headline" polygon_x="51 51 180 180 51 51" polygon_y="27 95 95 26 26 27"/>
+   </layout>
+   <text>
+      <keyword>garden</keyword>
+      <keyword>area</keyword>
+      <keyword>tree</keyword>
+      <keyword>summer</keyword>
+      <keyword>farm</keyword>
+      <keyword>restaurant</keyword>
+      <keyword>village</keyword>
+      <keyword>sheep</keyword>
+   </text>
+</annotation>

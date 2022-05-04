@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0276</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="157 290 290 156 156 157"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="157 290 290 156 156 157"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="117 220 220 116 116 117"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="227 290 290 226 226 227"/>
+      <element label="text" polygon_x="151 151 200 200 151 151" polygon_y="27 70 70 26 26 27"/>
+      <element label="text" polygon_x="151 151 205 205 151 151"
+               polygon_y="97 110 110 96 96 97"/>
+      <element label="text" polygon_x="11 11 140 140 11 11"
+               polygon_y="147 150 150 146 146 147"/>
+      <element label="image" polygon_x="11 11 145 145 45 45 45 16 15 15 11 11"
+               polygon_y="17 110 110 16 16 15 11 11 15 16 16 17"/>
+      <element label="headline" polygon_x="11 11 95 95 11 11"
+               polygon_y="117 130 130 116 116 117"/>
+      <element label="text-over-image" polygon_x="16 16 45 45 16 16"
+               polygon_y="12 20 20 11 11 12"/>
+   </layout>
+   <text>
+      <keyword>country</keyword>
+      <keyword>man</keyword>
+      <keyword>decade</keyword>
+      <keyword>party</keyword>
+      <keyword>place</keyword>
+      <keyword>bad</keyword>
+      <keyword>law</keyword>
+      <keyword>leader</keyword>
+      <keyword>fight</keyword>
+      <keyword>issue</keyword>
+      <keyword>debate</keyword>
+      <keyword>office</keyword>
+      <keyword>vote</keyword>
+      <keyword>street</keyword>
+      <keyword>sound</keyword>
+      <keyword>history</keyword>
+      <keyword>young</keyword>
+   </text>
+</annotation>

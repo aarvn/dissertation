@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0515</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="26 26 80 80 26 26" polygon_y="152 285 285 151 151 152"/>
+      <element label="image" polygon_x="1 1 26 26 26 80 81 81 86 86 86 225 225 1 1"
+               polygon_y="2 130 130 131 145 145 131 130 130 131 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="26 26 80 80 26 26"
+               polygon_y="122 145 145 121 121 122"/>
+      <element label="text-over-image" polygon_x="96 96 120 120 96 96"
+               polygon_y="132 140 140 131 131 132"/>
+   </layout>
+   <text>
+      <keyword>wedding</keyword>
+      <keyword>love</keyword>
+      <keyword>reception</keyword>
+      <keyword>dream</keyword>
+      <keyword>life</keyword>
+      <keyword>parent</keyword>
+      <keyword>excite</keyword>
+      <keyword>garden</keyword>
+   </text>
+</annotation>

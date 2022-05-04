@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0630</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="146 146 171 171 170 170 146 146 210 210 146 146"
+               polygon_y="127 195 195 196 235 236 236 275 275 126 126 127"/>
+      <element label="text" polygon_x="81 81 140 140 115 115 116 116 140 140 81 81"
+               polygon_y="127 275 275 236 236 235 196 195 195 126 126 127"/>
+      <element label="text" polygon_x="121 121 165 165 121 121"
+               polygon_y="202 230 230 201 201 202"/>
+      <element label="text" polygon_x="146 146 195 195 146 146"
+               polygon_y="102 110 110 101 101 102"/>
+      <element label="image" polygon_x="11 11 75 75 11 11" polygon_y="182 290 290 181 181 182"/>
+      <element label="image" polygon_x="11 11 75 75 11 11" polygon_y="72 175 175 71 71 72"/>
+      <element label="image" polygon_x="81 81 140 140 81 81" polygon_y="27 120 120 26 26 27"/>
+      <element label="image" polygon_x="11 11 75 75 11 11" polygon_y="12 65 65 11 11 12"/>
+      <element label="text-over-image" polygon_x="11 11 75 75 11 11"
+               polygon_y="192 215 215 191 191 192"/>
+   </layout>
+   <text>
+      <keyword>wedding</keyword>
+      <keyword>guest</keyword>
+      <keyword>love</keyword>
+      <keyword>couple</keyword>
+      <keyword>venue</keyword>
+      <keyword>family</keyword>
+      <keyword>event</keyword>
+      <keyword>moment</keyword>
+      <keyword>photographer</keyword>
+      <keyword>relaxed</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0445</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="11 11 75 75 11 11"
+               polygon_y="67 195 195 66 66 67"/>
+      <element label="text-over-image" polygon_x="11 11 85 85 11 11"
+               polygon_y="32 60 60 31 31 32"/>
+      <element label="text-over-image" polygon_x="11 11 50 50 11 11"
+               polygon_y="202 220 220 201 201 202"/>
+      <element label="text-over-image" polygon_x="181 181 220 220 181 181"
+               polygon_y="12 15 15 11 11 12"/>
+   </layout>
+   <text>
+      <keyword>taste</keyword>
+      <keyword>recipe</keyword>
+      <keyword>fry</keyword>
+      <keyword>roll</keyword>
+      <keyword>potato</keyword>
+      <keyword>soft</keyword>
+      <keyword>dress</keyword>
+      <keyword>spice</keyword>
+      <keyword>plenty</keyword>
+   </text>
+</annotation>

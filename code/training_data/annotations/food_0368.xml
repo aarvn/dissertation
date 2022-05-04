@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0368</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="161 161 210 210 161 161"
+               polygon_y="107 160 160 106 106 107"/>
+      <element label="text" polygon_x="161 161 210 210 161 161"
+               polygon_y="167 220 220 166 166 167"/>
+      <element label="text" polygon_x="21 21 115 115 21 21"
+               polygon_y="152 170 170 151 151 152"/>
+      <element label="text" polygon_x="26 26 55 55 26 26" polygon_y="227 280 280 226 226 227"/>
+      <element label="text" polygon_x="121 121 155 155 121 121"
+               polygon_y="177 215 215 176 176 177"/>
+      <element label="text" polygon_x="81 81 110 110 81 81"
+               polygon_y="177 215 215 176 176 177"/>
+      <element label="text" polygon_x="21 21 145 145 21 21" polygon_y="57 60 60 56 56 57"/>
+      <element label="image" polygon_x="21 21 115 115 21 21" polygon_y="72 145 145 71 71 72"/>
+      <element label="image" polygon_x="116 116 210 210 116 116"
+               polygon_y="227 280 280 226 226 227"/>
+      <element label="image" polygon_x="121 121 155 155 121 121"
+               polygon_y="72 170 170 71 71 72"/>
+      <element label="image" polygon_x="61 61 110 110 61 61"
+               polygon_y="227 280 280 226 226 227"/>
+      <element label="image" polygon_x="21 21 75 75 21 21" polygon_y="177 215 215 176 176 177"/>
+      <element label="image" polygon_x="161 161 210 210 161 161"
+               polygon_y="72 100 100 71 71 72"/>
+      <element label="headline" polygon_x="21 21 105 105 21 21" polygon_y="32 50 50 31 31 32"/>
+   </layout>
+   <text>
+      <keyword>top</keyword>
+      <keyword>flavour</keyword>
+      <keyword>love</keyword>
+      <keyword>cuisine</keyword>
+   </text>
+</annotation>

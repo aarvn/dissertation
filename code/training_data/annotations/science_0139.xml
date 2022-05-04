@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0139</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="21 21 215 215 21 21" polygon_y="7 290 290 6 6 7"/>
+   </layout>
+   <text/>
+</annotation>

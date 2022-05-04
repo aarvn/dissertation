@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0731</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="36 36 190 190 36 36" polygon_y="72 85 85 71 71 72"/>
+      <element label="text" polygon_x="21 21 80 80 21 21" polygon_y="262 285 285 261 261 262"/>
+      <element label="text" polygon_x="146 146 205 205 146 146"
+               polygon_y="262 285 285 261 261 262"/>
+      <element label="text" polygon_x="86 86 140 140 86 86"
+               polygon_y="262 285 285 261 261 262"/>
+      <element label="text" polygon_x="21 21 80 80 21 21" polygon_y="237 255 255 236 236 237"/>
+      <element label="text" polygon_x="146 146 205 205 146 146"
+               polygon_y="237 255 255 236 236 237"/>
+      <element label="text" polygon_x="86 86 140 140 86 86"
+               polygon_y="237 255 255 236 236 237"/>
+      <element label="text" polygon_x="21 21 70 70 21 21" polygon_y="7 10 10 6 6 7"/>
+      <element label="image" polygon_x="21 21 205 205 21 21" polygon_y="92 230 230 91 91 92"/>
+      <element label="headline" polygon_x="36 36 190 190 36 36" polygon_y="22 65 65 21 21 22"/>
+   </layout>
+   <text>
+      <keyword>meat</keyword>
+      <keyword>milk</keyword>
+      <keyword>summer</keyword>
+   </text>
+</annotation>

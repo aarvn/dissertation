@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0139</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="6 6 80 80 6 6" polygon_y="102 145 145 101 101 102"/>
+      <element label="text" polygon_x="6 6 80 80 6 6" polygon_y="152 190 190 151 151 152"/>
+      <element label="text" polygon_x="6 6 80 80 6 6" polygon_y="62 95 95 61 61 62"/>
+      <element label="text" polygon_x="6 6 80 80 6 6" polygon_y="197 225 225 196 196 197"/>
+      <element label="text" polygon_x="6 6 80 80 6 6" polygon_y="232 260 260 231 231 232"/>
+      <element label="text" polygon_x="6 6 80 80 6 6" polygon_y="267 280 280 266 266 267"/>
+      <element label="text" polygon_x="91 91 150 150 91 91"
+               polygon_y="277 280 280 276 276 277"/>
+      <element label="text" polygon_x="6 6 60 60 6 6" polygon_y="47 50 50 46 46 47"/>
+      <element label="image" polygon_x="91 91 225 225 91 91" polygon_y="62 275 275 61 61 62"/>
+      <element label="headline" polygon_x="6 6 80 80 6 6" polygon_y="27 40 40 26 26 27"/>
+   </layout>
+   <text>
+      <keyword>wedding</keyword>
+      <keyword>venue</keyword>
+      <keyword>choice</keyword>
+      <keyword>perfect</keyword>
+      <keyword>dream</keyword>
+      <keyword>hotel</keyword>
+      <keyword>event</keyword>
+      <keyword>design</keyword>
+      <keyword>remember</keyword>
+      <keyword>plan</keyword>
+      <keyword>image</keyword>
+      <keyword>space</keyword>
+      <keyword>dance</keyword>
+      <keyword>serve</keyword>
+      <keyword>entertainment</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0476</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="81 81 155 155 81 81"
+               polygon_y="217 280 280 216 216 217"/>
+      <element label="text" polygon_x="6 6 75 75 6 6" polygon_y="217 280 280 216 216 217"/>
+      <element label="text" polygon_x="166 166 205 205 166 166"
+               polygon_y="217 280 280 216 216 217"/>
+      <element label="text" polygon_x="131 131 205 205 131 131"
+               polygon_y="287 295 295 286 286 287"/>
+      <element label="text" polygon_x="6 6 85 85 6 6" polygon_y="12 15 15 11 11 12"/>
+      <element label="image" polygon_x="6 6 205 205 190 190 190 161 160 160 6 6"
+               polygon_y="27 210 210 26 26 25 11 11 25 26 26 27"/>
+      <element label="text-over-image" polygon_x="6 6 35 35 6 6" polygon_y="27 85 85 26 26 27"/>
+      <element label="text-over-image" polygon_x="161 161 190 190 161 161"
+               polygon_y="12 45 45 11 11 12"/>
+   </layout>
+   <text>
+      <keyword>place</keyword>
+      <keyword>family</keyword>
+      <keyword>beach</keyword>
+      <keyword>haven</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0315</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 65 65 21 21" polygon_y="57 285 285 56 56 57"/>
+      <element label="text" polygon_x="86 86 190 190 86 86"
+               polygon_y="157 205 205 156 156 157"/>
+      <element label="text" polygon_x="86 86 150 150 86 86"
+               polygon_y="227 285 285 226 226 227"/>
+      <element label="text" polygon_x="111 111 165 165 111 111"
+               polygon_y="142 150 150 141 141 142"/>
+      <element label="text" polygon_x="26 26 50 50 26 26" polygon_y="32 50 50 31 31 32"/>
+      <element label="image" polygon_x="91 91 190 191 191 200 200 161 160 160 91 91"
+               polygon_y="17 140 140 56 55 55 6 6 15 16 16 17"/>
+      <element label="image" polygon_x="156 156 200 200 156 156"
+               polygon_y="227 285 285 226 226 227"/>
+      <element label="text-over-image" polygon_x="161 161 200 200 161 161"
+               polygon_y="7 55 55 6 6 7"/>
+   </layout>
+   <text>
+      <keyword>country</keyword>
+      <keyword>design</keyword>
+      <keyword>town</keyword>
+      <keyword>art</keyword>
+      <keyword>fun</keyword>
+      <keyword>thought</keyword>
+   </text>
+</annotation>

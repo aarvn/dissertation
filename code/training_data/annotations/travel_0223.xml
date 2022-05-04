@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0223</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="166 166 205 205 166 166"
+               polygon_y="102 235 235 101 101 102"/>
+      <element label="text" polygon_x="21 21 60 60 21 21" polygon_y="167 260 260 166 166 167"/>
+      <element label="text" polygon_x="66 66 110 110 66 66"
+               polygon_y="167 215 215 166 166 167"/>
+      <element label="text" polygon_x="116 116 160 160 116 116"
+               polygon_y="177 215 215 176 176 177"/>
+      <element label="text" polygon_x="21 21 160 160 21 21" polygon_y="47 55 55 46 46 47"/>
+      <element label="text" polygon_x="166 166 205 205 166 166" polygon_y="62 95 95 61 61 62"/>
+      <element label="text" polygon_x="21 21 60 60 21 21" polygon_y="267 285 285 266 266 267"/>
+      <element label="text" polygon_x="166 166 190 190 166 166"
+               polygon_y="267 285 285 266 266 267"/>
+      <element label="text" polygon_x="181 181 205 205 181 181"
+               polygon_y="242 260 260 241 241 242"/>
+      <element label="text" polygon_x="21 21 55 55 21 21" polygon_y="12 20 20 11 11 12"/>
+      <element label="text" polygon_x="116 116 160 160 116 116"
+               polygon_y="167 170 170 166 166 167"/>
+      <element label="image" polygon_x="21 21 160 160 21 21" polygon_y="62 160 160 61 61 62"/>
+      <element label="image" polygon_x="66 66 160 160 66 66"
+               polygon_y="222 285 285 221 221 222"/>
+      <element label="image" polygon_x="166 166 205 205 166 166" polygon_y="22 55 55 21 21 22"/>
+      <element label="image" polygon_x="166 166 180 180 166 166"
+               polygon_y="242 260 260 241 241 242"/>
+      <element label="image" polygon_x="191 191 205 205 191 191"
+               polygon_y="267 285 285 266 266 267"/>
+      <element label="headline" polygon_x="21 21 155 155 21 21" polygon_y="27 40 40 26 26 27"/>
+      <element label="text-over-image" polygon_x="116 116 160 160 116 116"
+               polygon_y="62 75 75 61 61 62"/>
+   </layout>
+   <text>
+      <keyword>view</keyword>
+      <keyword>enjoy</keyword>
+      <keyword>child</keyword>
+      <keyword>hotel</keyword>
+      <keyword>town</keyword>
+      <keyword>village</keyword>
+      <keyword>plan</keyword>
+      <keyword>snow</keyword>
+   </text>
+</annotation>

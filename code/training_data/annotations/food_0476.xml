@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0476</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="151 151 215 215 151 151"
+               polygon_y="32 115 115 31 31 32"/>
+      <element label="headline-over-image" polygon_x="21 21 135 135 21 21"
+               polygon_y="27 85 85 26 26 27"/>
+   </layout>
+   <text>
+      <keyword>recipe</keyword>
+      <keyword>flavour</keyword>
+      <keyword>book</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0239</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="11 11 210 210 11 11" polygon_y="7 295 295 6 6 7"/>
+      <element label="text-over-image" polygon_x="36 36 190 190 36 36"
+               polygon_y="97 105 105 96 96 97"/>
+      <element label="headline-over-image" polygon_x="36 36 190 190 36 36"
+               polygon_y="32 80 80 31 31 32"/>
+   </layout>
+   <text/>
+</annotation>

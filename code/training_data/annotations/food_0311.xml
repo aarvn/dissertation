@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0311</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="146 146 205 205 146 146"
+               polygon_y="92 280 280 91 91 92"/>
+      <element label="text-over-image" polygon_x="146 146 190 190 146 146"
+               polygon_y="72 85 85 71 71 72"/>
+      <element label="text-over-image" polygon_x="26 26 55 55 26 26"
+               polygon_y="252 265 265 251 251 252"/>
+   </layout>
+   <text>
+      <keyword>oven</keyword>
+      <keyword>bake</keyword>
+      <keyword>flavour</keyword>
+      <keyword>fridge</keyword>
+      <keyword>sauce</keyword>
+      <keyword>hot</keyword>
+      <keyword>sweet</keyword>
+      <keyword>bread</keyword>
+   </text>
+</annotation>

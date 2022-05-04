@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0186</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 75 75 21 21" polygon_y="202 285 285 201 201 202"/>
+      <element label="text" polygon_x="81 81 135 135 81 81"
+               polygon_y="202 285 285 201 201 202"/>
+      <element label="image" polygon_x="21 21 141 141 141 205 206 206 220 220 21 21"
+               polygon_y="22 195 195 196 285 285 196 195 195 21 21 22"/>
+      <element label="text-over-image" polygon_x="21 21 120 120 21 21"
+               polygon_y="167 185 185 166 166 167"/>
+      <element label="text-over-image" polygon_x="171 171 205 205 171 171"
+               polygon_y="272 285 285 271 271 272"/>
+      <element label="headline-over-image"
+               polygon_x="21 21 140 140 120 120 121 121 155 155 120 120 120 110 110 110 21 21"
+               polygon_y="67 160 160 141 141 140 126 125 125 106 106 105 81 81 80 66 66 67"/>
+   </layout>
+   <text>
+      <keyword>wedding</keyword>
+      <keyword>love</keyword>
+      <keyword>bride</keyword>
+      <keyword>dress</keyword>
+      <keyword>family</keyword>
+      <keyword>friend</keyword>
+      <keyword>drink</keyword>
+      <keyword>special</keyword>
+   </text>
+</annotation>

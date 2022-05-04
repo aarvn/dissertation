@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0595</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="11 11 35 35 11 11"
+               polygon_y="252 290 290 251 251 252"/>
+   </layout>
+   <text>
+      <keyword>man</keyword>
+   </text>
+</annotation>

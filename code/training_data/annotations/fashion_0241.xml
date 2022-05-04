@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0241</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="156 156 210 210 156 156"
+               polygon_y="177 275 275 176 176 177"/>
+      <element label="text" polygon_x="156 156 210 210 156 156"
+               polygon_y="17 110 110 16 16 17"/>
+      <element label="text" polygon_x="156 156 210 210 156 156"
+               polygon_y="117 170 170 116 116 117"/>
+      <element label="text" polygon_x="11 11 215 215 11 11"
+               polygon_y="287 295 295 286 286 287"/>
+      <element label="text" polygon_x="31 31 125 125 31 31" polygon_y="17 25 25 16 16 17"/>
+      <element label="image" polygon_x="6 6 145 145 6 6" polygon_y="27 280 280 26 26 27"/>
+   </layout>
+   <text>
+      <keyword>brand</keyword>
+      <keyword>man</keyword>
+      <keyword>hair</keyword>
+      <keyword>perfect</keyword>
+      <keyword>kid</keyword>
+      <keyword>role</keyword>
+   </text>
+</annotation>

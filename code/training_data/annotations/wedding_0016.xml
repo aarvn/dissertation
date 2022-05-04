@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0016</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="26 26 110 110 26 26"
+               polygon_y="172 245 245 171 171 172"/>
+      <element label="text" polygon_x="26 26 110 110 26 26"
+               polygon_y="107 165 165 106 106 107"/>
+      <element label="text" polygon_x="26 26 110 110 26 26" polygon_y="12 55 55 11 11 12"/>
+      <element label="text" polygon_x="26 26 110 110 26 26" polygon_y="62 100 100 61 61 62"/>
+      <element label="text" polygon_x="26 26 110 110 26 26"
+               polygon_y="252 285 285 251 251 252"/>
+      <element label="image" polygon_x="116 116 220 220 116 116" polygon_y="2 65 65 1 1 2"/>
+      <element label="image" polygon_x="116 116 220 220 116 116"
+               polygon_y="252 300 300 251 251 252"/>
+      <element label="image" polygon_x="116 116 165 165 116 116"
+               polygon_y="72 155 155 71 71 72"/>
+      <element label="image" polygon_x="116 116 165 165 116 116"
+               polygon_y="162 245 245 161 161 162"/>
+      <element label="image" polygon_x="171 171 220 220 171 171"
+               polygon_y="72 155 155 71 71 72"/>
+      <element label="image" polygon_x="171 171 220 220 171 171"
+               polygon_y="162 245 245 161 161 162"/>
+   </layout>
+   <text>
+      <keyword>wedding</keyword>
+      <keyword>guest</keyword>
+      <keyword>bride</keyword>
+      <keyword>couple</keyword>
+      <keyword>visit</keyword>
+      <keyword>perfect</keyword>
+      <keyword>hotel</keyword>
+      <keyword>moment</keyword>
+      <keyword>idea</keyword>
+      <keyword>beach</keyword>
+      <keyword>arrange</keyword>
+      <keyword>married</keyword>
+      <keyword>parent</keyword>
+      <keyword>restaurant</keyword>
+      <keyword>island</keyword>
+      <keyword>stress</keyword>
+      <keyword>amaze</keyword>
+      <keyword>issue</keyword>
+      <keyword>great</keyword>
+      <keyword>comfortable</keyword>
+   </text>
+</annotation>

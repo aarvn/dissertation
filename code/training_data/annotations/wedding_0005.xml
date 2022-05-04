@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0005</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 75 75 21 21" polygon_y="37 130 130 36 36 37"/>
+      <element label="text" polygon_x="21 21 65 65 21 21" polygon_y="17 30 30 16 16 17"/>
+      <element label="text" polygon_x="21 21 75 75 21 21" polygon_y="137 145 145 136 136 137"/>
+      <element label="image" polygon_x="6 6 225 225 6 6" polygon_y="152 300 300 151 151 152"/>
+      <element label="image" polygon_x="81 81 215 215 81 81" polygon_y="2 145 145 1 1 2"/>
+      <element label="text-over-image" polygon_x="26 26 70 70 26 26"
+               polygon_y="182 275 275 181 181 182"/>
+      <element label="text-over-image" polygon_x="26 26 70 70 26 26"
+               polygon_y="162 175 175 161 161 162"/>
+   </layout>
+   <text>
+      <keyword>wedding</keyword>
+      <keyword>love</keyword>
+      <keyword>couple</keyword>
+      <keyword>family</keyword>
+      <keyword>reception</keyword>
+      <keyword>friend</keyword>
+      <keyword>choice</keyword>
+      <keyword>life</keyword>
+      <keyword>book</keyword>
+      <keyword>beach</keyword>
+      <keyword>arrange</keyword>
+      <keyword>tie</keyword>
+      <keyword>cool</keyword>
+   </text>
+</annotation>

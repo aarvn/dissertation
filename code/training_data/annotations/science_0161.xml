@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0161</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="6 6 75 75 6 6" polygon_y="122 185 185 121 121 122"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="162 230 230 161 161 162"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="152 220 220 151 151 152"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="227 285 285 226 226 227"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="237 285 285 236 236 237"/>
+      <element label="text" polygon_x="6 6 75 75 6 6" polygon_y="192 225 225 191 191 192"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="122 155 155 121 121 122"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="122 145 145 121 121 122"/>
+      <element label="text" polygon_x="6 6 75 75 6 6" polygon_y="277 285 285 276 276 277"/>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 115 115 1 1 2"/>
+      <element label="image" polygon_x="6 6 75 75 6 6" polygon_y="232 275 275 231 231 232"/>
+      <element label="text-over-image" polygon_x="6 6 120 120 6 6"
+               polygon_y="92 115 115 91 91 92"/>
+      <element label="text-over-image" polygon_x="6 6 90 90 6 6" polygon_y="12 20 20 11 11 12"/>
+      <element label="text-over-image" polygon_x="176 176 215 215 176 176"
+               polygon_y="102 115 115 101 101 102"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>place</keyword>
+      <keyword>earth</keyword>
+      <keyword>research</keyword>
+      <keyword>create</keyword>
+      <keyword>effect</keyword>
+      <keyword>area</keyword>
+      <keyword>planet</keyword>
+      <keyword>idea</keyword>
+      <keyword>image</keyword>
+      <keyword>nature</keyword>
+      <keyword>story</keyword>
+      <keyword>design</keyword>
+      <keyword>school</keyword>
+      <keyword>west</keyword>
+      <keyword>land</keyword>
+      <keyword>sky</keyword>
+      <keyword>space</keyword>
+      <keyword>universe</keyword>
+   </text>
+</annotation>

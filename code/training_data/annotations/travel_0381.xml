@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0381</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="61 61 155 155 61 61" polygon_y="67 75 75 66 66 67"/>
+      <element label="image" polygon_x="6 6 220 220 6 6" polygon_y="102 300 300 101 101 102"/>
+      <element label="headline" polygon_x="36 36 175 175 36 36" polygon_y="32 60 60 31 31 32"/>
+   </layout>
+   <text/>
+</annotation>

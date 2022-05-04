@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0033</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 95 95 21 21" polygon_y="157 240 240 156 156 157"/>
+      <element label="text" polygon_x="156 156 210 210 156 156"
+               polygon_y="27 130 130 26 26 27"/>
+      <element label="text" polygon_x="156 156 210 210 156 156"
+               polygon_y="137 230 230 136 136 137"/>
+      <element label="text" polygon_x="106 106 150 150 106 106"
+               polygon_y="177 285 285 176 176 177"/>
+      <element label="text" polygon_x="106 106 150 150 106 106"
+               polygon_y="67 170 170 66 66 67"/>
+      <element label="text" polygon_x="21 21 95 95 21 21" polygon_y="117 150 150 116 116 117"/>
+      <element label="text" polygon_x="21 21 90 90 21 21" polygon_y="252 285 285 251 251 252"/>
+      <element label="text" polygon_x="156 156 215 215 156 156"
+               polygon_y="237 275 275 236 236 237"/>
+      <element label="text" polygon_x="106 106 150 150 106 106" polygon_y="27 45 45 26 26 27"/>
+      <element label="text" polygon_x="106 106 140 140 106 106" polygon_y="52 60 60 51 51 52"/>
+      <element label="text" polygon_x="181 181 210 210 181 181" polygon_y="7 15 15 6 6 7"/>
+      <element label="image" polygon_x="1 1 100 100 1 1" polygon_y="2 110 110 1 1 2"/>
+   </layout>
+   <text>
+      <keyword>stir</keyword>
+      <keyword>dish</keyword>
+      <keyword>cool</keyword>
+      <keyword>pan</keyword>
+      <keyword>fry</keyword>
+      <keyword>mixture</keyword>
+      <keyword>boil</keyword>
+      <keyword>flavour</keyword>
+      <keyword>fridge</keyword>
+      <keyword>book</keyword>
+      <keyword>tomato</keyword>
+      <keyword>chicken</keyword>
+      <keyword>free</keyword>
+   </text>
+</annotation>

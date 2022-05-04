@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0393</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 95 95 11 11" polygon_y="147 280 280 146 146 147"/>
+      <element label="text" polygon_x="156 156 215 215 156 156"
+               polygon_y="142 280 280 141 141 142"/>
+      <element label="text" polygon_x="11 11 95 95 11 11" polygon_y="82 140 140 81 81 82"/>
+      <element label="text" polygon_x="101 101 150 150 101 101"
+               polygon_y="222 280 280 221 221 222"/>
+      <element label="text" polygon_x="101 101 150 150 101 101"
+               polygon_y="167 215 215 166 166 167"/>
+      <element label="text" polygon_x="11 11 80 80 11 11" polygon_y="62 75 75 61 61 62"/>
+      <element label="text" polygon_x="101 101 140 140 101 101"
+               polygon_y="142 160 160 141 141 142"/>
+      <element label="image" polygon_x="101 101 215 215 101 101"
+               polygon_y="32 135 135 31 31 32"/>
+      <element label="text-over-image" polygon_x="181 181 210 210 181 181"
+               polygon_y="122 130 130 121 121 122"/>
+   </layout>
+   <text>
+      <keyword>sugar</keyword>
+      <keyword>butter</keyword>
+      <keyword>ingredient</keyword>
+      <keyword>egg</keyword>
+      <keyword>fat</keyword>
+      <keyword>milk</keyword>
+      <keyword>vanilla</keyword>
+   </text>
+</annotation>

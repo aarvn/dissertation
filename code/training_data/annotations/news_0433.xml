@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0433</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="151 151 210 210 151 151"
+               polygon_y="17 290 290 16 16 17"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="157 290 290 156 156 157"/>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="157 290 290 156 156 157"/>
+      <element label="text" polygon_x="16 16 145 145 16 16"
+               polygon_y="147 150 150 146 146 147"/>
+      <element label="text" polygon_x="46 46 110 110 46 46" polygon_y="42 45 45 41 41 42"/>
+      <element label="text" polygon_x="56 56 100 100 56 56" polygon_y="17 20 20 16 16 17"/>
+      <element label="text" polygon_x="61 61 105 105 61 61" polygon_y="52 55 55 51 51 52"/>
+      <element label="image" polygon_x="16 16 145 145 16 16" polygon_y="62 145 145 61 61 62"/>
+      <element label="headline" polygon_x="51 51 105 105 51 51" polygon_y="27 35 35 26 26 27"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>child</keyword>
+      <keyword>friend</keyword>
+      <keyword>family</keyword>
+      <keyword>future</keyword>
+      <keyword>mind</keyword>
+      <keyword>top</keyword>
+   </text>
+</annotation>

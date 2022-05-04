@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0581</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="156 156 200 200 176 175 175 156 156"
+               polygon_y="217 285 285 201 201 215 216 216 217"/>
+      <element label="text" polygon_x="26 26 75 75 41 40 40 26 26"
+               polygon_y="247 285 285 231 231 245 246 246 247"/>
+      <element label="text" polygon_x="21 21 80 80 21 21" polygon_y="122 145 145 121 121 122"/>
+      <element label="text" polygon_x="11 11 70 70 11 11" polygon_y="12 20 20 11 11 12"/>
+      <element label="image"
+               polygon_x="1 1 85 86 86 145 145 96 95 95 85 85 86 86 90 90 85 85 86 86 156 156 156 215 215 155 155 156 156 200 200 171 170 170 150 150 150 76 75 75 41 40 40 21 21 80 81 81 86 86 85 85 1 1"
+               polygon_y="152 220 220 216 215 215 171 171 190 191 191 190 186 185 185 171 171 170 166 165 165 166 195 195 116 116 115 111 110 110 41 41 60 61 61 60 1 1 35 36 36 55 56 56 85 85 61 60 60 61 150 151 151 152"/>
+      <element label="image" polygon_x="86 86 150 150 86 86"
+               polygon_y="232 285 285 231 231 232"/>
+      <element label="image" polygon_x="21 21 35 35 21 21" polygon_y="37 50 50 36 36 37"/>
+      <element label="image" polygon_x="156 156 165 165 156 156" polygon_y="42 55 55 41 41 42"/>
+      <element label="image" polygon_x="156 156 170 170 156 156"
+               polygon_y="202 210 210 201 201 202"/>
+      <element label="image" polygon_x="26 26 35 35 26 26" polygon_y="232 240 240 231 231 232"/>
+      <element label="headline" polygon_x="11 11 80 80 11 11" polygon_y="97 115 115 96 96 97"/>
+      <element label="text-over-image" polygon_x="151 151 200 200 171 170 170 151 151"
+               polygon_y="62 110 110 41 41 60 61 61 62"/>
+      <element label="text-over-image" polygon_x="76 76 145 145 96 95 95 76 76"
+               polygon_y="192 215 215 171 171 190 191 191 192"/>
+      <element label="text-over-image" polygon_x="21 21 80 80 41 40 40 21 21"
+               polygon_y="57 85 85 36 36 55 56 56 57"/>
+   </layout>
+   <text>
+      <keyword>skin</keyword>
+      <keyword>light</keyword>
+      <keyword>perfect</keyword>
+      <keyword>fresh</keyword>
+   </text>
+</annotation>

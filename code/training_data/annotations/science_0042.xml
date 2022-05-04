@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0042</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="47 95 95 46 46 47"/>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="177 225 225 176 176 177"/>
+      <element label="text" polygon_x="86 86 145 145 86 86"
+               polygon_y="132 175 175 131 131 132"/>
+      <element label="text" polygon_x="151 151 210 210 151 151"
+               polygon_y="132 175 175 131 131 132"/>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="117 155 155 116 116 117"/>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="247 285 285 246 246 247"/>
+      <element label="text" polygon_x="151 151 210 210 151 151"
+               polygon_y="247 285 285 246 246 247"/>
+      <element label="text" polygon_x="86 86 145 145 86 86"
+               polygon_y="197 230 230 196 196 197"/>
+      <element label="text" polygon_x="86 86 145 145 86 86"
+               polygon_y="252 285 285 251 251 252"/>
+      <element label="text" polygon_x="151 151 210 210 151 151"
+               polygon_y="197 225 225 196 196 197"/>
+      <element label="text" polygon_x="151 151 195 195 151 151"
+               polygon_y="122 125 125 121 121 122"/>
+      <element label="text" polygon_x="151 151 190 190 151 151"
+               polygon_y="187 190 190 186 186 187"/>
+      <element label="text" polygon_x="16 16 50 50 16 16" polygon_y="167 170 170 166 166 167"/>
+      <element label="text" polygon_x="16 16 50 50 16 16" polygon_y="237 240 240 236 236 237"/>
+      <element label="text" polygon_x="86 86 120 120 86 86"
+               polygon_y="242 245 245 241 241 242"/>
+      <element label="text" polygon_x="16 16 45 45 16 16" polygon_y="37 40 40 36 36 37"/>
+      <element label="text" polygon_x="16 16 45 45 16 16" polygon_y="107 110 110 106 106 107"/>
+      <element label="text" polygon_x="86 86 115 115 86 86"
+               polygon_y="122 125 125 121 121 122"/>
+      <element label="text" polygon_x="151 151 175 175 151 151"
+               polygon_y="237 240 240 236 236 237"/>
+      <element label="text" polygon_x="86 86 105 105 86 86"
+               polygon_y="187 190 190 186 186 187"/>
+      <element label="image" polygon_x="86 86 225 225 86 86" polygon_y="2 115 115 1 1 2"/>
+      <element label="text-over-image" polygon_x="86 86 120 120 86 86"
+               polygon_y="102 115 115 101 101 102"/>
+      <element label="text-over-image" polygon_x="186 186 215 215 186 186"
+               polygon_y="7 20 20 6 6 7"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>area</keyword>
+      <keyword>water</keyword>
+      <keyword>south</keyword>
+      <keyword>north</keyword>
+      <keyword>school</keyword>
+      <keyword>state</keyword>
+      <keyword>land</keyword>
+   </text>
+</annotation>

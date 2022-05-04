@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0258</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="21 21 105 105 21 21"
+               polygon_y="207 255 255 206 206 207"/>
+      <element label="text-over-image" polygon_x="116 116 175 175 116 116"
+               polygon_y="112 165 165 111 111 112"/>
+      <element label="text-over-image" polygon_x="116 116 205 205 116 116"
+               polygon_y="172 205 205 171 171 172"/>
+      <element label="text-over-image" polygon_x="116 116 205 205 116 116"
+               polygon_y="237 270 270 236 236 237"/>
+      <element label="text-over-image" polygon_x="21 21 105 105 21 21"
+               polygon_y="172 200 200 171 171 172"/>
+      <element label="text-over-image" polygon_x="116 116 180 180 116 116"
+               polygon_y="27 55 55 26 26 27"/>
+      <element label="text-over-image" polygon_x="116 116 205 205 116 116"
+               polygon_y="62 80 80 61 61 62"/>
+      <element label="text-over-image" polygon_x="116 116 205 205 116 116"
+               polygon_y="87 105 105 86 86 87"/>
+      <element label="text-over-image" polygon_x="21 21 105 105 21 21"
+               polygon_y="262 280 280 261 261 262"/>
+      <element label="text-over-image" polygon_x="21 21 105 105 21 21"
+               polygon_y="127 140 140 126 126 127"/>
+      <element label="text-over-image" polygon_x="21 21 60 60 21 21"
+               polygon_y="147 165 165 146 146 147"/>
+      <element label="text-over-image" polygon_x="116 116 155 155 116 116"
+               polygon_y="212 230 230 211 211 212"/>
+   </layout>
+   <text>
+      <keyword>top</keyword>
+      <keyword>salt</keyword>
+      <keyword>heat</keyword>
+      <keyword>taste</keyword>
+      <keyword>season</keyword>
+      <keyword>oil</keyword>
+      <keyword>bowl</keyword>
+      <keyword>sugar</keyword>
+      <keyword>fry</keyword>
+      <keyword>ingredient</keyword>
+      <keyword>egg</keyword>
+      <keyword>golden</keyword>
+      <keyword>chilli</keyword>
+      <keyword>dress</keyword>
+      <keyword>coriander</keyword>
+   </text>
+</annotation>

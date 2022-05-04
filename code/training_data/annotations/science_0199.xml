@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0199</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="16 16 95 95 16 16" polygon_y="92 275 275 91 91 92"/>
+      <element label="text" polygon_x="126 126 156 156 156 210 210 126 126"
+               polygon_y="187 240 240 241 275 275 186 186 187"/>
+      <element label="text" polygon_x="41 41 205 205 41 41" polygon_y="37 55 55 36 36 37"/>
+      <element label="text" polygon_x="106 106 140 140 106 106"
+               polygon_y="252 275 275 251 251 252"/>
+      <element label="image" polygon_x="106 106 210 210 106 106"
+               polygon_y="72 175 175 71 71 72"/>
+      <element label="image" polygon_x="16 16 35 35 16 16" polygon_y="22 55 55 21 21 22"/>
+      <element label="headline" polygon_x="41 41 195 195 41 41" polygon_y="22 30 30 21 21 22"/>
+   </layout>
+   <text>
+      <keyword>place</keyword>
+      <keyword>question</keyword>
+      <keyword>release</keyword>
+      <keyword>air</keyword>
+      <keyword>fall</keyword>
+      <keyword>warm</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0269</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="116 116 210 210 116 116"
+               polygon_y="147 190 190 146 146 147"/>
+      <element label="text" polygon_x="116 116 210 210 116 116"
+               polygon_y="262 285 285 261 261 262"/>
+      <element label="text" polygon_x="16 16 110 110 16 16"
+               polygon_y="147 165 165 146 146 147"/>
+      <element label="text" polygon_x="16 16 110 110 16 16"
+               polygon_y="267 285 285 266 266 267"/>
+      <element label="text" polygon_x="16 16 100 100 16 16"
+               polygon_y="252 260 260 251 251 252"/>
+      <element label="text" polygon_x="16 16 110 110 16 16"
+               polygon_y="137 140 140 136 136 137"/>
+      <element label="text" polygon_x="86 86 140 140 86 86" polygon_y="47 50 50 46 46 47"/>
+      <element label="text" polygon_x="116 116 165 165 116 116"
+               polygon_y="252 255 255 251 251 252"/>
+      <element label="text" polygon_x="116 116 150 150 116 116"
+               polygon_y="137 140 140 136 136 137"/>
+      <element label="image" polygon_x="16 16 110 110 16 16"
+               polygon_y="172 245 245 171 171 172"/>
+      <element label="image" polygon_x="16 16 110 110 16 16" polygon_y="67 130 130 66 66 67"/>
+      <element label="image" polygon_x="116 116 210 210 116 116"
+               polygon_y="67 130 130 66 66 67"/>
+      <element label="image" polygon_x="116 116 210 210 116 116"
+               polygon_y="197 245 245 196 196 197"/>
+      <element label="headline" polygon_x="56 56 170 170 56 56" polygon_y="27 40 40 26 26 27"/>
+   </layout>
+   <text>
+      <keyword>woman</keyword>
+   </text>
+</annotation>

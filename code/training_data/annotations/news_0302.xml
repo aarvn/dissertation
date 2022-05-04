@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0302</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="62 290 290 61 61 62"/>
+      <element label="text" polygon_x="81 81 145 145 81 81" polygon_y="27 215 215 26 26 27"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="62 215 215 61 61 62"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="47 55 55 46 46 47"/>
+      <element label="text" polygon_x="151 151 215 215 151 151" polygon_y="47 55 55 46 46 47"/>
+      <element label="image" polygon_x="11 11 145 145 11 11"
+               polygon_y="227 290 290 226 226 227"/>
+      <element label="headline" polygon_x="11 11 75 75 11 11" polygon_y="17 35 35 16 16 17"/>
+      <element label="headline" polygon_x="151 151 205 205 151 151"
+               polygon_y="17 35 35 16 16 17"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>plan</keyword>
+      <keyword>company</keyword>
+      <keyword>study</keyword>
+      <keyword>matter</keyword>
+      <keyword>bank</keyword>
+      <keyword>university</keyword>
+   </text>
+</annotation>

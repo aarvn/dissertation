@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0555</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="21 21 55 55 21 21"
+               polygon_y="92 245 245 91 91 92"/>
+      <element label="text-over-image" polygon_x="21 21 55 55 21 21"
+               polygon_y="62 85 85 61 61 62"/>
+      <element label="text-over-image" polygon_x="21 21 55 55 21 21"
+               polygon_y="252 265 265 251 251 252"/>
+      <element label="text-over-image" polygon_x="11 11 40 40 11 11"
+               polygon_y="287 295 295 286 286 287"/>
+   </layout>
+   <text>
+      <keyword>country</keyword>
+      <keyword>matter</keyword>
+   </text>
+</annotation>

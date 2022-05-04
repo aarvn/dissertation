@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0119</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 75 75 21 21" polygon_y="117 280 280 116 116 117"/>
+      <element label="text" polygon_x="81 81 135 135 81 81"
+               polygon_y="117 280 280 116 116 117"/>
+      <element label="text" polygon_x="156 156 215 215 156 156"
+               polygon_y="117 230 230 116 116 117"/>
+      <element label="text" polygon_x="21 21 135 135 21 21" polygon_y="92 110 110 91 91 92"/>
+      <element label="text" polygon_x="156 156 215 215 156 156" polygon_y="37 60 60 36 36 37"/>
+      <element label="text" polygon_x="156 156 200 200 156 156"
+               polygon_y="262 280 280 261 261 262"/>
+      <element label="text" polygon_x="176 176 200 200 176 176"
+               polygon_y="237 255 255 236 236 237"/>
+      <element label="text" polygon_x="126 126 190 190 126 126" polygon_y="12 15 15 11 11 12"/>
+      <element label="image" polygon_x="21 21 140 140 21 21" polygon_y="22 85 85 21 21 22"/>
+      <element label="image" polygon_x="156 156 215 215 156 156"
+               polygon_y="67 110 110 66 66 67"/>
+      <element label="image" polygon_x="196 196 215 215 196 196" polygon_y="7 30 30 6 6 7"/>
+      <element label="image" polygon_x="156 156 175 175 156 156"
+               polygon_y="237 255 255 236 236 237"/>
+   </layout>
+   <text>
+      <keyword>study</keyword>
+      <keyword>university</keyword>
+      <keyword>project</keyword>
+      <keyword>animal</keyword>
+      <keyword>south</keyword>
+      <keyword>technology</keyword>
+      <keyword>specie</keyword>
+      <keyword>temperature</keyword>
+   </text>
+</annotation>

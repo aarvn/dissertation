@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0425</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 110 110 75 75 75 11 11"
+               polygon_y="122 285 285 231 231 230 121 121 122"/>
+      <element label="text" polygon_x="146 146 215 215 146 146"
+               polygon_y="82 210 210 81 81 82"/>
+      <element label="text" polygon_x="116 116 215 215 146 145 145 116 116"
+               polygon_y="232 285 285 216 216 230 231 231 232"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="22 115 115 21 21 22"/>
+      <element label="text" polygon_x="146 146 215 215 146 146" polygon_y="22 70 70 21 21 22"/>
+      <element label="text" polygon_x="81 81 140 140 81 81"
+               polygon_y="197 225 225 196 196 197"/>
+      <element label="text" polygon_x="6 6 50 50 6 6" polygon_y="7 15 15 6 6 7"/>
+      <element label="image" polygon_x="81 81 140 140 81 81"
+               polygon_y="102 190 190 101 101 102"/>
+      <element label="image" polygon_x="81 81 140 140 81 81" polygon_y="22 95 95 21 21 22"/>
+   </layout>
+   <text>
+      <keyword>love</keyword>
+      <keyword>wear</keyword>
+      <keyword>fashion</keyword>
+      <keyword>art</keyword>
+      <keyword>man</keyword>
+      <keyword>collection</keyword>
+      <keyword>designer</keyword>
+      <keyword>moment</keyword>
+      <keyword>body</keyword>
+      <keyword>wedding</keyword>
+      <keyword>party</keyword>
+      <keyword>clothes</keyword>
+      <keyword>chanel</keyword>
+   </text>
+</annotation>

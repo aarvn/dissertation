@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0222</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="141 141 205 205 141 141"
+               polygon_y="182 285 285 181 181 182"/>
+      <element label="text" polygon_x="26 26 95 95 26 26" polygon_y="62 140 140 61 61 62"/>
+      <element label="text" polygon_x="26 26 95 95 26 26" polygon_y="42 55 55 41 41 42"/>
+      <element label="text" polygon_x="141 141 205 205 141 141"
+               polygon_y="162 175 175 161 161 162"/>
+      <element label="text" polygon_x="141 141 170 170 141 141"
+               polygon_y="147 155 155 146 146 147"/>
+      <element label="text" polygon_x="26 26 50 50 26 26" polygon_y="27 35 35 26 26 27"/>
+      <element label="image" polygon_x="21 21 135 135 21 21"
+               polygon_y="147 285 285 146 146 147"/>
+      <element label="image" polygon_x="101 101 205 205 101 101"
+               polygon_y="22 140 140 21 21 22"/>
+   </layout>
+   <text>
+      <keyword>wedding</keyword>
+      <keyword>dress</keyword>
+      <keyword>flower</keyword>
+      <keyword>design</keyword>
+      <keyword>book</keyword>
+      <keyword>remember</keyword>
+      <keyword>wear</keyword>
+   </text>
+</annotation>

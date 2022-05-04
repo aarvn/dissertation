@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0272</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="111 111 200 200 111 111"
+               polygon_y="197 270 270 196 196 197"/>
+      <element label="text" polygon_x="111 111 200 200 111 111"
+               polygon_y="277 285 285 276 276 277"/>
+      <element label="image"
+               polygon_x="21 21 105 106 106 111 111 111 185 186 186 200 200 21 21"
+               polygon_y="22 285 285 181 180 180 181 190 190 181 180 180 21 21 22"/>
+      <element label="text-over-image" polygon_x="21 21 75 75 21 21"
+               polygon_y="37 55 55 36 36 37"/>
+      <element label="headline-over-image" polygon_x="111 111 185 185 111 111"
+               polygon_y="172 190 190 171 171 172"/>
+   </layout>
+   <text>
+      <keyword>guest</keyword>
+      <keyword>couple</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0380</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="171 171 210 210 171 171"
+               polygon_y="162 280 280 161 161 162"/>
+      <element label="text" polygon_x="71 71 105 105 71 71"
+               polygon_y="207 280 280 206 206 207"/>
+      <element label="text" polygon_x="26 26 60 60 26 26" polygon_y="242 285 285 241 241 242"/>
+      <element label="text" polygon_x="116 116 155 155 116 116"
+               polygon_y="252 280 280 251 251 252"/>
+      <element label="text" polygon_x="171 171 210 210 171 171"
+               polygon_y="112 140 140 111 111 112"/>
+      <element label="text" polygon_x="26 26 60 60 26 26" polygon_y="197 220 220 196 196 197"/>
+      <element label="text" polygon_x="116 116 150 150 116 116"
+               polygon_y="222 240 240 221 221 222"/>
+      <element label="text" polygon_x="171 171 210 210 171 171"
+               polygon_y="147 155 155 146 146 147"/>
+      <element label="text" polygon_x="181 181 210 210 181 181"
+               polygon_y="287 295 295 286 286 287"/>
+      <element label="text" polygon_x="31 31 55 55 31 31" polygon_y="227 235 235 226 226 227"/>
+      <element label="image" polygon_x="21 21 106 106 106 160 160 155 155 155 21 21"
+               polygon_y="7 190 190 191 215 215 171 171 170 6 6 7"/>
+      <element label="image" polygon_x="171 171 225 225 171 171"
+               polygon_y="22 105 105 21 21 22"/>
+      <element label="text-over-image" polygon_x="21 21 50 50 21 21"
+               polygon_y="67 85 85 66 66 67"/>
+   </layout>
+   <text>
+      <keyword>inspire</keyword>
+   </text>
+</annotation>

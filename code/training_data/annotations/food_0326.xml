@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0326</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="151 151 195 195 151 151"
+               polygon_y="62 100 100 61 61 62"/>
+      <element label="text-over-image" polygon_x="21 21 60 60 21 21"
+               polygon_y="57 70 70 56 56 57"/>
+      <element label="text-over-image" polygon_x="156 156 190 190 156 156"
+               polygon_y="52 55 55 51 51 52"/>
+   </layout>
+   <text>
+      <keyword>butter</keyword>
+      <keyword>salad</keyword>
+      <keyword>chilli</keyword>
+   </text>
+</annotation>

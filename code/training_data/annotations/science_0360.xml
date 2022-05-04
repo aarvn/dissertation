@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0360</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="197 285 285 196 196 197"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="212 285 285 211 211 212"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="217 285 285 216 216 217"/>
+      <element label="text" polygon_x="11 11 65 65 11 11" polygon_y="192 210 210 191 191 192"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="197 205 205 196 196 197"/>
+      <element label="image" polygon_x="11 11 215 215 11 11" polygon_y="62 185 185 61 61 62"/>
+      <element label="headline" polygon_x="11 11 120 120 11 11" polygon_y="32 50 50 31 31 32"/>
+   </layout>
+   <text>
+      <keyword>study</keyword>
+      <keyword>decade</keyword>
+      <keyword>research</keyword>
+      <keyword>lab</keyword>
+      <keyword>problem</keyword>
+      <keyword>brain</keyword>
+   </text>
+</annotation>

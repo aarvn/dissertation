@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0599</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 90 90 11 11" polygon_y="37 290 290 36 36 37"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="242 290 290 241 241 242"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="197 235 235 196 196 197"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="157 190 190 156 156 157"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="122 150 150 121 121 122"/>
+      <element label="text" polygon_x="106 106 135 135 106 106"
+               polygon_y="82 130 130 81 81 82"/>
+      <element label="text" polygon_x="106 106 135 135 106 106"
+               polygon_y="162 210 210 161 161 162"/>
+      <element label="text" polygon_x="106 106 135 135 106 106"
+               polygon_y="242 290 290 241 241 242"/>
+      <element label="text" polygon_x="151 151 210 210 151 151" polygon_y="37 50 50 36 36 37"/>
+      <element label="text" polygon_x="106 106 135 135 106 106" polygon_y="47 50 50 46 46 47"/>
+      <element label="image" polygon_x="151 151 215 215 151 151"
+               polygon_y="57 115 115 56 56 57"/>
+      <element label="image" polygon_x="106 106 135 135 106 106" polygon_y="57 80 80 56 56 57"/>
+      <element label="image" polygon_x="106 106 135 135 106 106"
+               polygon_y="137 160 160 136 136 137"/>
+      <element label="image" polygon_x="106 106 135 135 106 106"
+               polygon_y="217 240 240 216 216 217"/>
+   </layout>
+   <text>
+      <keyword>government</keyword>
+      <keyword>death</keyword>
+      <keyword>fear</keyword>
+      <keyword>public</keyword>
+      <keyword>nation</keyword>
+      <keyword>vote</keyword>
+      <keyword>economy</keyword>
+   </text>
+</annotation>

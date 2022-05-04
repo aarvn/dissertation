@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0058</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="91 91 150 150 91 91"
+               polygon_y="157 255 255 156 156 157"/>
+      <element label="text" polygon_x="91 91 185 185 91 91"
+               polygon_y="267 285 285 266 266 267"/>
+      <element label="text" polygon_x="86 86 150 150 86 86"
+               polygon_y="132 145 145 131 131 132"/>
+      <element label="text" polygon_x="166 166 200 200 166 166" polygon_y="37 60 60 36 36 37"/>
+      <element label="text" polygon_x="166 166 210 210 166 166" polygon_y="12 20 20 11 11 12"/>
+      <element label="image" polygon_x="11 11 21 21 21 75 76 76 155 155 11 11"
+               polygon_y="2 100 100 101 160 160 101 100 100 1 1 2"/>
+      <element label="image"
+               polygon_x="151 151 205 206 206 225 225 210 210 210 161 160 160 156 155 155 151 151"
+               polygon_y="217 255 255 226 225 225 156 156 155 76 76 155 156 156 215 216 216 217"/>
+      <element label="image" polygon_x="1 1 26 26 26 80 80 75 75 75 1 1"
+               polygon_y="167 210 210 211 285 285 201 201 200 166 166 167"/>
+      <element label="headline" polygon_x="81 81 155 155 81 81"
+               polygon_y="107 125 125 106 106 107"/>
+      <element label="text-over-image" polygon_x="26 26 80 80 26 26"
+               polygon_y="202 285 285 201 201 202"/>
+      <element label="text-over-image" polygon_x="161 161 210 210 161 161"
+               polygon_y="77 165 165 76 76 77"/>
+      <element label="text-over-image" polygon_x="21 21 75 75 21 21"
+               polygon_y="87 160 160 86 86 87"/>
+   </layout>
+   <text>
+      <keyword>room</keyword>
+      <keyword>place</keyword>
+      <keyword>dream</keyword>
+   </text>
+</annotation>

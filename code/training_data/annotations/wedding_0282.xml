@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0282</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="26 26 110 110 26 26"
+               polygon_y="182 260 260 181 181 182"/>
+      <element label="text" polygon_x="116 116 205 205 116 116"
+               polygon_y="227 285 285 226 226 227"/>
+      <element label="text" polygon_x="116 116 195 195 116 116"
+               polygon_y="182 220 220 181 181 182"/>
+      <element label="text" polygon_x="26 26 110 110 26 26"
+               polygon_y="267 285 285 266 266 267"/>
+      <element label="text" polygon_x="26 26 175 175 26 26"
+               polygon_y="172 175 175 171 171 172"/>
+      <element label="image" polygon_x="1 1 26 26 26 175 176 176 225 225 160 160 160 1 1"
+               polygon_y="2 120 120 121 165 165 141 140 140 26 26 25 1 1 2"/>
+      <element label="text-over-image" polygon_x="121 121 150 150 121 121"
+               polygon_y="52 85 85 51 51 52"/>
+      <element label="headline-over-image" polygon_x="26 26 175 175 90 90 90 31 30 30 26 26"
+               polygon_y="112 165 165 111 111 110 91 91 110 111 111 112"/>
+   </layout>
+   <text>
+      <keyword>family</keyword>
+      <keyword>book</keyword>
+      <keyword>food</keyword>
+      <keyword>restaurant</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0618</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="26 26 110 110 26 26"
+               polygon_y="117 185 185 116 116 117"/>
+      <element label="text" polygon_x="116 116 200 200 116 116"
+               polygon_y="117 185 185 116 116 117"/>
+      <element label="text" polygon_x="41 41 210 210 41 41"
+               polygon_y="287 290 290 286 286 287"/>
+      <element label="text" polygon_x="26 26 120 120 26 26"
+               polygon_y="107 110 110 106 106 107"/>
+      <element label="image" polygon_x="16 16 110 110 16 16" polygon_y="12 105 105 11 11 12"/>
+      <element label="image" polygon_x="16 16 110 110 16 16"
+               polygon_y="192 285 285 191 191 192"/>
+      <element label="image" polygon_x="116 116 210 210 116 116"
+               polygon_y="12 105 105 11 11 12"/>
+      <element label="image" polygon_x="116 116 210 210 116 116"
+               polygon_y="192 285 285 191 191 192"/>
+   </layout>
+   <text>
+      <keyword>land</keyword>
+      <keyword>serve</keyword>
+      <keyword>trip</keyword>
+   </text>
+</annotation>

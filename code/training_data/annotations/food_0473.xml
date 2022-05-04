@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0473</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="21 21 205 205 21 21"
+               polygon_y="57 75 75 56 56 57"/>
+      <element label="text-over-image" polygon_x="96 96 116 116 116 150 150 96 96"
+               polygon_y="132 160 160 161 205 205 131 131 132"/>
+      <element label="text-over-image" polygon_x="156 156 205 205 156 156"
+               polygon_y="122 180 180 121 121 122"/>
+      <element label="text-over-image" polygon_x="96 96 150 150 96 96"
+               polygon_y="92 125 125 91 91 92"/>
+      <element label="text-over-image" polygon_x="156 156 205 205 156 156"
+               polygon_y="92 115 115 91 91 92"/>
+      <element label="text-over-image" polygon_x="156 156 205 205 156 156"
+               polygon_y="187 205 205 186 186 187"/>
+      <element label="headline-over-image" polygon_x="36 36 190 190 36 36"
+               polygon_y="27 50 50 26 26 27"/>
+   </layout>
+   <text>
+      <keyword>place</keyword>
+      <keyword>sugar</keyword>
+      <keyword>garlic</keyword>
+      <keyword>juice</keyword>
+      <keyword>fridge</keyword>
+      <keyword>meat</keyword>
+      <keyword>fish</keyword>
+      <keyword>coriander</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0047</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="31 31 110 110 31 31" polygon_y="42 185 185 41 41 42"/>
+      <element label="text" polygon_x="31 31 110 110 31 31"
+               polygon_y="227 285 285 226 226 227"/>
+      <element label="text" polygon_x="21 21 110 110 21 21"
+               polygon_y="192 220 220 191 191 192"/>
+      <element label="text" polygon_x="116 116 150 150 116 116"
+               polygon_y="262 280 280 261 261 262"/>
+      <element label="text" polygon_x="156 156 190 190 156 156"
+               polygon_y="262 280 280 261 261 262"/>
+      <element label="image" polygon_x="116 116 220 220 116 116"
+               polygon_y="42 185 185 41 41 42"/>
+      <element label="image" polygon_x="116 116 220 220 116 116"
+               polygon_y="192 255 255 191 191 192"/>
+   </layout>
+   <text>
+      <keyword>create</keyword>
+      <keyword>country</keyword>
+      <keyword>top</keyword>
+      <keyword>interest</keyword>
+      <keyword>air</keyword>
+   </text>
+</annotation>

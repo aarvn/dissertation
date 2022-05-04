@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0596</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="26 26 155 155 26 26"
+               polygon_y="207 275 275 206 206 207"/>
+      <element label="text" polygon_x="166 166 195 195 166 166"
+               polygon_y="207 275 275 206 206 207"/>
+      <element label="text" polygon_x="26 26 115 115 26 26"
+               polygon_y="282 285 285 281 281 282"/>
+      <element label="text" polygon_x="86 86 135 135 86 86" polygon_y="12 15 15 11 11 12"/>
+      <element label="image" polygon_x="26 26 195 195 26 26" polygon_y="27 200 200 26 26 27"/>
+   </layout>
+   <text>
+      <keyword>fight</keyword>
+      <keyword>moment</keyword>
+   </text>
+</annotation>

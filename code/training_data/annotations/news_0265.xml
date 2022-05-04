@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0265</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="116 116 215 215 116 116"
+               polygon_y="52 190 190 51 51 52"/>
+      <element label="text" polygon_x="11 11 110 110 11 11"
+               polygon_y="122 195 195 121 121 122"/>
+      <element label="text" polygon_x="116 116 215 215 116 116"
+               polygon_y="237 290 290 236 236 237"/>
+      <element label="text" polygon_x="11 11 110 110 61 60 60 11 11"
+               polygon_y="87 110 110 51 51 85 86 86 87"/>
+      <element label="text" polygon_x="11 11 110 110 61 60 60 11 11"
+               polygon_y="272 290 290 236 236 270 271 271 272"/>
+      <element label="text" polygon_x="11 11 180 180 11 11"
+               polygon_y="227 230 230 226 226 227"/>
+      <element label="text" polygon_x="11 11 155 155 11 11" polygon_y="42 45 45 41 41 42"/>
+      <element label="image" polygon_x="11 11 55 55 11 11" polygon_y="52 80 80 51 51 52"/>
+      <element label="image" polygon_x="11 11 55 55 11 11" polygon_y="237 265 265 236 236 237"/>
+      <element label="headline" polygon_x="11 11 110 110 11 11" polygon_y="17 30 30 16 16 17"/>
+      <element label="headline" polygon_x="11 11 90 90 11 11"
+               polygon_y="207 220 220 206 206 207"/>
+   </layout>
+   <text>
+      <keyword>country</keyword>
+      <keyword>government</keyword>
+      <keyword>power</keyword>
+      <keyword>president</keyword>
+      <keyword>bad</keyword>
+      <keyword>fight</keyword>
+      <keyword>election</keyword>
+      <keyword>support</keyword>
+      <keyword>sign</keyword>
+      <keyword>economy</keyword>
+      <keyword>police</keyword>
+      <keyword>important</keyword>
+      <keyword>budget</keyword>
+   </text>
+</annotation>

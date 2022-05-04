@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0223</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="66 66 210 210 66 66" polygon_y="62 75 75 61 61 62"/>
+      <element label="image"
+               polygon_x="86 86 106 106 105 105 86 86 106 106 105 105 86 86 106 106 106 225 225 106 105 105 86 86"
+               polygon_y="102 165 165 166 170 171 171 240 240 241 245 246 246 280 280 281 300 300 86 86 100 101 101 102"/>
+      <element label="image" polygon_x="21 21 26 26 25 25 21 21 80 80 60 60 60 21 21"
+               polygon_y="62 100 100 101 195 196 196 280 280 96 96 95 61 61 62"/>
+      <element label="headline" polygon_x="21 21 210 210 21 21" polygon_y="27 55 55 26 26 27"/>
+      <element label="text-over-image" polygon_x="146 146 195 195 146 146"
+               polygon_y="147 225 225 146 146 147"/>
+      <element label="text-over-image" polygon_x="86 86 140 140 86 86"
+               polygon_y="172 240 240 171 171 172"/>
+      <element label="text-over-image" polygon_x="86 86 140 140 86 86"
+               polygon_y="102 165 165 101 101 102"/>
+      <element label="text-over-image" polygon_x="86 86 140 140 86 86"
+               polygon_y="247 280 280 246 246 247"/>
+      <element label="text-over-image" polygon_x="146 146 195 195 146 146"
+               polygon_y="232 265 265 231 231 232"/>
+      <element label="text-over-image" polygon_x="21 21 60 60 21 21"
+               polygon_y="62 100 100 61 61 62"/>
+      <element label="text-over-image" polygon_x="146 146 185 185 146 146"
+               polygon_y="127 140 140 126 126 127"/>
+   </layout>
+   <text>
+      <keyword>guest</keyword>
+      <keyword>ceremony</keyword>
+      <keyword>dress</keyword>
+      <keyword>venue</keyword>
+      <keyword>visit</keyword>
+      <keyword>book</keyword>
+   </text>
+</annotation>

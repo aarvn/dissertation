@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0253</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 110 110 21 21"
+               polygon_y="242 290 290 241 241 242"/>
+      <element label="image" polygon_x="1 1 210 210 1 1" polygon_y="2 180 180 1 1 2"/>
+      <element label="image" polygon_x="121 121 210 210 121 121"
+               polygon_y="187 300 300 186 186 187"/>
+      <element label="headline" polygon_x="16 16 115 115 16 16"
+               polygon_y="187 230 230 186 186 187"/>
+   </layout>
+   <text>
+      <keyword>enjoy</keyword>
+      <keyword>join</keyword>
+      <keyword>event</keyword>
+      <keyword>visitor</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0490</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 80 80 11 11" polygon_y="177 290 290 176 176 177"/>
+      <element label="text" polygon_x="86 86 155 155 86 86"
+               polygon_y="177 290 290 176 176 177"/>
+      <element label="text" polygon_x="171 171 210 210 171 171"
+               polygon_y="52 120 120 51 51 52"/>
+      <element label="text" polygon_x="171 171 191 191 190 190 171 171 210 210 171 171"
+               polygon_y="212 220 220 221 245 246 246 285 285 211 211 212"/>
+      <element label="text" polygon_x="171 171 210 210 171 171"
+               polygon_y="127 165 165 126 126 127"/>
+      <element label="text" polygon_x="171 171 210 210 171 171"
+               polygon_y="172 205 205 171 171 172"/>
+      <element label="text" polygon_x="11 11 55 55 11 11" polygon_y="22 35 35 21 21 22"/>
+      <element label="text" polygon_x="106 106 125 125 106 106" polygon_y="12 15 15 11 11 12"/>
+      <element label="image" polygon_x="11 11 155 155 11 11" polygon_y="52 150 150 51 51 52"/>
+      <element label="image" polygon_x="171 171 190 190 171 171"
+               polygon_y="222 245 245 221 221 222"/>
+      <element label="headline" polygon_x="11 11 115 115 11 11"
+               polygon_y="157 170 170 156 156 157"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>woman</keyword>
+      <keyword>state</keyword>
+      <keyword>party</keyword>
+      <keyword>law</keyword>
+      <keyword>campaign</keyword>
+      <keyword>university</keyword>
+      <keyword>top</keyword>
+      <keyword>announce</keyword>
+   </text>
+</annotation>

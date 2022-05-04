@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0343</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="61 61 110 110 61 61"
+               polygon_y="192 290 290 191 191 192"/>
+      <element label="text" polygon_x="61 61 110 110 61 61" polygon_y="97 185 185 96 96 97"/>
+      <element label="text" polygon_x="11 11 55 55 11 11" polygon_y="22 100 100 21 21 22"/>
+      <element label="text" polygon_x="61 61 110 110 61 61" polygon_y="22 90 90 21 21 22"/>
+      <element label="text" polygon_x="11 11 55 55 11 11" polygon_y="107 180 180 106 106 107"/>
+      <element label="text" polygon_x="11 11 55 55 11 11" polygon_y="187 220 220 186 186 187"/>
+      <element label="text" polygon_x="116 116 210 210 116 116" polygon_y="22 30 30 21 21 22"/>
+      <element label="text" polygon_x="11 11 55 55 11 11" polygon_y="282 290 290 281 281 282"/>
+      <element label="image" polygon_x="116 116 220 220 116 116"
+               polygon_y="37 290 290 36 36 37"/>
+      <element label="image" polygon_x="11 11 55 55 11 11" polygon_y="227 280 280 226 226 227"/>
+      <element label="text-over-image" polygon_x="121 121 215 215 121 121"
+               polygon_y="47 110 110 46 46 47"/>
+      <element label="text-over-image" polygon_x="176 176 215 215 176 176"
+               polygon_y="272 285 285 271 271 272"/>
+   </layout>
+   <text>
+      <keyword>scientist</keyword>
+      <keyword>research</keyword>
+      <keyword>animal</keyword>
+      <keyword>technology</keyword>
+      <keyword>report</keyword>
+      <keyword>treat</keyword>
+      <keyword>material</keyword>
+      <keyword>plant</keyword>
+   </text>
+</annotation>

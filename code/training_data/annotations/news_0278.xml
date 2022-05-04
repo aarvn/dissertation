@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0278</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="22 160 160 21 21 22"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="167 290 290 166 166 167"/>
+      <element label="text" polygon_x="81 81 145 145 81 81" polygon_y="47 155 155 46 46 47"/>
+      <element label="text" polygon_x="151 151 210 210 151 151"
+               polygon_y="47 155 155 46 46 47"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="207 290 290 206 206 207"/>
+      <element label="text" polygon_x="151 151 210 210 151 151"
+               polygon_y="167 190 190 166 166 167"/>
+      <element label="text" polygon_x="11 11 70 70 11 11" polygon_y="192 200 200 191 191 192"/>
+      <element label="text" polygon_x="81 81 140 140 81 81" polygon_y="37 40 40 36 36 37"/>
+      <element label="text" polygon_x="151 151 200 200 151 151"
+               polygon_y="287 290 290 286 286 287"/>
+      <element label="image" polygon_x="151 151 210 210 151 151"
+               polygon_y="202 285 285 201 201 202"/>
+      <element label="headline" polygon_x="11 11 70 70 11 11"
+               polygon_y="167 185 185 166 166 167"/>
+      <element label="headline" polygon_x="81 81 115 115 81 81" polygon_y="22 30 30 21 21 22"/>
+   </layout>
+   <text>
+      <keyword>country</keyword>
+      <keyword>government</keyword>
+      <keyword>talk</keyword>
+      <keyword>place</keyword>
+      <keyword>family</keyword>
+      <keyword>win</keyword>
+      <keyword>plan</keyword>
+      <keyword>matter</keyword>
+      <keyword>deal</keyword>
+   </text>
+</annotation>

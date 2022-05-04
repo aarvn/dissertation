@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0100</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="6 6 55 55 6 6" polygon_y="132 240 240 131 131 132"/>
+      <element label="text" polygon_x="171 171 220 220 171 171"
+               polygon_y="137 240 240 136 136 137"/>
+      <element label="text" polygon_x="61 61 95 96 96 110 110 61 61"
+               polygon_y="22 110 110 81 80 80 21 21 22"/>
+      <element label="text" polygon_x="116 116 160 160 136 135 135 116 116"
+               polygon_y="217 285 285 196 196 215 216 216 217"/>
+      <element label="text" polygon_x="61 61 95 95 61 61" polygon_y="122 220 220 121 121 122"/>
+      <element label="text" polygon_x="6 6 50 50 6 6" polygon_y="252 285 285 251 251 252"/>
+      <element label="text" polygon_x="136 136 160 160 136 136"
+               polygon_y="137 185 185 136 136 137"/>
+      <element label="text" polygon_x="6 6 55 55 6 6" polygon_y="117 125 125 116 116 117"/>
+      <element label="image"
+               polygon_x="106 106 116 116 115 115 106 106 125 126 126 225 225 116 115 115 106 106"
+               polygon_y="92 115 115 116 120 121 121 205 205 131 130 130 1 1 90 91 91 92"/>
+      <element label="image" polygon_x="1 1 55 55 1 1" polygon_y="22 110 110 21 21 22"/>
+      <element label="image" polygon_x="61 61 110 110 61 61"
+               polygon_y="227 300 300 226 226 227"/>
+      <element label="image" polygon_x="171 171 225 225 171 171"
+               polygon_y="247 300 300 246 246 247"/>
+      <element label="text-over-image" polygon_x="106 106 125 125 106 106"
+               polygon_y="122 205 205 121 121 122"/>
+   </layout>
+   <text>
+      <keyword>love</keyword>
+      <keyword>friend</keyword>
+      <keyword>skin</keyword>
+      <keyword>talk</keyword>
+      <keyword>idea</keyword>
+      <keyword>heart</keyword>
+      <keyword>watch</keyword>
+      <keyword>bag</keyword>
+      <keyword>scent</keyword>
+      <keyword>fit</keyword>
+      <keyword>wedding</keyword>
+      <keyword>flower</keyword>
+   </text>
+</annotation>

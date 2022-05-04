@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0481</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="127 300 300 126 126 127"/>
+      <element label="image" polygon_x="101 101 225 225 101 101" polygon_y="2 120 120 1 1 2"/>
+      <element label="image" polygon_x="1 1 95 95 1 1" polygon_y="2 120 120 1 1 2"/>
+      <element label="text-over-image" polygon_x="11 11 70 70 11 11"
+               polygon_y="132 175 175 131 131 132"/>
+      <element label="text-over-image" polygon_x="81 81 140 140 81 81"
+               polygon_y="132 175 175 131 131 132"/>
+      <element label="text-over-image" polygon_x="151 151 210 210 151 151"
+               polygon_y="132 175 175 131 131 132"/>
+      <element label="text-over-image" polygon_x="106 106 130 130 106 106"
+               polygon_y="102 115 115 101 101 102"/>
+   </layout>
+   <text>
+      <keyword>taste</keyword>
+      <keyword>dish</keyword>
+      <keyword>flavour</keyword>
+      <keyword>cooking</keyword>
+      <keyword>ingredient</keyword>
+      <keyword>love</keyword>
+      <keyword>fresh</keyword>
+   </text>
+</annotation>

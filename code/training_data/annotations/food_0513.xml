@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0513</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="122 240 240 121 121 122"/>
+      <element label="text" polygon_x="86 86 145 145 86 86"
+               polygon_y="122 180 180 121 121 122"/>
+      <element label="text" polygon_x="86 86 145 145 86 86"
+               polygon_y="187 240 240 186 186 187"/>
+      <element label="text" polygon_x="61 61 205 205 61 61"
+               polygon_y="262 280 280 261 261 262"/>
+      <element label="text" polygon_x="26 26 80 80 26 26" polygon_y="197 240 240 196 196 197"/>
+      <element label="text" polygon_x="26 26 80 80 26 26" polygon_y="137 170 170 136 136 137"/>
+      <element label="text" polygon_x="26 26 80 80 51 50 50 26 26"
+               polygon_y="102 115 115 76 76 100 101 101 102"/>
+      <element label="text" polygon_x="61 61 215 215 61 61"
+               polygon_y="247 255 255 246 246 247"/>
+      <element label="text" polygon_x="26 26 80 80 26 26" polygon_y="177 190 190 176 176 177"/>
+      <element label="text" polygon_x="26 26 80 80 26 26" polygon_y="122 130 130 121 121 122"/>
+      <element label="text" polygon_x="26 26 60 60 26 26" polygon_y="37 40 40 36 36 37"/>
+      <element label="image" polygon_x="86 86 225 225 86 86" polygon_y="2 115 115 1 1 2"/>
+      <element label="image" polygon_x="11 11 55 55 11 11" polygon_y="247 280 280 246 246 247"/>
+      <element label="image" polygon_x="26 26 45 45 26 26" polygon_y="77 95 95 76 76 77"/>
+      <element label="headline" polygon_x="26 26 75 75 26 26" polygon_y="47 70 70 46 46 47"/>
+   </layout>
+   <text>
+      <keyword>top</keyword>
+      <keyword>salt</keyword>
+      <keyword>taste</keyword>
+      <keyword>cool</keyword>
+      <keyword>oven</keyword>
+      <keyword>sugar</keyword>
+      <keyword>bake</keyword>
+      <keyword>flavour</keyword>
+      <keyword>cooking</keyword>
+      <keyword>egg</keyword>
+      <keyword>flour</keyword>
+      <keyword>fridge</keyword>
+      <keyword>delicious</keyword>
+      <keyword>kitchen</keyword>
+      <keyword>cake</keyword>
+      <keyword>chicken</keyword>
+      <keyword>vanilla</keyword>
+   </text>
+</annotation>

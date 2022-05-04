@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0585</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="16 16 115 115 16 16"
+               polygon_y="222 290 290 221 221 222"/>
+      <element label="text" polygon_x="121 121 215 215 121 121"
+               polygon_y="222 290 290 221 221 222"/>
+      <element label="text" polygon_x="81 81 160 160 81 81" polygon_y="92 105 105 91 91 92"/>
+      <element label="image" polygon_x="1 1 75 75 1 1" polygon_y="147 215 215 146 146 147"/>
+      <element label="image" polygon_x="56 56 110 110 56 56" polygon_y="2 85 85 1 1 2"/>
+      <element label="image" polygon_x="116 116 170 170 116 116" polygon_y="2 85 85 1 1 2"/>
+      <element label="image" polygon_x="81 81 160 160 81 81"
+               polygon_y="162 215 215 161 161 162"/>
+      <element label="image" polygon_x="1 1 50 50 1 1" polygon_y="2 85 85 1 1 2"/>
+      <element label="image" polygon_x="176 176 225 225 176 176" polygon_y="2 85 85 1 1 2"/>
+      <element label="image" polygon_x="166 166 225 225 166 166"
+               polygon_y="92 155 155 91 91 92"/>
+      <element label="image" polygon_x="1 1 75 75 1 1" polygon_y="92 140 140 91 91 92"/>
+      <element label="image" polygon_x="81 81 160 160 81 81"
+               polygon_y="112 155 155 111 111 112"/>
+      <element label="image" polygon_x="166 166 225 225 166 166"
+               polygon_y="162 215 215 161 161 162"/>
+   </layout>
+   <text>
+      <keyword>wedding</keyword>
+      <keyword>guest</keyword>
+      <keyword>enjoy</keyword>
+      <keyword>budget</keyword>
+      <keyword>flower</keyword>
+      <keyword>life</keyword>
+      <keyword>event</keyword>
+      <keyword>remember</keyword>
+      <keyword>plan</keyword>
+      <keyword>moment</keyword>
+      <keyword>service</keyword>
+      <keyword>fun</keyword>
+      <keyword>photographer</keyword>
+      <keyword>parent</keyword>
+      <keyword>party</keyword>
+      <keyword>photo</keyword>
+      <keyword>dinner</keyword>
+      <keyword>theme</keyword>
+      <keyword>issue</keyword>
+      <keyword>comfortable</keyword>
+   </text>
+</annotation>

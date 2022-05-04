@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0054</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="21 21 120 120 21 21"
+               polygon_y="62 80 80 61 61 62"/>
+      <element label="text-over-image" polygon_x="21 21 100 100 21 21"
+               polygon_y="22 30 30 21 21 22"/>
+      <element label="headline-over-image" polygon_x="21 21 180 180 21 21"
+               polygon_y="37 55 55 36 36 37"/>
+   </layout>
+   <text>
+      <keyword>cool</keyword>
+   </text>
+</annotation>

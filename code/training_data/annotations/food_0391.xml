@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0391</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="136 136 210 210 136 136"
+               polygon_y="157 280 280 156 156 157"/>
+      <element label="text" polygon_x="41 41 125 125 41 41"
+               polygon_y="172 210 210 171 171 172"/>
+      <element label="text" polygon_x="136 136 195 195 136 136"
+               polygon_y="107 150 150 106 106 107"/>
+      <element label="text" polygon_x="41 41 125 125 41 41"
+               polygon_y="147 165 165 146 146 147"/>
+      <element label="text" polygon_x="11 11 35 35 11 11" polygon_y="182 245 245 181 181 182"/>
+      <element label="text" polygon_x="136 136 195 195 136 136"
+               polygon_y="82 100 100 81 81 82"/>
+      <element label="text" polygon_x="11 11 35 35 11 11" polygon_y="132 170 170 131 131 132"/>
+      <element label="text" polygon_x="101 101 125 125 101 101"
+               polygon_y="252 280 280 251 251 252"/>
+      <element label="text" polygon_x="41 41 90 90 41 41" polygon_y="132 140 140 131 131 132"/>
+      <element label="text" polygon_x="41 41 65 65 41 41" polygon_y="252 265 265 251 251 252"/>
+      <element label="text" polygon_x="71 71 95 95 71 71" polygon_y="252 265 265 251 251 252"/>
+      <element label="text" polygon_x="41 41 90 90 41 41" polygon_y="217 220 220 216 216 217"/>
+      <element label="image" polygon_x="1 1 130 130 1 1" polygon_y="17 130 130 16 16 17"/>
+      <element label="image" polygon_x="41 41 65 65 41 41" polygon_y="222 245 245 221 221 222"/>
+      <element label="image" polygon_x="71 71 95 95 71 71" polygon_y="222 245 245 221 221 222"/>
+      <element label="image" polygon_x="101 101 125 125 101 101"
+               polygon_y="222 245 245 221 221 222"/>
+   </layout>
+   <text>
+      <keyword>salt</keyword>
+      <keyword>cool</keyword>
+      <keyword>sugar</keyword>
+      <keyword>water</keyword>
+      <keyword>pan</keyword>
+      <keyword>ingredient</keyword>
+      <keyword>fat</keyword>
+      <keyword>cupcake</keyword>
+      <keyword>dry</keyword>
+      <keyword>vanilla</keyword>
+   </text>
+</annotation>

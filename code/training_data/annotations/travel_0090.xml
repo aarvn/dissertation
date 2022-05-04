@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0090</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="16 16 60 60 16 16" polygon_y="137 215 215 136 136 137"/>
+      <element label="text" polygon_x="161 161 205 205 161 161"
+               polygon_y="167 240 240 166 166 167"/>
+      <element label="text" polygon_x="16 16 60 60 16 16" polygon_y="67 130 130 66 66 67"/>
+      <element label="text" polygon_x="16 16 60 60 16 16" polygon_y="222 285 285 221 221 222"/>
+      <element label="text" polygon_x="66 66 105 105 66 66"
+               polygon_y="247 285 285 246 246 247"/>
+      <element label="text" polygon_x="111 111 150 150 111 111"
+               polygon_y="247 285 285 246 246 247"/>
+      <element label="text" polygon_x="16 16 160 160 16 16" polygon_y="52 60 60 51 51 52"/>
+      <element label="text" polygon_x="161 161 190 190 161 161"
+               polygon_y="267 285 285 266 266 267"/>
+      <element label="text" polygon_x="176 176 205 205 176 176"
+               polygon_y="247 260 260 246 246 247"/>
+      <element label="text" polygon_x="21 21 55 55 21 21" polygon_y="12 20 20 11 11 12"/>
+      <element label="image" polygon_x="66 66 205 205 66 66" polygon_y="67 160 160 66 66 67"/>
+      <element label="image" polygon_x="66 66 150 150 66 66"
+               polygon_y="167 240 240 166 166 167"/>
+      <element label="image" polygon_x="166 166 205 205 166 166" polygon_y="27 60 60 26 26 27"/>
+      <element label="image" polygon_x="191 191 205 205 191 191"
+               polygon_y="267 285 285 266 266 267"/>
+      <element label="image" polygon_x="161 161 175 175 161 161"
+               polygon_y="247 260 260 246 246 247"/>
+      <element label="headline" polygon_x="16 16 130 130 16 16" polygon_y="27 45 45 26 26 27"/>
+   </layout>
+   <text>
+      <keyword>place</keyword>
+      <keyword>country</keyword>
+      <keyword>tree</keyword>
+      <keyword>explore</keyword>
+      <keyword>story</keyword>
+      <keyword>thought</keyword>
+      <keyword>valley</keyword>
+      <keyword>landscape</keyword>
+      <keyword>scene</keyword>
+      <keyword>relax</keyword>
+   </text>
+</annotation>

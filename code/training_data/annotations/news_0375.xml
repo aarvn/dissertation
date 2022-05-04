@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0375</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="146 146 215 215 146 146"
+               polygon_y="132 220 220 131 131 132"/>
+      <element label="text-over-image" polygon_x="146 146 215 215 146 146"
+               polygon_y="227 240 240 226 226 227"/>
+      <element label="text-over-image" polygon_x="186 186 210 210 186 186"
+               polygon_y="17 35 35 16 16 17"/>
+      <element label="headline-over-image" polygon_x="146 146 200 200 146 146"
+               polygon_y="112 125 125 111 111 112"/>
+   </layout>
+   <text/>
+</annotation>

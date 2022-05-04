@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0231</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="81 81 140 140 81 81"
+               polygon_y="112 195 195 111 111 112"/>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="207 285 285 206 206 207"/>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="137 200 200 136 136 137"/>
+      <element label="text" polygon_x="21 21 210 210 21 21" polygon_y="62 80 80 61 61 62"/>
+      <element label="text" polygon_x="81 81 135 135 81 81"
+               polygon_y="232 285 285 231 231 232"/>
+      <element label="text" polygon_x="156 156 210 210 156 156"
+               polygon_y="232 285 285 231 231 232"/>
+      <element label="text" polygon_x="146 146 205 205 146 146"
+               polygon_y="157 195 195 156 156 157"/>
+      <element label="text" polygon_x="81 81 180 180 81 81"
+               polygon_y="207 225 225 206 206 207"/>
+      <element label="text" polygon_x="101 101 160 160 101 101"
+               polygon_y="97 105 105 96 96 97"/>
+      <element label="text" polygon_x="76 76 150 150 76 76" polygon_y="47 50 50 46 46 47"/>
+      <element label="image" polygon_x="146 146 225 225 176 175 175 146 146"
+               polygon_y="112 150 150 91 91 110 111 111 112"/>
+      <element label="image" polygon_x="16 16 75 75 16 16" polygon_y="92 130 130 91 91 92"/>
+      <element label="image" polygon_x="186 186 210 210 186 186"
+               polygon_y="207 225 225 206 206 207"/>
+      <element label="headline" polygon_x="51 51 180 180 51 51" polygon_y="27 40 40 26 26 27"/>
+      <element label="text-over-image" polygon_x="146 146 185 185 175 175 175 146 146"
+               polygon_y="112 150 150 131 131 130 111 111 112"/>
+   </layout>
+   <text>
+      <keyword>garden</keyword>
+      <keyword>view</keyword>
+      <keyword>design</keyword>
+      <keyword>countryside</keyword>
+      <keyword>haven</keyword>
+      <keyword>lake</keyword>
+   </text>
+</annotation>

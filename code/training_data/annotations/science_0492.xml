@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0492</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="177 290 290 176 176 177"/>
+      <element label="text" polygon_x="151 151 220 220 151 151"
+               polygon_y="177 260 260 176 176 177"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="177 260 260 176 176 177"/>
+      <element label="text" polygon_x="81 81 205 205 81 81"
+               polygon_y="272 290 290 271 271 272"/>
+      <element label="text" polygon_x="11 11 220 220 11 11"
+               polygon_y="162 170 170 161 161 162"/>
+      <element label="image" polygon_x="11 11 220 220 11 11" polygon_y="12 160 160 11 11 12"/>
+   </layout>
+   <text>
+      <keyword>university</keyword>
+      <keyword>create</keyword>
+      <keyword>water</keyword>
+      <keyword>school</keyword>
+   </text>
+</annotation>

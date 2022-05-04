@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0044</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="151 151 205 205 151 151"
+               polygon_y="197 255 255 196 196 197"/>
+      <element label="text" polygon_x="21 21 80 80 21 21" polygon_y="207 255 255 206 206 207"/>
+      <element label="text" polygon_x="21 21 75 75 21 21" polygon_y="152 200 200 151 151 152"/>
+      <element label="text" polygon_x="151 151 205 205 151 151"
+               polygon_y="152 190 190 151 151 152"/>
+      <element label="text" polygon_x="21 21 75 75 21 21" polygon_y="262 290 290 261 261 262"/>
+      <element label="text" polygon_x="151 151 190 190 151 151"
+               polygon_y="262 285 285 261 261 262"/>
+      <element label="image" polygon_x="6 6 220 220 6 6" polygon_y="2 145 145 1 1 2"/>
+      <element label="image" polygon_x="86 86 140 140 86 86"
+               polygon_y="192 260 260 191 191 192"/>
+      <element label="image" polygon_x="86 86 140 140 86 86"
+               polygon_y="152 185 185 151 151 152"/>
+      <element label="image" polygon_x="86 86 140 140 86 86"
+               polygon_y="267 300 300 266 266 267"/>
+      <element label="text-over-image" polygon_x="41 41 190 190 41 41"
+               polygon_y="127 140 140 126 126 127"/>
+      <element label="headline-over-image" polygon_x="26 26 205 205 26 26"
+               polygon_y="17 45 45 16 16 17"/>
+   </layout>
+   <text>
+      <keyword>wedding</keyword>
+      <keyword>guest</keyword>
+      <keyword>couple</keyword>
+      <keyword>venue</keyword>
+      <keyword>choice</keyword>
+      <keyword>hotel</keyword>
+      <keyword>experience</keyword>
+      <keyword>beach</keyword>
+      <keyword>service</keyword>
+      <keyword>restaurant</keyword>
+      <keyword>honeymoon</keyword>
+   </text>
+</annotation>

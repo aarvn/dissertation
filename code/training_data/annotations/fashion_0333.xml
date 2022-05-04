@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0333</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="26 26 100 100 26 26"
+               polygon_y="247 260 260 246 246 247"/>
+      <element label="text" polygon_x="26 26 60 60 26 26" polygon_y="282 295 295 281 281 282"/>
+      <element label="text" polygon_x="136 136 200 200 136 136"
+               polygon_y="292 295 295 291 291 292"/>
+      <element label="image" polygon_x="1 1 136 136 136 200 201 201 225 225 1 1"
+               polygon_y="2 240 240 241 270 270 241 240 240 1 1 2"/>
+      <element label="headline" polygon_x="141 141 195 195 141 141"
+               polygon_y="277 285 285 276 276 277"/>
+   </layout>
+   <text>
+      <keyword>watch</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0560</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="81 81 180 180 81 81"
+               polygon_y="172 260 260 171 171 172"/>
+      <element label="text" polygon_x="11 11 65 65 11 11" polygon_y="67 200 200 66 66 67"/>
+      <element label="text" polygon_x="81 81 180 180 81 81"
+               polygon_y="267 285 285 266 266 267"/>
+      <element label="text" polygon_x="81 81 165 165 81 81"
+               polygon_y="147 165 165 146 146 147"/>
+      <element label="text" polygon_x="11 11 65 65 11 11" polygon_y="37 60 60 36 36 37"/>
+      <element label="text" polygon_x="186 186 210 210 186 186"
+               polygon_y="177 205 205 176 176 177"/>
+      <element label="text" polygon_x="11 11 55 55 11 11" polygon_y="207 220 220 206 206 207"/>
+      <element label="text" polygon_x="81 81 160 160 81 81"
+               polygon_y="292 295 295 291 291 292"/>
+      <element label="image" polygon_x="81 81 225 225 81 81" polygon_y="37 140 140 36 36 37"/>
+      <element label="image" polygon_x="11 11 50 50 11 11" polygon_y="227 300 300 226 226 227"/>
+   </layout>
+   <text>
+      <keyword>country</keyword>
+      <keyword>life</keyword>
+      <keyword>president</keyword>
+      <keyword>fear</keyword>
+      <keyword>fight</keyword>
+      <keyword>live</keyword>
+      <keyword>mind</keyword>
+      <keyword>promise</keyword>
+      <keyword>freedom</keyword>
+      <keyword>challenge</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0336</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="101 101 145 145 101 101"
+               polygon_y="242 275 275 241 241 242"/>
+      <element label="text" polygon_x="156 156 200 200 156 156"
+               polygon_y="242 275 275 241 241 242"/>
+      <element label="text" polygon_x="106 106 135 135 106 106"
+               polygon_y="182 225 225 181 181 182"/>
+      <element label="text" polygon_x="161 161 200 200 161 161" polygon_y="27 55 55 26 26 27"/>
+      <element label="text" polygon_x="61 61 95 95 61 61" polygon_y="177 205 205 176 176 177"/>
+      <element label="text" polygon_x="161 161 200 200 161 161"
+               polygon_y="157 170 170 156 156 157"/>
+      <element label="text" polygon_x="61 61 95 95 61 61" polygon_y="212 225 225 211 211 212"/>
+      <element label="text" polygon_x="161 161 200 200 161 161"
+               polygon_y="102 110 110 101 101 102"/>
+      <element label="text" polygon_x="161 161 200 200 161 161"
+               polygon_y="217 225 225 216 216 217"/>
+      <element label="image" polygon_x="16 16 50 51 51 145 145 16 16"
+               polygon_y="2 225 225 176 175 175 1 1 2"/>
+      <element label="image" polygon_x="1 1 70 71 71 90 90 70 70 70 1 1"
+               polygon_y="237 285 285 276 275 275 241 241 240 236 236 237"/>
+      <element label="image" polygon_x="161 161 200 200 161 161" polygon_y="62 95 95 61 61 62"/>
+      <element label="image" polygon_x="161 161 200 200 161 161"
+               polygon_y="117 150 150 116 116 117"/>
+      <element label="image" polygon_x="161 161 200 200 161 161"
+               polygon_y="177 210 210 176 176 177"/>
+      <element label="text-over-image" polygon_x="16 16 50 50 16 16"
+               polygon_y="157 225 225 156 156 157"/>
+      <element label="text-over-image" polygon_x="16 16 60 60 16 16"
+               polygon_y="102 120 120 101 101 102"/>
+      <element label="text-over-image" polygon_x="41 41 100 100 41 41"
+               polygon_y="127 140 140 126 126 127"/>
+      <element label="text-over-image" polygon_x="66 66 90 90 66 66"
+               polygon_y="242 275 275 241 241 242"/>
+      <element label="text-over-image" polygon_x="106 106 135 135 106 106"
+               polygon_y="157 175 175 156 156 157"/>
+      <element label="text-over-image" polygon_x="61 61 95 95 61 61"
+               polygon_y="157 170 170 156 156 157"/>
+   </layout>
+   <text>
+      <keyword>watch</keyword>
+      <keyword>celebrate</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0222</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="81 81 145 145 81 81" polygon_y="27 195 195 26 26 27"/>
+      <element label="text" polygon_x="151 151 210 210 151 151"
+               polygon_y="17 195 195 16 16 17"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="152 290 290 151 151 152"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="17 95 95 16 16 17"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="132 145 145 131 131 132"/>
+      <element label="image" polygon_x="81 81 210 210 81 81"
+               polygon_y="207 285 285 206 206 207"/>
+      <element label="headline" polygon_x="11 11 65 65 11 11"
+               polygon_y="102 115 115 101 101 102"/>
+   </layout>
+   <text>
+      <keyword>child</keyword>
+      <keyword>book</keyword>
+      <keyword>grow</keyword>
+      <keyword>art</keyword>
+      <keyword>group</keyword>
+      <keyword>study</keyword>
+   </text>
+</annotation>

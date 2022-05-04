@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0029</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="146 146 210 210 146 146"
+               polygon_y="107 225 225 106 106 107"/>
+      <element label="text" polygon_x="166 166 210 210 166 166"
+               polygon_y="232 280 280 231 231 232"/>
+      <element label="image" polygon_x="16 16 140 140 16 16"
+               polygon_y="112 280 280 111 111 112"/>
+      <element label="image" polygon_x="16 16 140 141 141 210 210 16 16"
+               polygon_y="17 105 105 101 100 100 16 16 17"/>
+   </layout>
+   <text>
+      <keyword>place</keyword>
+      <keyword>story</keyword>
+      <keyword>top</keyword>
+   </text>
+</annotation>

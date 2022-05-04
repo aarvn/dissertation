@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0210</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="62 290 290 61 61 62"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="117 245 245 116 116 117"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="117 245 245 116 116 117"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="252 290 290 251 251 252"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="252 290 290 251 251 252"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="47 55 55 46 46 47"/>
+      <element label="text" polygon_x="81 81 175 175 81 81"
+               polygon_y="107 110 110 106 106 107"/>
+      <element label="image" polygon_x="81 81 215 215 81 81" polygon_y="17 80 80 16 16 17"/>
+      <element label="headline" polygon_x="11 11 70 70 11 11" polygon_y="17 35 35 16 16 17"/>
+      <element label="headline" polygon_x="81 81 130 130 81 81"
+               polygon_y="87 100 100 86 86 87"/>
+   </layout>
+   <text>
+      <keyword>government</keyword>
+      <keyword>fall</keyword>
+      <keyword>plan</keyword>
+      <keyword>company</keyword>
+      <keyword>problem</keyword>
+      <keyword>demand</keyword>
+      <keyword>sound</keyword>
+      <keyword>budget</keyword>
+   </text>
+</annotation>

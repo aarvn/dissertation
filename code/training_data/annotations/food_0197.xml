@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0197</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="81 81 140 140 81 81" polygon_y="27 150 150 26 26 27"/>
+      <element label="text" polygon_x="146 146 205 205 146 146"
+               polygon_y="27 115 115 26 26 27"/>
+      <element label="text" polygon_x="21 21 75 75 21 21" polygon_y="77 150 150 76 76 77"/>
+      <element label="text" polygon_x="21 21 75 75 21 21" polygon_y="47 70 70 46 46 47"/>
+      <element label="text" polygon_x="146 146 180 180 146 146"
+               polygon_y="127 150 150 126 126 127"/>
+      <element label="text" polygon_x="171 171 210 210 171 171" polygon_y="12 20 20 11 11 12"/>
+      <element label="text" polygon_x="21 21 50 50 21 21" polygon_y="37 40 40 36 36 37"/>
+      <element label="image" polygon_x="21 21 115 115 21 21"
+               polygon_y="157 280 280 156 156 157"/>
+      <element label="image" polygon_x="121 121 210 210 121 121"
+               polygon_y="157 280 280 156 156 157"/>
+   </layout>
+   <text>
+      <keyword>taste</keyword>
+      <keyword>dish</keyword>
+      <keyword>ingredient</keyword>
+      <keyword>salad</keyword>
+      <keyword>cupcake</keyword>
+      <keyword>cake</keyword>
+      <keyword>tomato</keyword>
+      <keyword>lunch</keyword>
+      <keyword>style</keyword>
+   </text>
+</annotation>

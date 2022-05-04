@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0688</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="136 136 210 210 136 136"
+               polygon_y="27 185 185 26 26 27"/>
+      <element label="text" polygon_x="16 16 50 50 16 16" polygon_y="7 15 15 6 6 7"/>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="192 300 300 191 191 192"/>
+      <element label="image" polygon_x="16 16 130 130 16 16"
+               polygon_y="102 185 185 101 101 102"/>
+      <element label="image" polygon_x="16 16 130 130 16 16" polygon_y="27 95 95 26 26 27"/>
+   </layout>
+   <text>
+      <keyword>place</keyword>
+      <keyword>food</keyword>
+      <keyword>enjoy</keyword>
+      <keyword>drink</keyword>
+   </text>
+</annotation>

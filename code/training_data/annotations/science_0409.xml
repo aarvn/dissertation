@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0409</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="116 116 215 215 116 116"
+               polygon_y="32 120 120 31 31 32"/>
+      <element label="text" polygon_x="11 11 110 110 11 11"
+               polygon_y="197 270 270 196 196 197"/>
+      <element label="text" polygon_x="11 11 110 110 11 11"
+               polygon_y="137 190 190 136 136 137"/>
+      <element label="text" polygon_x="116 116 215 215 116 116"
+               polygon_y="207 250 250 206 206 207"/>
+      <element label="text" polygon_x="11 11 110 110 11 11" polygon_y="47 85 85 46 46 47"/>
+      <element label="text" polygon_x="11 11 110 110 11 11" polygon_y="92 130 130 91 91 92"/>
+      <element label="text" polygon_x="116 116 215 215 116 116"
+               polygon_y="127 165 165 126 126 127"/>
+      <element label="text" polygon_x="116 116 215 215 116 116"
+               polygon_y="172 200 200 171 171 172"/>
+      <element label="text" polygon_x="116 116 210 211 211 215 215 116 116"
+               polygon_y="257 285 285 281 280 280 256 256 257"/>
+      <element label="text" polygon_x="11 11 110 110 11 11" polygon_y="32 40 40 31 31 32"/>
+      <element label="text" polygon_x="11 11 110 110 11 11"
+               polygon_y="277 285 285 276 276 277"/>
+   </layout>
+   <text>
+      <keyword>study</keyword>
+      <keyword>scientist</keyword>
+      <keyword>field</keyword>
+      <keyword>country</keyword>
+      <keyword>virus</keyword>
+      <keyword>lab</keyword>
+      <keyword>disease</keyword>
+      <keyword>question</keyword>
+      <keyword>treatment</keyword>
+      <keyword>model</keyword>
+      <keyword>impact</keyword>
+      <keyword>therapy</keyword>
+      <keyword>product</keyword>
+      <keyword>opportunity</keyword>
+   </text>
+</annotation>

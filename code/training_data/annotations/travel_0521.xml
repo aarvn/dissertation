@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0521</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="66 66 130 130 66 66"
+               polygon_y="132 210 210 131 131 132"/>
+      <element label="text" polygon_x="156 156 185 185 156 156"
+               polygon_y="112 220 220 111 111 112"/>
+      <element label="text" polygon_x="191 191 220 220 191 191"
+               polygon_y="112 220 220 111 111 112"/>
+      <element label="text" polygon_x="51 51 90 90 51 51" polygon_y="237 285 285 236 236 237"/>
+      <element label="text" polygon_x="96 96 130 130 96 96"
+               polygon_y="237 285 285 236 236 237"/>
+      <element label="text" polygon_x="11 11 50 50 11 11" polygon_y="162 185 185 161 161 162"/>
+      <element label="text" polygon_x="156 156 220 220 156 156"
+               polygon_y="92 105 105 91 91 92"/>
+      <element label="text" polygon_x="11 11 45 45 11 11" polygon_y="262 285 285 261 261 262"/>
+      <element label="text" polygon_x="156 156 200 200 156 156"
+               polygon_y="232 235 235 231 231 232"/>
+      <element label="image" polygon_x="11 11 130 130 11 11" polygon_y="22 115 115 21 21 22"/>
+      <element label="image" polygon_x="156 156 220 220 156 156"
+               polygon_y="242 285 285 241 241 242"/>
+      <element label="image" polygon_x="31 31 60 60 31 31" polygon_y="187 220 220 186 186 187"/>
+      <element label="headline" polygon_x="156 156 200 200 156 156"
+               polygon_y="67 90 90 66 66 67"/>
+      <element label="headline" polygon_x="11 11 50 50 11 11"
+               polygon_y="132 155 155 131 131 132"/>
+      <element label="headline" polygon_x="11 11 45 45 11 11"
+               polygon_y="237 255 255 236 236 237"/>
+   </layout>
+   <text>
+      <keyword>family</keyword>
+      <keyword>design</keyword>
+      <keyword>beautiful</keyword>
+      <keyword>trip</keyword>
+   </text>
+</annotation>

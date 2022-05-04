@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0256</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="107 290 290 106 106 107"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="197 290 290 196 196 197"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="197 290 290 196 196 197"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="22 95 95 21 21 22"/>
+      <element label="text" polygon_x="151 151 215 215 151 151" polygon_y="22 55 55 21 21 22"/>
+      <element label="text" polygon_x="81 81 145 145 81 81" polygon_y="27 55 55 26 26 27"/>
+      <element label="text" polygon_x="81 81 170 170 81 81"
+               polygon_y="187 190 190 186 186 187"/>
+      <element label="image" polygon_x="81 81 215 215 81 81" polygon_y="62 145 145 61 61 62"/>
+      <element label="headline" polygon_x="81 81 165 165 81 81"
+               polygon_y="152 165 165 151 151 152"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>idea</keyword>
+      <keyword>matter</keyword>
+      <keyword>struggle</keyword>
+      <keyword>technology</keyword>
+   </text>
+</annotation>

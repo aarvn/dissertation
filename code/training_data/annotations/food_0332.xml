@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0332</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="161 161 205 205 161 161"
+               polygon_y="22 190 190 21 21 22"/>
+      <element label="text-over-image" polygon_x="66 66 155 155 66 66"
+               polygon_y="252 290 290 251 251 252"/>
+      <element label="text-over-image" polygon_x="36 36 150 150 36 36"
+               polygon_y="57 80 80 56 56 57"/>
+      <element label="text-over-image" polygon_x="166 166 200 200 166 166"
+               polygon_y="247 285 285 246 246 247"/>
+      <element label="text-over-image" polygon_x="106 106 140 140 106 106"
+               polygon_y="97 115 115 96 96 97"/>
+      <element label="text-over-image" polygon_x="31 31 155 155 31 31"
+               polygon_y="47 50 50 46 46 47"/>
+      <element label="text-over-image" polygon_x="11 11 40 40 11 11" polygon_y="7 20 20 6 6 7"/>
+      <element label="headline-over-image" polygon_x="66 66 130 130 66 66"
+               polygon_y="27 40 40 26 26 27"/>
+   </layout>
+   <text>
+      <keyword>top</keyword>
+      <keyword>place</keyword>
+      <keyword>recipe</keyword>
+      <keyword>cool</keyword>
+      <keyword>bowl</keyword>
+      <keyword>eat</keyword>
+      <keyword>salad</keyword>
+      <keyword>roll</keyword>
+      <keyword>kitchen</keyword>
+      <keyword>dress</keyword>
+      <keyword>saucepan</keyword>
+   </text>
+</annotation>

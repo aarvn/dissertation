@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0314</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="51 51 120 120 51 51"
+               polygon_y="247 280 280 246 246 247"/>
+      <element label="text-over-image" polygon_x="171 171 205 205 171 171"
+               polygon_y="112 180 180 111 111 112"/>
+      <element label="text-over-image" polygon_x="11 11 50 50 11 11"
+               polygon_y="82 125 125 81 81 82"/>
+      <element label="text-over-image" polygon_x="26 26 70 70 26 26"
+               polygon_y="167 200 200 166 166 167"/>
+      <element label="text-over-image" polygon_x="156 156 190 190 156 156"
+               polygon_y="232 270 270 231 231 232"/>
+      <element label="headline-over-image" polygon_x="56 56 170 170 56 56"
+               polygon_y="22 40 40 21 21 22"/>
+   </layout>
+   <text>
+      <keyword>skin</keyword>
+   </text>
+</annotation>

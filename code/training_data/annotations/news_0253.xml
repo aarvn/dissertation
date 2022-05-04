@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0253</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="62 290 290 61 61 62"/>
+      <element label="text" polygon_x="81 81 145 145 81 81" polygon_y="27 195 195 26 26 27"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="132 290 290 131 131 132"/>
+      <element label="text" polygon_x="151 151 215 215 151 151" polygon_y="22 80 80 21 21 22"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="47 55 55 46 46 47"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="117 125 125 116 116 117"/>
+      <element label="image" polygon_x="81 81 145 145 81 81"
+               polygon_y="207 285 285 206 206 207"/>
+      <element label="headline" polygon_x="11 11 70 70 11 11" polygon_y="12 30 30 11 11 12"/>
+      <element label="headline" polygon_x="151 151 190 190 151 151"
+               polygon_y="92 110 110 91 91 92"/>
+   </layout>
+   <text>
+      <keyword>country</keyword>
+      <keyword>death</keyword>
+      <keyword>fail</keyword>
+      <keyword>firm</keyword>
+      <keyword>sign</keyword>
+      <keyword>technology</keyword>
+      <keyword>service</keyword>
+      <keyword>announce</keyword>
+   </text>
+</annotation>

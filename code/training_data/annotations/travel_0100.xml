@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0100</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="81 81 135 135 81 81"
+               polygon_y="167 275 275 166 166 167"/>
+      <element label="text" polygon_x="156 156 210 210 156 156"
+               polygon_y="182 285 285 181 181 182"/>
+      <element label="text" polygon_x="16 16 75 75 36 35 35 16 16"
+               polygon_y="207 285 285 186 186 205 206 206 207"/>
+      <element label="text" polygon_x="156 156 210 210 156 156"
+               polygon_y="82 155 155 81 81 82"/>
+      <element label="text" polygon_x="16 16 65 65 16 16" polygon_y="167 180 180 166 166 167"/>
+      <element label="text" polygon_x="156 156 195 195 156 156"
+               polygon_y="162 175 175 161 161 162"/>
+      <element label="text" polygon_x="156 156 195 195 156 156" polygon_y="67 75 75 66 66 67"/>
+      <element label="text" polygon_x="81 81 110 110 81 81"
+               polygon_y="282 285 285 281 281 282"/>
+      <element label="image" polygon_x="16 16 135 135 16 16" polygon_y="27 160 160 26 26 27"/>
+      <element label="image" polygon_x="156 156 210 210 156 156" polygon_y="27 60 60 26 26 27"/>
+      <element label="image" polygon_x="16 16 35 35 16 16" polygon_y="187 205 205 186 186 187"/>
+      <element label="text-over-image" polygon_x="86 86 135 135 86 86"
+               polygon_y="27 45 45 26 26 27"/>
+   </layout>
+   <text>
+      <keyword>love</keyword>
+      <keyword>space</keyword>
+      <keyword>discover</keyword>
+      <keyword>join</keyword>
+      <keyword>bird</keyword>
+   </text>
+</annotation>

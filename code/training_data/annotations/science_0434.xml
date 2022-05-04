@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0434</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="26 26 110 110 26 26"
+               polygon_y="107 280 280 106 106 107"/>
+      <element label="text" polygon_x="116 116 195 195 116 116"
+               polygon_y="107 280 280 106 106 107"/>
+      <element label="text" polygon_x="61 61 110 110 61 61" polygon_y="82 95 95 81 81 82"/>
+      <element label="text" polygon_x="61 61 95 95 61 61" polygon_y="67 75 75 66 66 67"/>
+      <element label="image" polygon_x="116 116 195 195 116 116" polygon_y="47 95 95 46 46 47"/>
+   </layout>
+   <text>
+      <keyword>water</keyword>
+      <keyword>focus</keyword>
+      <keyword>story</keyword>
+      <keyword>cancer</keyword>
+      <keyword>virus</keyword>
+      <keyword>issue</keyword>
+      <keyword>treatment</keyword>
+      <keyword>program</keyword>
+   </text>
+</annotation>

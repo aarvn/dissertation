@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0467</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 80 80 21 21" polygon_y="32 140 140 31 31 32"/>
+      <element label="text" polygon_x="86 86 150 150 125 125 125 86 86"
+               polygon_y="32 140 140 111 111 110 31 31 32"/>
+      <element label="text" polygon_x="156 156 215 215 156 156"
+               polygon_y="112 140 140 111 111 112"/>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="152 300 300 151 151 152"/>
+      <element label="image" polygon_x="131 131 220 220 131 131" polygon_y="2 105 105 1 1 2"/>
+      <element label="text-over-image" polygon_x="151 151 205 205 151 151"
+               polygon_y="217 245 245 216 216 217"/>
+      <element label="text-over-image" polygon_x="151 151 175 175 151 151"
+               polygon_y="167 200 200 166 166 167"/>
+      <element label="text-over-image" polygon_x="91 91 140 140 91 91"
+               polygon_y="277 285 285 276 276 277"/>
+   </layout>
+   <text/>
+</annotation>

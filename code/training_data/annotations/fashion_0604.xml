@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0604</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 85 85 21 21" polygon_y="107 125 125 106 106 107"/>
+      <element label="text" polygon_x="151 151 205 205 151 151"
+               polygon_y="107 120 120 106 106 107"/>
+      <element label="text" polygon_x="156 156 195 195 156 156"
+               polygon_y="87 100 100 86 86 87"/>
+      <element label="image" polygon_x="1 1 225 225 205 205 205 151 150 150 1 1"
+               polygon_y="132 300 300 131 131 130 126 126 130 131 131 132"/>
+      <element label="image" polygon_x="1 1 91 91 91 125 125 110 110 110 1 1"
+               polygon_y="27 105 105 106 125 125 76 76 75 26 26 27"/>
+      <element label="image" polygon_x="146 146 205 205 146 146" polygon_y="2 80 80 1 1 2"/>
+      <element label="text-over-image" polygon_x="151 151 205 205 151 151"
+               polygon_y="127 265 265 126 126 127"/>
+      <element label="text-over-image" polygon_x="21 21 85 85 21 21"
+               polygon_y="142 175 175 141 141 142"/>
+      <element label="text-over-image" polygon_x="21 21 85 85 21 21"
+               polygon_y="197 230 230 196 196 197"/>
+      <element label="text-over-image" polygon_x="21 21 85 85 21 21"
+               polygon_y="237 270 270 236 236 237"/>
+      <element label="text-over-image" polygon_x="66 66 105 105 66 66"
+               polygon_y="27 35 35 26 26 27"/>
+      <element label="text-over-image" polygon_x="36 36 70 70 36 36"
+               polygon_y="182 190 190 181 181 182"/>
+      <element label="text-over-image" polygon_x="31 31 70 70 31 31"
+               polygon_y="132 135 135 131 131 132"/>
+   </layout>
+   <text>
+      <keyword>style</keyword>
+      <keyword>face</keyword>
+      <keyword>art</keyword>
+      <keyword>hair</keyword>
+      <keyword>family</keyword>
+      <keyword>scent</keyword>
+      <keyword>moment</keyword>
+      <keyword>fragrance</keyword>
+      <keyword>kid</keyword>
+      <keyword>celebrate</keyword>
+      <keyword>spring</keyword>
+   </text>
+</annotation>

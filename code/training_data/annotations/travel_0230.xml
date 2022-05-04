@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0230</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="36 36 115 115 36 36" polygon_y="82 200 200 81 81 82"/>
+      <element label="text" polygon_x="121 121 200 200 121 121"
+               polygon_y="122 235 235 121 121 122"/>
+      <element label="text" polygon_x="121 121 200 200 121 121"
+               polygon_y="82 115 115 81 81 82"/>
+      <element label="text" polygon_x="121 121 200 200 121 121"
+               polygon_y="252 285 285 251 251 252"/>
+      <element label="text" polygon_x="76 76 180 180 76 76" polygon_y="67 75 75 66 66 67"/>
+      <element label="text" polygon_x="81 81 175 175 81 81" polygon_y="47 55 55 46 46 47"/>
+      <element label="text" polygon_x="16 16 115 115 16 16"
+               polygon_y="282 285 285 281 281 282"/>
+      <element label="text" polygon_x="121 121 175 175 121 121"
+               polygon_y="242 245 245 241 241 242"/>
+      <element label="image" polygon_x="16 16 115 115 16 16"
+               polygon_y="207 275 275 206 206 207"/>
+      <element label="image" polygon_x="16 16 65 65 16 16" polygon_y="27 75 75 26 26 27"/>
+      <element label="headline" polygon_x="86 86 170 170 86 86" polygon_y="27 40 40 26 26 27"/>
+   </layout>
+   <text>
+      <keyword>place</keyword>
+      <keyword>life</keyword>
+      <keyword>farm</keyword>
+      <keyword>plant</keyword>
+      <keyword>bird</keyword>
+      <keyword>field</keyword>
+      <keyword>beautiful</keyword>
+      <keyword>thought</keyword>
+      <keyword>spring</keyword>
+      <keyword>nature</keyword>
+      <keyword>wildlife</keyword>
+      <keyword>scene</keyword>
+   </text>
+</annotation>

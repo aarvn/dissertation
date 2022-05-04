@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0362</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="26 26 95 95 26 26" polygon_y="17 160 160 16 16 17"/>
+      <element label="text" polygon_x="136 136 205 205 136 136"
+               polygon_y="182 280 280 181 181 182"/>
+      <element label="image" polygon_x="101 101 205 205 101 101"
+               polygon_y="17 160 160 16 16 17"/>
+      <element label="image" polygon_x="26 26 130 130 26 26"
+               polygon_y="172 280 280 171 171 172"/>
+   </layout>
+   <text>
+      <keyword>place</keyword>
+      <keyword>love</keyword>
+      <keyword>visit</keyword>
+      <keyword>garden</keyword>
+      <keyword>sea</keyword>
+      <keyword>area</keyword>
+      <keyword>coast</keyword>
+      <keyword>experience</keyword>
+      <keyword>inspire</keyword>
+      <keyword>island</keyword>
+      <keyword>celebrate</keyword>
+      <keyword>story</keyword>
+      <keyword>beautiful</keyword>
+      <keyword>wild</keyword>
+      <keyword>building</keyword>
+      <keyword>visitor</keyword>
+   </text>
+</annotation>

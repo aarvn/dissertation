@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0534</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image"
+               polygon_x="1 1 110 111 111 116 116 116 165 166 166 171 171 171 205 206 206 225 225 215 215 216 216 220 220 11 10 10 1 1"
+               polygon_y="147 300 300 231 230 230 231 285 285 231 230 230 231 285 285 281 280 280 211 211 210 196 195 195 6 6 145 146 146 147"/>
+      <element label="text-over-image" polygon_x="116 116 165 165 116 116"
+               polygon_y="222 285 285 221 221 222"/>
+      <element label="text-over-image" polygon_x="56 56 105 105 56 56"
+               polygon_y="222 275 275 221 221 222"/>
+      <element label="text-over-image" polygon_x="21 21 80 80 21 21"
+               polygon_y="102 135 135 101 101 102"/>
+      <element label="text-over-image" polygon_x="56 56 105 105 56 56"
+               polygon_y="187 215 215 186 186 187"/>
+      <element label="text-over-image" polygon_x="171 171 205 205 171 171"
+               polygon_y="272 285 285 271 271 272"/>
+      <element label="headline-over-image" polygon_x="21 21 90 91 91 195 195 21 21"
+               polygon_y="22 85 85 61 60 60 21 21 22"/>
+   </layout>
+   <text>
+      <keyword>love</keyword>
+      <keyword>dress</keyword>
+      <keyword>life</keyword>
+      <keyword>fit</keyword>
+   </text>
+</annotation>

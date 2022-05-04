@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0284</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image"
+               polygon_x="16 16 21 21 21 75 76 76 81 81 81 135 136 136 141 141 141 195 196 196 205 205 16 16"
+               polygon_y="2 245 245 246 280 280 246 245 245 246 280 280 246 245 245 246 280 280 246 245 245 1 1 2"/>
+      <element label="text-over-image" polygon_x="21 21 75 75 21 21"
+               polygon_y="217 280 280 216 216 217"/>
+      <element label="text-over-image" polygon_x="81 81 135 135 81 81"
+               polygon_y="217 280 280 216 216 217"/>
+      <element label="text-over-image" polygon_x="141 141 195 195 141 141"
+               polygon_y="217 280 280 216 216 217"/>
+      <element label="text-over-image" polygon_x="36 36 180 180 36 36"
+               polygon_y="192 205 205 191 191 192"/>
+      <element label="headline-over-image"
+               polygon_x="21 21 115 116 116 140 140 115 115 115 21 21"
+               polygon_y="122 180 180 166 165 165 136 136 135 121 121 122"/>
+   </layout>
+   <text>
+      <keyword>ideal</keyword>
+      <keyword>great</keyword>
+      <keyword>comfortable</keyword>
+   </text>
+</annotation>

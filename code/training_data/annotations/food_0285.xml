@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0285</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="86 86 140 140 86 86"
+               polygon_y="132 280 280 131 131 132"/>
+      <element label="text" polygon_x="26 26 80 80 26 26" polygon_y="167 280 280 166 166 167"/>
+      <element label="text" polygon_x="146 146 200 200 146 146"
+               polygon_y="132 215 215 131 131 132"/>
+      <element label="text" polygon_x="146 146 200 200 146 146"
+               polygon_y="252 280 280 251 251 252"/>
+      <element label="text" polygon_x="146 146 200 200 146 146"
+               polygon_y="222 245 245 221 221 222"/>
+      <element label="text" polygon_x="26 26 65 65 26 26" polygon_y="132 155 155 131 131 132"/>
+      <element label="text" polygon_x="11 11 50 50 11 11" polygon_y="12 20 20 11 11 12"/>
+      <element label="image" polygon_x="11 11 80 80 11 11" polygon_y="22 125 125 21 21 22"/>
+      <element label="image" polygon_x="86 86 150 150 86 86" polygon_y="22 125 125 21 21 22"/>
+      <element label="image" polygon_x="156 156 220 220 156 156"
+               polygon_y="22 125 125 21 21 22"/>
+   </layout>
+   <text>
+      <keyword>salt</keyword>
+      <keyword>dish</keyword>
+      <keyword>bowl</keyword>
+      <keyword>food</keyword>
+      <keyword>wine</keyword>
+      <keyword>flavour</keyword>
+      <keyword>delicious</keyword>
+      <keyword>chilli</keyword>
+      <keyword>fresh</keyword>
+      <keyword>sweet</keyword>
+      <keyword>thick</keyword>
+      <keyword>coriander</keyword>
+      <keyword>drink</keyword>
+   </text>
+</annotation>

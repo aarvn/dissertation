@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0454</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="81 81 195 195 81 81"
+               polygon_y="222 265 265 221 221 222"/>
+      <element label="text" polygon_x="31 31 115 115 31 31" polygon_y="27 30 30 26 26 27"/>
+      <element label="image" polygon_x="31 31 160 161 161 195 195 160 160 160 31 31"
+               polygon_y="47 215 215 211 210 210 141 141 140 46 46 47"/>
+      <element label="headline" polygon_x="31 31 70 70 31 31"
+               polygon_y="222 240 240 221 221 222"/>
+   </layout>
+   <text>
+      <keyword>land</keyword>
+      <keyword>publish</keyword>
+   </text>
+</annotation>

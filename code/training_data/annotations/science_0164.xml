@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0164</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="6 6 75 75 6 6" polygon_y="72 105 105 71 71 72"/>
+      <element label="text" polygon_x="6 6 110 110 6 6" polygon_y="272 290 290 271 271 272"/>
+      <element label="text" polygon_x="81 81 220 220 81 81"
+               polygon_y="132 145 145 131 131 132"/>
+      <element label="text" polygon_x="116 116 220 220 116 116"
+               polygon_y="272 290 290 271 271 272"/>
+      <element label="text" polygon_x="6 6 65 65 6 6" polygon_y="112 140 140 111 111 112"/>
+      <element label="text" polygon_x="6 6 110 110 6 6" polygon_y="202 215 215 201 201 202"/>
+      <element label="text" polygon_x="116 116 220 220 116 116"
+               polygon_y="202 215 215 201 201 202"/>
+      <element label="text" polygon_x="141 141 200 200 141 141" polygon_y="12 20 20 11 11 12"/>
+      <element label="image" polygon_x="81 81 220 220 81 81" polygon_y="32 130 130 31 31 32"/>
+      <element label="image" polygon_x="6 6 110 110 6 6" polygon_y="147 200 200 146 146 147"/>
+      <element label="image" polygon_x="116 116 220 220 116 116"
+               polygon_y="147 200 200 146 146 147"/>
+      <element label="image" polygon_x="6 6 110 110 6 6" polygon_y="222 270 270 221 221 222"/>
+      <element label="image" polygon_x="116 116 220 220 116 116"
+               polygon_y="222 270 270 221 221 222"/>
+      <element label="image" polygon_x="201 201 215 215 201 201" polygon_y="7 25 25 6 6 7"/>
+      <element label="headline" polygon_x="6 6 65 65 6 6" polygon_y="32 65 65 31 31 32"/>
+   </layout>
+   <text>
+      <keyword>place</keyword>
+      <keyword>decade</keyword>
+      <keyword>create</keyword>
+      <keyword>image</keyword>
+      <keyword>sky</keyword>
+      <keyword>space</keyword>
+      <keyword>camera</keyword>
+   </text>
+</annotation>

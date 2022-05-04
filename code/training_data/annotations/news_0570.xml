@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0570</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="156 156 215 215 156 156"
+               polygon_y="67 270 270 66 66 67"/>
+      <element label="text" polygon_x="11 11 70 70 11 11" polygon_y="217 290 290 216 216 217"/>
+      <element label="text" polygon_x="76 76 130 130 76 76"
+               polygon_y="217 275 275 216 216 217"/>
+      <element label="text" polygon_x="156 156 215 215 156 156" polygon_y="42 60 60 41 41 42"/>
+      <element label="text" polygon_x="11 11 60 60 11 11" polygon_y="197 210 210 196 196 197"/>
+      <element label="text" polygon_x="156 156 215 215 156 156"
+               polygon_y="277 285 285 276 276 277"/>
+      <element label="text" polygon_x="76 76 125 125 76 76"
+               polygon_y="282 290 290 281 281 282"/>
+      <element label="text" polygon_x="156 156 215 215 156 156"
+               polygon_y="292 295 295 291 291 292"/>
+      <element label="image" polygon_x="11 11 135 135 11 11" polygon_y="37 190 190 36 36 37"/>
+      <element label="text-over-image" polygon_x="106 106 125 125 106 106"
+               polygon_y="42 70 70 41 41 42"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>woman</keyword>
+      <keyword>decade</keyword>
+      <keyword>family</keyword>
+      <keyword>win</keyword>
+      <keyword>story</keyword>
+      <keyword>love</keyword>
+      <keyword>fail</keyword>
+      <keyword>campaign</keyword>
+      <keyword>challenge</keyword>
+   </text>
+</annotation>

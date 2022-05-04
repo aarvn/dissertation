@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0135</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image"
+               polygon_x="16 16 185 186 186 190 190 185 185 186 186 205 205 75 75 75 21 21 66 66 65 65 21 21 66 66 65 65 26 26 66 66 65 65 16 16"
+               polygon_y="182 300 300 296 295 295 291 291 290 196 195 195 16 16 15 11 11 50 50 51 55 56 56 145 145 146 150 151 151 175 175 176 180 181 181 182"/>
+      <element label="text-over-image" polygon_x="21 21 75 75 21 21"
+               polygon_y="57 145 145 56 56 57"/>
+      <element label="text-over-image" polygon_x="21 21 75 75 21 21"
+               polygon_y="12 50 50 11 11 12"/>
+      <element label="text-over-image" polygon_x="26 26 70 70 26 26"
+               polygon_y="152 175 175 151 151 152"/>
+      <element label="text-over-image" polygon_x="66 66 190 190 66 66"
+               polygon_y="292 295 295 291 291 292"/>
+   </layout>
+   <text>
+      <keyword>love</keyword>
+      <keyword>inspire</keyword>
+   </text>
+</annotation>

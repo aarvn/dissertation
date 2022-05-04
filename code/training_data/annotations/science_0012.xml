@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0012</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="26 26 105 105 26 26"
+               polygon_y="162 245 245 161 161 162"/>
+      <element label="text" polygon_x="26 26 105 105 26 26" polygon_y="77 125 125 76 76 77"/>
+      <element label="text" polygon_x="26 26 105 105 26 26"
+               polygon_y="132 155 155 131 131 132"/>
+      <element label="text" polygon_x="26 26 60 60 26 26" polygon_y="267 280 280 266 266 267"/>
+      <element label="text" polygon_x="66 66 100 100 66 66"
+               polygon_y="267 280 280 266 266 267"/>
+      <element label="image" polygon_x="111 111 220 220 111 111"
+               polygon_y="77 245 245 76 76 77"/>
+      <element label="headline" polygon_x="91 91 140 140 91 91" polygon_y="47 60 60 46 46 47"/>
+   </layout>
+   <text>
+      <keyword>image</keyword>
+      <keyword>ocean</keyword>
+   </text>
+</annotation>

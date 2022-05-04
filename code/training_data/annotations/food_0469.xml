@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0469</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="86 86 150 150 86 86"
+               polygon_y="207 275 275 206 206 207"/>
+      <element label="text" polygon_x="21 21 80 80 21 21" polygon_y="237 275 275 236 236 237"/>
+      <element label="text" polygon_x="21 21 80 80 21 21" polygon_y="207 230 230 206 206 207"/>
+      <element label="image" polygon_x="76 76 225 225 76 76" polygon_y="2 195 195 1 1 2"/>
+      <element label="image" polygon_x="1 1 70 70 1 1" polygon_y="2 95 95 1 1 2"/>
+      <element label="image" polygon_x="1 1 70 70 1 1" polygon_y="102 195 195 101 101 102"/>
+      <element label="image" polygon_x="156 156 225 225 156 156"
+               polygon_y="207 275 275 206 206 207"/>
+      <element label="text-over-image" polygon_x="81 81 115 115 81 81"
+               polygon_y="177 190 190 176 176 177"/>
+   </layout>
+   <text>
+      <keyword>stir</keyword>
+      <keyword>cool</keyword>
+      <keyword>oven</keyword>
+      <keyword>bowl</keyword>
+      <keyword>mixture</keyword>
+      <keyword>roll</keyword>
+      <keyword>crisp</keyword>
+   </text>
+</annotation>

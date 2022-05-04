@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0309</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="81 81 140 140 81 81"
+               polygon_y="32 120 120 31 31 32"/>
+      <element label="text-over-image" polygon_x="146 146 205 205 146 146"
+               polygon_y="32 120 120 31 31 32"/>
+      <element label="text-over-image" polygon_x="21 21 75 75 21 21"
+               polygon_y="92 120 120 91 91 92"/>
+      <element label="text-over-image" polygon_x="21 21 75 75 21 21"
+               polygon_y="72 85 85 71 71 72"/>
+      <element label="text-over-image" polygon_x="41 41 70 70 41 41"
+               polygon_y="247 265 265 246 246 247"/>
+   </layout>
+   <text>
+      <keyword>restaurant</keyword>
+      <keyword>fat</keyword>
+      <keyword>milk</keyword>
+      <keyword>glass</keyword>
+      <keyword>cuisine</keyword>
+      <keyword>cream</keyword>
+      <keyword>fruit</keyword>
+   </text>
+</annotation>

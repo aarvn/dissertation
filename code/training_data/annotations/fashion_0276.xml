@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0276</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="46 46 190 190 46 46" polygon_y="62 70 70 61 61 62"/>
+      <element label="text" polygon_x="91 91 145 145 91 91"
+               polygon_y="242 265 265 241 241 242"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="242 260 260 241 241 242"/>
+      <element label="text" polygon_x="26 26 85 85 26 26" polygon_y="242 260 260 241 241 242"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="267 280 280 266 266 267"/>
+      <element label="text" polygon_x="26 26 85 85 26 26" polygon_y="267 280 280 266 266 267"/>
+      <element label="text" polygon_x="91 91 145 145 91 91"
+               polygon_y="272 280 280 271 271 272"/>
+      <element label="text" polygon_x="186 186 220 220 186 186" polygon_y="7 15 15 6 6 7"/>
+      <element label="image" polygon_x="151 151 215 215 151 151"
+               polygon_y="77 235 235 76 76 77"/>
+      <element label="image" polygon_x="26 26 85 85 26 26" polygon_y="77 235 235 76 76 77"/>
+      <element label="image" polygon_x="91 91 145 145 91 91" polygon_y="77 235 235 76 76 77"/>
+      <element label="headline" polygon_x="46 46 190 190 46 46" polygon_y="22 55 55 21 21 22"/>
+   </layout>
+   <text>
+      <keyword>artist</keyword>
+   </text>
+</annotation>

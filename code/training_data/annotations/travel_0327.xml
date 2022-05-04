@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0327</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 85 85 21 21" polygon_y="117 205 205 116 116 117"/>
+      <element label="text" polygon_x="76 76 155 155 76 76"
+               polygon_y="222 285 285 221 221 222"/>
+      <element label="text" polygon_x="171 171 205 205 171 171"
+               polygon_y="182 285 285 181 181 182"/>
+      <element label="text" polygon_x="171 171 205 205 171 171"
+               polygon_y="52 140 140 51 51 52"/>
+      <element label="text" polygon_x="21 21 75 75 21 21" polygon_y="97 110 110 96 96 97"/>
+      <element label="image" polygon_x="21 21 91 91 91 155 155 21 21"
+               polygon_y="17 90 90 91 205 205 16 16 17"/>
+      <element label="image" polygon_x="21 21 70 70 21 21" polygon_y="222 285 285 221 221 222"/>
+      <element label="image" polygon_x="171 171 205 205 171 171" polygon_y="17 45 45 16 16 17"/>
+      <element label="image" polygon_x="171 171 205 205 171 171"
+               polygon_y="147 175 175 146 146 147"/>
+   </layout>
+   <text>
+      <keyword>family</keyword>
+      <keyword>enjoy</keyword>
+      <keyword>summer</keyword>
+      <keyword>food</keyword>
+      <keyword>restaurant</keyword>
+      <keyword>join</keyword>
+      <keyword>event</keyword>
+   </text>
+</annotation>

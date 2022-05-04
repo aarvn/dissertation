@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0354</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="116 116 215 215 156 155 155 116 116"
+               polygon_y="107 145 145 41 41 105 106 106 107"/>
+      <element label="text" polygon_x="11 11 110 110 70 70 70 11 11"
+               polygon_y="42 120 120 106 106 105 41 41 42"/>
+      <element label="text" polygon_x="11 11 110 110 11 11"
+               polygon_y="127 175 175 126 126 127"/>
+      <element label="text" polygon_x="76 76 126 126 126 160 160 76 76"
+               polygon_y="222 240 240 241 285 285 221 221 222"/>
+      <element label="text" polygon_x="11 11 110 110 11 11"
+               polygon_y="182 210 210 181 181 182"/>
+      <element label="text" polygon_x="11 11 70 70 11 11" polygon_y="232 280 280 231 231 232"/>
+      <element label="text" polygon_x="116 116 215 215 116 116"
+               polygon_y="182 210 210 181 181 182"/>
+      <element label="text" polygon_x="166 166 215 215 166 166"
+               polygon_y="222 280 280 221 221 222"/>
+      <element label="text" polygon_x="116 116 215 215 116 116"
+               polygon_y="152 175 175 151 151 152"/>
+      <element label="text" polygon_x="76 76 145 145 76 76" polygon_y="12 20 20 11 11 12"/>
+      <element label="text" polygon_x="176 176 215 215 176 176"
+               polygon_y="287 295 295 286 286 287"/>
+      <element label="text" polygon_x="11 11 40 40 11 11" polygon_y="12 20 20 11 11 12"/>
+      <element label="text" polygon_x="11 11 50 50 11 11" polygon_y="222 225 225 221 221 222"/>
+      <element label="image" polygon_x="76 76 150 150 76 76" polygon_y="42 95 95 41 41 42"/>
+      <element label="image" polygon_x="76 76 120 120 76 76"
+               polygon_y="247 280 280 246 246 247"/>
+      <element label="headline" polygon_x="11 11 190 190 11 11" polygon_y="27 35 35 26 26 27"/>
+   </layout>
+   <text>
+      <keyword>party</keyword>
+      <keyword>friend</keyword>
+      <keyword>win</keyword>
+      <keyword>bad</keyword>
+      <keyword>fight</keyword>
+      <keyword>grow</keyword>
+      <keyword>future</keyword>
+      <keyword>mother</keyword>
+   </text>
+</annotation>

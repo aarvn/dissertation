@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0122</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="151 151 161 161 161 210 210 151 151"
+               polygon_y="37 175 175 176 280 280 36 36 37"/>
+      <element label="text" polygon_x="26 26 75 76 76 85 85 26 26"
+               polygon_y="82 280 280 176 175 175 81 81 82"/>
+      <element label="text" polygon_x="91 91 145 145 91 91" polygon_y="72 175 175 71 71 72"/>
+      <element label="text" polygon_x="26 26 145 145 26 26" polygon_y="32 35 35 31 31 32"/>
+      <element label="text" polygon_x="26 26 75 75 26 26" polygon_y="17 25 25 16 16 17"/>
+      <element label="text" polygon_x="26 26 70 70 26 26" polygon_y="72 75 75 71 71 72"/>
+      <element label="image" polygon_x="81 81 155 155 81 81"
+               polygon_y="182 280 280 181 181 182"/>
+      <element label="headline" polygon_x="26 26 145 145 26 26" polygon_y="42 65 65 41 41 42"/>
+   </layout>
+   <text>
+      <keyword>love</keyword>
+      <keyword>future</keyword>
+      <keyword>service</keyword>
+      <keyword>hospital</keyword>
+      <keyword>important</keyword>
+   </text>
+</annotation>

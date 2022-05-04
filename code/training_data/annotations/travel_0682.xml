@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0682</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="177 285 285 176 176 177"/>
+      <element label="text" polygon_x="146 146 210 210 146 146"
+               polygon_y="177 285 285 176 176 177"/>
+      <element label="text" polygon_x="81 81 140 140 81 81"
+               polygon_y="177 255 255 176 176 177"/>
+      <element label="text" polygon_x="81 81 140 140 81 81"
+               polygon_y="262 285 285 261 261 262"/>
+      <element label="text" polygon_x="11 11 35 35 11 11" polygon_y="17 20 20 16 16 17"/>
+      <element label="image" polygon_x="11 11 210 210 11 11" polygon_y="27 170 170 26 26 27"/>
+      <element label="text-over-image" polygon_x="21 21 50 50 21 21"
+               polygon_y="37 50 50 36 36 37"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>design</keyword>
+      <keyword>experience</keyword>
+      <keyword>city</keyword>
+      <keyword>imagine</keyword>
+      <keyword>young</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0082</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="161 161 220 220 161 161"
+               polygon_y="117 265 265 116 116 117"/>
+      <element label="text-over-image" polygon_x="161 161 220 220 161 161"
+               polygon_y="82 110 110 81 81 82"/>
+      <element label="text-over-image" polygon_x="101 101 130 130 101 101"
+               polygon_y="217 240 240 216 216 217"/>
+      <element label="headline-over-image" polygon_x="1 1 225 225 1 1"
+               polygon_y="2 75 75 1 1 2"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>season</keyword>
+      <keyword>laugh</keyword>
+      <keyword>film</keyword>
+   </text>
+</annotation>

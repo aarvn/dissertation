@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0442</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 110 110 11 11"
+               polygon_y="132 190 190 131 131 132"/>
+      <element label="image" polygon_x="6 6 116 116 116 220 220 6 6"
+               polygon_y="7 125 125 126 190 190 6 6 7"/>
+      <element label="image" polygon_x="106 106 220 220 106 106"
+               polygon_y="197 285 285 196 196 197"/>
+      <element label="image" polygon_x="11 11 100 100 11 11"
+               polygon_y="197 285 285 196 196 197"/>
+      <element label="text-over-image" polygon_x="146 146 185 185 146 146"
+               polygon_y="202 205 205 201 201 202"/>
+   </layout>
+   <text>
+      <keyword>style</keyword>
+      <keyword>room</keyword>
+      <keyword>design</keyword>
+      <keyword>star</keyword>
+      <keyword>flower</keyword>
+   </text>
+</annotation>

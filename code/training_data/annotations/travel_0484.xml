@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0484</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="16 16 80 80 16 16" polygon_y="207 280 280 206 206 207"/>
+      <element label="text" polygon_x="86 86 150 150 86 86"
+               polygon_y="207 280 280 206 206 207"/>
+      <element label="text" polygon_x="156 156 220 220 156 156"
+               polygon_y="207 280 280 206 206 207"/>
+      <element label="image" polygon_x="1 1 75 75 1 1" polygon_y="32 110 110 31 31 32"/>
+      <element label="image" polygon_x="1 1 75 75 1 1" polygon_y="117 195 195 116 116 117"/>
+      <element label="image" polygon_x="81 81 150 150 81 81" polygon_y="32 110 110 31 31 32"/>
+      <element label="image" polygon_x="81 81 150 150 81 81"
+               polygon_y="117 195 195 116 116 117"/>
+      <element label="image" polygon_x="156 156 225 225 156 156"
+               polygon_y="32 110 110 31 31 32"/>
+      <element label="image" polygon_x="156 156 225 225 156 156"
+               polygon_y="117 195 195 116 116 117"/>
+   </layout>
+   <text>
+      <keyword>place</keyword>
+      <keyword>beach</keyword>
+      <keyword>hotel</keyword>
+      <keyword>beautiful</keyword>
+      <keyword>resort</keyword>
+      <keyword>smile</keyword>
+   </text>
+</annotation>

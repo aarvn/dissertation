@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0037</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="16 16 170 170 16 16"
+               polygon_y="182 205 205 181 181 182"/>
+      <element label="text" polygon_x="16 16 105 105 16 16"
+               polygon_y="282 290 290 281 281 282"/>
+      <element label="text" polygon_x="151 151 210 210 151 151"
+               polygon_y="282 290 290 281 281 282"/>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 175 175 1 1 2"/>
+      <element label="image" polygon_x="1 1 55 55 1 1" polygon_y="212 265 265 211 211 212"/>
+      <element label="image" polygon_x="116 116 170 170 116 116"
+               polygon_y="212 265 265 211 211 212"/>
+      <element label="image" polygon_x="61 61 110 110 61 61"
+               polygon_y="212 265 265 211 211 212"/>
+      <element label="image" polygon_x="176 176 225 225 176 176"
+               polygon_y="212 265 265 211 211 212"/>
+      <element label="image" polygon_x="176 176 210 210 176 176"
+               polygon_y="182 205 205 181 181 182"/>
+      <element label="text-over-image" polygon_x="21 21 150 150 21 21"
+               polygon_y="37 45 45 36 36 37"/>
+      <element label="headline-over-image" polygon_x="21 21 150 150 21 21"
+               polygon_y="17 30 30 16 16 17"/>
+   </layout>
+   <text/>
+</annotation>

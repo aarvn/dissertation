@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0276</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="151 151 220 220 151 151"
+               polygon_y="92 160 160 91 91 92"/>
+      <element label="text" polygon_x="21 21 60 60 21 21" polygon_y="212 285 285 211 211 212"/>
+      <element label="text" polygon_x="86 86 130 130 86 86"
+               polygon_y="142 180 180 141 141 142"/>
+      <element label="text" polygon_x="21 21 60 60 21 21" polygon_y="187 205 205 186 186 187"/>
+      <element label="text" polygon_x="86 86 130 130 86 86"
+               polygon_y="127 135 135 126 126 127"/>
+      <element label="image"
+               polygon_x="16 16 71 71 70 70 21 21 95 96 96 111 111 111 140 140 71 70 70 16 16"
+               polygon_y="27 80 80 81 85 86 86 110 110 101 100 100 101 110 110 11 11 25 26 26 27"/>
+      <element label="image" polygon_x="151 151 225 225 151 151"
+               polygon_y="167 285 285 166 166 167"/>
+      <element label="image" polygon_x="66 66 140 140 76 75 75 66 66"
+               polygon_y="237 285 285 186 186 235 236 236 237"/>
+      <element label="image" polygon_x="151 151 225 225 151 151" polygon_y="12 85 85 11 11 12"/>
+      <element label="image" polygon_x="1 1 80 80 1 1" polygon_y="127 180 180 126 126 127"/>
+      <element label="text-over-image" polygon_x="21 21 95 95 21 21"
+               polygon_y="87 110 110 86 86 87"/>
+      <element label="text-over-image" polygon_x="101 101 135 135 101 101"
+               polygon_y="267 280 280 266 266 267"/>
+      <element label="text-over-image" polygon_x="151 151 200 200 151 151"
+               polygon_y="202 210 210 201 201 202"/>
+      <element label="text-over-image" polygon_x="151 151 200 200 151 151"
+               polygon_y="272 280 280 271 271 272"/>
+      <element label="text-over-image" polygon_x="111 111 140 140 111 111"
+               polygon_y="97 110 110 96 96 97"/>
+   </layout>
+   <text>
+      <keyword>wedding</keyword>
+      <keyword>love</keyword>
+      <keyword>perfect</keyword>
+      <keyword>unique</keyword>
+      <keyword>idea</keyword>
+      <keyword>fun</keyword>
+   </text>
+</annotation>

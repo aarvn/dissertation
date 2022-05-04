@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0061</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="166 166 210 210 166 166"
+               polygon_y="32 255 255 31 31 32"/>
+      <element label="text" polygon_x="116 116 160 160 116 116"
+               polygon_y="142 280 280 141 141 142"/>
+      <element label="text" polygon_x="116 116 160 160 116 116"
+               polygon_y="57 135 135 56 56 57"/>
+      <element label="text" polygon_x="21 21 100 100 21 21"
+               polygon_y="257 280 280 256 256 257"/>
+      <element label="text" polygon_x="21 21 100 100 21 21"
+               polygon_y="232 250 250 231 231 232"/>
+      <element label="text" polygon_x="21 21 90 90 21 21" polygon_y="82 100 100 81 81 82"/>
+      <element label="text" polygon_x="116 116 160 160 116 116" polygon_y="27 45 45 26 26 27"/>
+      <element label="text" polygon_x="166 166 210 210 166 166"
+               polygon_y="267 280 280 266 266 267"/>
+      <element label="text" polygon_x="21 21 65 65 21 21" polygon_y="32 40 40 31 31 32"/>
+      <element label="image" polygon_x="16 16 105 105 16 16"
+               polygon_y="107 225 225 106 106 107"/>
+      <element label="headline" polygon_x="21 21 80 80 21 21" polygon_y="47 75 75 46 46 47"/>
+   </layout>
+   <text>
+      <keyword>top</keyword>
+      <keyword>stir</keyword>
+      <keyword>heat</keyword>
+      <keyword>taste</keyword>
+      <keyword>season</keyword>
+      <keyword>oil</keyword>
+      <keyword>oven</keyword>
+      <keyword>bowl</keyword>
+      <keyword>sugar</keyword>
+      <keyword>bake</keyword>
+      <keyword>cooking</keyword>
+      <keyword>butter</keyword>
+      <keyword>flour</keyword>
+      <keyword>cheese</keyword>
+      <keyword>roll</keyword>
+      <keyword>potato</keyword>
+      <keyword>milk</keyword>
+      <keyword>sauce</keyword>
+      <keyword>thick</keyword>
+      <keyword>free</keyword>
+   </text>
+</annotation>

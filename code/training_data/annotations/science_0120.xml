@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0120</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="151 151 205 205 151 151"
+               polygon_y="112 155 155 111 111 112"/>
+      <element label="text" polygon_x="116 116 210 210 116 116"
+               polygon_y="262 285 285 261 261 262"/>
+      <element label="text" polygon_x="116 116 205 205 116 116"
+               polygon_y="237 255 255 236 236 237"/>
+      <element label="text" polygon_x="11 11 110 110 11 11"
+               polygon_y="272 285 285 271 271 272"/>
+      <element label="text" polygon_x="36 36 185 185 36 36" polygon_y="57 65 65 56 56 57"/>
+      <element label="text" polygon_x="11 11 95 95 11 11" polygon_y="252 265 265 251 251 252"/>
+      <element label="text" polygon_x="151 151 205 205 151 151"
+               polygon_y="87 105 105 86 86 87"/>
+      <element label="text" polygon_x="11 11 110 110 11 11"
+               polygon_y="237 245 245 236 236 237"/>
+      <element label="text" polygon_x="116 116 160 160 116 116"
+               polygon_y="227 230 230 226 226 227"/>
+      <element label="image" polygon_x="11 11 145 145 11 11" polygon_y="72 155 155 71 71 72"/>
+      <element label="image" polygon_x="11 11 110 110 11 11"
+               polygon_y="162 235 235 161 161 162"/>
+      <element label="image" polygon_x="116 116 210 210 116 116"
+               polygon_y="162 225 225 161 161 162"/>
+      <element label="image" polygon_x="96 96 130 130 96 96" polygon_y="7 35 35 6 6 7"/>
+      <element label="headline" polygon_x="71 71 155 155 71 71" polygon_y="42 50 50 41 41 42"/>
+   </layout>
+   <text/>
+</annotation>

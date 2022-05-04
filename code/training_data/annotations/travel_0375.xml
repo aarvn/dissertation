@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0375</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="26 26 110 110 26 26" polygon_y="87 155 155 86 86 87"/>
+      <element label="text" polygon_x="81 81 140 140 81 81"
+               polygon_y="222 285 285 221 221 222"/>
+      <element label="text" polygon_x="21 21 75 75 21 21" polygon_y="222 285 285 221 221 222"/>
+      <element label="text" polygon_x="146 146 200 200 146 146"
+               polygon_y="222 285 285 221 221 222"/>
+      <element label="text" polygon_x="26 26 80 80 26 26" polygon_y="57 80 80 56 56 57"/>
+      <element label="text" polygon_x="41 41 190 190 41 41" polygon_y="37 40 40 36 36 37"/>
+      <element label="image" polygon_x="116 116 200 200 116 116"
+               polygon_y="52 155 155 51 51 52"/>
+      <element label="image" polygon_x="81 81 130 130 81 81"
+               polygon_y="162 215 215 161 161 162"/>
+      <element label="image" polygon_x="21 21 60 60 21 21" polygon_y="162 215 215 161 161 162"/>
+      <element label="image" polygon_x="146 146 180 180 146 146"
+               polygon_y="162 215 215 161 161 162"/>
+      <element label="headline" polygon_x="61 61 165 165 61 61" polygon_y="22 30 30 21 21 22"/>
+   </layout>
+   <text>
+      <keyword>place</keyword>
+      <keyword>life</keyword>
+      <keyword>family</keyword>
+      <keyword>child</keyword>
+      <keyword>town</keyword>
+      <keyword>book</keyword>
+      <keyword>story</keyword>
+      <keyword>wild</keyword>
+      <keyword>nature</keyword>
+      <keyword>wildlife</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0088</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="171 171 220 220 171 171"
+               polygon_y="152 285 285 151 151 152"/>
+      <element label="text" polygon_x="6 6 100 100 6 6" polygon_y="232 285 285 231 231 232"/>
+      <element label="text" polygon_x="6 6 50 50 6 6" polygon_y="32 140 140 31 31 32"/>
+      <element label="text" polygon_x="61 61 105 105 61 61"
+               polygon_y="107 210 210 106 106 107"/>
+      <element label="text" polygon_x="116 116 160 160 116 116"
+               polygon_y="107 205 205 106 106 107"/>
+      <element label="text" polygon_x="6 6 55 55 6 6" polygon_y="197 210 210 196 196 197"/>
+      <element label="text" polygon_x="171 171 195 195 171 171"
+               polygon_y="107 130 130 106 106 107"/>
+      <element label="text" polygon_x="6 6 65 65 6 6" polygon_y="217 225 225 216 216 217"/>
+      <element label="text" polygon_x="81 81 110 110 81 81" polygon_y="87 100 100 86 86 87"/>
+      <element label="text" polygon_x="6 6 40 40 6 6" polygon_y="12 20 20 11 11 12"/>
+      <element label="image" polygon_x="116 116 201 201 201 220 221 221 225 225 116 116"
+               polygon_y="2 100 100 101 130 130 101 100 100 1 1 2"/>
+      <element label="image" polygon_x="106 106 165 165 106 106"
+               polygon_y="217 300 300 216 216 217"/>
+      <element label="image" polygon_x="56 56 75 76 76 105 105 56 56"
+               polygon_y="2 100 100 81 80 80 1 1 2"/>
+      <element label="image" polygon_x="6 6 50 50 6 6" polygon_y="147 190 190 146 146 147"/>
+      <element label="image" polygon_x="171 171 220 220 171 171"
+               polygon_y="137 150 150 136 136 137"/>
+   </layout>
+   <text>
+      <keyword>skin</keyword>
+      <keyword>face</keyword>
+      <keyword>light</keyword>
+      <keyword>fragrance</keyword>
+      <keyword>free</keyword>
+   </text>
+</annotation>

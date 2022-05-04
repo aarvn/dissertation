@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0499</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="82 285 285 81 81 82"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="212 285 285 211 211 212"/>
+      <element label="text" polygon_x="11 11 145 145 11 11" polygon_y="52 65 65 51 51 52"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="257 285 285 256 256 257"/>
+      <element label="text" polygon_x="81 81 140 140 81 81"
+               polygon_y="172 200 200 171 171 172"/>
+      <element label="text" polygon_x="11 11 30 30 11 11" polygon_y="12 25 25 11 11 12"/>
+      <element label="image" polygon_x="81 81 215 215 81 81" polygon_y="77 165 165 76 76 77"/>
+      <element label="image" polygon_x="151 151 215 215 151 151"
+               polygon_y="172 250 250 171 171 172"/>
+      <element label="image" polygon_x="151 151 215 215 151 151" polygon_y="2 70 70 1 1 2"/>
+      <element label="headline" polygon_x="11 11 110 110 11 11" polygon_y="37 50 50 36 36 37"/>
+   </layout>
+   <text>
+      <keyword>earth</keyword>
+      <keyword>field</keyword>
+      <keyword>discover</keyword>
+      <keyword>group</keyword>
+      <keyword>interest</keyword>
+   </text>
+</annotation>

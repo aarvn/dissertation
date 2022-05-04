@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0060</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="116 116 210 210 116 116"
+               polygon_y="172 285 285 171 171 172"/>
+      <element label="text" polygon_x="21 21 41 41 41 70 70 21 21"
+               polygon_y="102 270 270 271 285 285 101 101 102"/>
+      <element label="text" polygon_x="86 86 210 210 86 86"
+               polygon_y="152 165 165 151 151 152"/>
+      <element label="text" polygon_x="86 86 110 110 86 86"
+               polygon_y="172 225 225 171 171 172"/>
+      <element label="text" polygon_x="86 86 110 110 86 86"
+               polygon_y="232 280 280 231 231 232"/>
+      <element label="image" polygon_x="86 86 186 186 186 210 211 211 225 225 86 86"
+               polygon_y="2 130 130 131 140 140 131 130 130 1 1 2"/>
+      <element label="image" polygon_x="21 21 65 65 21 21" polygon_y="57 95 95 56 56 57"/>
+      <element label="image" polygon_x="6 6 40 40 6 6" polygon_y="272 285 285 271 271 272"/>
+      <element label="headline" polygon_x="86 86 155 155 86 86"
+               polygon_y="137 150 150 136 136 137"/>
+      <element label="headline" polygon_x="21 21 65 65 21 21" polygon_y="32 50 50 31 31 32"/>
+      <element label="text-over-image" polygon_x="186 186 210 210 186 186"
+               polygon_y="127 140 140 126 126 127"/>
+   </layout>
+   <text>
+      <keyword>tree</keyword>
+      <keyword>couple</keyword>
+      <keyword>man</keyword>
+      <keyword>shop</keyword>
+      <keyword>landscape</keyword>
+   </text>
+</annotation>

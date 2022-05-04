@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0325</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="161 161 200 200 161 161"
+               polygon_y="182 225 225 181 181 182"/>
+      <element label="text-over-image" polygon_x="156 156 215 215 156 156"
+               polygon_y="12 20 20 11 11 12"/>
+      <element label="text-over-image" polygon_x="166 166 195 195 166 166"
+               polygon_y="257 265 265 256 256 257"/>
+      <element label="text-over-image" polygon_x="171 171 190 190 171 171"
+               polygon_y="172 175 175 171 171 172"/>
+   </layout>
+   <text>
+      <keyword>butter</keyword>
+      <keyword>love</keyword>
+      <keyword>potato</keyword>
+   </text>
+</annotation>

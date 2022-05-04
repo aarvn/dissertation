@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0213</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 65 65 21 21" polygon_y="127 275 275 126 126 127"/>
+      <element label="text" polygon_x="131 131 200 200 131 131"
+               polygon_y="92 180 180 91 91 92"/>
+      <element label="text" polygon_x="131 131 200 200 131 131"
+               polygon_y="187 250 250 186 186 187"/>
+      <element label="text" polygon_x="76 76 120 120 76 76"
+               polygon_y="127 220 220 126 126 127"/>
+      <element label="text" polygon_x="131 131 200 200 131 131" polygon_y="47 85 85 46 46 47"/>
+      <element label="text" polygon_x="131 131 200 200 131 131"
+               polygon_y="257 280 280 256 256 257"/>
+      <element label="text" polygon_x="11 11 50 50 11 11" polygon_y="12 20 20 11 11 12"/>
+      <element label="text" polygon_x="131 131 160 160 131 131" polygon_y="32 40 40 31 31 32"/>
+      <element label="image" polygon_x="11 11 125 125 21 20 20 11 11"
+               polygon_y="87 120 120 26 26 85 86 86 87"/>
+      <element label="image" polygon_x="76 76 125 125 76 76"
+               polygon_y="227 280 280 226 226 227"/>
+      <element label="text-over-image" polygon_x="11 11 45 45 11 11"
+               polygon_y="87 120 120 86 86 87"/>
+   </layout>
+   <text>
+      <keyword>eat</keyword>
+      <keyword>food</keyword>
+      <keyword>wine</keyword>
+      <keyword>restaurant</keyword>
+      <keyword>love</keyword>
+      <keyword>cheese</keyword>
+      <keyword>fish</keyword>
+      <keyword>dress</keyword>
+      <keyword>plenty</keyword>
+      <keyword>drink</keyword>
+   </text>
+</annotation>

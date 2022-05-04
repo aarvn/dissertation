@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0179</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 85 85 11 11" polygon_y="217 280 280 216 216 217"/>
+      <element label="text" polygon_x="131 131 205 205 131 131"
+               polygon_y="217 280 280 216 216 217"/>
+      <element label="text" polygon_x="91 91 125 125 91 91"
+               polygon_y="227 275 275 226 226 227"/>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 210 210 1 1 2"/>
+      <element label="text-over-image" polygon_x="181 181 210 210 181 181"
+               polygon_y="147 160 160 146 146 147"/>
+      <element label="headline-over-image" polygon_x="11 11 110 110 11 11"
+               polygon_y="172 210 210 171 171 172"/>
+   </layout>
+   <text>
+      <keyword>scientist</keyword>
+      <keyword>researcher</keyword>
+      <keyword>university</keyword>
+      <keyword>create</keyword>
+      <keyword>story</keyword>
+      <keyword>treatment</keyword>
+      <keyword>brain</keyword>
+   </text>
+</annotation>

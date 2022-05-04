@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0599</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="71 71 155 155 71 71"
+               polygon_y="267 285 285 266 266 267"/>
+      <element label="text" polygon_x="166 166 220 220 166 166"
+               polygon_y="277 285 285 276 276 277"/>
+      <element label="text" polygon_x="11 11 55 55 11 11" polygon_y="277 285 285 276 276 277"/>
+      <element label="image" polygon_x="1 1 76 76 76 150 151 151 225 225 1 1"
+               polygon_y="2 245 245 246 260 260 246 245 245 1 1 2"/>
+      <element label="image" polygon_x="166 166 220 220 166 166"
+               polygon_y="257 270 270 256 256 257"/>
+      <element label="image" polygon_x="11 11 30 30 11 11" polygon_y="252 270 270 251 251 252"/>
+      <element label="text-over-image" polygon_x="71 71 155 155 71 71"
+               polygon_y="202 230 230 201 201 202"/>
+      <element label="text-over-image" polygon_x="11 11 55 55 11 11"
+               polygon_y="222 240 240 221 221 222"/>
+      <element label="text-over-image" polygon_x="116 116 150 150 116 116"
+               polygon_y="162 180 180 161 161 162"/>
+      <element label="text-over-image" polygon_x="86 86 130 130 86 86"
+               polygon_y="87 95 95 86 86 87"/>
+   </layout>
+   <text>
+      <keyword>cheese</keyword>
+   </text>
+</annotation>

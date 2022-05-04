@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0200</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="121 121 155 155 121 121"
+               polygon_y="127 195 195 126 126 127"/>
+      <element label="text" polygon_x="26 26 110 110 26 26"
+               polygon_y="192 215 215 191 191 192"/>
+      <element label="text" polygon_x="166 166 210 210 166 166"
+               polygon_y="127 170 170 126 126 127"/>
+      <element label="text" polygon_x="26 26 55 55 26 26" polygon_y="222 275 275 221 221 222"/>
+      <element label="text" polygon_x="166 166 210 210 166 166"
+               polygon_y="177 195 195 176 176 177"/>
+      <element label="text" polygon_x="26 26 145 145 26 26" polygon_y="57 60 60 56 56 57"/>
+      <element label="image" polygon_x="26 26 110 110 26 26" polygon_y="72 185 185 71 71 72"/>
+      <element label="image" polygon_x="121 121 205 205 121 121"
+               polygon_y="202 275 275 201 201 202"/>
+      <element label="image" polygon_x="61 61 110 110 61 61"
+               polygon_y="222 275 275 221 221 222"/>
+      <element label="image" polygon_x="121 121 155 155 121 121"
+               polygon_y="72 115 115 71 71 72"/>
+      <element label="image" polygon_x="176 176 195 195 176 176"
+               polygon_y="72 115 115 71 71 72"/>
+      <element label="headline" polygon_x="26 26 105 105 26 26" polygon_y="32 50 50 31 31 32"/>
+   </layout>
+   <text>
+      <keyword>wine</keyword>
+      <keyword>flavour</keyword>
+      <keyword>warm</keyword>
+      <keyword>vanilla</keyword>
+   </text>
+</annotation>

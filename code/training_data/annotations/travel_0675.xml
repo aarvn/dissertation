@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0675</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="127 300 300 126 126 127"/>
+      <element label="image" polygon_x="1 1 110 110 1 1" polygon_y="2 120 120 1 1 2"/>
+      <element label="image" polygon_x="116 116 225 225 116 116" polygon_y="2 120 120 1 1 2"/>
+      <element label="text-over-image" polygon_x="166 166 210 210 166 166"
+               polygon_y="267 285 285 266 266 267"/>
+      <element label="text-over-image" polygon_x="11 11 60 60 11 11"
+               polygon_y="102 115 115 101 101 102"/>
+      <element label="text-over-image" polygon_x="121 121 155 155 121 121"
+               polygon_y="17 30 30 16 16 17"/>
+   </layout>
+   <text>
+      <keyword>visit</keyword>
+      <keyword>top</keyword>
+      <keyword>friend</keyword>
+   </text>
+</annotation>

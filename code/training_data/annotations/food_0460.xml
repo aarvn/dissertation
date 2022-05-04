@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0460</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 65 65 11 11" polygon_y="47 175 175 46 46 47"/>
+      <element label="text" polygon_x="131 131 180 180 131 131"
+               polygon_y="152 285 285 151 151 152"/>
+      <element label="text" polygon_x="71 71 125 125 71 71" polygon_y="32 140 140 31 31 32"/>
+      <element label="text" polygon_x="11 11 65 65 11 11" polygon_y="237 285 285 236 236 237"/>
+      <element label="text" polygon_x="71 71 125 125 71 71"
+               polygon_y="177 215 215 176 176 177"/>
+      <element label="text" polygon_x="71 71 125 125 71 71"
+               polygon_y="252 285 285 251 251 252"/>
+      <element label="text" polygon_x="11 11 65 65 11 11" polygon_y="207 230 230 206 206 207"/>
+      <element label="text" polygon_x="71 71 125 125 71 71"
+               polygon_y="147 170 170 146 146 147"/>
+      <element label="text" polygon_x="71 71 125 125 71 71"
+               polygon_y="222 245 245 221 221 222"/>
+      <element label="text" polygon_x="11 11 65 65 11 11" polygon_y="182 200 200 181 181 182"/>
+      <element label="text" polygon_x="191 191 210 210 191 191"
+               polygon_y="152 185 185 151 151 152"/>
+      <element label="text" polygon_x="11 11 65 65 11 11" polygon_y="32 40 40 31 31 32"/>
+      <element label="image" polygon_x="131 131 225 225 131 131" polygon_y="2 145 145 1 1 2"/>
+      <element label="image" polygon_x="186 186 225 225 186 186"
+               polygon_y="222 300 300 221 221 222"/>
+      <element label="text-over-image" polygon_x="166 166 215 215 166 166"
+               polygon_y="127 140 140 126 126 127"/>
+      <element label="text-over-image" polygon_x="176 176 220 220 176 176"
+               polygon_y="12 15 15 11 11 12"/>
+   </layout>
+   <text>
+      <keyword>top</keyword>
+      <keyword>salt</keyword>
+      <keyword>stir</keyword>
+      <keyword>heat</keyword>
+      <keyword>place</keyword>
+      <keyword>cool</keyword>
+      <keyword>oil</keyword>
+      <keyword>oven</keyword>
+      <keyword>bowl</keyword>
+      <keyword>pan</keyword>
+      <keyword>fry</keyword>
+      <keyword>wine</keyword>
+      <keyword>mixture</keyword>
+      <keyword>garlic</keyword>
+      <keyword>ingredient</keyword>
+      <keyword>pepper</keyword>
+      <keyword>onion</keyword>
+      <keyword>cheese</keyword>
+      <keyword>fridge</keyword>
+      <keyword>soft</keyword>
+      <keyword>sauce</keyword>
+      <keyword>warm</keyword>
+      <keyword>hot</keyword>
+      <keyword>grill</keyword>
+      <keyword>soften</keyword>
+      <keyword>chicken</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0226</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="16 16 70 70 16 16" polygon_y="162 240 240 161 161 162"/>
+      <element label="text" polygon_x="81 81 105 106 106 135 135 81 81"
+               polygon_y="182 280 280 236 235 235 181 181 182"/>
+      <element label="text" polygon_x="146 146 200 200 146 146"
+               polygon_y="47 115 115 46 46 47"/>
+      <element label="text" polygon_x="146 146 200 200 146 146"
+               polygon_y="122 190 190 121 121 122"/>
+      <element label="text" polygon_x="16 16 70 70 16 16" polygon_y="92 155 155 91 91 92"/>
+      <element label="text" polygon_x="146 146 176 176 176 200 200 146 146"
+               polygon_y="197 235 235 236 280 280 196 196 197"/>
+      <element label="text" polygon_x="116 116 165 165 116 116"
+               polygon_y="242 285 285 241 241 242"/>
+      <element label="text" polygon_x="16 16 70 70 16 16" polygon_y="247 280 280 246 246 247"/>
+      <element label="text" polygon_x="81 81 135 135 81 81"
+               polygon_y="142 175 175 141 141 142"/>
+      <element label="text" polygon_x="146 146 200 200 146 146" polygon_y="22 40 40 21 21 22"/>
+      <element label="text" polygon_x="6 6 15 16 16 50 50 6 6"
+               polygon_y="7 70 70 16 15 15 6 6 7"/>
+      <element label="text" polygon_x="21 21 75 75 21 21" polygon_y="77 85 85 76 76 77"/>
+      <element label="image" polygon_x="81 81 135 135 81 81" polygon_y="12 135 135 11 11 12"/>
+      <element label="headline" polygon_x="21 21 75 75 21 21" polygon_y="37 70 70 36 36 37"/>
+   </layout>
+   <text>
+      <keyword>top</keyword>
+      <keyword>job</keyword>
+      <keyword>mind</keyword>
+      <keyword>body</keyword>
+      <keyword>fall</keyword>
+      <keyword>free</keyword>
+      <keyword>flower</keyword>
+   </text>
+</annotation>

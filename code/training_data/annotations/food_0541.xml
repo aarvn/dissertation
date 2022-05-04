@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0541</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="16 16 80 80 16 16" polygon_y="172 285 285 171 171 172"/>
+      <element label="text" polygon_x="151 151 210 210 151 151"
+               polygon_y="172 285 285 171 171 172"/>
+      <element label="text" polygon_x="86 86 145 145 86 86"
+               polygon_y="172 255 255 171 171 172"/>
+      <element label="text" polygon_x="86 86 145 145 86 86"
+               polygon_y="262 285 285 261 261 262"/>
+      <element label="text" polygon_x="186 186 210 210 186 186" polygon_y="27 75 75 26 26 27"/>
+      <element label="image" polygon_x="1 1 110 110 1 1" polygon_y="2 160 160 1 1 2"/>
+      <element label="image" polygon_x="116 116 151 151 151 210 211 211 225 225 116 116"
+               polygon_y="87 160 160 161 165 165 161 160 160 86 86 87"/>
+      <element label="image" polygon_x="116 116 180 180 116 116" polygon_y="2 80 80 1 1 2"/>
+      <element label="text-over-image" polygon_x="151 151 210 210 151 151"
+               polygon_y="142 165 165 141 141 142"/>
+   </layout>
+   <text>
+      <keyword>wine</keyword>
+      <keyword>flavour</keyword>
+      <keyword>cheese</keyword>
+      <keyword>enjoy</keyword>
+      <keyword>potato</keyword>
+      <keyword>juice</keyword>
+      <keyword>menu</keyword>
+      <keyword>meat</keyword>
+      <keyword>delicious</keyword>
+      <keyword>glass</keyword>
+      <keyword>choice</keyword>
+      <keyword>small</keyword>
+      <keyword>lunch</keyword>
+      <keyword>style</keyword>
+      <keyword>meal</keyword>
+   </text>
+</annotation>

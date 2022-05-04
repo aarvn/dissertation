@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0082</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="16 16 90 90 50 50 51 51 90 90 16 16"
+               polygon_y="157 290 290 246 246 245 196 195 195 156 156 157"/>
+      <element label="text" polygon_x="96 96 136 136 135 135 96 96 170 170 96 96"
+               polygon_y="157 195 195 196 245 246 246 290 290 156 156 157"/>
+      <element label="text" polygon_x="16 16 90 90 16 16" polygon_y="42 145 145 41 41 42"/>
+      <element label="text" polygon_x="61 61 125 125 61 61"
+               polygon_y="202 240 240 201 201 202"/>
+      <element label="text" polygon_x="176 176 215 215 176 176"
+               polygon_y="207 220 220 206 206 207"/>
+      <element label="image" polygon_x="96 96 225 225 96 96" polygon_y="2 150 150 1 1 2"/>
+      <element label="image" polygon_x="176 176 215 215 176 176"
+               polygon_y="157 205 205 156 156 157"/>
+      <element label="headline" polygon_x="16 16 90 90 16 16" polygon_y="32 35 35 31 31 32"/>
+   </layout>
+   <text>
+      <keyword>love</keyword>
+      <keyword>country</keyword>
+      <keyword>tree</keyword>
+      <keyword>experience</keyword>
+      <keyword>book</keyword>
+      <keyword>countryside</keyword>
+      <keyword>bird</keyword>
+      <keyword>sky</keyword>
+      <keyword>wild</keyword>
+      <keyword>haven</keyword>
+      <keyword>young</keyword>
+   </text>
+</annotation>

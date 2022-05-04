@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0030</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="16 16 110 110 16 16"
+               polygon_y="207 260 260 206 206 207"/>
+      <element label="text" polygon_x="151 151 200 200 151 151"
+               polygon_y="97 180 180 96 96 97"/>
+      <element label="text" polygon_x="136 136 156 156 156 190 190 136 136"
+               polygon_y="207 255 255 256 275 275 206 206 207"/>
+      <element label="text" polygon_x="81 81 150 150 81 81"
+               polygon_y="267 285 285 266 266 267"/>
+      <element label="text" polygon_x="151 151 195 195 151 151" polygon_y="77 85 85 76 76 77"/>
+      <element label="text" polygon_x="46 46 85 85 46 46" polygon_y="187 195 195 186 186 187"/>
+      <element label="text" polygon_x="156 156 190 190 156 156"
+               polygon_y="192 200 200 191 191 192"/>
+      <element label="image"
+               polygon_x="1 1 140 141 141 210 210 140 140 141 141 190 190 140 140 140 1 1"
+               polygon_y="2 180 180 71 70 70 51 51 50 46 45 45 16 16 15 1 1 2"/>
+      <element label="image" polygon_x="96 96 120 120 96 96"
+               polygon_y="187 205 205 186 186 187"/>
+      <element label="image" polygon_x="131 131 155 155 131 131"
+               polygon_y="187 205 205 186 186 187"/>
+      <element label="image" polygon_x="196 196 215 215 196 196" polygon_y="77 95 95 76 76 77"/>
+      <element label="text-over-image" polygon_x="101 101 210 210 101 101"
+               polygon_y="52 70 70 51 51 52"/>
+      <element label="headline-over-image" polygon_x="116 116 190 190 116 116"
+               polygon_y="17 45 45 16 16 17"/>
+   </layout>
+   <text>
+      <keyword>woman</keyword>
+      <keyword>idea</keyword>
+      <keyword>heart</keyword>
+      <keyword>watch</keyword>
+      <keyword>job</keyword>
+      <keyword>child</keyword>
+      <keyword>fit</keyword>
+      <keyword>cool</keyword>
+   </text>
+</annotation>

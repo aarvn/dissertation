@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0578</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="41 41 185 185 41 41"
+               polygon_y="247 255 255 246 246 247"/>
+      <element label="text-over-image" polygon_x="66 66 160 160 66 66"
+               polygon_y="227 240 240 226 226 227"/>
+      <element label="text-over-image" polygon_x="86 86 140 140 86 86"
+               polygon_y="17 40 40 16 16 17"/>
+      <element label="text-over-image" polygon_x="76 76 145 145 76 76"
+               polygon_y="272 285 285 271 271 272"/>
+      <element label="text-over-image" polygon_x="6 6 35 35 6 6"
+               polygon_y="277 290 290 276 276 277"/>
+   </layout>
+   <text>
+      <keyword>explore</keyword>
+      <keyword>experience</keyword>
+      <keyword>resort</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0188</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="112 290 290 111 111 112"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="152 290 290 151 151 152"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="152 290 290 151 151 152"/>
+      <element label="text" polygon_x="151 151 210 210 151 151" polygon_y="22 50 50 21 21 22"/>
+      <element label="text" polygon_x="11 11 130 130 11 11"
+               polygon_y="137 145 145 136 136 137"/>
+      <element label="text" polygon_x="151 151 210 210 151 151"
+               polygon_y="92 100 100 91 91 92"/>
+      <element label="image" polygon_x="11 11 145 145 30 30 30 11 11"
+               polygon_y="12 105 105 16 16 15 11 11 12"/>
+      <element label="headline" polygon_x="11 11 75 75 11 11"
+               polygon_y="112 120 120 111 111 112"/>
+      <element label="text-over-image" polygon_x="11 11 30 30 11 11"
+               polygon_y="12 20 20 11 11 12"/>
+   </layout>
+   <text>
+      <keyword>man</keyword>
+      <keyword>talk</keyword>
+      <keyword>power</keyword>
+      <keyword>problem</keyword>
+      <keyword>public</keyword>
+      <keyword>wife</keyword>
+      <keyword>question</keyword>
+      <keyword>young</keyword>
+      <keyword>announce</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0603</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="146 146 210 210 146 146"
+               polygon_y="192 285 285 191 191 192"/>
+      <element label="text" polygon_x="81 81 140 140 81 81"
+               polygon_y="192 285 285 191 191 192"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="192 235 235 191 191 192"/>
+      <element label="text" polygon_x="61 61 165 165 61 61"
+               polygon_y="172 180 180 171 171 172"/>
+      <element label="text" polygon_x="61 61 160 160 61 61" polygon_y="47 50 50 46 46 47"/>
+      <element label="image" polygon_x="41 41 185 185 41 41" polygon_y="67 170 170 66 66 67"/>
+      <element label="headline" polygon_x="21 21 205 205 21 21" polygon_y="12 45 45 11 11 12"/>
+   </layout>
+   <text>
+      <keyword>friend</keyword>
+      <keyword>public</keyword>
+      <keyword>demand</keyword>
+      <keyword>court</keyword>
+   </text>
+</annotation>

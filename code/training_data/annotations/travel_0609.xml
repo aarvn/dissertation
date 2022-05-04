@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0609</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="16 16 60 60 16 16" polygon_y="62 140 140 61 61 62"/>
+      <element label="text" polygon_x="66 66 110 110 66 66" polygon_y="42 110 110 41 41 42"/>
+      <element label="text" polygon_x="116 116 215 215 116 116"
+               polygon_y="112 135 135 111 111 112"/>
+      <element label="text" polygon_x="66 66 110 110 66 66"
+               polygon_y="117 155 155 116 116 117"/>
+      <element label="text" polygon_x="16 16 60 60 16 16" polygon_y="42 55 55 41 41 42"/>
+      <element label="text" polygon_x="166 166 215 215 166 166"
+               polygon_y="147 155 155 146 146 147"/>
+      <element label="text" polygon_x="16 16 60 60 16 16" polygon_y="147 155 155 146 146 147"/>
+      <element label="text" polygon_x="116 116 160 160 116 116"
+               polygon_y="147 155 155 146 146 147"/>
+      <element label="text" polygon_x="101 101 125 125 101 101" polygon_y="12 25 25 11 11 12"/>
+      <element label="image" polygon_x="16 16 225 225 66 65 65 16 16"
+               polygon_y="242 280 280 161 161 240 241 241 242"/>
+      <element label="image" polygon_x="116 116 215 215 116 116"
+               polygon_y="42 105 105 41 41 42"/>
+      <element label="image" polygon_x="16 16 60 60 16 16" polygon_y="162 235 235 161 161 162"/>
+      <element label="text-over-image" polygon_x="66 66 85 85 66 66"
+               polygon_y="162 200 200 161 161 162"/>
+   </layout>
+   <text>
+      <keyword>hotel</keyword>
+      <keyword>city</keyword>
+      <keyword>restaurant</keyword>
+      <keyword>haven</keyword>
+      <keyword>scene</keyword>
+      <keyword>relax</keyword>
+   </text>
+</annotation>

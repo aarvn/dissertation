@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0418</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="36 36 205 205 36 36"
+               polygon_y="282 285 285 281 281 282"/>
+      <element label="text" polygon_x="11 11 25 25 11 11" polygon_y="127 180 180 126 126 127"/>
+      <element label="text" polygon_x="11 11 25 25 11 11" polygon_y="42 80 80 41 41 42"/>
+      <element label="text" polygon_x="11 11 25 25 11 11" polygon_y="192 230 230 191 191 192"/>
+      <element label="text" polygon_x="96 96 150 150 96 96"
+               polygon_y="267 275 275 266 266 267"/>
+      <element label="text" polygon_x="11 11 25 25 11 11" polygon_y="87 120 120 86 86 87"/>
+      <element label="image" polygon_x="126 126 215 215 126 126"
+               polygon_y="142 260 260 141 141 142"/>
+      <element label="image" polygon_x="36 36 120 120 36 36"
+               polygon_y="142 260 260 141 141 142"/>
+      <element label="image" polygon_x="126 126 215 215 126 126"
+               polygon_y="27 135 135 26 26 27"/>
+      <element label="image" polygon_x="36 36 120 120 36 36" polygon_y="27 135 135 26 26 27"/>
+      <element label="headline" polygon_x="6 6 60 60 6 6" polygon_y="7 20 20 6 6 7"/>
+   </layout>
+   <text>
+      <keyword>top</keyword>
+      <keyword>gold</keyword>
+      <keyword>shirt</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0129</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="131 131 195 195 131 131"
+               polygon_y="142 280 280 141 141 142"/>
+      <element label="text" polygon_x="56 56 120 120 56 56"
+               polygon_y="152 280 280 151 151 152"/>
+      <element label="text" polygon_x="16 16 50 50 16 16" polygon_y="142 175 175 141 141 142"/>
+      <element label="text" polygon_x="56 56 95 95 56 56" polygon_y="142 145 145 141 141 142"/>
+      <element label="image" polygon_x="16 16 200 200 16 16" polygon_y="32 135 135 31 31 32"/>
+      <element label="headline-over-image" polygon_x="21 21 95 95 21 21"
+               polygon_y="122 130 130 121 121 122"/>
+   </layout>
+   <text>
+      <keyword>fall</keyword>
+      <keyword>grow</keyword>
+      <keyword>live</keyword>
+      <keyword>love</keyword>
+      <keyword>nation</keyword>
+      <keyword>culture</keyword>
+      <keyword>service</keyword>
+      <keyword>important</keyword>
+   </text>
+</annotation>

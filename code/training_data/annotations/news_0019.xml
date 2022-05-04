@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0019</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="136 136 210 210 136 136"
+               polygon_y="17 275 275 16 16 17"/>
+      <element label="text" polygon_x="56 56 130 130 56 56" polygon_y="57 275 275 56 56 57"/>
+      <element label="text" polygon_x="56 56 130 130 56 56" polygon_y="17 45 45 16 16 17"/>
+      <element label="text" polygon_x="16 16 40 40 16 16" polygon_y="32 85 85 31 31 32"/>
+   </layout>
+   <text>
+      <keyword>state</keyword>
+      <keyword>president</keyword>
+      <keyword>fear</keyword>
+      <keyword>grow</keyword>
+      <keyword>mother</keyword>
+      <keyword>office</keyword>
+      <keyword>father</keyword>
+      <keyword>meeting</keyword>
+      <keyword>important</keyword>
+   </text>
+</annotation>

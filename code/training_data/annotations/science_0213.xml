@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0213</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 110 110 65 65 66 66 110 110 11 11"
+               polygon_y="42 285 285 201 201 200 86 85 85 41 41 42"/>
+      <element label="text" polygon_x="116 116 215 215 116 116"
+               polygon_y="202 285 285 201 201 202"/>
+      <element label="text" polygon_x="116 116 215 215 116 116" polygon_y="42 85 85 41 41 42"/>
+      <element label="text" polygon_x="71 71 215 215 71 71"
+               polygon_y="182 190 190 181 181 182"/>
+      <element label="image" polygon_x="71 71 215 215 71 71" polygon_y="92 175 175 91 91 92"/>
+      <element label="headline" polygon_x="11 11 205 205 11 11" polygon_y="12 30 30 11 11 12"/>
+   </layout>
+   <text>
+      <keyword>study</keyword>
+      <keyword>scientist</keyword>
+      <keyword>university</keyword>
+      <keyword>field</keyword>
+      <keyword>issue</keyword>
+      <keyword>system</keyword>
+      <keyword>reveal</keyword>
+      <keyword>west</keyword>
+   </text>
+</annotation>

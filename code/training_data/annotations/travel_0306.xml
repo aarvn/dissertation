@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0306</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 135 135 21 21"
+               polygon_y="182 205 205 181 181 182"/>
+      <element label="text" polygon_x="101 101 135 135 101 101"
+               polygon_y="132 165 165 131 131 132"/>
+      <element label="text" polygon_x="31 31 105 105 31 31" polygon_y="52 65 65 51 51 52"/>
+      <element label="text" polygon_x="151 151 200 200 151 151"
+               polygon_y="152 160 160 151 151 152"/>
+      <element label="image" polygon_x="131 131 220 220 141 140 140 131 131"
+               polygon_y="287 300 300 171 171 285 286 286 287"/>
+      <element label="image" polygon_x="11 11 31 31 31 95 96 96 120 120 11 11"
+               polygon_y="77 125 125 126 165 165 126 125 125 76 76 77"/>
+      <element label="image" polygon_x="11 11 120 120 11 11"
+               polygon_y="217 285 285 216 216 217"/>
+      <element label="image" polygon_x="141 141 220 220 141 141"
+               polygon_y="22 115 115 21 21 22"/>
+      <element label="image" polygon_x="141 141 210 210 141 141"
+               polygon_y="122 150 150 121 121 122"/>
+      <element label="headline" polygon_x="21 21 115 115 21 21" polygon_y="17 45 45 16 16 17"/>
+      <element label="text-over-image" polygon_x="131 131 180 180 131 131"
+               polygon_y="287 300 300 286 286 287"/>
+      <element label="text-over-image" polygon_x="31 31 100 100 31 31"
+               polygon_y="277 285 285 276 276 277"/>
+      <element label="text-over-image" polygon_x="141 141 180 180 141 141"
+               polygon_y="22 35 35 21 21 22"/>
+   </layout>
+   <text>
+      <keyword>room</keyword>
+      <keyword>space</keyword>
+   </text>
+</annotation>

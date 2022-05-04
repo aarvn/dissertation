@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0620</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="61 61 145 145 116 115 115 61 61"
+               polygon_y="127 290 290 76 76 125 126 126 127"/>
+      <element label="text-over-image" polygon_x="151 151 200 200 151 151"
+               polygon_y="132 265 265 131 131 132"/>
+      <element label="text-over-image" polygon_x="151 151 200 200 151 151"
+               polygon_y="272 290 290 271 271 272"/>
+      <element label="text-over-image" polygon_x="61 61 125 125 61 61"
+               polygon_y="57 70 70 56 56 57"/>
+      <element label="headline-over-image" polygon_x="56 56 120 120 56 56"
+               polygon_y="32 45 45 31 31 32"/>
+   </layout>
+   <text>
+      <keyword>experience</keyword>
+      <keyword>park</keyword>
+      <keyword>relax</keyword>
+   </text>
+</annotation>

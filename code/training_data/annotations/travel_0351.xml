@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0351</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 90 90 21 21" polygon_y="77 175 175 76 76 77"/>
+      <element label="text" polygon_x="131 131 200 200 131 131"
+               polygon_y="77 175 175 76 76 77"/>
+      <element label="text" polygon_x="96 96 125 125 96 96"
+               polygon_y="112 175 175 111 111 112"/>
+      <element label="text" polygon_x="61 61 160 160 61 61" polygon_y="57 65 65 56 56 57"/>
+      <element label="text" polygon_x="96 96 125 125 96 96" polygon_y="77 105 105 76 76 77"/>
+      <element label="image" polygon_x="21 21 200 200 21 21"
+               polygon_y="182 285 285 181 181 182"/>
+      <element label="headline" polygon_x="31 31 185 185 31 31" polygon_y="22 50 50 21 21 22"/>
+   </layout>
+   <text>
+      <keyword>place</keyword>
+      <keyword>house</keyword>
+      <keyword>area</keyword>
+      <keyword>summer</keyword>
+      <keyword>town</keyword>
+      <keyword>food</keyword>
+      <keyword>plant</keyword>
+      <keyword>restaurant</keyword>
+      <keyword>taste</keyword>
+      <keyword>visitor</keyword>
+      <keyword>north</keyword>
+   </text>
+</annotation>

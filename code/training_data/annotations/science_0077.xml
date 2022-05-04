@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0077</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="101 101 180 180 101 101"
+               polygon_y="127 285 285 126 126 127"/>
+      <element label="text" polygon_x="16 16 95 95 16 16" polygon_y="142 285 285 141 141 142"/>
+      <element label="text" polygon_x="131 131 185 185 131 131"
+               polygon_y="47 105 105 46 46 47"/>
+      <element label="text" polygon_x="16 16 95 95 16 16" polygon_y="127 135 135 126 126 127"/>
+      <element label="text" polygon_x="131 131 195 195 131 131" polygon_y="32 40 40 31 31 32"/>
+      <element label="image" polygon_x="1 1 125 125 1 1" polygon_y="22 105 105 21 21 22"/>
+   </layout>
+   <text>
+      <keyword>animal</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0499</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="16 16 30 30 16 16" polygon_y="192 280 280 191 191 192"/>
+      <element label="text" polygon_x="6 6 60 60 6 6" polygon_y="7 20 20 6 6 7"/>
+      <element label="image"
+               polygon_x="11 11 66 66 65 65 36 36 66 66 66 170 171 171 200 200 170 170 171 171 205 205 170 170 171 171 220 220 170 170 170 66 65 65 11 11"
+               polygon_y="27 180 180 181 185 186 186 285 285 286 300 300 281 280 280 251 251 250 246 245 245 191 191 190 186 185 185 6 6 5 1 1 25 26 26 27"/>
+      <element label="text-over-image" polygon_x="96 96 140 140 96 96"
+               polygon_y="122 160 160 121 121 122"/>
+      <element label="text-over-image" polygon_x="161 161 200 200 161 161"
+               polygon_y="252 280 280 251 251 252"/>
+      <element label="text-over-image" polygon_x="106 106 130 130 106 106"
+               polygon_y="102 115 115 101 101 102"/>
+   </layout>
+   <text>
+      <keyword>wear</keyword>
+      <keyword>dress</keyword>
+      <keyword>season</keyword>
+      <keyword>ring</keyword>
+      <keyword>cool</keyword>
+   </text>
+</annotation>

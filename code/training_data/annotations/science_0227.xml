@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0227</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="16 16 110 110 16 16"
+               polygon_y="222 275 275 221 221 222"/>
+      <element label="text" polygon_x="116 116 200 200 116 116"
+               polygon_y="222 275 275 221 221 222"/>
+      <element label="image" polygon_x="11 11 225 225 11 11" polygon_y="22 200 200 21 21 22"/>
+      <element label="headline" polygon_x="16 16 80 80 16 16"
+               polygon_y="207 215 215 206 206 207"/>
+      <element label="text-over-image" polygon_x="21 21 110 110 21 21"
+               polygon_y="27 40 40 26 26 27"/>
+   </layout>
+   <text>
+      <keyword>decade</keyword>
+      <keyword>effect</keyword>
+      <keyword>area</keyword>
+      <keyword>island</keyword>
+      <keyword>history</keyword>
+   </text>
+</annotation>

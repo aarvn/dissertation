@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0259</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="26 26 110 110 26 26"
+               polygon_y="192 285 285 191 191 192"/>
+      <element label="text" polygon_x="26 26 110 110 26 26" polygon_y="42 110 110 41 41 42"/>
+      <element label="text" polygon_x="11 11 110 110 11 11" polygon_y="17 35 35 16 16 17"/>
+      <element label="text" polygon_x="116 116 215 215 116 116"
+               polygon_y="272 285 285 271 271 272"/>
+      <element label="text" polygon_x="11 11 95 95 11 11" polygon_y="177 185 185 176 176 177"/>
+      <element label="image"
+               polygon_x="11 11 116 116 116 215 216 216 225 225 116 115 115 11 11"
+               polygon_y="117 170 170 171 265 265 146 145 145 16 16 115 116 116 117"/>
+   </layout>
+   <text>
+      <keyword>place</keyword>
+      <keyword>project</keyword>
+      <keyword>issue</keyword>
+      <keyword>report</keyword>
+   </text>
+</annotation>

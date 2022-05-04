@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0156</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="21 21 75 75 21 21"
+               polygon_y="127 205 205 126 126 127"/>
+      <element label="text-over-image" polygon_x="86 86 140 140 86 86"
+               polygon_y="27 105 105 26 26 27"/>
+      <element label="text-over-image" polygon_x="21 21 75 75 21 21"
+               polygon_y="72 120 120 71 71 72"/>
+      <element label="text-over-image" polygon_x="161 161 200 200 161 161"
+               polygon_y="42 105 105 41 41 42"/>
+      <element label="text-over-image" polygon_x="21 21 75 75 21 21"
+               polygon_y="27 65 65 26 26 27"/>
+      <element label="text-over-image" polygon_x="21 21 75 75 21 21"
+               polygon_y="212 250 250 211 211 212"/>
+      <element label="text-over-image" polygon_x="176 176 215 215 176 176"
+               polygon_y="12 20 20 11 11 12"/>
+      <element label="text-over-image" polygon_x="21 21 55 55 21 21"
+               polygon_y="272 280 280 271 271 272"/>
+   </layout>
+   <text>
+      <keyword>salt</keyword>
+      <keyword>oven</keyword>
+      <keyword>water</keyword>
+      <keyword>pan</keyword>
+      <keyword>garlic</keyword>
+      <keyword>boil</keyword>
+      <keyword>fat</keyword>
+      <keyword>sauce</keyword>
+      <keyword>dress</keyword>
+      <keyword>roast</keyword>
+      <keyword>soften</keyword>
+      <keyword>vegetable</keyword>
+      <keyword>plenty</keyword>
+   </text>
+</annotation>

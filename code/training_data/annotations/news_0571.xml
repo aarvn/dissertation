@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0571</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 110 110 11 11"
+               polygon_y="172 265 265 171 171 172"/>
+      <element label="text" polygon_x="176 176 205 205 176 176"
+               polygon_y="67 215 215 66 66 67"/>
+      <element label="text" polygon_x="11 11 105 105 11 11"
+               polygon_y="142 165 165 141 141 142"/>
+      <element label="text" polygon_x="116 116 145 145 116 116"
+               polygon_y="172 225 225 171 171 172"/>
+      <element label="text" polygon_x="11 11 110 110 11 11"
+               polygon_y="272 280 280 271 271 272"/>
+      <element label="text" polygon_x="176 176 205 205 176 176" polygon_y="42 60 60 41 41 42"/>
+      <element label="text" polygon_x="176 176 205 205 176 176"
+               polygon_y="222 235 235 221 221 222"/>
+      <element label="image" polygon_x="1 1 145 145 1 1" polygon_y="37 135 135 36 36 37"/>
+      <element label="image" polygon_x="176 176 205 205 176 176"
+               polygon_y="242 280 280 241 241 242"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>talk</keyword>
+      <keyword>live</keyword>
+      <keyword>mind</keyword>
+      <keyword>study</keyword>
+      <keyword>father</keyword>
+      <keyword>sense</keyword>
+   </text>
+</annotation>

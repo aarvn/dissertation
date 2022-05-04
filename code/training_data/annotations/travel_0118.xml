@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0118</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="141 141 210 210 141 141"
+               polygon_y="87 260 260 86 86 87"/>
+      <element label="text" polygon_x="16 16 85 85 16 16" polygon_y="177 290 290 176 176 177"/>
+      <element label="text" polygon_x="141 141 210 210 141 141" polygon_y="42 80 80 41 41 42"/>
+      <element label="text" polygon_x="91 91 135 135 91 91"
+               polygon_y="177 230 230 176 176 177"/>
+      <element label="text" polygon_x="156 156 210 210 156 156"
+               polygon_y="267 285 285 266 266 267"/>
+      <element label="text" polygon_x="141 141 210 210 141 141" polygon_y="22 35 35 21 21 22"/>
+      <element label="image" polygon_x="16 16 135 135 16 16" polygon_y="12 170 170 11 11 12"/>
+      <element label="image" polygon_x="141 141 155 155 141 141"
+               polygon_y="267 285 285 266 266 267"/>
+   </layout>
+   <text>
+      <keyword>place</keyword>
+      <keyword>life</keyword>
+      <keyword>house</keyword>
+      <keyword>top</keyword>
+      <keyword>tree</keyword>
+      <keyword>child</keyword>
+      <keyword>friend</keyword>
+      <keyword>plant</keyword>
+      <keyword>discover</keyword>
+      <keyword>park</keyword>
+      <keyword>beautiful</keyword>
+      <keyword>fun</keyword>
+      <keyword>nature</keyword>
+      <keyword>landscape</keyword>
+      <keyword>adventure</keyword>
+   </text>
+</annotation>

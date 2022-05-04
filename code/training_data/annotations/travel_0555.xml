@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0555</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="46 46 180 180 46 46"
+               polygon_y="92 120 120 91 91 92"/>
+      <element label="text-over-image" polygon_x="21 21 205 205 21 21"
+               polygon_y="12 25 25 11 11 12"/>
+      <element label="headline-over-image" polygon_x="71 71 150 150 71 71"
+               polygon_y="57 75 75 56 56 57"/>
+   </layout>
+   <text>
+      <keyword>family</keyword>
+      <keyword>enjoy</keyword>
+      <keyword>friend</keyword>
+   </text>
+</annotation>

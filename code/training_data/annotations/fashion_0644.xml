@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0644</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 80 81 81 110 110 21 21"
+               polygon_y="22 215 215 161 160 160 21 21 22"/>
+      <element label="text" polygon_x="131 131 210 210 151 150 150 131 131"
+               polygon_y="227 280 280 181 181 225 226 226 227"/>
+      <element label="text" polygon_x="91 91 140 140 91 91"
+               polygon_y="177 210 210 176 176 177"/>
+      <element label="text" polygon_x="21 21 40 40 21 21" polygon_y="227 240 240 226 226 227"/>
+      <element label="image" polygon_x="116 116 225 225 116 116" polygon_y="2 175 175 1 1 2"/>
+      <element label="image" polygon_x="46 46 125 125 46 46"
+               polygon_y="222 300 300 221 221 222"/>
+   </layout>
+   <text>
+      <keyword>love</keyword>
+      <keyword>life</keyword>
+      <keyword>friend</keyword>
+      <keyword>dress</keyword>
+      <keyword>idea</keyword>
+      <keyword>art</keyword>
+      <keyword>heart</keyword>
+      <keyword>light</keyword>
+      <keyword>child</keyword>
+      <keyword>bag</keyword>
+      <keyword>family</keyword>
+      <keyword>dream</keyword>
+      <keyword>celebrate</keyword>
+      <keyword>artist</keyword>
+   </text>
+</annotation>

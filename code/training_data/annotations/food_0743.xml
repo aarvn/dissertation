@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0743</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 70 70 21 21" polygon_y="27 115 115 26 26 27"/>
+      <element label="text" polygon_x="76 76 120 120 76 76" polygon_y="27 110 110 26 26 27"/>
+      <element label="text" polygon_x="131 131 175 175 131 131"
+               polygon_y="27 105 105 26 26 27"/>
+      <element label="text" polygon_x="21 21 70 70 21 21" polygon_y="122 165 165 121 121 122"/>
+      <element label="text" polygon_x="76 76 120 120 76 76"
+               polygon_y="117 165 165 116 116 117"/>
+      <element label="text" polygon_x="136 136 200 200 136 136"
+               polygon_y="167 195 195 166 166 167"/>
+      <element label="text" polygon_x="136 136 200 200 136 136"
+               polygon_y="257 280 280 256 256 257"/>
+      <element label="text" polygon_x="136 136 200 200 136 136"
+               polygon_y="202 215 215 201 201 202"/>
+      <element label="text" polygon_x="136 136 200 200 136 136"
+               polygon_y="222 235 235 221 221 222"/>
+      <element label="text" polygon_x="136 136 200 200 136 136"
+               polygon_y="242 250 250 241 241 242"/>
+      <element label="text" polygon_x="181 181 205 205 181 181"
+               polygon_y="82 105 105 81 81 82"/>
+      <element label="text" polygon_x="151 151 185 185 151 151"
+               polygon_y="152 160 160 151 151 152"/>
+      <element label="image" polygon_x="21 21 125 125 21 21"
+               polygon_y="172 285 285 171 171 172"/>
+      <element label="image" polygon_x="151 151 185 185 151 151"
+               polygon_y="117 150 150 116 116 117"/>
+      <element label="image" polygon_x="181 181 205 205 181 181" polygon_y="42 80 80 41 41 42"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>fresh</keyword>
+      <keyword>small</keyword>
+      <keyword>free</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0367</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="26 26 90 90 26 26" polygon_y="162 285 285 161 161 162"/>
+      <element label="image" polygon_x="6 6 220 220 6 6" polygon_y="2 150 150 1 1 2"/>
+      <element label="image" polygon_x="101 101 210 210 101 101"
+               polygon_y="162 285 285 161 161 162"/>
+   </layout>
+   <text>
+      <keyword>house</keyword>
+      <keyword>country</keyword>
+      <keyword>family</keyword>
+      <keyword>beach</keyword>
+      <keyword>land</keyword>
+      <keyword>summer</keyword>
+      <keyword>hotel</keyword>
+      <keyword>restaurant</keyword>
+      <keyword>celebrate</keyword>
+      <keyword>park</keyword>
+      <keyword>holiday</keyword>
+   </text>
+</annotation>

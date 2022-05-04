@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0544</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="76 76 120 120 76 76"
+               polygon_y="162 175 175 161 161 162"/>
+      <element label="image"
+               polygon_x="1 1 131 131 130 130 76 75 75 70 70 70 1 1 21 21 21 105 106 106 130 131 131 136 136 136 205 206 206 225 225 145 145 146 146 225 225 1 1"
+               polygon_y="2 150 150 151 180 181 181 225 226 226 225 161 161 230 230 231 300 300 286 285 285 236 235 235 236 285 285 236 235 235 151 151 150 141 140 140 1 1 2"/>
+      <element label="text-over-image" polygon_x="76 76 130 130 76 76"
+               polygon_y="182 285 285 181 181 182"/>
+      <element label="text-over-image" polygon_x="146 146 200 200 146 146"
+               polygon_y="37 140 140 36 36 37"/>
+      <element label="text-over-image" polygon_x="146 146 170 170 146 146"
+               polygon_y="22 30 30 21 21 22"/>
+   </layout>
+   <text>
+      <keyword>plan</keyword>
+      <keyword>island</keyword>
+      <keyword>taste</keyword>
+   </text>
+</annotation>

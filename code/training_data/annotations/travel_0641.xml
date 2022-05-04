@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0641</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="27 150 150 26 26 27"/>
+      <element label="text" polygon_x="81 81 140 140 81 81" polygon_y="27 150 150 26 26 27"/>
+      <element label="text" polygon_x="161 161 215 215 161 161"
+               polygon_y="267 280 280 266 266 267"/>
+      <element label="text" polygon_x="161 161 215 215 161 161"
+               polygon_y="222 230 230 221 221 222"/>
+      <element label="text" polygon_x="161 161 215 215 161 161"
+               polygon_y="237 245 245 236 236 237"/>
+      <element label="text" polygon_x="161 161 215 215 161 161"
+               polygon_y="252 260 260 251 251 252"/>
+      <element label="text" polygon_x="166 166 215 215 166 166"
+               polygon_y="292 295 295 291 291 292"/>
+      <element label="image" polygon_x="1 1 145 145 1 1" polygon_y="162 300 300 161 161 162"/>
+      <element label="image" polygon_x="151 151 225 225 151 151"
+               polygon_y="132 210 210 131 131 132"/>
+      <element label="image" polygon_x="151 151 225 225 151 151"
+               polygon_y="77 125 125 76 76 77"/>
+      <element label="image" polygon_x="151 151 225 225 151 151" polygon_y="27 70 70 26 26 27"/>
+   </layout>
+   <text>
+      <keyword>place</keyword>
+      <keyword>view</keyword>
+      <keyword>top</keyword>
+      <keyword>design</keyword>
+      <keyword>coast</keyword>
+      <keyword>art</keyword>
+      <keyword>village</keyword>
+      <keyword>sky</keyword>
+      <keyword>building</keyword>
+      <keyword>relax</keyword>
+   </text>
+</annotation>

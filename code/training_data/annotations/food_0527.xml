@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0527</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="161 161 215 215 161 161"
+               polygon_y="122 285 285 121 121 122"/>
+      <element label="text" polygon_x="61 61 145 145 61 61"
+               polygon_y="232 285 285 231 231 232"/>
+      <element label="text" polygon_x="106 106 145 145 106 106"
+               polygon_y="32 130 130 31 31 32"/>
+      <element label="image" polygon_x="11 11 26 26 26 75 76 76 100 100 11 11"
+               polygon_y="32 120 120 121 165 165 121 120 120 31 31 32"/>
+      <element label="image"
+               polygon_x="21 21 55 56 56 81 81 81 145 145 81 80 80 56 55 55 21 21"
+               polygon_y="197 285 285 216 215 215 216 225 225 136 136 175 176 176 195 196 196 197"/>
+      <element label="image" polygon_x="161 161 225 225 161 161"
+               polygon_y="32 115 115 31 31 32"/>
+      <element label="text-over-image" polygon_x="26 26 75 75 26 26"
+               polygon_y="112 165 165 111 111 112"/>
+      <element label="text-over-image" polygon_x="56 56 95 95 56 56"
+               polygon_y="177 215 215 176 176 177"/>
+   </layout>
+   <text>
+      <keyword>sweet</keyword>
+      <keyword>style</keyword>
+   </text>
+</annotation>

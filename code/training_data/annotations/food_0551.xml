@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0551</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="151 151 205 205 151 151"
+               polygon_y="237 275 275 236 236 237"/>
+      <element label="text-over-image" polygon_x="31 31 65 65 31 31"
+               polygon_y="62 75 75 61 61 62"/>
+   </layout>
+   <text>
+      <keyword>heat</keyword>
+      <keyword>place</keyword>
+      <keyword>boil</keyword>
+      <keyword>dry</keyword>
+      <keyword>plenty</keyword>
+   </text>
+</annotation>

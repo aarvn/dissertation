@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0671</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="136 136 210 210 136 136"
+               polygon_y="32 280 280 31 31 32"/>
+      <element label="text" polygon_x="56 56 130 130 56 56"
+               polygon_y="262 280 280 261 261 262"/>
+      <element label="text" polygon_x="16 16 80 80 16 16" polygon_y="7 15 15 6 6 7"/>
+      <element label="text" polygon_x="16 16 50 50 16 16" polygon_y="202 215 215 201 201 202"/>
+      <element label="text" polygon_x="21 21 50 50 21 21" polygon_y="187 195 195 186 186 187"/>
+      <element label="image" polygon_x="1 1 130 130 1 1" polygon_y="32 100 100 31 31 32"/>
+      <element label="image" polygon_x="1 1 75 75 1 1" polygon_y="107 180 180 106 106 107"/>
+      <element label="image" polygon_x="56 56 130 130 56 56"
+               polygon_y="187 255 255 186 186 187"/>
+      <element label="image" polygon_x="81 81 130 130 81 81"
+               polygon_y="107 180 180 106 106 107"/>
+   </layout>
+   <text>
+      <keyword>place</keyword>
+      <keyword>free</keyword>
+   </text>
+</annotation>

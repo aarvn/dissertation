@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0558</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="146 146 215 215 146 146"
+               polygon_y="72 230 230 71 71 72"/>
+      <element label="text" polygon_x="11 11 70 70 11 11" polygon_y="67 170 170 66 66 67"/>
+      <element label="text" polygon_x="26 26 55 56 56 70 70 26 26"
+               polygon_y="212 275 275 231 230 230 211 211 212"/>
+      <element label="text" polygon_x="76 76 91 91 91 125 125 76 76"
+               polygon_y="212 230 230 231 260 260 211 211 212"/>
+      <element label="text" polygon_x="146 146 205 205 146 146" polygon_y="37 65 65 36 36 37"/>
+      <element label="text" polygon_x="11 11 65 65 11 11" polygon_y="37 60 60 36 36 37"/>
+      <element label="text" polygon_x="76 76 135 135 76 76"
+               polygon_y="127 145 145 126 126 127"/>
+      <element label="text" polygon_x="51 51 100 100 51 51"
+               polygon_y="187 205 205 186 186 187"/>
+      <element label="text" polygon_x="76 76 135 135 76 76"
+               polygon_y="152 165 165 151 151 152"/>
+      <element label="text" polygon_x="146 146 200 200 146 146"
+               polygon_y="237 250 250 236 236 237"/>
+      <element label="text" polygon_x="91 91 125 125 91 91"
+               polygon_y="267 275 275 266 266 267"/>
+      <element label="image" polygon_x="76 76 135 135 76 76" polygon_y="37 120 120 36 36 37"/>
+      <element label="image" polygon_x="146 146 215 215 146 146"
+               polygon_y="257 300 300 256 256 257"/>
+      <element label="image" polygon_x="61 61 85 85 61 61" polygon_y="237 275 275 236 236 237"/>
+   </layout>
+   <text>
+      <keyword>power</keyword>
+      <keyword>president</keyword>
+      <keyword>leader</keyword>
+      <keyword>fight</keyword>
+      <keyword>public</keyword>
+      <keyword>campaign</keyword>
+      <keyword>support</keyword>
+      <keyword>economy</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0454</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="116 116 146 146 145 145 116 116 215 215 116 116"
+               polygon_y="22 80 80 81 210 211 211 280 280 21 21 22"/>
+      <element label="text" polygon_x="11 11 110 110 75 75 76 76 110 110 11 11"
+               polygon_y="22 280 280 211 211 210 81 80 80 21 21 22"/>
+      <element label="text" polygon_x="81 81 140 140 81 81" polygon_y="87 205 205 86 86 87"/>
+   </layout>
+   <text>
+      <keyword>love</keyword>
+      <keyword>life</keyword>
+      <keyword>skin</keyword>
+      <keyword>top</keyword>
+      <keyword>talk</keyword>
+      <keyword>man</keyword>
+      <keyword>designer</keyword>
+      <keyword>bag</keyword>
+      <keyword>book</keyword>
+      <keyword>perfect</keyword>
+      <keyword>fit</keyword>
+      <keyword>london</keyword>
+      <keyword>enjoy</keyword>
+      <keyword>wedding</keyword>
+      <keyword>company</keyword>
+      <keyword>travel</keyword>
+      <keyword>happy</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0140</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 60 60 21 21" polygon_y="62 260 260 61 61 62"/>
+      <element label="text" polygon_x="21 21 160 160 21 21" polygon_y="47 55 55 46 46 47"/>
+      <element label="text" polygon_x="36 36 60 60 36 36" polygon_y="267 285 285 266 266 267"/>
+      <element label="text" polygon_x="21 21 55 55 21 21" polygon_y="12 20 20 11 11 12"/>
+      <element label="image" polygon_x="66 66 205 205 66 66" polygon_y="62 285 285 61 61 62"/>
+      <element label="image" polygon_x="166 166 205 205 166 166" polygon_y="22 55 55 21 21 22"/>
+      <element label="image" polygon_x="21 21 35 35 21 21" polygon_y="267 285 285 266 266 267"/>
+      <element label="headline" polygon_x="21 21 145 145 21 21" polygon_y="27 40 40 26 26 27"/>
+      <element label="text-over-image" polygon_x="66 66 110 110 66 66"
+               polygon_y="267 285 285 266 266 267"/>
+   </layout>
+   <text>
+      <keyword>tree</keyword>
+      <keyword>inspire</keyword>
+      <keyword>visitor</keyword>
+   </text>
+</annotation>

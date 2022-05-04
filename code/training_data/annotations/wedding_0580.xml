@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0580</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 75 75 45 45 46 46 75 75 11 11"
+               polygon_y="132 275 275 256 256 255 161 160 160 131 131 132"/>
+      <element label="text" polygon_x="146 146 176 176 175 175 146 146 210 210 146 146"
+               polygon_y="132 160 160 161 255 256 256 275 275 131 131 132"/>
+      <element label="text" polygon_x="81 81 140 140 81 81"
+               polygon_y="132 160 160 131 131 132"/>
+      <element label="text" polygon_x="81 81 140 140 81 81"
+               polygon_y="257 275 275 256 256 257"/>
+      <element label="text" polygon_x="81 81 145 145 81 81" polygon_y="47 55 55 46 46 47"/>
+      <element label="text" polygon_x="56 56 170 170 56 56"
+               polygon_y="122 125 125 121 121 122"/>
+      <element label="text" polygon_x="6 6 45 45 6 6" polygon_y="7 15 15 6 6 7"/>
+      <element label="image" polygon_x="51 51 170 170 51 51"
+               polygon_y="167 250 250 166 166 167"/>
+      <element label="headline" polygon_x="66 66 165 165 66 66" polygon_y="62 95 95 61 61 62"/>
+   </layout>
+   <text>
+      <keyword>guest</keyword>
+      <keyword>venue</keyword>
+      <keyword>friend</keyword>
+      <keyword>place</keyword>
+      <keyword>budget</keyword>
+      <keyword>important</keyword>
+      <keyword>remember</keyword>
+      <keyword>moment</keyword>
+      <keyword>service</keyword>
+      <keyword>space</keyword>
+      <keyword>serve</keyword>
+      <keyword>restaurant</keyword>
+      <keyword>opportunity</keyword>
+      <keyword>celebration</keyword>
+      <keyword>plenty</keyword>
+   </text>
+</annotation>

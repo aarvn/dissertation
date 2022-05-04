@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0458</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="81 81 106 106 105 105 81 81 195 195 81 81"
+               polygon_y="62 75 75 76 220 221 221 230 230 61 61 62"/>
+      <element label="text" polygon_x="131 131 200 200 131 131"
+               polygon_y="242 255 255 241 241 242"/>
+      <element label="text" polygon_x="31 31 55 55 31 31" polygon_y="222 240 240 221 221 222"/>
+      <element label="text" polygon_x="36 36 60 60 36 36" polygon_y="22 30 30 21 21 22"/>
+      <element label="image" polygon_x="1 1 95 95 1 1" polygon_y="82 215 215 81 81 82"/>
+      <element label="headline" polygon_x="81 81 185 185 81 81" polygon_y="47 55 55 46 46 47"/>
+   </layout>
+   <text>
+      <keyword>story</keyword>
+      <keyword>south</keyword>
+   </text>
+</annotation>

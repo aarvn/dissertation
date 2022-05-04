@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0091</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 110 110 11 11"
+               polygon_y="172 285 285 171 171 172"/>
+      <element label="text" polygon_x="116 116 210 210 116 116"
+               polygon_y="172 285 285 171 171 172"/>
+      <element label="image" polygon_x="11 11 210 210 11 11" polygon_y="27 160 160 26 26 27"/>
+      <element label="text-over-image" polygon_x="11 11 65 65 11 11"
+               polygon_y="27 50 50 26 26 27"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>south</keyword>
+      <keyword>problem</keyword>
+      <keyword>air</keyword>
+   </text>
+</annotation>

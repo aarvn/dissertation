@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0048</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="156 156 176 176 175 175 156 156 220 220 156 156"
+               polygon_y="17 100 100 101 150 151 151 285 285 16 16 17"/>
+      <element label="text" polygon_x="16 16 75 75 60 60 61 61 75 75 16 16"
+               polygon_y="17 285 285 151 151 150 101 100 100 16 16 17"/>
+      <element label="text" polygon_x="86 86 145 145 86 86"
+               polygon_y="192 285 285 191 191 192"/>
+      <element label="text" polygon_x="86 86 145 145 86 86" polygon_y="17 100 100 16 16 17"/>
+      <element label="text" polygon_x="86 86 145 145 86 86"
+               polygon_y="152 185 185 151 151 152"/>
+      <element label="text" polygon_x="71 71 160 160 71 71"
+               polygon_y="122 140 140 121 121 122"/>
+   </layout>
+   <text>
+      <keyword>country</keyword>
+      <keyword>city</keyword>
+      <keyword>mind</keyword>
+      <keyword>thousand</keyword>
+      <keyword>important</keyword>
+   </text>
+</annotation>

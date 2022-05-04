@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0056</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="16 16 220 220 16 16" polygon_y="57 65 65 56 56 57"/>
+      <element label="text" polygon_x="16 16 175 175 16 16"
+               polygon_y="232 240 240 231 231 232"/>
+      <element label="text" polygon_x="16 16 60 60 16 16" polygon_y="247 275 275 246 246 247"/>
+      <element label="text" polygon_x="71 71 110 110 71 71"
+               polygon_y="247 275 275 246 246 247"/>
+      <element label="text" polygon_x="176 176 215 215 176 176"
+               polygon_y="247 275 275 246 246 247"/>
+      <element label="image" polygon_x="16 16 220 220 16 16" polygon_y="67 230 230 66 66 67"/>
+      <element label="image" polygon_x="121 121 165 165 121 121"
+               polygon_y="247 295 295 246 246 247"/>
+      <element label="headline" polygon_x="116 116 170 170 116 116"
+               polygon_y="22 35 35 21 21 22"/>
+   </layout>
+   <text>
+      <keyword>woman</keyword>
+      <keyword>book</keyword>
+      <keyword>art</keyword>
+      <keyword>culture</keyword>
+   </text>
+</annotation>

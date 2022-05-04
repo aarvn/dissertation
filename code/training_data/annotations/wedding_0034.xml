@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0034</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="146 146 200 200 146 146"
+               polygon_y="212 285 285 211 211 212"/>
+      <element label="text" polygon_x="86 86 140 140 86 86"
+               polygon_y="197 240 240 196 196 197"/>
+      <element label="text" polygon_x="86 86 140 140 86 86"
+               polygon_y="247 285 285 246 246 247"/>
+      <element label="text" polygon_x="26 26 80 80 26 26" polygon_y="222 255 255 221 221 222"/>
+      <element label="text" polygon_x="26 26 80 80 26 26" polygon_y="262 285 285 261 261 262"/>
+      <element label="text" polygon_x="26 26 80 80 26 26" polygon_y="197 215 215 196 196 197"/>
+      <element label="text" polygon_x="146 146 200 200 146 146"
+               polygon_y="197 205 205 196 196 197"/>
+      <element label="image" polygon_x="6 6 220 220 6 6" polygon_y="2 190 190 1 1 2"/>
+      <element label="text-over-image" polygon_x="31 31 195 195 31 31"
+               polygon_y="67 90 90 66 66 67"/>
+      <element label="headline-over-image" polygon_x="46 46 180 180 46 46"
+               polygon_y="17 60 60 16 16 17"/>
+   </layout>
+   <text>
+      <keyword>guest</keyword>
+      <keyword>style</keyword>
+      <keyword>family</keyword>
+      <keyword>enjoy</keyword>
+      <keyword>choice</keyword>
+      <keyword>perfect</keyword>
+      <keyword>beach</keyword>
+      <keyword>suit</keyword>
+      <keyword>restaurant</keyword>
+      <keyword>honeymoon</keyword>
+      <keyword>resort</keyword>
+      <keyword>taste</keyword>
+      <keyword>relaxed</keyword>
+   </text>
+</annotation>

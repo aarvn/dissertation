@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0224</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="6 6 86 86 86 200 200 6 6"
+               polygon_y="12 110 110 111 285 285 11 11 12"/>
+      <element label="image" polygon_x="26 26 80 80 26 26" polygon_y="212 285 285 211 211 212"/>
+      <element label="image" polygon_x="26 26 80 80 26 26" polygon_y="152 205 205 151 151 152"/>
+      <element label="image" polygon_x="26 26 70 70 26 26" polygon_y="117 145 145 116 116 117"/>
+      <element label="text-over-image" polygon_x="26 26 80 80 26 26"
+               polygon_y="212 285 285 211 211 212"/>
+      <element label="text-over-image" polygon_x="91 91 140 140 91 91"
+               polygon_y="147 215 215 146 146 147"/>
+      <element label="text-over-image" polygon_x="26 26 80 80 26 26"
+               polygon_y="152 205 205 151 151 152"/>
+      <element label="text-over-image" polygon_x="91 91 140 140 91 91"
+               polygon_y="97 140 140 96 96 97"/>
+      <element label="text-over-image" polygon_x="91 91 140 140 91 91"
+               polygon_y="222 260 260 221 221 222"/>
+      <element label="text-over-image" polygon_x="26 26 70 70 26 26"
+               polygon_y="117 145 145 116 116 117"/>
+   </layout>
+   <text>
+      <keyword>ceremony</keyword>
+      <keyword>venue</keyword>
+      <keyword>reception</keyword>
+      <keyword>place</keyword>
+      <keyword>hotel</keyword>
+      <keyword>cake</keyword>
+      <keyword>book</keyword>
+      <keyword>relax</keyword>
+      <keyword>arrange</keyword>
+      <keyword>photographer</keyword>
+      <keyword>music</keyword>
+      <keyword>vow</keyword>
+      <keyword>menu</keyword>
+   </text>
+</annotation>

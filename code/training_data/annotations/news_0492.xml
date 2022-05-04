@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0492</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="172 290 290 171 171 172"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="172 290 290 171 171 172"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="172 290 290 171 171 172"/>
+      <element label="text" polygon_x="11 11 205 205 11 11"
+               polygon_y="162 165 165 161 161 162"/>
+      <element label="image" polygon_x="11 11 115 115 11 11" polygon_y="37 95 95 36 36 37"/>
+      <element label="image" polygon_x="121 121 225 225 121 121" polygon_y="37 95 95 36 36 37"/>
+      <element label="image" polygon_x="11 11 115 115 11 11"
+               polygon_y="102 155 155 101 101 102"/>
+      <element label="image" polygon_x="121 121 225 225 121 121"
+               polygon_y="102 155 155 101 101 102"/>
+   </layout>
+   <text>
+      <keyword>family</keyword>
+      <keyword>nation</keyword>
+      <keyword>father</keyword>
+      <keyword>question</keyword>
+      <keyword>sound</keyword>
+      <keyword>important</keyword>
+   </text>
+</annotation>

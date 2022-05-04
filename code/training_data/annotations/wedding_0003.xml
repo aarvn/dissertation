@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0003</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="111 111 205 205 111 111"
+               polygon_y="217 250 250 216 216 217"/>
+      <element label="text" polygon_x="21 21 105 105 21 21"
+               polygon_y="217 250 250 216 216 217"/>
+      <element label="text" polygon_x="21 21 125 125 21 21"
+               polygon_y="272 295 295 271 271 272"/>
+      <element label="text" polygon_x="111 111 205 205 111 111"
+               polygon_y="192 210 210 191 191 192"/>
+      <element label="text" polygon_x="21 21 105 105 21 21"
+               polygon_y="192 210 210 191 191 192"/>
+      <element label="text" polygon_x="151 151 200 200 151 151" polygon_y="22 30 30 21 21 22"/>
+      <element label="image" polygon_x="21 21 205 205 21 21" polygon_y="87 185 185 86 86 87"/>
+      <element label="headline" polygon_x="21 21 120 120 21 21" polygon_y="52 80 80 51 51 52"/>
+   </layout>
+   <text>
+      <keyword>ceremony</keyword>
+      <keyword>unique</keyword>
+      <keyword>beach</keyword>
+      <keyword>ideal</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0451</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="81 81 145 145 81 81" polygon_y="12 290 290 11 11 12"/>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="32 290 290 31 31 32"/>
+      <element label="text" polygon_x="151 151 210 210 151 151"
+               polygon_y="92 290 290 91 91 92"/>
+      <element label="text" polygon_x="151 151 210 210 151 151" polygon_y="12 85 85 11 11 12"/>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="12 25 25 11 11 12"/>
+   </layout>
+   <text>
+      <keyword>woman</keyword>
+      <keyword>bad</keyword>
+      <keyword>study</keyword>
+      <keyword>fail</keyword>
+      <keyword>important</keyword>
+   </text>
+</annotation>

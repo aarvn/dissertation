@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0581</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="96 96 180 180 96 96"
+               polygon_y="177 215 215 176 176 177"/>
+      <element label="text" polygon_x="11 11 180 180 11 11"
+               polygon_y="152 165 165 151 151 152"/>
+      <element label="text" polygon_x="191 191 215 215 191 191"
+               polygon_y="62 115 115 61 61 62"/>
+      <element label="text" polygon_x="131 131 180 180 131 131"
+               polygon_y="272 290 290 271 271 272"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="177 190 190 176 176 177"/>
+      <element label="text" polygon_x="191 191 215 215 191 191"
+               polygon_y="267 290 290 266 266 267"/>
+      <element label="text" polygon_x="191 191 215 215 191 191" polygon_y="37 55 55 36 36 37"/>
+      <element label="text" polygon_x="191 191 215 215 191 191"
+               polygon_y="137 155 155 136 136 137"/>
+      <element label="text" polygon_x="191 191 215 215 191 191"
+               polygon_y="177 195 195 176 176 177"/>
+      <element label="text" polygon_x="191 191 215 215 191 191"
+               polygon_y="222 235 235 221 221 222"/>
+      <element label="image" polygon_x="11 11 180 180 11 11" polygon_y="37 145 145 36 36 37"/>
+      <element label="image"
+               polygon_x="11 11 71 71 70 70 11 11 130 131 131 180 180 96 95 95 90 90 90 11 11"
+               polygon_y="197 240 240 241 245 246 246 290 290 261 260 260 221 221 230 231 231 230 196 196 197"/>
+      <element label="image" polygon_x="191 191 215 215 191 191"
+               polygon_y="242 260 260 241 241 242"/>
+      <element label="image" polygon_x="191 191 215 215 191 191"
+               polygon_y="202 215 215 201 201 202"/>
+      <element label="image" polygon_x="191 191 215 215 191 191"
+               polygon_y="122 130 130 121 121 122"/>
+      <element label="image" polygon_x="191 191 215 215 191 191"
+               polygon_y="162 170 170 161 161 162"/>
+      <element label="text-over-image" polygon_x="11 11 90 90 11 11"
+               polygon_y="197 240 240 196 196 197"/>
+      <element label="text-over-image" polygon_x="96 96 111 111 111 180 180 96 96"
+               polygon_y="222 230 230 231 260 260 221 221 222"/>
+      <element label="text-over-image" polygon_x="11 11 75 75 11 11"
+               polygon_y="247 290 290 246 246 247"/>
+   </layout>
+   <text>
+      <keyword>bank</keyword>
+      <keyword>vote</keyword>
+      <keyword>economy</keyword>
+   </text>
+</annotation>

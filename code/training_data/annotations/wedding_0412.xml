@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0412</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="111 111 155 155 111 111"
+               polygon_y="177 230 230 176 176 177"/>
+      <element label="text" polygon_x="111 111 155 155 111 111"
+               polygon_y="237 290 290 236 236 237"/>
+      <element label="text" polygon_x="21 21 60 60 21 21" polygon_y="117 170 170 116 116 117"/>
+      <element label="text" polygon_x="21 21 60 60 21 21" polygon_y="177 230 230 176 176 177"/>
+      <element label="text" polygon_x="21 21 60 60 21 21" polygon_y="237 290 290 236 236 237"/>
+      <element label="text" polygon_x="66 66 105 105 66 66"
+               polygon_y="177 230 230 176 176 177"/>
+      <element label="text" polygon_x="66 66 105 105 66 66"
+               polygon_y="237 290 290 236 236 237"/>
+      <element label="text" polygon_x="161 161 200 200 161 161"
+               polygon_y="62 115 115 61 61 62"/>
+      <element label="text" polygon_x="161 161 200 200 161 161"
+               polygon_y="177 230 230 176 176 177"/>
+      <element label="text" polygon_x="161 161 200 200 161 161"
+               polygon_y="237 290 290 236 236 237"/>
+      <element label="text" polygon_x="21 21 60 60 21 21" polygon_y="62 110 110 61 61 62"/>
+      <element label="text" polygon_x="161 161 200 200 161 161"
+               polygon_y="122 170 170 121 121 122"/>
+      <element label="text" polygon_x="21 21 200 200 21 21" polygon_y="47 55 55 46 46 47"/>
+      <element label="image" polygon_x="66 66 155 155 66 66" polygon_y="62 170 170 61 61 62"/>
+      <element label="headline" polygon_x="56 56 180 180 56 56" polygon_y="12 40 40 11 11 12"/>
+   </layout>
+   <text>
+      <keyword>enjoy</keyword>
+      <keyword>opportunity</keyword>
+      <keyword>store</keyword>
+   </text>
+</annotation>

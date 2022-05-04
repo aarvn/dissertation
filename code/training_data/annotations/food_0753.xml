@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0753</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 70 70 21 21" polygon_y="127 205 205 126 126 127"/>
+      <element label="text" polygon_x="21 21 70 70 21 21" polygon_y="212 285 285 211 211 212"/>
+      <element label="text" polygon_x="156 156 205 205 156 156"
+               polygon_y="222 285 285 221 221 222"/>
+      <element label="text" polygon_x="86 86 195 195 86 86"
+               polygon_y="192 215 215 191 191 192"/>
+      <element label="image"
+               polygon_x="21 21 76 76 75 75 21 21 76 76 76 205 205 76 75 75 21 21"
+               polygon_y="57 90 90 91 95 96 96 115 115 116 185 185 1 1 55 56 56 57"/>
+      <element label="image" polygon_x="76 76 150 150 76 76"
+               polygon_y="222 285 285 221 221 222"/>
+      <element label="text-over-image" polygon_x="21 21 95 95 21 21"
+               polygon_y="97 115 115 96 96 97"/>
+      <element label="headline-over-image" polygon_x="21 21 95 95 21 21"
+               polygon_y="57 90 90 56 56 57"/>
+   </layout>
+   <text>
+      <keyword>eat</keyword>
+      <keyword>food</keyword>
+      <keyword>mixture</keyword>
+      <keyword>enjoy</keyword>
+      <keyword>summer</keyword>
+      <keyword>quality</keyword>
+      <keyword>drink</keyword>
+      <keyword>meal</keyword>
+   </text>
+</annotation>

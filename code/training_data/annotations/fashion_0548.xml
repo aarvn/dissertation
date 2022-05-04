@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0548</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="16 16 35 35 16 16" polygon_y="162 285 285 161 161 162"/>
+      <element label="text" polygon_x="106 106 165 165 106 106"
+               polygon_y="182 200 200 181 181 182"/>
+      <element label="image"
+               polygon_x="11 11 41 41 41 61 61 60 60 41 41 85 86 86 100 101 101 165 165 76 75 75 11 11"
+               polygon_y="132 155 155 156 185 185 186 195 196 196 285 285 201 200 200 176 175 175 56 56 130 131 131 132"/>
+      <element label="image" polygon_x="91 91 150 150 91 91"
+               polygon_y="207 285 285 206 206 207"/>
+      <element label="image" polygon_x="171 171 215 215 171 171"
+               polygon_y="67 160 160 66 66 67"/>
+      <element label="image" polygon_x="11 11 70 70 11 11" polygon_y="57 125 125 56 56 57"/>
+      <element label="image" polygon_x="156 156 225 225 156 156"
+               polygon_y="227 285 285 226 226 227"/>
+      <element label="image" polygon_x="171 171 215 215 171 171"
+               polygon_y="167 220 220 166 166 167"/>
+      <element label="headline" polygon_x="16 16 220 220 16 16" polygon_y="7 50 50 6 6 7"/>
+      <element label="text-over-image" polygon_x="51 51 75 75 51 51"
+               polygon_y="267 285 285 266 266 267"/>
+   </layout>
+   <text>
+      <keyword>dress</keyword>
+      <keyword>watch</keyword>
+      <keyword>bag</keyword>
+      <keyword>ring</keyword>
+   </text>
+</annotation>

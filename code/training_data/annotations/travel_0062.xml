@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0062</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="141 141 210 210 141 141"
+               polygon_y="87 285 285 86 86 87"/>
+      <element label="text" polygon_x="16 16 70 70 16 16" polygon_y="227 285 285 226 226 227"/>
+      <element label="text" polygon_x="16 16 85 85 16 16" polygon_y="157 200 200 156 156 157"/>
+      <element label="text" polygon_x="141 141 190 190 141 141" polygon_y="37 80 80 36 36 37"/>
+      <element label="text" polygon_x="76 76 135 135 76 76"
+               polygon_y="252 285 285 251 251 252"/>
+      <element label="text" polygon_x="91 91 135 135 91 91"
+               polygon_y="157 175 175 156 156 157"/>
+      <element label="image" polygon_x="1 1 135 135 1 1" polygon_y="2 80 80 1 1 2"/>
+      <element label="image" polygon_x="1 1 85 85 1 1" polygon_y="87 150 150 86 86 87"/>
+      <element label="image" polygon_x="91 91 135 135 91 91" polygon_y="87 150 150 86 86 87"/>
+      <element label="image" polygon_x="76 76 135 135 76 76"
+               polygon_y="207 245 245 206 206 207"/>
+      <element label="headline" polygon_x="16 16 65 65 16 16"
+               polygon_y="212 220 220 211 211 212"/>
+   </layout>
+   <text>
+      <keyword>love</keyword>
+      <keyword>visit</keyword>
+      <keyword>house</keyword>
+      <keyword>country</keyword>
+      <keyword>sea</keyword>
+      <keyword>beach</keyword>
+      <keyword>area</keyword>
+      <keyword>hotel</keyword>
+      <keyword>friend</keyword>
+      <keyword>town</keyword>
+      <keyword>coast</keyword>
+      <keyword>explore</keyword>
+      <keyword>winter</keyword>
+      <keyword>city</keyword>
+      <keyword>air</keyword>
+      <keyword>wild</keyword>
+      <keyword>north</keyword>
+      <keyword>landscape</keyword>
+   </text>
+</annotation>

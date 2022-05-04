@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0455</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 80 80 21 21" polygon_y="37 115 115 36 36 37"/>
+      <element label="text" polygon_x="156 156 220 220 156 156"
+               polygon_y="217 280 280 216 216 217"/>
+      <element label="text" polygon_x="21 21 80 80 21 21" polygon_y="137 200 200 136 136 137"/>
+      <element label="text" polygon_x="21 21 80 80 21 21" polygon_y="222 280 280 221 221 222"/>
+      <element label="text" polygon_x="91 91 150 150 91 91"
+               polygon_y="187 240 240 186 186 187"/>
+      <element label="text" polygon_x="156 156 220 220 156 156"
+               polygon_y="172 210 210 171 171 172"/>
+      <element label="text" polygon_x="91 91 150 150 91 91"
+               polygon_y="262 280 280 261 261 262"/>
+      <element label="text" polygon_x="101 101 140 140 101 101"
+               polygon_y="172 180 180 171 171 172"/>
+      <element label="text" polygon_x="36 36 65 65 36 36" polygon_y="22 30 30 21 21 22"/>
+      <element label="text" polygon_x="36 36 65 65 36 36" polygon_y="122 130 130 121 121 122"/>
+      <element label="text" polygon_x="36 36 65 65 36 36" polygon_y="207 215 215 206 206 207"/>
+      <element label="text" polygon_x="106 106 130 130 106 106"
+               polygon_y="247 255 255 246 246 247"/>
+      <element label="image" polygon_x="96 96 215 215 96 96" polygon_y="2 160 160 1 1 2"/>
+   </layout>
+   <text>
+      <keyword>family</keyword>
+      <keyword>beach</keyword>
+      <keyword>dream</keyword>
+      <keyword>fresh</keyword>
+      <keyword>smile</keyword>
+   </text>
+</annotation>

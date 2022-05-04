@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0492</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="6 6 220 220 6 6" polygon_y="7 295 295 6 6 7"/>
+      <element label="text-over-image" polygon_x="116 116 160 160 116 116"
+               polygon_y="37 120 120 36 36 37"/>
+      <element label="text-over-image" polygon_x="61 61 110 110 61 61"
+               polygon_y="37 85 85 36 36 37"/>
+      <element label="text-over-image" polygon_x="61 61 110 110 61 61"
+               polygon_y="92 120 120 91 91 92"/>
+      <element label="text-over-image" polygon_x="11 11 55 55 11 11"
+               polygon_y="92 120 120 91 91 92"/>
+      <element label="text-over-image" polygon_x="11 11 55 55 11 11"
+               polygon_y="37 60 60 36 36 37"/>
+      <element label="text-over-image" polygon_x="11 11 55 55 11 11"
+               polygon_y="67 85 85 66 66 67"/>
+      <element label="text-over-image" polygon_x="11 11 45 45 11 11"
+               polygon_y="27 30 30 26 26 27"/>
+   </layout>
+   <text>
+      <keyword>stir</keyword>
+      <keyword>oil</keyword>
+      <keyword>sugar</keyword>
+      <keyword>water</keyword>
+      <keyword>fry</keyword>
+      <keyword>garlic</keyword>
+      <keyword>sauce</keyword>
+      <keyword>warm</keyword>
+      <keyword>ginger</keyword>
+   </text>
+</annotation>

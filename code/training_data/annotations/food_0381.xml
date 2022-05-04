@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0381</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="156 156 215 215 156 156"
+               polygon_y="192 250 250 191 191 192"/>
+      <element label="text" polygon_x="101 101 150 150 101 101"
+               polygon_y="212 280 280 211 211 212"/>
+      <element label="text" polygon_x="46 46 90 90 46 46" polygon_y="212 280 280 211 211 212"/>
+      <element label="text" polygon_x="186 186 215 215 186 186"
+               polygon_y="87 185 185 86 86 87"/>
+      <element label="text" polygon_x="11 11 35 35 11 11" polygon_y="192 235 235 191 191 192"/>
+      <element label="text" polygon_x="101 101 150 150 101 101"
+               polygon_y="192 205 205 191 191 192"/>
+      <element label="text" polygon_x="41 41 80 80 41 41" polygon_y="192 205 205 191 191 192"/>
+      <element label="image" polygon_x="6 6 180 180 6 6" polygon_y="7 185 185 6 6 7"/>
+   </layout>
+   <text>
+      <keyword>stir</keyword>
+      <keyword>place</keyword>
+      <keyword>cool</keyword>
+      <keyword>oil</keyword>
+      <keyword>bowl</keyword>
+      <keyword>pan</keyword>
+      <keyword>ingredient</keyword>
+      <keyword>egg</keyword>
+      <keyword>roll</keyword>
+      <keyword>juice</keyword>
+      <keyword>fat</keyword>
+      <keyword>cupcake</keyword>
+      <keyword>vanilla</keyword>
+   </text>
+</annotation>

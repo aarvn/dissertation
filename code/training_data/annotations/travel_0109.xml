@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0109</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="141 141 210 210 141 141"
+               polygon_y="82 180 180 81 81 82"/>
+      <element label="text" polygon_x="21 21 70 70 21 21" polygon_y="222 285 285 221 221 222"/>
+      <element label="text" polygon_x="86 86 210 210 86 86"
+               polygon_y="262 285 285 261 261 262"/>
+      <element label="text" polygon_x="21 21 70 70 21 21" polygon_y="192 215 215 191 191 192"/>
+      <element label="text" polygon_x="86 86 200 200 86 86"
+               polygon_y="247 255 255 246 246 247"/>
+      <element label="text" polygon_x="141 141 210 210 141 141" polygon_y="67 75 75 66 66 67"/>
+      <element label="image" polygon_x="1 1 135 135 1 1" polygon_y="2 180 180 1 1 2"/>
+      <element label="image" polygon_x="86 86 210 210 86 86"
+               polygon_y="192 240 240 191 191 192"/>
+      <element label="headline" polygon_x="141 141 200 200 141 141"
+               polygon_y="27 60 60 26 26 27"/>
+      <element label="text-over-image" polygon_x="81 81 125 125 81 81"
+               polygon_y="167 175 175 166 166 167"/>
+   </layout>
+   <text>
+      <keyword>country</keyword>
+      <keyword>land</keyword>
+      <keyword>book</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0589</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="131 131 215 215 131 131"
+               polygon_y="82 290 290 81 81 82"/>
+      <element label="text" polygon_x="41 41 125 125 41 41" polygon_y="62 260 260 61 61 62"/>
+      <element label="text" polygon_x="6 6 35 35 6 6" polygon_y="62 155 155 61 61 62"/>
+      <element label="text" polygon_x="41 41 125 125 41 41"
+               polygon_y="267 290 290 266 266 267"/>
+      <element label="text" polygon_x="141 141 215 215 141 141" polygon_y="62 75 75 61 61 62"/>
+      <element label="text" polygon_x="11 11 60 60 11 11" polygon_y="12 15 15 11 11 12"/>
+   </layout>
+   <text>
+      <keyword>country</keyword>
+      <keyword>man</keyword>
+      <keyword>book</keyword>
+      <keyword>war</keyword>
+      <keyword>win</keyword>
+      <keyword>fight</keyword>
+      <keyword>nation</keyword>
+   </text>
+</annotation>

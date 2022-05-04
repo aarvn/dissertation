@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0334</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="81 81 145 145 81 81" polygon_y="22 195 195 21 21 22"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="177 290 290 176 176 177"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="17 125 125 16 16 17"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="17 95 95 16 16 17"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="147 195 195 146 146 147"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="132 140 140 131 131 132"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="162 170 170 161 161 162"/>
+      <element label="image" polygon_x="11 11 145 145 11 11"
+               polygon_y="202 285 285 201 201 202"/>
+      <element label="headline" polygon_x="11 11 65 65 11 11"
+               polygon_y="107 120 120 106 106 107"/>
+      <element label="headline" polygon_x="151 151 190 190 151 151"
+               polygon_y="132 145 145 131 131 132"/>
+   </layout>
+   <text>
+      <keyword>government</keyword>
+      <keyword>woman</keyword>
+      <keyword>fall</keyword>
+      <keyword>bad</keyword>
+      <keyword>plan</keyword>
+      <keyword>attack</keyword>
+      <keyword>thousand</keyword>
+      <keyword>election</keyword>
+      <keyword>demand</keyword>
+      <keyword>budget</keyword>
+   </text>
+</annotation>

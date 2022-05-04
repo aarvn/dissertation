@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0311</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="166 166 210 210 166 166"
+               polygon_y="87 170 170 86 86 87"/>
+      <element label="text" polygon_x="11 11 55 55 11 11" polygon_y="37 105 105 36 36 37"/>
+      <element label="text" polygon_x="116 116 160 160 116 116"
+               polygon_y="92 160 160 91 91 92"/>
+      <element label="text" polygon_x="11 11 55 55 11 11" polygon_y="112 165 165 111 111 112"/>
+      <element label="text" polygon_x="166 166 210 210 166 166" polygon_y="22 75 75 21 21 22"/>
+      <element label="text" polygon_x="61 61 105 105 61 61" polygon_y="92 140 140 91 91 92"/>
+      <element label="text" polygon_x="11 11 55 55 11 11" polygon_y="212 255 255 211 211 212"/>
+      <element label="text" polygon_x="61 61 110 110 61 61"
+               polygon_y="152 185 185 151 151 152"/>
+      <element label="text" polygon_x="11 11 55 55 11 11" polygon_y="172 200 200 171 171 172"/>
+      <element label="text" polygon_x="11 11 55 55 11 11" polygon_y="262 290 290 261 261 262"/>
+      <element label="text" polygon_x="61 61 110 110 61 61" polygon_y="57 80 80 56 56 57"/>
+      <element label="text" polygon_x="61 61 110 110 61 61" polygon_y="27 45 45 26 26 27"/>
+      <element label="text" polygon_x="116 116 160 160 116 116"
+               polygon_y="167 185 185 166 166 167"/>
+      <element label="text" polygon_x="116 116 160 160 116 116" polygon_y="27 35 35 26 26 27"/>
+      <element label="text" polygon_x="166 166 210 210 166 166"
+               polygon_y="177 185 185 176 176 177"/>
+      <element label="text" polygon_x="11 11 35 35 11 11" polygon_y="22 30 30 21 21 22"/>
+      <element label="image" polygon_x="61 61 215 215 61 61"
+               polygon_y="192 290 290 191 191 192"/>
+      <element label="image" polygon_x="116 116 160 160 116 116" polygon_y="42 85 85 41 41 42"/>
+   </layout>
+   <text>
+      <keyword>attack</keyword>
+      <keyword>deal</keyword>
+      <keyword>demand</keyword>
+      <keyword>market</keyword>
+   </text>
+</annotation>

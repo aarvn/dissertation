@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0043</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 80 80 21 21" polygon_y="137 195 195 136 136 137"/>
+      <element label="text" polygon_x="21 21 80 80 21 21" polygon_y="32 85 85 31 31 32"/>
+      <element label="text" polygon_x="21 21 80 80 21 21" polygon_y="92 130 130 91 91 92"/>
+      <element label="text" polygon_x="146 146 190 190 146 146"
+               polygon_y="227 275 275 226 226 227"/>
+      <element label="text" polygon_x="21 21 80 80 21 21" polygon_y="232 260 260 231 231 232"/>
+      <element label="text" polygon_x="21 21 80 80 21 21" polygon_y="202 225 225 201 201 202"/>
+      <element label="text" polygon_x="21 21 80 80 21 21" polygon_y="267 280 280 266 266 267"/>
+      <element label="text" polygon_x="21 21 80 80 21 21" polygon_y="17 25 25 16 16 17"/>
+      <element label="image" polygon_x="86 86 200 200 86 86"
+               polygon_y="147 215 215 146 146 147"/>
+      <element label="image" polygon_x="136 136 200 200 136 136" polygon_y="17 75 75 16 16 17"/>
+      <element label="image" polygon_x="136 136 200 200 136 136"
+               polygon_y="82 140 140 81 81 82"/>
+      <element label="image" polygon_x="86 86 140 140 86 86"
+               polygon_y="222 285 285 221 221 222"/>
+      <element label="image" polygon_x="86 86 130 130 86 86" polygon_y="17 75 75 16 16 17"/>
+      <element label="image" polygon_x="86 86 130 130 86 86" polygon_y="82 140 140 81 81 82"/>
+   </layout>
+   <text>
+      <keyword>guest</keyword>
+      <keyword>love</keyword>
+      <keyword>ceremony</keyword>
+      <keyword>dress</keyword>
+      <keyword>reception</keyword>
+      <keyword>enjoy</keyword>
+      <keyword>budget</keyword>
+      <keyword>moment</keyword>
+      <keyword>beach</keyword>
+      <keyword>relax</keyword>
+      <keyword>married</keyword>
+      <keyword>dance</keyword>
+      <keyword>hair</keyword>
+      <keyword>food</keyword>
+      <keyword>honeymoon</keyword>
+      <keyword>relaxed</keyword>
+      <keyword>music</keyword>
+      <keyword>theme</keyword>
+      <keyword>cool</keyword>
+   </text>
+</annotation>

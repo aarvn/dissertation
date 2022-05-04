@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0196</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 45 45 11 11" polygon_y="182 280 280 181 181 182"/>
+      <element label="text" polygon_x="106 106 185 185 106 106" polygon_y="42 75 75 41 41 42"/>
+      <element label="text" polygon_x="11 11 45 45 11 11" polygon_y="87 145 145 86 86 87"/>
+      <element label="text" polygon_x="56 56 90 90 56 56" polygon_y="87 145 145 86 86 87"/>
+      <element label="image" polygon_x="51 51 225 225 51 51"
+               polygon_y="162 295 295 161 161 162"/>
+      <element label="image" polygon_x="106 106 210 210 106 106"
+               polygon_y="87 145 145 86 86 87"/>
+      <element label="image" polygon_x="6 6 50 50 6 6" polygon_y="37 80 80 36 36 37"/>
+      <element label="image" polygon_x="66 66 85 85 66 66" polygon_y="37 80 80 36 36 37"/>
+   </layout>
+   <text>
+      <keyword>answer</keyword>
+      <keyword>camera</keyword>
+   </text>
+</annotation>

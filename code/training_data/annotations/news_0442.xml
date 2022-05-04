@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0442</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="146 146 210 210 146 146"
+               polygon_y="17 235 235 16 16 17"/>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="197 280 280 196 196 197"/>
+      <element label="text" polygon_x="81 81 140 140 81 81"
+               polygon_y="197 280 280 196 196 197"/>
+      <element label="text" polygon_x="146 146 210 210 146 146"
+               polygon_y="242 290 290 241 241 242"/>
+      <element label="text" polygon_x="16 16 130 130 16 16"
+               polygon_y="287 290 290 286 286 287"/>
+      <element label="text" polygon_x="51 51 110 110 51 51" polygon_y="42 45 45 41 41 42"/>
+      <element label="text" polygon_x="51 51 110 110 51 51" polygon_y="52 55 55 51 51 52"/>
+      <element label="text" polygon_x="61 61 100 100 61 61" polygon_y="17 20 20 16 16 17"/>
+      <element label="image" polygon_x="26 26 135 135 26 26" polygon_y="62 190 190 61 61 62"/>
+      <element label="headline" polygon_x="41 41 120 120 41 41" polygon_y="27 35 35 26 26 27"/>
+   </layout>
+   <text>
+      <keyword>woman</keyword>
+      <keyword>man</keyword>
+      <keyword>city</keyword>
+      <keyword>friend</keyword>
+      <keyword>attack</keyword>
+      <keyword>moment</keyword>
+      <keyword>street</keyword>
+      <keyword>top</keyword>
+      <keyword>hospital</keyword>
+   </text>
+</annotation>

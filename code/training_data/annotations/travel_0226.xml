@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0226</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 205 205 21 21" polygon_y="42 55 55 41 41 42"/>
+      <element label="text" polygon_x="21 21 155 155 21 21"
+               polygon_y="267 285 285 266 266 267"/>
+      <element label="text" polygon_x="161 161 205 205 161 161"
+               polygon_y="62 120 120 61 61 62"/>
+      <element label="text" polygon_x="116 116 155 155 116 116"
+               polygon_y="62 100 100 61 61 62"/>
+      <element label="text" polygon_x="21 21 60 60 21 21" polygon_y="12 20 20 11 11 12"/>
+      <element label="image" polygon_x="21 21 161 161 161 205 205 21 21"
+               polygon_y="137 260 260 261 285 285 136 136 137"/>
+      <element label="image" polygon_x="21 21 110 110 21 21" polygon_y="62 130 130 61 61 62"/>
+      <element label="headline" polygon_x="21 21 185 185 21 21" polygon_y="27 35 35 26 26 27"/>
+      <element label="text-over-image" polygon_x="186 186 205 205 186 186"
+               polygon_y="137 155 155 136 136 137"/>
+   </layout>
+   <text>
+      <keyword>place</keyword>
+      <keyword>visit</keyword>
+   </text>
+</annotation>

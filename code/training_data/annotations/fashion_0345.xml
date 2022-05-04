@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0345</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="86 86 140 140 86 86" polygon_y="82 115 115 81 81 82"/>
+      <element label="text" polygon_x="146 146 200 200 146 146"
+               polygon_y="182 215 215 181 181 182"/>
+      <element label="text" polygon_x="16 16 200 200 16 16"
+               polygon_y="277 285 285 276 276 277"/>
+      <element label="text" polygon_x="151 151 200 200 151 151"
+               polygon_y="77 110 110 76 76 77"/>
+      <element label="text" polygon_x="21 21 75 75 21 21" polygon_y="182 210 210 181 181 182"/>
+      <element label="text" polygon_x="21 21 70 70 21 21" polygon_y="77 100 100 76 76 77"/>
+      <element label="text" polygon_x="86 86 135 135 86 86"
+               polygon_y="182 200 200 181 181 182"/>
+      <element label="text" polygon_x="166 166 190 190 166 166"
+               polygon_y="117 150 150 116 116 117"/>
+      <element label="text" polygon_x="86 86 140 140 86 86" polygon_y="67 75 75 66 66 67"/>
+      <element label="text" polygon_x="156 156 195 195 156 156"
+               polygon_y="227 235 235 226 226 227"/>
+      <element label="text" polygon_x="36 36 60 60 36 36" polygon_y="142 155 155 141 141 142"/>
+      <element label="text" polygon_x="21 21 75 75 21 21" polygon_y="172 175 175 171 171 172"/>
+      <element label="text" polygon_x="21 21 70 70 21 21" polygon_y="67 70 70 66 66 67"/>
+      <element label="text" polygon_x="86 86 135 135 86 86"
+               polygon_y="172 175 175 171 171 172"/>
+      <element label="text" polygon_x="151 151 200 200 151 151" polygon_y="67 70 70 66 66 67"/>
+      <element label="text" polygon_x="151 151 200 200 151 151"
+               polygon_y="172 175 175 171 171 172"/>
+      <element label="image" polygon_x="86 86 140 140 86 86"
+               polygon_y="207 245 245 206 206 207"/>
+      <element label="image" polygon_x="86 86 140 140 86 86"
+               polygon_y="122 155 155 121 121 122"/>
+      <element label="image" polygon_x="36 36 60 60 36 36" polygon_y="217 255 255 216 216 217"/>
+      <element label="image" polygon_x="36 36 60 60 36 36" polygon_y="107 135 135 106 106 107"/>
+      <element label="headline" polygon_x="36 36 180 180 36 36" polygon_y="32 50 50 31 31 32"/>
+   </layout>
+   <text>
+      <keyword>style</keyword>
+      <keyword>collection</keyword>
+      <keyword>design</keyword>
+      <keyword>beauty</keyword>
+   </text>
+</annotation>

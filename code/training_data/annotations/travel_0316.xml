@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0316</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 80 80 21 21" polygon_y="162 200 200 161 161 162"/>
+      <element label="text" polygon_x="146 146 205 205 146 146"
+               polygon_y="162 200 200 161 161 162"/>
+      <element label="text" polygon_x="86 86 140 140 86 86"
+               polygon_y="162 200 200 161 161 162"/>
+      <element label="text" polygon_x="21 21 80 80 21 21" polygon_y="82 115 115 81 81 82"/>
+      <element label="text" polygon_x="21 21 80 80 21 21" polygon_y="247 280 280 246 246 247"/>
+      <element label="text" polygon_x="146 146 205 205 146 146"
+               polygon_y="82 115 115 81 81 82"/>
+      <element label="text" polygon_x="146 146 205 205 146 146"
+               polygon_y="247 280 280 246 246 247"/>
+      <element label="text" polygon_x="86 86 140 140 86 86" polygon_y="82 115 115 81 81 82"/>
+      <element label="text" polygon_x="86 86 140 140 86 86"
+               polygon_y="247 280 280 246 246 247"/>
+      <element label="image" polygon_x="21 21 80 80 21 21" polygon_y="42 75 75 41 41 42"/>
+      <element label="image" polygon_x="21 21 80 80 21 21" polygon_y="122 155 155 121 121 122"/>
+      <element label="image" polygon_x="21 21 80 80 21 21" polygon_y="207 240 240 206 206 207"/>
+      <element label="image" polygon_x="146 146 205 205 146 146" polygon_y="42 75 75 41 41 42"/>
+      <element label="image" polygon_x="146 146 205 205 146 146"
+               polygon_y="122 155 155 121 121 122"/>
+      <element label="image" polygon_x="146 146 205 205 146 146"
+               polygon_y="207 240 240 206 206 207"/>
+      <element label="image" polygon_x="86 86 140 140 86 86" polygon_y="42 75 75 41 41 42"/>
+      <element label="image" polygon_x="86 86 140 140 86 86"
+               polygon_y="122 155 155 121 121 122"/>
+      <element label="image" polygon_x="86 86 140 140 86 86"
+               polygon_y="207 240 240 206 206 207"/>
+      <element label="headline" polygon_x="21 21 205 205 21 21" polygon_y="17 30 30 16 16 17"/>
+   </layout>
+   <text>
+      <keyword>visit</keyword>
+      <keyword>garden</keyword>
+      <keyword>design</keyword>
+      <keyword>room</keyword>
+      <keyword>plant</keyword>
+      <keyword>art</keyword>
+      <keyword>discover</keyword>
+      <keyword>happy</keyword>
+   </text>
+</annotation>

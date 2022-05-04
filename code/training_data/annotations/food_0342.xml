@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0342</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="31 31 195 195 31 31"
+               polygon_y="277 280 280 276 276 277"/>
+      <element label="text-over-image" polygon_x="31 31 70 70 31 31"
+               polygon_y="67 85 85 66 66 67"/>
+      <element label="text-over-image" polygon_x="166 166 210 210 166 166"
+               polygon_y="47 60 60 46 46 47"/>
+      <element label="text-over-image" polygon_x="166 166 210 210 166 166"
+               polygon_y="67 80 80 66 66 67"/>
+      <element label="text-over-image" polygon_x="31 31 70 70 31 31"
+               polygon_y="97 105 105 96 96 97"/>
+   </layout>
+   <text/>
+</annotation>

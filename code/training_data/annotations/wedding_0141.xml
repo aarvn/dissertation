@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0141</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="121 121 220 220 121 121"
+               polygon_y="102 145 145 101 101 102"/>
+      <element label="text" polygon_x="121 121 220 220 121 121" polygon_y="67 95 95 66 66 67"/>
+      <element label="text" polygon_x="121 121 220 220 121 121" polygon_y="37 60 60 36 36 37"/>
+      <element label="text" polygon_x="121 121 220 220 121 121" polygon_y="17 30 30 16 16 17"/>
+      <element label="text" polygon_x="16 16 100 100 16 16" polygon_y="22 30 30 21 21 22"/>
+      <element label="text" polygon_x="16 16 100 100 16 16"
+               polygon_y="137 145 145 136 136 137"/>
+      <element label="image" polygon_x="6 6 220 220 6 6" polygon_y="152 290 290 151 151 152"/>
+      <element label="image" polygon_x="6 6 110 110 6 6" polygon_y="37 130 130 36 36 37"/>
+      <element label="text-over-image" polygon_x="11 11 100 100 11 11"
+               polygon_y="212 235 235 211 211 212"/>
+      <element label="text-over-image" polygon_x="66 66 135 135 66 66"
+               polygon_y="267 280 280 266 266 267"/>
+      <element label="text-over-image" polygon_x="146 146 215 215 146 146"
+               polygon_y="267 280 280 266 266 267"/>
+      <element label="text-over-image" polygon_x="11 11 55 55 11 11"
+               polygon_y="267 280 280 266 266 267"/>
+   </layout>
+   <text>
+      <keyword>guest</keyword>
+      <keyword>venue</keyword>
+      <keyword>reception</keyword>
+      <keyword>event</keyword>
+      <keyword>plan</keyword>
+      <keyword>moment</keyword>
+      <keyword>arrange</keyword>
+      <keyword>space</keyword>
+      <keyword>host</keyword>
+      <keyword>parent</keyword>
+      <keyword>photo</keyword>
+   </text>
+</annotation>

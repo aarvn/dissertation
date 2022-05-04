@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0603</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="47 170 170 46 46 47"/>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="217 285 285 216 216 217"/>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="177 210 210 176 176 177"/>
+      <element label="text" polygon_x="106 106 195 195 106 106"
+               polygon_y="267 285 285 266 266 267"/>
+      <element label="image"
+               polygon_x="81 81 106 106 106 145 146 146 151 151 151 195 196 196 215 215 81 81"
+               polygon_y="12 240 240 241 260 260 241 240 240 241 260 260 241 240 240 11 11 12"/>
+      <element label="image" polygon_x="16 16 45 45 16 16" polygon_y="7 40 40 6 6 7"/>
+      <element label="text-over-image" polygon_x="91 91 145 145 91 91"
+               polygon_y="22 105 105 21 21 22"/>
+   </layout>
+   <text>
+      <keyword>love</keyword>
+      <keyword>bride</keyword>
+      <keyword>dress</keyword>
+      <keyword>suit</keyword>
+      <keyword>location</keyword>
+      <keyword>store</keyword>
+   </text>
+</annotation>

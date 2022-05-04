@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0144</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 95 95 21 21" polygon_y="147 275 275 146 146 147"/>
+      <element label="text" polygon_x="106 106 200 200 106 106"
+               polygon_y="62 140 140 61 61 62"/>
+      <element label="text" polygon_x="126 126 185 185 126 126" polygon_y="37 50 50 36 36 37"/>
+      <element label="text" polygon_x="11 11 50 50 11 11" polygon_y="12 20 20 11 11 12"/>
+      <element label="image" polygon_x="101 101 205 205 101 101"
+               polygon_y="152 280 280 151 151 152"/>
+      <element label="image" polygon_x="11 11 21 21 21 95 95 21 20 20 11 11"
+               polygon_y="32 55 55 56 135 135 26 26 30 31 31 32"/>
+      <element label="text-over-image" polygon_x="11 11 40 40 11 11"
+               polygon_y="32 55 55 31 31 32"/>
+   </layout>
+   <text>
+      <keyword>recipe</keyword>
+      <keyword>restaurant</keyword>
+      <keyword>pepper</keyword>
+      <keyword>love</keyword>
+      <keyword>salad</keyword>
+      <keyword>glass</keyword>
+      <keyword>sweet</keyword>
+      <keyword>chef</keyword>
+   </text>
+</annotation>

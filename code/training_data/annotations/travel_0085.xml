@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0085</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 65 65 21 21" polygon_y="152 285 285 151 151 152"/>
+      <element label="text" polygon_x="21 21 65 65 21 21" polygon_y="67 145 145 66 66 67"/>
+      <element label="text" polygon_x="71 71 110 110 100 100 100 71 71"
+               polygon_y="177 240 240 211 211 210 176 176 177"/>
+      <element label="text" polygon_x="71 71 110 110 71 71" polygon_y="67 115 115 66 66 67"/>
+      <element label="text" polygon_x="71 71 110 110 71 71"
+               polygon_y="122 170 170 121 121 122"/>
+      <element label="text" polygon_x="21 21 160 160 21 21" polygon_y="52 60 60 51 51 52"/>
+      <element label="text" polygon_x="136 136 210 210 136 136"
+               polygon_y="197 210 210 196 196 197"/>
+      <element label="text" polygon_x="21 21 135 135 21 21" polygon_y="27 30 30 26 26 27"/>
+      <element label="text" polygon_x="71 71 95 95 71 71" polygon_y="267 285 285 266 266 267"/>
+      <element label="text" polygon_x="86 86 110 110 86 86"
+               polygon_y="247 260 260 246 246 247"/>
+      <element label="image" polygon_x="106 106 135 136 136 210 210 116 115 115 106 106"
+               polygon_y="177 205 205 196 195 195 66 66 175 176 176 177"/>
+      <element label="image" polygon_x="116 116 210 210 116 116"
+               polygon_y="212 285 285 211 211 212"/>
+      <element label="image" polygon_x="171 171 210 210 171 171" polygon_y="22 60 60 21 21 22"/>
+      <element label="image" polygon_x="96 96 110 110 96 96"
+               polygon_y="267 285 285 266 266 267"/>
+      <element label="image" polygon_x="71 71 85 85 71 71" polygon_y="247 260 260 246 246 247"/>
+      <element label="headline" polygon_x="21 21 150 150 21 21" polygon_y="32 45 45 31 31 32"/>
+   </layout>
+   <text>
+      <keyword>view</keyword>
+      <keyword>thought</keyword>
+   </text>
+</annotation>

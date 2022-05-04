@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0426</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="116 116 200 200 116 116"
+               polygon_y="17 280 280 16 16 17"/>
+      <element label="text" polygon_x="26 26 110 110 26 26"
+               polygon_y="172 260 260 171 171 172"/>
+      <element label="text" polygon_x="26 26 95 95 26 26" polygon_y="42 145 145 41 41 42"/>
+      <element label="text" polygon_x="26 26 105 105 26 26"
+               polygon_y="267 280 280 266 266 267"/>
+   </layout>
+   <text>
+      <keyword>group</keyword>
+   </text>
+</annotation>

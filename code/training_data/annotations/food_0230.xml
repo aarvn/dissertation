@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0230</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="86 86 140 140 86 86"
+               polygon_y="122 280 280 121 121 122"/>
+      <element label="text" polygon_x="21 21 75 75 21 21" polygon_y="217 280 280 216 216 217"/>
+      <element label="text" polygon_x="146 146 205 205 146 146"
+               polygon_y="227 280 280 226 226 227"/>
+      <element label="text" polygon_x="26 26 75 75 26 26" polygon_y="192 205 205 191 191 192"/>
+      <element label="text" polygon_x="146 146 175 175 146 146"
+               polygon_y="207 220 220 206 206 207"/>
+      <element label="text" polygon_x="11 11 80 80 11 11" polygon_y="12 15 15 11 11 12"/>
+      <element label="image" polygon_x="11 11 21 21 21 80 81 81 225 225 146 145 145 11 11"
+               polygon_y="22 115 115 116 165 165 116 115 115 1 1 20 21 21 22"/>
+      <element label="image" polygon_x="146 146 205 205 146 146"
+               polygon_y="122 200 200 121 121 122"/>
+      <element label="headline" polygon_x="31 31 65 65 31 31"
+               polygon_y="172 185 185 171 171 172"/>
+   </layout>
+   <text>
+      <keyword>top</keyword>
+      <keyword>place</keyword>
+      <keyword>sugar</keyword>
+      <keyword>menu</keyword>
+      <keyword>sweet</keyword>
+      <keyword>free</keyword>
+   </text>
+</annotation>

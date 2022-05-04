@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0465</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="81 81 145 145 125 125 126 126 145 145 81 81"
+               polygon_y="12 290 290 246 246 245 191 190 190 11 11 12"/>
+      <element label="text" polygon_x="151 151 166 166 165 165 151 151 210 210 151 151"
+               polygon_y="12 190 190 191 245 246 246 290 290 11 11 12"/>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="122 290 290 121 121 122"/>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="12 115 115 11 11 12"/>
+      <element label="image" polygon_x="131 131 160 160 131 131"
+               polygon_y="197 240 240 196 196 197"/>
+   </layout>
+   <text>
+      <keyword>country</keyword>
+      <keyword>life</keyword>
+      <keyword>government</keyword>
+      <keyword>decade</keyword>
+      <keyword>talk</keyword>
+      <keyword>book</keyword>
+      <keyword>president</keyword>
+      <keyword>win</keyword>
+      <keyword>leader</keyword>
+      <keyword>debate</keyword>
+      <keyword>election</keyword>
+      <keyword>question</keyword>
+      <keyword>history</keyword>
+      <keyword>politics</keyword>
+   </text>
+</annotation>

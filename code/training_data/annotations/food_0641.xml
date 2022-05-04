@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0641</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="16 16 105 105 16 16"
+               polygon_y="222 285 285 221 221 222"/>
+      <element label="text" polygon_x="121 121 205 205 121 121"
+               polygon_y="142 200 200 141 141 142"/>
+      <element label="text" polygon_x="56 56 100 100 56 56"
+               polygon_y="172 210 210 171 171 172"/>
+      <element label="text" polygon_x="121 121 155 155 121 121"
+               polygon_y="207 240 240 206 206 207"/>
+      <element label="text" polygon_x="16 16 40 40 16 16" polygon_y="187 215 215 186 186 187"/>
+      <element label="text" polygon_x="141 141 210 210 141 141" polygon_y="7 15 15 6 6 7"/>
+      <element label="image" polygon_x="16 16 100 100 16 16" polygon_y="22 165 165 21 21 22"/>
+      <element label="image" polygon_x="121 121 225 225 121 121"
+               polygon_y="27 135 135 26 26 27"/>
+      <element label="image" polygon_x="161 161 210 210 161 161"
+               polygon_y="222 280 280 221 221 222"/>
+      <element label="text-over-image" polygon_x="126 126 150 150 126 126"
+               polygon_y="37 55 55 36 36 37"/>
+   </layout>
+   <text>
+      <keyword>water</keyword>
+      <keyword>life</keyword>
+   </text>
+</annotation>

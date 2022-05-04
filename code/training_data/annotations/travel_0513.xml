@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0513</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="146 146 210 210 146 146"
+               polygon_y="22 255 255 21 21 22"/>
+      <element label="text" polygon_x="6 6 70 70 6 6" polygon_y="227 280 280 226 226 227"/>
+      <element label="text" polygon_x="76 76 140 140 76 76"
+               polygon_y="227 280 280 226 226 227"/>
+      <element label="text" polygon_x="16 16 130 130 16 16"
+               polygon_y="207 220 220 206 206 207"/>
+      <element label="text" polygon_x="146 146 210 210 146 146"
+               polygon_y="262 280 280 261 261 262"/>
+      <element label="image" polygon_x="6 6 140 140 6 6" polygon_y="22 185 185 21 21 22"/>
+      <element label="headline" polygon_x="16 16 130 130 16 16"
+               polygon_y="192 200 200 191 191 192"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>house</keyword>
+      <keyword>sea</keyword>
+      <keyword>tree</keyword>
+      <keyword>room</keyword>
+      <keyword>winter</keyword>
+      <keyword>space</keyword>
+      <keyword>man</keyword>
+      <keyword>bedroom</keyword>
+      <keyword>story</keyword>
+      <keyword>property</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0583</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 110 110 11 11" polygon_y="92 190 190 91 91 92"/>
+      <element label="text" polygon_x="11 11 110 110 11 11"
+               polygon_y="197 290 290 196 196 197"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="157 265 265 156 156 157"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="62 150 150 61 61 62"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="272 290 290 271 271 272"/>
+      <element label="text" polygon_x="121 121 140 140 121 121"
+               polygon_y="132 190 190 131 131 132"/>
+      <element label="text" polygon_x="121 121 140 140 121 121"
+               polygon_y="222 275 275 221 221 222"/>
+      <element label="text" polygon_x="11 11 65 65 11 11" polygon_y="17 20 20 16 16 17"/>
+      <element label="text" polygon_x="121 121 140 140 121 121" polygon_y="87 95 95 86 86 87"/>
+      <element label="image" polygon_x="11 11 35 35 11 11" polygon_y="37 60 60 36 36 37"/>
+      <element label="image" polygon_x="121 121 140 140 121 121"
+               polygon_y="107 130 130 106 106 107"/>
+      <element label="image" polygon_x="121 121 140 140 121 121"
+               polygon_y="197 215 215 196 196 197"/>
+      <element label="headline" polygon_x="11 11 105 105 11 11" polygon_y="62 85 85 61 61 62"/>
+   </layout>
+   <text>
+      <keyword>decade</keyword>
+      <keyword>power</keyword>
+      <keyword>book</keyword>
+      <keyword>party</keyword>
+      <keyword>fall</keyword>
+      <keyword>president</keyword>
+      <keyword>bad</keyword>
+      <keyword>fear</keyword>
+      <keyword>office</keyword>
+      <keyword>history</keyword>
+   </text>
+</annotation>

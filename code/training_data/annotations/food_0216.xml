@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0216</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="151 151 205 205 151 151"
+               polygon_y="167 280 280 166 166 167"/>
+      <element label="text" polygon_x="21 21 75 75 21 21" polygon_y="167 275 275 166 166 167"/>
+      <element label="text" polygon_x="86 86 140 140 86 86"
+               polygon_y="112 210 210 111 111 112"/>
+      <element label="text" polygon_x="86 86 140 140 86 86"
+               polygon_y="237 280 280 236 236 237"/>
+      <element label="text" polygon_x="151 151 205 205 151 151"
+               polygon_y="92 135 135 91 91 92"/>
+      <element label="text" polygon_x="21 21 75 75 21 21" polygon_y="92 130 130 91 91 92"/>
+      <element label="text" polygon_x="151 151 205 205 151 151"
+               polygon_y="142 160 160 141 141 142"/>
+      <element label="text" polygon_x="21 21 75 75 21 21" polygon_y="147 160 160 146 146 147"/>
+      <element label="text" polygon_x="86 86 140 140 86 86" polygon_y="92 105 105 91 91 92"/>
+      <element label="text" polygon_x="86 86 140 140 86 86"
+               polygon_y="217 225 225 216 216 217"/>
+      <element label="text" polygon_x="196 196 215 215 196 196" polygon_y="12 20 20 11 11 12"/>
+      <element label="image" polygon_x="66 66 110 110 66 66" polygon_y="27 80 80 26 26 27"/>
+      <element label="image" polygon_x="116 116 160 160 116 116" polygon_y="27 80 80 26 26 27"/>
+      <element label="image" polygon_x="21 21 60 60 21 21" polygon_y="27 80 80 26 26 27"/>
+      <element label="image" polygon_x="166 166 205 205 166 166" polygon_y="27 80 80 26 26 27"/>
+   </layout>
+   <text>
+      <keyword>recipe</keyword>
+      <keyword>dish</keyword>
+      <keyword>sugar</keyword>
+      <keyword>eat</keyword>
+      <keyword>food</keyword>
+      <keyword>enjoy</keyword>
+      <keyword>delicious</keyword>
+      <keyword>book</keyword>
+      <keyword>family</keyword>
+      <keyword>fruit</keyword>
+      <keyword>free</keyword>
+      <keyword>drink</keyword>
+   </text>
+</annotation>

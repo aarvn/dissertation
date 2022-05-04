@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0173</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="26 26 110 110 26 26"
+               polygon_y="242 265 265 241 241 242"/>
+      <element label="text" polygon_x="26 26 100 100 26 26"
+               polygon_y="272 285 285 271 271 272"/>
+      <element label="text" polygon_x="91 91 110 110 91 91"
+               polygon_y="217 235 235 216 216 217"/>
+      <element label="image"
+               polygon_x="11 11 26 26 26 85 86 86 115 116 116 121 121 120 120 91 91 190 191 191 210 211 211 225 225 146 145 145 21 21 26 26 25 25 11 11"
+               polygon_y="182 215 215 216 235 235 146 145 145 126 125 125 126 150 151 151 210 210 196 195 195 101 100 100 1 1 35 36 36 125 125 126 180 181 181 182"/>
+      <element label="image" polygon_x="116 116 205 205 116 116"
+               polygon_y="217 285 285 216 216 217"/>
+      <element label="headline" polygon_x="21 21 140 140 21 21" polygon_y="22 30 30 21 21 22"/>
+      <element label="text-over-image" polygon_x="91 91 190 190 121 120 120 91 91"
+               polygon_y="152 210 210 121 121 150 151 151 152"/>
+      <element label="text-over-image" polygon_x="11 11 60 60 11 11"
+               polygon_y="182 215 215 181 181 182"/>
+      <element label="text-over-image" polygon_x="121 121 190 190 121 121"
+               polygon_y="107 115 115 106 106 107"/>
+   </layout>
+   <text>
+      <keyword>love</keyword>
+      <keyword>couple</keyword>
+      <keyword>venue</keyword>
+      <keyword>family</keyword>
+      <keyword>friend</keyword>
+      <keyword>cake</keyword>
+      <keyword>remember</keyword>
+      <keyword>wear</keyword>
+      <keyword>vow</keyword>
+      <keyword>ring</keyword>
+      <keyword>issue</keyword>
+   </text>
+</annotation>

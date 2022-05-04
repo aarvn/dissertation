@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0602</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="192 285 285 191 191 192"/>
+      <element label="text" polygon_x="6 6 75 75 6 6" polygon_y="72 130 130 71 71 72"/>
+      <element label="text" polygon_x="6 6 75 75 6 6" polygon_y="172 220 220 171 171 172"/>
+      <element label="text" polygon_x="6 6 75 75 6 6" polygon_y="137 165 165 136 136 137"/>
+      <element label="text" polygon_x="156 156 220 220 156 156"
+               polygon_y="282 290 290 281 281 282"/>
+      <element label="text" polygon_x="171 171 200 200 171 171"
+               polygon_y="257 270 270 256 256 257"/>
+      <element label="text" polygon_x="81 81 120 120 81 81"
+               polygon_y="292 295 295 291 291 292"/>
+      <element label="text" polygon_x="166 166 205 205 166 166"
+               polygon_y="247 250 250 246 246 247"/>
+      <element label="image" polygon_x="81 81 220 220 81 81" polygon_y="77 185 185 76 76 77"/>
+      <element label="image" polygon_x="6 6 81 81 80 80 6 6 81 81 81 220 220 81 80 80 6 6"
+               polygon_y="27 50 50 51 55 56 56 60 60 61 70 70 16 16 25 26 26 27"/>
+      <element label="image" polygon_x="6 6 75 75 6 6" polygon_y="227 295 295 226 226 227"/>
+      <element label="image" polygon_x="161 161 210 210 161 161"
+               polygon_y="192 235 235 191 191 192"/>
+      <element label="text-over-image" polygon_x="6 6 125 125 6 6"
+               polygon_y="57 60 60 56 56 57"/>
+      <element label="headline-over-image" polygon_x="6 6 95 95 6 6"
+               polygon_y="27 50 50 26 26 27"/>
+   </layout>
+   <text>
+      <keyword>visit</keyword>
+      <keyword>beach</keyword>
+      <keyword>tree</keyword>
+      <keyword>guest</keyword>
+      <keyword>taste</keyword>
+      <keyword>resort</keyword>
+      <keyword>dream</keyword>
+      <keyword>holiday</keyword>
+   </text>
+</annotation>

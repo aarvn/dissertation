@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0505</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="161 161 215 215 161 161"
+               polygon_y="77 280 280 76 76 77"/>
+      <element label="text" polygon_x="41 41 95 95 41 41" polygon_y="142 280 280 141 141 142"/>
+      <element label="text" polygon_x="101 101 155 155 101 101"
+               polygon_y="177 280 280 176 176 177"/>
+      <element label="text" polygon_x="101 101 155 155 101 101" polygon_y="32 85 85 31 31 32"/>
+      <element label="text" polygon_x="101 101 155 155 101 101"
+               polygon_y="117 170 170 116 116 117"/>
+      <element label="text" polygon_x="161 161 215 215 161 161" polygon_y="47 70 70 46 46 47"/>
+      <element label="text" polygon_x="101 101 155 155 101 101"
+               polygon_y="92 110 110 91 91 92"/>
+      <element label="text" polygon_x="161 161 215 215 161 161" polygon_y="32 40 40 31 31 32"/>
+      <element label="image" polygon_x="1 1 95 95 1 1" polygon_y="12 135 135 11 11 12"/>
+   </layout>
+   <text>
+      <keyword>top</keyword>
+      <keyword>salt</keyword>
+      <keyword>stir</keyword>
+      <keyword>heat</keyword>
+      <keyword>cool</keyword>
+      <keyword>oil</keyword>
+      <keyword>bowl</keyword>
+      <keyword>water</keyword>
+      <keyword>pan</keyword>
+      <keyword>fry</keyword>
+      <keyword>garlic</keyword>
+      <keyword>cooking</keyword>
+      <keyword>egg</keyword>
+      <keyword>onion</keyword>
+      <keyword>cheese</keyword>
+      <keyword>roll</keyword>
+      <keyword>potato</keyword>
+      <keyword>fridge</keyword>
+      <keyword>crisp</keyword>
+      <keyword>choice</keyword>
+      <keyword>ginger</keyword>
+      <keyword>soften</keyword>
+   </text>
+</annotation>

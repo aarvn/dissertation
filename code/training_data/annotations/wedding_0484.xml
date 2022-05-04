@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0484</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="6 6 220 220 6 6" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="26 26 75 75 26 26"
+               polygon_y="12 140 140 11 11 12"/>
+      <element label="text-over-image" polygon_x="66 66 165 165 66 66"
+               polygon_y="272 280 280 271 271 272"/>
+      <element label="headline-over-image" polygon_x="31 31 200 200 31 31"
+               polygon_y="242 265 265 241 241 242"/>
+   </layout>
+   <text/>
+</annotation>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0255</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="31 31 110 110 31 31"
+               polygon_y="167 285 285 166 166 167"/>
+      <element label="text" polygon_x="116 116 195 195 116 116"
+               polygon_y="167 285 285 166 166 167"/>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 160 160 1 1 2"/>
+      <element label="text-over-image" polygon_x="11 11 100 100 11 11"
+               polygon_y="22 30 30 21 21 22"/>
+   </layout>
+   <text>
+      <keyword>project</keyword>
+      <keyword>north</keyword>
+      <keyword>technology</keyword>
+   </text>
+</annotation>

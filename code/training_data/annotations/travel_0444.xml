@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0444</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="6 6 70 70 6 6" polygon_y="82 280 280 81 81 82"/>
+      <element label="text" polygon_x="6 6 70 70 6 6" polygon_y="57 75 75 56 56 57"/>
+      <element label="text" polygon_x="6 6 85 85 6 6" polygon_y="12 15 15 11 11 12"/>
+      <element label="image"
+               polygon_x="81 81 141 141 140 140 81 81 155 156 156 161 161 161 225 225 170 170 171 171 225 225 161 160 160 155 155 155 81 81"
+               polygon_y="112 190 190 191 195 196 196 280 280 206 205 205 206 280 280 196 196 195 191 190 190 111 111 175 176 176 175 111 111 112"/>
+      <element label="image" polygon_x="81 81 155 155 81 81" polygon_y="22 105 105 21 21 22"/>
+      <element label="image" polygon_x="161 161 225 225 161 161"
+               polygon_y="22 105 105 21 21 22"/>
+      <element label="headline" polygon_x="6 6 70 70 6 6" polygon_y="42 50 50 41 41 42"/>
+      <element label="text-over-image" polygon_x="141 141 170 170 141 141"
+               polygon_y="177 205 205 176 176 177"/>
+   </layout>
+   <text>
+      <keyword>town</keyword>
+      <keyword>village</keyword>
+      <keyword>story</keyword>
+   </text>
+</annotation>

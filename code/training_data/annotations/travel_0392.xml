@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0392</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="26 26 160 160 26 26"
+               polygon_y="42 135 135 41 41 42"/>
+      <element label="text-over-image" polygon_x="21 21 120 120 21 21"
+               polygon_y="247 255 255 246 246 247"/>
+      <element label="text-over-image" polygon_x="176 176 215 215 176 176"
+               polygon_y="247 255 255 246 246 247"/>
+      <element label="headline-over-image" polygon_x="26 26 130 130 26 26"
+               polygon_y="22 35 35 21 21 22"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>love</keyword>
+      <keyword>land</keyword>
+   </text>
+</annotation>

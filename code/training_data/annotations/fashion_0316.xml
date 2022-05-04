@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0316</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="126 126 205 205 126 126"
+               polygon_y="252 280 280 251 251 252"/>
+      <element label="text" polygon_x="146 146 220 220 146 146" polygon_y="7 15 15 6 6 7"/>
+      <element label="image" polygon_x="11 11 26 26 26 100 101 101 225 225 11 11"
+               polygon_y="22 245 245 246 280 280 246 245 245 21 21 22"/>
+      <element label="text-over-image" polygon_x="26 26 100 100 51 50 50 26 26"
+               polygon_y="227 280 280 186 186 225 226 226 227"/>
+      <element label="text-over-image" polygon_x="16 16 125 125 16 16"
+               polygon_y="157 175 175 156 156 157"/>
+      <element label="headline-over-image"
+               polygon_x="11 11 16 16 16 130 130 115 115 115 11 11"
+               polygon_y="27 125 125 126 150 150 126 126 125 26 26 27"/>
+   </layout>
+   <text>
+      <keyword>woman</keyword>
+      <keyword>friend</keyword>
+      <keyword>skin</keyword>
+      <keyword>face</keyword>
+      <keyword>dream</keyword>
+      <keyword>beautiful</keyword>
+      <keyword>free</keyword>
+   </text>
+</annotation>

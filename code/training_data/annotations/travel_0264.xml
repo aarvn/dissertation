@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0264</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="116 116 155 156 156 195 195 116 116"
+               polygon_y="182 265 265 251 250 250 181 181 182"/>
+      <element label="text" polygon_x="31 31 110 110 31 31"
+               polygon_y="212 265 265 211 211 212"/>
+      <element label="text" polygon_x="31 31 110 110 31 31"
+               polygon_y="172 205 205 171 171 172"/>
+      <element label="text" polygon_x="116 116 195 195 116 116"
+               polygon_y="152 175 175 151 151 152"/>
+      <element label="text" polygon_x="51 51 175 175 51 51"
+               polygon_y="127 140 140 126 126 127"/>
+      <element label="text" polygon_x="31 31 155 155 31 31"
+               polygon_y="272 280 280 271 271 272"/>
+      <element label="text" polygon_x="31 31 110 110 31 31"
+               polygon_y="152 165 165 151 151 152"/>
+      <element label="image" polygon_x="31 31 195 195 31 31" polygon_y="2 90 90 1 1 2"/>
+      <element label="image" polygon_x="161 161 195 195 161 161"
+               polygon_y="257 280 280 256 256 257"/>
+      <element label="headline" polygon_x="46 46 180 180 46 46"
+               polygon_y="97 120 120 96 96 97"/>
+   </layout>
+   <text>
+      <keyword>place</keyword>
+      <keyword>design</keyword>
+      <keyword>art</keyword>
+      <keyword>kitchen</keyword>
+      <keyword>bedroom</keyword>
+      <keyword>shop</keyword>
+      <keyword>thought</keyword>
+   </text>
+</annotation>

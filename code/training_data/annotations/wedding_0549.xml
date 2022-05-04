@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0549</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 110 110 21 21"
+               polygon_y="132 165 165 131 131 132"/>
+      <element label="text" polygon_x="21 21 110 110 21 21"
+               polygon_y="257 290 290 256 256 257"/>
+      <element label="text" polygon_x="116 116 205 205 116 116"
+               polygon_y="132 165 165 131 131 132"/>
+      <element label="text" polygon_x="116 116 205 205 116 116"
+               polygon_y="257 290 290 256 256 257"/>
+      <element label="text" polygon_x="116 116 205 205 116 116"
+               polygon_y="122 125 125 121 121 122"/>
+      <element label="text" polygon_x="21 21 85 85 21 21" polygon_y="247 250 250 246 246 247"/>
+      <element label="text" polygon_x="116 116 160 160 116 116"
+               polygon_y="247 250 250 246 246 247"/>
+      <element label="text" polygon_x="21 21 60 60 21 21" polygon_y="122 125 125 121 121 122"/>
+      <element label="image" polygon_x="21 21 110 110 21 21" polygon_y="47 115 115 46 46 47"/>
+      <element label="image" polygon_x="21 21 110 110 21 21"
+               polygon_y="172 240 240 171 171 172"/>
+      <element label="image" polygon_x="116 116 205 205 116 116"
+               polygon_y="47 115 115 46 46 47"/>
+      <element label="image" polygon_x="116 116 205 205 116 116"
+               polygon_y="172 240 240 171 171 172"/>
+   </layout>
+   <text>
+      <keyword>wedding</keyword>
+      <keyword>guest</keyword>
+      <keyword>important</keyword>
+      <keyword>unique</keyword>
+      <keyword>experience</keyword>
+      <keyword>dance</keyword>
+      <keyword>suit</keyword>
+      <keyword>amaze</keyword>
+   </text>
+</annotation>

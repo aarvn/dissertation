@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0112</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="66 66 130 130 66 66"
+               polygon_y="57 240 240 56 56 57"/>
+      <element label="text-over-image" polygon_x="141 141 205 205 141 141"
+               polygon_y="52 230 230 51 51 52"/>
+      <element label="text-over-image" polygon_x="21 21 60 60 21 21"
+               polygon_y="17 30 30 16 16 17"/>
+      <element label="headline-over-image" polygon_x="66 66 165 165 66 66"
+               polygon_y="37 45 45 36 36 37"/>
+   </layout>
+   <text>
+      <keyword>state</keyword>
+      <keyword>city</keyword>
+      <keyword>friend</keyword>
+      <keyword>war</keyword>
+      <keyword>idea</keyword>
+      <keyword>family</keyword>
+      <keyword>live</keyword>
+      <keyword>attack</keyword>
+      <keyword>street</keyword>
+      <keyword>police</keyword>
+   </text>
+</annotation>

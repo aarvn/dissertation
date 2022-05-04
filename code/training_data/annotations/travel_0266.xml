@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0266</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="116 116 200 200 116 116"
+               polygon_y="172 240 240 171 171 172"/>
+      <element label="text" polygon_x="26 26 110 110 26 26"
+               polygon_y="107 170 170 106 106 107"/>
+      <element label="text" polygon_x="26 26 110 110 26 26"
+               polygon_y="177 205 205 176 176 177"/>
+      <element label="text" polygon_x="26 26 110 110 26 26" polygon_y="77 100 100 76 76 77"/>
+      <element label="text" polygon_x="26 26 110 110 26 26"
+               polygon_y="212 235 235 211 211 212"/>
+      <element label="text" polygon_x="26 26 110 110 26 26"
+               polygon_y="242 260 260 241 241 242"/>
+      <element label="text" polygon_x="116 116 200 200 116 116"
+               polygon_y="247 260 260 246 246 247"/>
+      <element label="text" polygon_x="51 51 175 175 51 51" polygon_y="57 65 65 56 56 57"/>
+      <element label="text" polygon_x="26 26 140 140 26 26"
+               polygon_y="272 280 280 271 271 272"/>
+      <element label="text" polygon_x="151 151 200 200 151 151"
+               polygon_y="272 280 280 271 271 272"/>
+      <element label="image" polygon_x="116 116 200 200 116 116"
+               polygon_y="77 165 165 76 76 77"/>
+      <element label="headline" polygon_x="46 46 180 180 46 46" polygon_y="27 50 50 26 26 27"/>
+   </layout>
+   <text/>
+</annotation>

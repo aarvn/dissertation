@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0513</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 65 65 21 21" polygon_y="12 15 15 11 11 12"/>
+      <element label="image"
+               polygon_x="1 1 16 16 16 126 126 125 125 26 26 126 126 125 125 41 41 126 126 126 225 225 220 220 221 221 225 225 71 70 70 1 1"
+               polygon_y="27 70 70 71 230 230 231 235 236 236 265 265 266 275 276 276 280 280 281 300 300 166 166 165 106 105 105 1 1 25 26 26 27"/>
+      <element label="text-over-image" polygon_x="26 26 155 155 26 26"
+               polygon_y="237 265 265 236 236 237"/>
+      <element label="text-over-image" polygon_x="101 101 135 135 101 101"
+               polygon_y="97 125 125 96 96 97"/>
+      <element label="text-over-image" polygon_x="41 41 145 145 41 41"
+               polygon_y="277 280 280 276 276 277"/>
+      <element label="text-over-image" polygon_x="86 86 125 125 86 86"
+               polygon_y="72 80 80 71 71 72"/>
+   </layout>
+   <text>
+      <keyword>guest</keyword>
+      <keyword>music</keyword>
+   </text>
+</annotation>

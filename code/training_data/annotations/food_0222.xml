@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0222</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="16 16 140 140 16 16"
+               polygon_y="187 200 200 186 186 187"/>
+      <element label="image" polygon_x="1 1 151 151 150 150 1 1 225 225 1 1"
+               polygon_y="2 185 185 186 200 201 201 300 300 1 1 2"/>
+   </layout>
+   <text>
+      <keyword>restaurant</keyword>
+      <keyword>menu</keyword>
+   </text>
+</annotation>

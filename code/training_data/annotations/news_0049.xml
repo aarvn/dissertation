@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0049</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="6 6 70 70 50 50 51 51 70 70 6 6"
+               polygon_y="97 280 280 166 166 165 116 115 115 96 96 97"/>
+      <element label="text" polygon_x="146 146 171 171 171 210 210 146 146"
+               polygon_y="17 115 115 116 150 150 16 16 17"/>
+      <element label="text" polygon_x="146 146 210 210 171 170 170 146 146"
+               polygon_y="167 280 280 156 156 165 166 166 167"/>
+      <element label="text" polygon_x="76 76 140 140 76 76"
+               polygon_y="167 280 280 166 166 167"/>
+      <element label="text" polygon_x="76 76 135 135 76 76" polygon_y="17 115 115 16 16 17"/>
+      <element label="text" polygon_x="6 6 70 70 6 6" polygon_y="17 85 85 16 16 17"/>
+      <element label="text" polygon_x="66 66 155 155 66 66"
+               polygon_y="137 155 155 136 136 137"/>
+   </layout>
+   <text>
+      <keyword>country</keyword>
+      <keyword>woman</keyword>
+      <keyword>man</keyword>
+      <keyword>idea</keyword>
+      <keyword>family</keyword>
+      <keyword>grow</keyword>
+      <keyword>love</keyword>
+      <keyword>public</keyword>
+      <keyword>study</keyword>
+      <keyword>meeting</keyword>
+      <keyword>important</keyword>
+   </text>
+</annotation>

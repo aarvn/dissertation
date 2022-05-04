@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0612</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="37 290 290 36 36 37"/>
+      <element label="text" polygon_x="96 96 150 150 96 96" polygon_y="62 190 190 61 61 62"/>
+      <element label="text" polygon_x="156 156 210 210 156 156"
+               polygon_y="62 190 190 61 61 62"/>
+      <element label="text" polygon_x="96 96 195 195 96 96" polygon_y="37 55 55 36 36 37"/>
+      <element label="text" polygon_x="96 96 195 195 96 96"
+               polygon_y="287 290 290 286 286 287"/>
+      <element label="text" polygon_x="11 11 45 45 11 11" polygon_y="17 20 20 16 16 17"/>
+      <element label="image" polygon_x="96 96 210 210 96 96"
+               polygon_y="202 285 285 201 201 202"/>
+   </layout>
+   <text>
+      <keyword>idea</keyword>
+      <keyword>story</keyword>
+      <keyword>job</keyword>
+      <keyword>mind</keyword>
+      <keyword>challenge</keyword>
+   </text>
+</annotation>

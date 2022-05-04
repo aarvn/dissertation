@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0488</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="116 116 215 215 116 116"
+               polygon_y="67 240 240 66 66 67"/>
+      <element label="text-over-image" polygon_x="11 11 110 110 11 11"
+               polygon_y="67 155 155 66 66 67"/>
+      <element label="text-over-image" polygon_x="116 116 215 215 116 116"
+               polygon_y="247 285 285 246 246 247"/>
+      <element label="text-over-image" polygon_x="11 11 55 55 11 11"
+               polygon_y="47 55 55 46 46 47"/>
+      <element label="text-over-image" polygon_x="11 11 55 55 11 11"
+               polygon_y="17 20 20 16 16 17"/>
+      <element label="headline-over-image" polygon_x="11 11 165 165 11 11"
+               polygon_y="32 40 40 31 31 32"/>
+   </layout>
+   <text>
+      <keyword>scientist</keyword>
+      <keyword>university</keyword>
+      <keyword>field</keyword>
+      <keyword>idea</keyword>
+      <keyword>focus</keyword>
+      <keyword>project</keyword>
+      <keyword>animal</keyword>
+      <keyword>lab</keyword>
+      <keyword>answer</keyword>
+      <keyword>brain</keyword>
+   </text>
+</annotation>

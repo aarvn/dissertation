@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0437</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="202 290 290 201 201 202"/>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="117 210 210 116 116 117"/>
+      <element label="text" polygon_x="151 151 210 210 151 151"
+               polygon_y="202 290 290 201 201 202"/>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="27 110 110 26 26 27"/>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="217 290 290 216 216 217"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="182 195 195 181 181 182"/>
+      <element label="text" polygon_x="151 151 210 210 151 151"
+               polygon_y="182 195 195 181 181 182"/>
+      <element label="text" polygon_x="81 81 195 195 81 81"
+               polygon_y="172 175 175 171 171 172"/>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="17 20 20 16 16 17"/>
+      <element label="image" polygon_x="81 81 210 210 81 81" polygon_y="17 170 170 16 16 17"/>
+   </layout>
+   <text>
+      <keyword>country</keyword>
+      <keyword>man</keyword>
+      <keyword>decade</keyword>
+      <keyword>child</keyword>
+      <keyword>friend</keyword>
+      <keyword>story</keyword>
+      <keyword>mother</keyword>
+      <keyword>study</keyword>
+      <keyword>wife</keyword>
+      <keyword>father</keyword>
+      <keyword>sense</keyword>
+      <keyword>court</keyword>
+   </text>
+</annotation>

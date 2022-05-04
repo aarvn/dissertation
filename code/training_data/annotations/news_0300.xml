@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0300</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="112 285 285 111 111 112"/>
+      <element label="text" polygon_x="151 151 210 210 151 151"
+               polygon_y="112 275 275 111 111 112"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="177 285 285 176 176 177"/>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="22 75 75 21 21 22"/>
+      <element label="text" polygon_x="151 151 210 210 151 151" polygon_y="22 75 75 21 21 22"/>
+      <element label="text" polygon_x="81 81 145 145 81 81" polygon_y="27 75 75 26 26 27"/>
+      <element label="text" polygon_x="16 16 85 85 16 16" polygon_y="102 105 105 101 101 102"/>
+      <element label="image" polygon_x="81 81 145 145 81 81"
+               polygon_y="112 170 170 111 111 112"/>
+      <element label="headline" polygon_x="16 16 135 135 16 16" polygon_y="82 95 95 81 81 82"/>
+   </layout>
+   <text>
+      <keyword>talk</keyword>
+      <keyword>cost</keyword>
+      <keyword>struggle</keyword>
+      <keyword>fund</keyword>
+      <keyword>market</keyword>
+   </text>
+</annotation>

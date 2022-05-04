@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0315</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="16 16 95 95 16 16" polygon_y="112 235 235 111 111 112"/>
+      <element label="text" polygon_x="101 101 145 145 101 101"
+               polygon_y="112 235 235 111 111 112"/>
+      <element label="text" polygon_x="166 166 210 210 166 166"
+               polygon_y="152 235 235 151 151 152"/>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="47 100 100 46 46 47"/>
+      <element label="text" polygon_x="81 81 135 135 81 81" polygon_y="47 100 100 46 46 47"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="127 145 145 126 126 127"/>
+      <element label="text" polygon_x="61 61 90 90 61 61" polygon_y="252 275 275 251 251 252"/>
+      <element label="text" polygon_x="101 101 130 130 101 101"
+               polygon_y="252 275 275 251 251 252"/>
+      <element label="text" polygon_x="141 141 170 170 141 141"
+               polygon_y="252 275 275 251 251 252"/>
+      <element label="text" polygon_x="181 181 210 210 181 181"
+               polygon_y="252 275 275 251 251 252"/>
+      <element label="text" polygon_x="16 16 45 45 16 16" polygon_y="32 40 40 31 31 32"/>
+      <element label="image" polygon_x="151 151 215 215 151 151"
+               polygon_y="37 125 125 36 36 37"/>
+      <element label="image" polygon_x="21 21 50 50 21 21" polygon_y="252 275 275 251 251 252"/>
+      <element label="text-over-image" polygon_x="21 21 40 40 21 21"
+               polygon_y="257 275 275 256 256 257"/>
+   </layout>
+   <text>
+      <keyword>decade</keyword>
+      <keyword>test</keyword>
+      <keyword>area</keyword>
+      <keyword>idea</keyword>
+      <keyword>history</keyword>
+      <keyword>country</keyword>
+      <keyword>group</keyword>
+      <keyword>state</keyword>
+      <keyword>opportunity</keyword>
+   </text>
+</annotation>

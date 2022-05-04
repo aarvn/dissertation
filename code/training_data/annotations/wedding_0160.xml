@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0160</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="6 6 80 80 6 6" polygon_y="147 205 205 146 146 147"/>
+      <element label="text" polygon_x="6 6 80 80 6 6" polygon_y="67 100 100 66 66 67"/>
+      <element label="text" polygon_x="6 6 80 80 6 6" polygon_y="107 140 140 106 106 107"/>
+      <element label="text" polygon_x="6 6 80 80 6 6" polygon_y="212 245 245 211 211 212"/>
+      <element label="text" polygon_x="6 6 80 80 6 6" polygon_y="252 280 280 251 251 252"/>
+      <element label="text" polygon_x="6 6 95 95 6 6" polygon_y="47 50 50 46 46 47"/>
+      <element label="text" polygon_x="91 91 150 150 91 91"
+               polygon_y="277 280 280 276 276 277"/>
+      <element label="image" polygon_x="91 91 225 225 91 91" polygon_y="67 275 275 66 66 67"/>
+      <element label="headline" polygon_x="6 6 95 95 6 6" polygon_y="27 40 40 26 26 27"/>
+   </layout>
+   <text>
+      <keyword>wedding</keyword>
+      <keyword>bride</keyword>
+      <keyword>couple</keyword>
+      <keyword>family</keyword>
+      <keyword>budget</keyword>
+      <keyword>event</keyword>
+      <keyword>image</keyword>
+      <keyword>host</keyword>
+      <keyword>parent</keyword>
+   </text>
+</annotation>

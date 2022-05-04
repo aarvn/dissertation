@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0445</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="101 101 210 210 101 101"
+               polygon_y="152 285 285 151 151 152"/>
+      <element label="image" polygon_x="6 6 220 220 6 6" polygon_y="7 140 140 6 6 7"/>
+      <element label="image" polygon_x="11 11 95 95 11 11" polygon_y="152 285 285 151 151 152"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>university</keyword>
+      <keyword>design</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0249</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 110 110 11 11"
+               polygon_y="132 285 285 131 131 132"/>
+      <element label="text" polygon_x="116 116 210 210 116 116"
+               polygon_y="52 190 190 51 51 52"/>
+      <element label="text" polygon_x="116 116 210 210 116 116"
+               polygon_y="202 285 285 201 201 202"/>
+      <element label="text" polygon_x="11 11 110 110 11 11" polygon_y="42 45 45 41 41 42"/>
+      <element label="image" polygon_x="11 11 110 110 11 11" polygon_y="52 125 125 51 51 52"/>
+      <element label="headline" polygon_x="11 11 125 125 11 11" polygon_y="17 25 25 16 16 17"/>
+   </layout>
+   <text>
+      <keyword>power</keyword>
+      <keyword>idea</keyword>
+      <keyword>leader</keyword>
+      <keyword>issue</keyword>
+      <keyword>future</keyword>
+      <keyword>campaign</keyword>
+      <keyword>promise</keyword>
+      <keyword>parliament</keyword>
+   </text>
+</annotation>

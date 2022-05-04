@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0114</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="81 81 140 140 81 81" polygon_y="57 260 260 56 56 57"/>
+      <element label="text" polygon_x="146 146 205 205 146 146"
+               polygon_y="57 195 195 56 56 57"/>
+      <element label="text" polygon_x="146 146 205 205 146 146"
+               polygon_y="207 260 260 206 206 207"/>
+      <element label="text" polygon_x="86 86 200 200 86 86" polygon_y="22 40 40 21 21 22"/>
+      <element label="text" polygon_x="81 81 140 140 81 81"
+               polygon_y="267 285 285 266 266 267"/>
+      <element label="text" polygon_x="146 146 205 205 151 150 150 146 146"
+               polygon_y="272 285 285 266 266 270 271 271 272"/>
+      <element label="image" polygon_x="11 11 75 75 11 11" polygon_y="2 300 300 1 1 2"/>
+   </layout>
+   <text>
+      <keyword>top</keyword>
+      <keyword>wine</keyword>
+      <keyword>garlic</keyword>
+      <keyword>restaurant</keyword>
+      <keyword>egg</keyword>
+   </text>
+</annotation>

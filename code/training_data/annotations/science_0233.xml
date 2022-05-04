@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0233</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="126 126 215 215 126 126"
+               polygon_y="127 280 280 126 126 127"/>
+      <element label="text" polygon_x="31 31 120 120 31 31" polygon_y="27 130 130 26 26 27"/>
+      <element label="text" polygon_x="11 11 120 120 11 11"
+               polygon_y="267 280 280 266 266 267"/>
+      <element label="text" polygon_x="126 126 215 215 126 126"
+               polygon_y="107 115 115 106 106 107"/>
+      <element label="image" polygon_x="11 11 120 120 11 11"
+               polygon_y="137 260 260 136 136 137"/>
+      <element label="image" polygon_x="126 126 225 225 126 126" polygon_y="2 100 100 1 1 2"/>
+   </layout>
+   <text>
+      <keyword>study</keyword>
+      <keyword>place</keyword>
+      <keyword>create</keyword>
+      <keyword>island</keyword>
+      <keyword>history</keyword>
+      <keyword>animal</keyword>
+      <keyword>rock</keyword>
+   </text>
+</annotation>

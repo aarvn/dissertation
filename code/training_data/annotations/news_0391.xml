@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0391</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="16 16 190 190 16 16"
+               polygon_y="287 290 290 286 286 287"/>
+      <element label="image" polygon_x="16 16 210 210 16 16" polygon_y="17 280 280 16 16 17"/>
+   </layout>
+   <text/>
+</annotation>

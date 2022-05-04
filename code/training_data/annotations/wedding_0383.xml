@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0383</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="141 141 205 205 141 141"
+               polygon_y="32 165 165 31 31 32"/>
+      <element label="text" polygon_x="21 21 75 75 21 21" polygon_y="182 240 240 181 181 182"/>
+      <element label="text" polygon_x="156 156 205 205 156 156" polygon_y="12 15 15 11 11 12"/>
+      <element label="image"
+               polygon_x="1 1 81 81 80 80 21 21 136 136 136 225 225 135 135 135 1 1"
+               polygon_y="2 175 175 176 245 246 246 295 295 296 300 300 171 171 170 1 1 2"/>
+      <element label="text-over-image" polygon_x="101 101 135 135 101 101"
+               polygon_y="162 170 170 161 161 162"/>
+   </layout>
+   <text>
+      <keyword>wedding</keyword>
+      <keyword>guest</keyword>
+      <keyword>dress</keyword>
+      <keyword>family</keyword>
+      <keyword>friend</keyword>
+      <keyword>service</keyword>
+      <keyword>married</keyword>
+      <keyword>wear</keyword>
+      <keyword>fit</keyword>
+      <keyword>beautiful</keyword>
+   </text>
+</annotation>

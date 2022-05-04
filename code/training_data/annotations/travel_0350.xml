@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0350</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="26 26 160 160 95 95 95 26 26"
+               polygon_y="212 285 285 266 266 265 211 211 212"/>
+      <element label="text" polygon_x="26 26 90 90 26 26" polygon_y="127 190 190 126 126 127"/>
+      <element label="text" polygon_x="96 96 160 160 96 96"
+               polygon_y="127 185 185 126 126 127"/>
+      <element label="text" polygon_x="171 171 210 210 171 171"
+               polygon_y="102 170 170 101 101 102"/>
+      <element label="text" polygon_x="171 171 210 210 171 171"
+               polygon_y="177 235 235 176 176 177"/>
+      <element label="text" polygon_x="176 176 205 205 176 176" polygon_y="57 95 95 56 56 57"/>
+      <element label="text" polygon_x="171 171 210 210 171 171"
+               polygon_y="242 265 265 241 241 242"/>
+      <element label="text" polygon_x="171 171 210 210 171 171"
+               polygon_y="272 285 285 271 271 272"/>
+      <element label="text" polygon_x="26 26 65 65 26 26" polygon_y="202 205 205 201 201 202"/>
+      <element label="image" polygon_x="26 26 160 160 26 26" polygon_y="22 120 120 21 21 22"/>
+      <element label="image" polygon_x="101 101 160 160 101 101"
+               polygon_y="202 260 260 201 201 202"/>
+      <element label="image" polygon_x="171 171 210 210 171 171" polygon_y="22 50 50 21 21 22"/>
+   </layout>
+   <text>
+      <keyword>love</keyword>
+      <keyword>house</keyword>
+      <keyword>garden</keyword>
+      <keyword>enjoy</keyword>
+      <keyword>design</keyword>
+      <keyword>plant</keyword>
+      <keyword>restaurant</keyword>
+      <keyword>celebrate</keyword>
+      <keyword>guest</keyword>
+      <keyword>shop</keyword>
+      <keyword>taste</keyword>
+      <keyword>picture</keyword>
+   </text>
+</annotation>

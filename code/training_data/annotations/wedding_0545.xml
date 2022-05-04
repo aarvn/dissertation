@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0545</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="161 161 205 205 161 161"
+               polygon_y="117 170 170 116 116 117"/>
+      <element label="text" polygon_x="161 161 205 205 161 161"
+               polygon_y="177 230 230 176 176 177"/>
+      <element label="text" polygon_x="161 161 205 205 161 161"
+               polygon_y="237 290 290 236 236 237"/>
+      <element label="text" polygon_x="161 161 205 205 161 161"
+               polygon_y="62 110 110 61 61 62"/>
+      <element label="text" polygon_x="26 26 65 65 26 26" polygon_y="117 170 170 116 116 117"/>
+      <element label="text" polygon_x="26 26 65 65 26 26" polygon_y="177 230 230 176 176 177"/>
+      <element label="text" polygon_x="26 26 65 65 26 26" polygon_y="237 290 290 236 236 237"/>
+      <element label="text" polygon_x="71 71 110 110 71 71"
+               polygon_y="177 230 230 176 176 177"/>
+      <element label="text" polygon_x="71 71 110 110 71 71"
+               polygon_y="237 290 290 236 236 237"/>
+      <element label="text" polygon_x="116 116 155 155 116 116"
+               polygon_y="177 230 230 176 176 177"/>
+      <element label="text" polygon_x="116 116 155 155 116 116"
+               polygon_y="237 290 290 236 236 237"/>
+      <element label="text" polygon_x="26 26 65 65 26 26" polygon_y="62 110 110 61 61 62"/>
+      <element label="text" polygon_x="26 26 205 205 26 26" polygon_y="47 50 50 46 46 47"/>
+      <element label="image" polygon_x="71 71 155 155 71 71" polygon_y="62 170 170 61 61 62"/>
+      <element label="headline" polygon_x="56 56 185 185 56 56" polygon_y="12 40 40 11 11 12"/>
+   </layout>
+   <text>
+      <keyword>love</keyword>
+      <keyword>family</keyword>
+      <keyword>enjoy</keyword>
+      <keyword>perfect</keyword>
+      <keyword>life</keyword>
+      <keyword>plan</keyword>
+      <keyword>fun</keyword>
+      <keyword>store</keyword>
+      <keyword>plenty</keyword>
+      <keyword>relationship</keyword>
+      <keyword>season</keyword>
+   </text>
+</annotation>

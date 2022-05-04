@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0019</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="16 16 140 140 16 16"
+               polygon_y="222 270 270 221 221 222"/>
+      <element label="image" polygon_x="16 16 151 151 151 205 206 206 225 225 16 16"
+               polygon_y="2 165 165 166 280 280 166 165 165 1 1 2"/>
+      <element label="headline" polygon_x="16 16 125 125 16 16"
+               polygon_y="172 215 215 171 171 172"/>
+      <element label="text-over-image" polygon_x="151 151 205 205 151 151"
+               polygon_y="132 280 280 131 131 132"/>
+   </layout>
+   <text>
+      <keyword>colour</keyword>
+      <keyword>spring</keyword>
+   </text>
+</annotation>

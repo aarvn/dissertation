@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0131</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="26 26 80 80 26 26" polygon_y="152 180 180 151 151 152"/>
+      <element label="text" polygon_x="26 26 80 80 26 26" polygon_y="27 50 50 26 26 27"/>
+      <element label="text" polygon_x="26 26 80 80 26 26" polygon_y="82 105 105 81 81 82"/>
+      <element label="text" polygon_x="26 26 80 80 26 26" polygon_y="57 75 75 56 56 57"/>
+      <element label="text" polygon_x="26 26 80 80 26 26" polygon_y="112 125 125 111 111 112"/>
+      <element label="text" polygon_x="26 26 80 80 26 26" polygon_y="132 145 145 131 131 132"/>
+      <element label="text" polygon_x="36 36 75 75 36 36" polygon_y="187 195 195 186 186 187"/>
+      <element label="text" polygon_x="26 26 65 65 26 26" polygon_y="17 20 20 16 16 17"/>
+      <element label="image" polygon_x="86 86 205 205 86 86"
+               polygon_y="187 285 285 186 186 187"/>
+      <element label="image" polygon_x="86 86 145 145 86 86" polygon_y="17 70 70 16 16 17"/>
+      <element label="image" polygon_x="151 151 205 205 151 151" polygon_y="17 70 70 16 16 17"/>
+      <element label="image" polygon_x="86 86 145 145 86 86" polygon_y="77 125 125 76 76 77"/>
+      <element label="image" polygon_x="86 86 145 145 86 86"
+               polygon_y="132 180 180 131 131 132"/>
+      <element label="image" polygon_x="151 151 205 205 151 151"
+               polygon_y="77 125 125 76 76 77"/>
+      <element label="image" polygon_x="151 151 205 205 151 151"
+               polygon_y="132 180 180 131 131 132"/>
+   </layout>
+   <text>
+      <keyword>top</keyword>
+      <keyword>place</keyword>
+      <keyword>roll</keyword>
+      <keyword>soft</keyword>
+      <keyword>cake</keyword>
+      <keyword>dry</keyword>
+   </text>
+</annotation>

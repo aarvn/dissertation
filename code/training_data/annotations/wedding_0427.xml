@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0427</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 150 150 21 21"
+               polygon_y="277 285 285 276 276 277"/>
+      <element label="image" polygon_x="21 21 225 225 21 21" polygon_y="17 255 255 16 16 17"/>
+   </layout>
+   <text>
+      <keyword>wedding</keyword>
+   </text>
+</annotation>

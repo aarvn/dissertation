@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0134</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="86 86 145 145 86 86"
+               polygon_y="222 275 275 221 221 222"/>
+      <element label="text" polygon_x="26 26 80 80 26 26" polygon_y="222 270 270 221 221 222"/>
+      <element label="text" polygon_x="86 86 145 145 86 86"
+               polygon_y="182 215 215 181 181 182"/>
+      <element label="text" polygon_x="26 26 80 80 26 26" polygon_y="182 215 215 181 181 182"/>
+      <element label="text" polygon_x="26 26 80 80 26 26" polygon_y="277 290 290 276 276 277"/>
+      <element label="text" polygon_x="86 86 140 140 86 86"
+               polygon_y="282 290 290 281 281 282"/>
+      <element label="text" polygon_x="31 31 80 80 31 31" polygon_y="167 170 170 166 166 167"/>
+      <element label="image" polygon_x="16 16 151 151 151 220 220 155 155 155 16 16"
+               polygon_y="12 155 155 156 280 280 61 61 60 11 11 12"/>
+   </layout>
+   <text>
+      <keyword>sugar</keyword>
+      <keyword>life</keyword>
+      <keyword>inspire</keyword>
+      <keyword>style</keyword>
+   </text>
+</annotation>

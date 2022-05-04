@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0238</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="17 285 285 16 16 17"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="107 285 285 106 106 107"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="107 285 285 106 106 107"/>
+      <element label="text" polygon_x="81 81 215 215 81 81" polygon_y="87 100 100 86 86 87"/>
+      <element label="image" polygon_x="81 81 225 225 81 81" polygon_y="2 80 80 1 1 2"/>
+   </layout>
+   <text>
+      <keyword>earth</keyword>
+      <keyword>planet</keyword>
+      <keyword>human</keyword>
+      <keyword>surface</keyword>
+      <keyword>interest</keyword>
+      <keyword>question</keyword>
+      <keyword>west</keyword>
+      <keyword>land</keyword>
+      <keyword>impact</keyword>
+      <keyword>future</keyword>
+      <keyword>space</keyword>
+      <keyword>ocean</keyword>
+      <keyword>earthquake</keyword>
+      <keyword>opportunity</keyword>
+      <keyword>landscape</keyword>
+      <keyword>warm</keyword>
+      <keyword>program</keyword>
+   </text>
+</annotation>

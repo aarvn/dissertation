@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0361</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 75 75 21 21" polygon_y="27 190 190 26 26 27"/>
+      <element label="text" polygon_x="146 146 205 205 146 146"
+               polygon_y="27 115 115 26 26 27"/>
+      <element label="text" polygon_x="81 81 140 140 81 81" polygon_y="27 95 95 26 26 27"/>
+      <element label="text" polygon_x="21 21 75 75 21 21" polygon_y="247 280 280 246 246 247"/>
+      <element label="text" polygon_x="21 21 65 65 21 21" polygon_y="222 240 240 221 221 222"/>
+      <element label="text" polygon_x="81 81 125 125 81 81"
+               polygon_y="107 115 115 106 106 107"/>
+      <element label="text" polygon_x="171 171 215 215 171 171" polygon_y="12 20 20 11 11 12"/>
+      <element label="text" polygon_x="21 21 50 50 21 21" polygon_y="207 215 215 206 206 207"/>
+      <element label="image" polygon_x="81 81 205 205 81 81"
+               polygon_y="127 280 280 126 126 127"/>
+   </layout>
+   <text>
+      <keyword>dish</keyword>
+      <keyword>eat</keyword>
+      <keyword>food</keyword>
+      <keyword>wine</keyword>
+      <keyword>restaurant</keyword>
+      <keyword>love</keyword>
+      <keyword>meat</keyword>
+      <keyword>sweet</keyword>
+      <keyword>chef</keyword>
+      <keyword>cuisine</keyword>
+      <keyword>dessert</keyword>
+   </text>
+</annotation>

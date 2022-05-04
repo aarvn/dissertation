@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0051</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="126 126 166 166 165 165 131 131 205 205 126 126"
+               polygon_y="82 110 110 111 165 166 166 270 270 81 81 82"/>
+      <element label="text" polygon_x="46 46 120 120 90 90 91 91 120 120 46 46"
+               polygon_y="82 205 205 166 166 165 111 110 110 81 81 82"/>
+      <element label="text" polygon_x="96 96 160 160 96 96"
+               polygon_y="117 160 160 116 116 117"/>
+      <element label="text" polygon_x="81 81 180 180 81 81" polygon_y="47 55 55 46 46 47"/>
+      <element label="text" polygon_x="81 81 180 180 81 81" polygon_y="67 75 75 66 66 67"/>
+      <element label="text" polygon_x="21 21 40 40 21 21" polygon_y="177 205 205 176 176 177"/>
+      <element label="text" polygon_x="131 131 190 190 131 131"
+               polygon_y="277 285 285 276 276 277"/>
+      <element label="image" polygon_x="21 21 120 120 21 21"
+               polygon_y="212 285 285 211 211 212"/>
+      <element label="image" polygon_x="21 21 70 70 21 21" polygon_y="27 75 75 26 26 27"/>
+      <element label="headline" polygon_x="86 86 170 170 86 86" polygon_y="27 40 40 26 26 27"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>enjoy</keyword>
+      <keyword>land</keyword>
+      <keyword>farm</keyword>
+      <keyword>experience</keyword>
+      <keyword>space</keyword>
+      <keyword>couple</keyword>
+      <keyword>animal</keyword>
+      <keyword>scene</keyword>
+   </text>
+</annotation>

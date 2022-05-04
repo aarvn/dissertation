@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0416</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="116 116 215 215 116 116"
+               polygon_y="127 285 285 126 126 127"/>
+      <element label="text" polygon_x="11 11 110 110 11 11"
+               polygon_y="137 285 285 136 136 137"/>
+      <element label="text" polygon_x="116 116 215 215 116 116"
+               polygon_y="32 120 120 31 31 32"/>
+      <element label="text" polygon_x="11 11 110 110 11 11" polygon_y="67 110 110 66 66 67"/>
+      <element label="text" polygon_x="11 11 110 110 11 11" polygon_y="32 60 60 31 31 32"/>
+      <element label="text" polygon_x="11 11 110 110 11 11"
+               polygon_y="117 130 130 116 116 117"/>
+   </layout>
+   <text>
+      <keyword>scientist</keyword>
+      <keyword>researcher</keyword>
+      <keyword>research</keyword>
+      <keyword>focus</keyword>
+      <keyword>group</keyword>
+      <keyword>project</keyword>
+      <keyword>lab</keyword>
+      <keyword>disease</keyword>
+      <keyword>development</keyword>
+   </text>
+</annotation>

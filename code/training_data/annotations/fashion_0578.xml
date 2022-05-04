@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0578</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="147 240 240 146 146 147"/>
+      <element label="text" polygon_x="81 81 140 140 130 130 130 81 81"
+               polygon_y="147 240 240 191 191 190 146 146 147"/>
+      <element label="text" polygon_x="161 161 205 205 161 161"
+               polygon_y="187 195 195 186 186 187"/>
+      <element label="text" polygon_x="181 181 215 215 181 181" polygon_y="72 75 75 71 71 72"/>
+      <element label="image" polygon_x="1 1 165 166 166 205 205 165 165 165 1 1"
+               polygon_y="2 115 115 66 65 65 16 16 15 1 1 2"/>
+      <element label="image" polygon_x="146 146 215 215 146 146"
+               polygon_y="202 285 285 201 201 202"/>
+      <element label="image" polygon_x="136 136 225 225 136 136"
+               polygon_y="122 180 180 121 121 122"/>
+      <element label="image" polygon_x="16 16 140 140 16 16"
+               polygon_y="247 285 285 246 246 247"/>
+      <element label="image" polygon_x="171 171 215 215 171 171"
+               polygon_y="77 115 115 76 76 77"/>
+      <element label="headline" polygon_x="21 21 130 130 21 21"
+               polygon_y="122 135 135 121 121 122"/>
+      <element label="text-over-image" polygon_x="11 11 60 60 11 11"
+               polygon_y="12 25 25 11 11 12"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>skin</keyword>
+      <keyword>art</keyword>
+      <keyword>mind</keyword>
+      <keyword>fun</keyword>
+      <keyword>body</keyword>
+      <keyword>spirit</keyword>
+      <keyword>spring</keyword>
+   </text>
+</annotation>

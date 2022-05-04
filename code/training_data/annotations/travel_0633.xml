@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0633</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="17 225 225 16 16 17"/>
+      <element label="text" polygon_x="81 81 145 145 120 120 120 81 81"
+               polygon_y="17 225 225 131 131 130 16 16 17"/>
+      <element label="text" polygon_x="151 151 215 215 176 175 175 151 151"
+               polygon_y="132 225 225 101 101 130 131 131 132"/>
+      <element label="text" polygon_x="11 11 215 215 11 11"
+               polygon_y="232 235 235 231 231 232"/>
+      <element label="text" polygon_x="176 176 215 215 176 176" polygon_y="82 95 95 81 81 82"/>
+      <element label="image" polygon_x="126 126 170 171 171 225 225 126 126"
+               polygon_y="2 125 125 76 75 75 1 1 2"/>
+      <element label="image" polygon_x="1 1 110 110 1 1" polygon_y="237 300 300 236 236 237"/>
+      <element label="image" polygon_x="116 116 225 225 116 116"
+               polygon_y="237 300 300 236 236 237"/>
+   </layout>
+   <text>
+      <keyword>visit</keyword>
+      <keyword>room</keyword>
+      <keyword>city</keyword>
+      <keyword>book</keyword>
+      <keyword>art</keyword>
+      <keyword>dream</keyword>
+   </text>
+</annotation>

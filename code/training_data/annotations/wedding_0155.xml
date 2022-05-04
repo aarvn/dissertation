@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0155</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="6 6 85 85 6 6" polygon_y="52 80 80 51 51 52"/>
+      <element label="text" polygon_x="6 6 85 85 6 6" polygon_y="157 180 180 156 156 157"/>
+      <element label="text" polygon_x="6 6 85 85 6 6" polygon_y="187 210 210 186 186 187"/>
+      <element label="text" polygon_x="6 6 85 85 6 6" polygon_y="87 105 105 86 86 87"/>
+      <element label="text" polygon_x="6 6 85 85 6 6" polygon_y="132 150 150 131 131 132"/>
+      <element label="text" polygon_x="6 6 85 85 6 6" polygon_y="217 235 235 216 216 217"/>
+      <element label="text" polygon_x="6 6 85 85 6 6" polygon_y="262 280 280 261 261 262"/>
+      <element label="text" polygon_x="6 6 85 85 6 6" polygon_y="112 125 125 111 111 112"/>
+      <element label="text" polygon_x="6 6 85 85 6 6" polygon_y="242 255 255 241 241 242"/>
+      <element label="text" polygon_x="6 6 65 65 6 6" polygon_y="37 40 40 36 36 37"/>
+      <element label="text" polygon_x="91 91 150 150 91 91"
+               polygon_y="272 275 275 271 271 272"/>
+      <element label="image" polygon_x="91 91 225 225 91 91" polygon_y="52 270 270 51 51 52"/>
+      <element label="headline" polygon_x="6 6 140 140 6 6" polygon_y="22 30 30 21 21 22"/>
+   </layout>
+   <text>
+      <keyword>wedding</keyword>
+      <keyword>guest</keyword>
+      <keyword>love</keyword>
+      <keyword>family</keyword>
+      <keyword>enjoy</keyword>
+      <keyword>budget</keyword>
+      <keyword>dream</keyword>
+      <keyword>design</keyword>
+      <keyword>moment</keyword>
+      <keyword>fun</keyword>
+      <keyword>special</keyword>
+      <keyword>space</keyword>
+      <keyword>host</keyword>
+      <keyword>fit</keyword>
+      <keyword>vow</keyword>
+      <keyword>husband</keyword>
+   </text>
+</annotation>

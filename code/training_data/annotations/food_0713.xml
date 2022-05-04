@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0713</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="86 86 140 140 86 86"
+               polygon_y="152 205 205 151 151 152"/>
+      <element label="text" polygon_x="21 21 80 80 21 21" polygon_y="207 250 250 206 206 207"/>
+      <element label="text" polygon_x="151 151 205 205 151 151"
+               polygon_y="152 170 170 151 151 152"/>
+      <element label="text" polygon_x="31 31 80 80 31 31" polygon_y="262 275 275 261 261 262"/>
+      <element label="image" polygon_x="1 1 21 21 21 80 81 81 225 225 1 1"
+               polygon_y="12 145 145 146 200 200 146 145 145 11 11 12"/>
+      <element label="image" polygon_x="86 86 205 205 151 150 150 86 86"
+               polygon_y="212 285 285 176 176 210 211 211 212"/>
+      <element label="text-over-image" polygon_x="21 21 80 80 21 21"
+               polygon_y="132 200 200 131 131 132"/>
+      <element label="text-over-image" polygon_x="151 151 205 205 151 151"
+               polygon_y="177 230 230 176 176 177"/>
+      <element label="text-over-image" polygon_x="21 21 130 130 21 21"
+               polygon_y="92 100 100 91 91 92"/>
+      <element label="text-over-image" polygon_x="86 86 140 140 86 86"
+               polygon_y="132 145 145 131 131 132"/>
+      <element label="headline-over-image" polygon_x="21 21 130 130 21 21"
+               polygon_y="62 85 85 61 61 62"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>skin</keyword>
+      <keyword>quality</keyword>
+   </text>
+</annotation>

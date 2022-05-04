@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0480</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="106 106 200 200 106 106"
+               polygon_y="42 210 210 41 41 42"/>
+      <element label="text" polygon_x="11 11 100 100 11 11" polygon_y="67 220 220 66 66 67"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="247 290 290 246 246 247"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="247 290 290 246 246 247"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="247 290 290 246 246 247"/>
+      <element label="text" polygon_x="11 11 95 95 11 11" polygon_y="42 60 60 41 41 42"/>
+      <element label="text" polygon_x="106 106 180 180 106 106"
+               polygon_y="217 220 220 216 216 217"/>
+   </layout>
+   <text>
+      <keyword>state</keyword>
+      <keyword>party</keyword>
+      <keyword>win</keyword>
+      <keyword>bad</keyword>
+      <keyword>law</keyword>
+      <keyword>fact</keyword>
+      <keyword>problem</keyword>
+      <keyword>matter</keyword>
+      <keyword>university</keyword>
+      <keyword>court</keyword>
+   </text>
+</annotation>

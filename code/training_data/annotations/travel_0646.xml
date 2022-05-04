@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0646</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="26 26 80 80 26 26" polygon_y="152 280 280 151 151 152"/>
+      <element label="text" polygon_x="86 86 140 140 86 86"
+               polygon_y="182 280 280 181 181 182"/>
+      <element label="text" polygon_x="146 146 205 205 146 146"
+               polygon_y="182 240 240 181 181 182"/>
+      <element label="text" polygon_x="86 86 205 205 86 86"
+               polygon_y="152 175 175 151 151 152"/>
+      <element label="text" polygon_x="146 146 205 205 146 146"
+               polygon_y="247 280 280 246 246 247"/>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 145 145 1 1 2"/>
+      <element label="text-over-image" polygon_x="11 11 80 80 11 11"
+               polygon_y="122 140 140 121 121 122"/>
+      <element label="text-over-image" polygon_x="176 176 205 205 176 176"
+               polygon_y="12 20 20 11 11 12"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>love</keyword>
+      <keyword>enjoy</keyword>
+      <keyword>discover</keyword>
+      <keyword>beautiful</keyword>
+      <keyword>happy</keyword>
+      <keyword>adventure</keyword>
+   </text>
+</annotation>

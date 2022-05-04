@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0435</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="6 6 70 70 6 6" polygon_y="12 15 15 11 11 12"/>
+      <element label="image" polygon_x="6 6 215 215 6 6" polygon_y="27 280 280 26 26 27"/>
+      <element label="text-over-image" polygon_x="166 166 210 210 166 166"
+               polygon_y="212 265 265 211 211 212"/>
+      <element label="text-over-image" polygon_x="11 11 45 45 11 11"
+               polygon_y="262 280 280 261 261 262"/>
+   </layout>
+   <text>
+      <keyword>haven</keyword>
+   </text>
+</annotation>

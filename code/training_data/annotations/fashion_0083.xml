@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0083</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="151 151 176 176 176 220 220 151 151"
+               polygon_y="132 260 260 261 280 280 131 131 132"/>
+      <element label="text" polygon_x="81 81 120 121 121 145 145 81 81"
+               polygon_y="132 280 280 261 260 260 131 131 132"/>
+      <element label="text" polygon_x="6 6 70 70 6 6" polygon_y="167 285 285 166 166 167"/>
+      <element label="text" polygon_x="6 6 70 70 6 6" polygon_y="132 160 160 131 131 132"/>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 120 120 1 1 2"/>
+      <element label="image" polygon_x="126 126 170 170 126 126"
+               polygon_y="267 300 300 266 266 267"/>
+      <element label="headline-over-image" polygon_x="11 11 210 210 11 11"
+               polygon_y="97 120 120 96 96 97"/>
+   </layout>
+   <text>
+      <keyword>woman</keyword>
+      <keyword>talk</keyword>
+      <keyword>art</keyword>
+      <keyword>watch</keyword>
+      <keyword>man</keyword>
+      <keyword>family</keyword>
+      <keyword>star</keyword>
+      <keyword>fun</keyword>
+      <keyword>celebrate</keyword>
+      <keyword>money</keyword>
+      <keyword>film</keyword>
+      <keyword>spring</keyword>
+      <keyword>cool</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0509</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 215 215 11 11" polygon_y="42 65 65 41 41 42"/>
+      <element label="text" polygon_x="11 11 70 70 11 11" polygon_y="117 195 195 116 116 117"/>
+      <element label="text" polygon_x="121 121 165 165 121 121"
+               polygon_y="97 195 195 96 96 97"/>
+      <element label="text" polygon_x="171 171 215 215 171 171"
+               polygon_y="97 195 195 96 96 97"/>
+      <element label="text" polygon_x="121 121 215 215 121 121" polygon_y="82 90 90 81 81 82"/>
+      <element label="image" polygon_x="11 11 215 215 11 11"
+               polygon_y="207 280 280 206 206 207"/>
+      <element label="image" polygon_x="1 1 11 11 11 70 70 45 45 45 1 1"
+               polygon_y="67 105 105 106 110 110 101 101 100 66 66 67"/>
+      <element label="image" polygon_x="76 76 115 115 76 76" polygon_y="82 115 115 81 81 82"/>
+      <element label="image" polygon_x="76 76 115 115 76 76"
+               polygon_y="122 155 155 121 121 122"/>
+      <element label="image" polygon_x="76 76 115 115 76 76"
+               polygon_y="162 195 195 161 161 162"/>
+      <element label="headline" polygon_x="11 11 125 125 11 11" polygon_y="27 35 35 26 26 27"/>
+      <element label="text-over-image" polygon_x="86 86 145 145 86 86"
+               polygon_y="212 275 275 211 211 212"/>
+      <element label="text-over-image" polygon_x="151 151 205 205 151 151"
+               polygon_y="217 275 275 216 216 217"/>
+      <element label="text-over-image" polygon_x="11 11 70 70 11 11"
+               polygon_y="102 110 110 101 101 102"/>
+   </layout>
+   <text>
+      <keyword>salt</keyword>
+      <keyword>stir</keyword>
+      <keyword>heat</keyword>
+      <keyword>recipe</keyword>
+      <keyword>cool</keyword>
+      <keyword>food</keyword>
+      <keyword>pan</keyword>
+      <keyword>fry</keyword>
+      <keyword>cooking</keyword>
+      <keyword>onion</keyword>
+      <keyword>cheese</keyword>
+      <keyword>salad</keyword>
+      <keyword>fat</keyword>
+      <keyword>soft</keyword>
+      <keyword>milk</keyword>
+      <keyword>delicious</keyword>
+      <keyword>sauce</keyword>
+      <keyword>chilli</keyword>
+      <keyword>small</keyword>
+      <keyword>cream</keyword>
+      <keyword>bread</keyword>
+      <keyword>free</keyword>
+   </text>
+</annotation>

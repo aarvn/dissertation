@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0538</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="86 86 140 140 86 86"
+               polygon_y="112 230 230 111 111 112"/>
+      <element label="text" polygon_x="26 26 80 80 26 26" polygon_y="112 205 205 111 111 112"/>
+      <element label="text" polygon_x="26 26 80 80 26 26" polygon_y="212 285 285 211 211 212"/>
+      <element label="image"
+               polygon_x="26 26 66 66 65 65 26 26 146 146 145 145 141 140 140 86 86 185 186 186 200 201 201 225 225 66 65 65 26 26"
+               polygon_y="32 85 85 86 90 91 91 105 105 106 220 221 221 235 236 236 300 300 276 275 275 246 245 245 1 1 30 31 31 32"/>
+      <element label="text-over-image" polygon_x="26 26 140 140 26 26"
+               polygon_y="92 105 105 91 91 92"/>
+      <element label="text-over-image" polygon_x="156 156 205 205 156 156"
+               polygon_y="12 20 20 11 11 12"/>
+      <element label="text-over-image" polygon_x="146 146 175 175 146 146"
+               polygon_y="222 230 230 221 221 222"/>
+      <element label="text-over-image" polygon_x="156 156 185 185 156 156"
+               polygon_y="97 105 105 96 96 97"/>
+      <element label="headline-over-image" polygon_x="26 26 140 140 26 26"
+               polygon_y="32 85 85 31 31 32"/>
+   </layout>
+   <text>
+      <keyword>guest</keyword>
+      <keyword>hotel</keyword>
+      <keyword>hair</keyword>
+      <keyword>food</keyword>
+      <keyword>stress</keyword>
+      <keyword>amaze</keyword>
+   </text>
+</annotation>

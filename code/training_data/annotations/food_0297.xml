@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0297</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 95 95 21 21" polygon_y="147 280 280 146 146 147"/>
+      <element label="text" polygon_x="101 101 205 205 101 101"
+               polygon_y="147 170 170 146 146 147"/>
+      <element label="text" polygon_x="101 101 195 195 101 101" polygon_y="27 50 50 26 26 27"/>
+      <element label="text" polygon_x="11 11 50 50 11 11" polygon_y="12 20 20 11 11 12"/>
+      <element label="image" polygon_x="101 101 205 205 101 101"
+               polygon_y="177 280 280 176 176 177"/>
+      <element label="image" polygon_x="6 6 21 21 21 95 95 21 20 20 6 6"
+               polygon_y="32 55 55 56 140 140 26 26 30 31 31 32"/>
+      <element label="image" polygon_x="101 101 205 205 101 101"
+               polygon_y="57 140 140 56 56 57"/>
+      <element label="text-over-image" polygon_x="111 111 195 195 111 111"
+               polygon_y="192 205 205 191 191 192"/>
+      <element label="text-over-image" polygon_x="6 6 40 40 6 6" polygon_y="32 55 55 31 31 32"/>
+      <element label="text-over-image" polygon_x="141 141 175 175 141 141"
+               polygon_y="177 185 185 176 176 177"/>
+   </layout>
+   <text>
+      <keyword>dish</keyword>
+      <keyword>food</keyword>
+      <keyword>ingredient</keyword>
+      <keyword>meat</keyword>
+      <keyword>kitchen</keyword>
+      <keyword>book</keyword>
+      <keyword>table</keyword>
+      <keyword>family</keyword>
+      <keyword>chef</keyword>
+      <keyword>summer</keyword>
+      <keyword>small</keyword>
+      <keyword>vegetable</keyword>
+      <keyword>fruit</keyword>
+      <keyword>free</keyword>
+   </text>
+</annotation>

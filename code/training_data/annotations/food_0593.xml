@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0593</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="161 161 215 215 161 161"
+               polygon_y="42 115 115 41 41 42"/>
+      <element label="text" polygon_x="91 91 150 150 116 115 115 91 91"
+               polygon_y="152 200 200 126 126 150 151 151 152"/>
+      <element label="text" polygon_x="91 91 150 150 116 115 115 91 91"
+               polygon_y="232 280 280 206 206 230 231 231 232"/>
+      <element label="text" polygon_x="156 156 215 215 181 180 180 156 156"
+               polygon_y="152 200 200 126 126 150 151 151 152"/>
+      <element label="text" polygon_x="156 156 215 215 181 180 180 156 156"
+               polygon_y="232 280 280 206 206 230 231 231 232"/>
+      <element label="text" polygon_x="21 21 60 60 21 21" polygon_y="92 175 175 91 91 92"/>
+      <element label="text" polygon_x="21 21 60 60 21 21" polygon_y="197 270 270 196 196 197"/>
+      <element label="text" polygon_x="101 101 155 155 101 101"
+               polygon_y="87 115 115 86 86 87"/>
+      <element label="text" polygon_x="126 126 190 190 126 126" polygon_y="17 25 25 16 16 17"/>
+      <element label="text" polygon_x="21 21 60 60 21 21" polygon_y="62 75 75 61 61 62"/>
+      <element label="text" polygon_x="31 31 50 50 31 31" polygon_y="82 85 85 81 81 82"/>
+      <element label="text" polygon_x="31 31 50 50 31 31" polygon_y="187 190 190 186 186 187"/>
+      <element label="image" polygon_x="101 101 155 155 101 101" polygon_y="42 85 85 41 41 42"/>
+      <element label="image" polygon_x="26 26 55 55 26 26" polygon_y="22 55 55 21 21 22"/>
+      <element label="image" polygon_x="91 91 115 115 91 91"
+               polygon_y="127 150 150 126 126 127"/>
+      <element label="image" polygon_x="91 91 115 115 91 91"
+               polygon_y="207 230 230 206 206 207"/>
+      <element label="image" polygon_x="156 156 180 180 156 156"
+               polygon_y="127 150 150 126 126 127"/>
+      <element label="image" polygon_x="156 156 180 180 156 156"
+               polygon_y="207 230 230 206 206 207"/>
+   </layout>
+   <text>
+      <keyword>salt</keyword>
+      <keyword>dish</keyword>
+      <keyword>eat</keyword>
+      <keyword>food</keyword>
+      <keyword>cooking</keyword>
+      <keyword>pepper</keyword>
+      <keyword>love</keyword>
+      <keyword>fridge</keyword>
+      <keyword>cake</keyword>
+      <keyword>family</keyword>
+      <keyword>ginger</keyword>
+      <keyword>dessert</keyword>
+      <keyword>market</keyword>
+   </text>
+</annotation>

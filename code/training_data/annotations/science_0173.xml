@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0173</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="141 141 171 171 171 220 220 141 141"
+               polygon_y="177 210 210 211 285 285 176 176 177"/>
+      <element label="text-over-image" polygon_x="11 11 80 80 11 11"
+               polygon_y="117 170 170 116 116 117"/>
+      <element label="text-over-image" polygon_x="86 86 155 155 86 86"
+               polygon_y="127 170 170 126 126 127"/>
+      <element label="text-over-image" polygon_x="131 131 205 205 131 131"
+               polygon_y="7 20 20 6 6 7"/>
+      <element label="text-over-image" polygon_x="186 186 210 210 186 186"
+               polygon_y="117 135 135 116 116 117"/>
+   </layout>
+   <text>
+      <keyword>earth</keyword>
+      <keyword>planet</keyword>
+   </text>
+</annotation>

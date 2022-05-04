@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0695</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image"
+               polygon_x="1 1 66 66 65 65 1 1 70 71 71 76 76 76 140 141 141 146 146 146 220 220 160 160 161 161 220 220 150 150 151 151 220 220 151 150 150 145 145 145 71 71 76 76 76 151 151 150 150 65 65 65 2 66 1 NaN 130 66 131 146 146 145 145 136 135 135 130 130 130"
+               polygon_y="112 200 200 201 205 206 206 300 300 221 220 220 221 300 300 221 220 220 221 300 300 186 186 185 181 180 180 111 111 110 106 105 105 1 1 90 91 91 90 1 1 105 105 106 115 115 116 120 121 121 120 111 111 1.485000e+02 112 NaN 186 1.485000e+02 185 185 186 190 191 191 205 206 206 205 186"/>
+      <element label="image" polygon_x="1 1 65 65 1 1" polygon_y="2 105 105 1 1 2"/>
+      <element label="text-over-image" polygon_x="66 66 130 131 131 160 160 66 66"
+               polygon_y="122 220 220 186 185 185 121 121 122"/>
+      <element label="headline-over-image" polygon_x="76 76 150 150 76 76"
+               polygon_y="92 115 115 91 91 92"/>
+   </layout>
+   <text>
+      <keyword>recipe</keyword>
+      <keyword>dish</keyword>
+      <keyword>roll</keyword>
+      <keyword>juice</keyword>
+   </text>
+</annotation>

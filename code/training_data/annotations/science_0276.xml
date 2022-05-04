@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0276</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="32 215 215 31 31 32"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="157 285 285 156 156 157"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="182 285 285 181 181 182"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="222 285 285 221 221 222"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="117 150 150 116 116 117"/>
+      <element label="image" polygon_x="81 81 151 151 151 225 225 215 215 215 81 81"
+               polygon_y="32 110 110 111 175 175 106 106 105 31 31 32"/>
+      <element label="headline" polygon_x="11 11 185 185 11 11" polygon_y="17 25 25 16 16 17"/>
+   </layout>
+   <text>
+      <keyword>earth</keyword>
+      <keyword>university</keyword>
+      <keyword>earthquake</keyword>
+   </text>
+</annotation>

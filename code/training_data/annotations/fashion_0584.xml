@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0584</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="81 81 150 150 81 81"
+               polygon_y="132 190 190 131 131 132"/>
+      <element label="text" polygon_x="81 81 150 150 81 81"
+               polygon_y="117 125 125 116 116 117"/>
+      <element label="image"
+               polygon_x="16 16 210 210 165 165 165 111 110 110 17 76 156 156 155 155 75 75 75 16"
+               polygon_y="27 285 285 26 26 25 1 1 25 26 26 110 110 111 195 196 196 195 111 27"/>
+   </layout>
+   <text>
+      <keyword>woman</keyword>
+      <keyword>art</keyword>
+      <keyword>collection</keyword>
+   </text>
+</annotation>

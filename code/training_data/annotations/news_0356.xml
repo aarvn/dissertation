@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0356</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 110 110 11 11"
+               polygon_y="122 205 205 121 121 122"/>
+      <element label="text" polygon_x="11 11 110 110 41 40 40 11 11"
+               polygon_y="67 115 115 31 31 65 66 66 67"/>
+      <element label="text" polygon_x="116 116 215 215 116 116"
+               polygon_y="142 205 205 141 141 142"/>
+      <element label="text" polygon_x="86 86 145 145 86 86"
+               polygon_y="217 285 285 216 216 217"/>
+      <element label="text" polygon_x="151 151 210 210 151 151"
+               polygon_y="217 285 285 216 216 217"/>
+      <element label="text" polygon_x="26 26 80 80 26 26" polygon_y="227 285 285 226 226 227"/>
+      <element label="text" polygon_x="11 11 80 80 11 11" polygon_y="212 220 220 211 211 212"/>
+      <element label="text" polygon_x="11 11 50 50 11 11" polygon_y="12 20 20 11 11 12"/>
+      <element label="text" polygon_x="101 101 130 130 101 101" polygon_y="12 20 20 11 11 12"/>
+      <element label="image" polygon_x="116 116 215 215 116 116"
+               polygon_y="27 130 130 26 26 27"/>
+      <element label="image" polygon_x="6 6 25 25 6 6" polygon_y="232 285 285 231 231 232"/>
+      <element label="image" polygon_x="11 11 35 35 11 11" polygon_y="32 60 60 31 31 32"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>woman</keyword>
+      <keyword>man</keyword>
+      <keyword>talk</keyword>
+      <keyword>child</keyword>
+      <keyword>party</keyword>
+      <keyword>friend</keyword>
+      <keyword>fear</keyword>
+      <keyword>love</keyword>
+      <keyword>mother</keyword>
+      <keyword>school</keyword>
+      <keyword>culture</keyword>
+      <keyword>hospital</keyword>
+   </text>
+</annotation>

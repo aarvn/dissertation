@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0155</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="242 285 285 241 241 242"/>
+      <element label="text" polygon_x="151 151 215 215 151 151" polygon_y="57 95 95 56 56 57"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="197 235 235 196 196 197"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="102 130 130 101 101 102"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="162 190 190 161 161 162"/>
+      <element label="text" polygon_x="151 151 215 215 151 151" polygon_y="32 50 50 31 31 32"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="137 155 155 136 136 137"/>
+      <element label="text" polygon_x="11 11 85 85 11 11" polygon_y="12 20 20 11 11 12"/>
+      <element label="image" polygon_x="11 11 145 145 11 11" polygon_y="32 190 190 31 31 32"/>
+      <element label="image" polygon_x="11 11 145 145 11 11"
+               polygon_y="197 285 285 196 196 197"/>
+      <element label="text-over-image" polygon_x="111 111 140 140 111 111"
+               polygon_y="37 55 55 36 36 37"/>
+      <element label="text-over-image" polygon_x="16 16 50 50 16 16"
+               polygon_y="202 210 210 201 201 202"/>
+   </layout>
+   <text>
+      <keyword>place</keyword>
+      <keyword>earth</keyword>
+      <keyword>experience</keyword>
+      <keyword>reason</keyword>
+      <keyword>problem</keyword>
+      <keyword>atmosphere</keyword>
+      <keyword>space</keyword>
+      <keyword>ocean</keyword>
+   </text>
+</annotation>

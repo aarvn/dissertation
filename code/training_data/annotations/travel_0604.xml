@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0604</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="132 200 200 131 131 132"/>
+      <element label="text" polygon_x="146 146 210 210 146 146"
+               polygon_y="132 200 200 131 131 132"/>
+      <element label="text" polygon_x="81 81 140 140 81 81"
+               polygon_y="132 200 200 131 131 132"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="222 280 280 221 221 222"/>
+      <element label="text" polygon_x="146 146 210 210 146 146"
+               polygon_y="222 280 280 221 221 222"/>
+      <element label="text" polygon_x="81 81 140 140 81 81"
+               polygon_y="222 280 280 221 221 222"/>
+      <element label="text" polygon_x="26 26 200 200 26 26"
+               polygon_y="207 215 215 206 206 207"/>
+      <element label="text" polygon_x="11 11 210 210 11 11"
+               polygon_y="287 290 290 286 286 287"/>
+      <element label="text" polygon_x="11 11 110 110 11 11" polygon_y="12 15 15 11 11 12"/>
+      <element label="image" polygon_x="1 1 140 140 1 1" polygon_y="22 125 125 21 21 22"/>
+      <element label="image" polygon_x="146 146 225 225 146 146" polygon_y="2 125 125 1 1 2"/>
+      <element label="text-over-image" polygon_x="151 151 210 210 151 151"
+               polygon_y="112 120 120 111 111 112"/>
+   </layout>
+   <text>
+      <keyword>family</keyword>
+      <keyword>design</keyword>
+      <keyword>tree</keyword>
+      <keyword>friend</keyword>
+      <keyword>experience</keyword>
+      <keyword>island</keyword>
+      <keyword>join</keyword>
+      <keyword>haven</keyword>
+      <keyword>holiday</keyword>
+      <keyword>smile</keyword>
+      <keyword>relax</keyword>
+      <keyword>flight</keyword>
+   </text>
+</annotation>

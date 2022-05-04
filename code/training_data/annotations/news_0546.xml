@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0546</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="81 81 180 180 81 81"
+               polygon_y="177 265 265 176 176 177"/>
+      <element label="text" polygon_x="21 21 60 60 21 21" polygon_y="77 215 215 76 76 77"/>
+      <element label="text" polygon_x="81 81 160 160 81 81"
+               polygon_y="152 170 170 151 151 152"/>
+      <element label="text" polygon_x="186 186 215 215 186 186"
+               polygon_y="182 230 230 181 181 182"/>
+      <element label="text" polygon_x="81 81 155 155 81 81"
+               polygon_y="272 285 285 271 271 272"/>
+      <element label="text" polygon_x="26 26 55 55 26 26" polygon_y="42 70 70 41 41 42"/>
+      <element label="text" polygon_x="81 81 170 170 81 81"
+               polygon_y="292 295 295 291 291 292"/>
+      <element label="text" polygon_x="21 21 60 60 21 21" polygon_y="222 230 230 221 221 222"/>
+      <element label="image" polygon_x="81 81 215 215 81 81" polygon_y="2 145 145 1 1 2"/>
+      <element label="image" polygon_x="26 26 55 55 26 26" polygon_y="237 275 275 236 236 237"/>
+   </layout>
+   <text>
+      <keyword>country</keyword>
+      <keyword>family</keyword>
+      <keyword>company</keyword>
+      <keyword>wife</keyword>
+      <keyword>street</keyword>
+      <keyword>hospital</keyword>
+      <keyword>science</keyword>
+   </text>
+</annotation>

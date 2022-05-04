@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0354</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="31 31 65 65 31 31" polygon_y="277 290 290 276 276 277"/>
+      <element label="text" polygon_x="31 31 75 75 31 31" polygon_y="67 75 75 66 66 67"/>
+      <element label="text" polygon_x="31 31 65 65 31 31" polygon_y="227 235 235 226 226 227"/>
+      <element label="image" polygon_x="81 81 220 220 81 81" polygon_y="67 300 300 66 66 67"/>
+      <element label="image" polygon_x="31 31 65 65 31 31" polygon_y="137 220 220 136 136 137"/>
+      <element label="image" polygon_x="31 31 65 65 31 31" polygon_y="87 130 130 86 86 87"/>
+      <element label="image" polygon_x="31 31 65 65 31 31" polygon_y="242 270 270 241 241 242"/>
+      <element label="headline" polygon_x="31 31 210 210 31 31" polygon_y="27 55 55 26 26 27"/>
+      <element label="text-over-image" polygon_x="81 81 125 125 81 81"
+               polygon_y="287 300 300 286 286 287"/>
+   </layout>
+   <text>
+      <keyword>love</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0010</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="41 41 110 110 41 41"
+               polygon_y="177 285 285 176 176 177"/>
+      <element label="text" polygon_x="116 116 185 185 116 116"
+               polygon_y="177 285 285 176 176 177"/>
+      <element label="text" polygon_x="11 11 45 45 11 11" polygon_y="12 15 15 11 11 12"/>
+      <element label="image" polygon_x="11 11 71 71 71 160 161 161 210 210 11 11"
+               polygon_y="22 165 165 166 170 170 166 165 165 21 21 22"/>
+      <element label="image" polygon_x="11 11 35 35 11 11" polygon_y="177 255 255 176 176 177"/>
+      <element label="image" polygon_x="191 191 210 210 191 191"
+               polygon_y="197 265 265 196 196 197"/>
+      <element label="text-over-image" polygon_x="71 71 160 160 71 71"
+               polygon_y="152 170 170 151 151 152"/>
+      <element label="headline-over-image" polygon_x="71 71 160 160 71 71"
+               polygon_y="137 145 145 136 136 137"/>
+   </layout>
+   <text>
+      <keyword>dress</keyword>
+      <keyword>designer</keyword>
+      <keyword>moment</keyword>
+   </text>
+</annotation>

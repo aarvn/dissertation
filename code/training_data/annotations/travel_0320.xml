@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0320</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="46 46 115 115 95 95 96 96 115 115 46 46"
+               polygon_y="17 210 210 121 121 120 91 90 90 16 16 17"/>
+      <element label="text" polygon_x="121 121 136 136 135 135 121 121 185 185 121 121"
+               polygon_y="17 90 90 91 120 121 121 210 210 16 16 17"/>
+      <element label="text" polygon_x="101 101 130 130 101 101"
+               polygon_y="97 115 115 96 96 97"/>
+      <element label="image" polygon_x="6 6 220 220 6 6" polygon_y="217 300 300 216 216 217"/>
+   </layout>
+   <text>
+      <keyword>place</keyword>
+      <keyword>life</keyword>
+      <keyword>visit</keyword>
+      <keyword>sea</keyword>
+      <keyword>beach</keyword>
+      <keyword>land</keyword>
+      <keyword>summer</keyword>
+      <keyword>man</keyword>
+      <keyword>thought</keyword>
+   </text>
+</annotation>

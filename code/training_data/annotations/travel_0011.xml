@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0011</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="91 91 160 160 91 91" polygon_y="27 145 145 26 26 27"/>
+      <element label="text" polygon_x="16 16 85 85 16 16" polygon_y="82 170 170 81 81 82"/>
+      <element label="text" polygon_x="16 16 85 85 16 16" polygon_y="27 75 75 26 26 27"/>
+      <element label="text" polygon_x="166 166 210 210 166 166" polygon_y="27 85 85 26 26 27"/>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="252 285 285 251 251 252"/>
+      <element label="text" polygon_x="86 86 140 140 86 86"
+               polygon_y="252 285 285 251 251 252"/>
+      <element label="text" polygon_x="151 151 205 205 151 151"
+               polygon_y="252 285 285 251 251 252"/>
+      <element label="text" polygon_x="111 111 160 160 111 111"
+               polygon_y="152 170 170 151 151 152"/>
+      <element label="image"
+               polygon_x="16 16 166 166 165 165 151 151 205 206 206 215 215 166 165 165 16 16"
+               polygon_y="187 195 195 196 200 201 201 245 245 206 205 205 136 136 185 186 186 187"/>
+      <element label="image" polygon_x="16 16 75 75 16 16" polygon_y="202 245 245 201 201 202"/>
+      <element label="image" polygon_x="86 86 140 140 86 86"
+               polygon_y="202 245 245 201 201 202"/>
+      <element label="image" polygon_x="91 91 105 105 91 91"
+               polygon_y="152 170 170 151 151 152"/>
+      <element label="headline" polygon_x="16 16 110 110 16 16"
+               polygon_y="177 185 185 176 176 177"/>
+      <element label="text-over-image" polygon_x="16 16 195 195 16 16"
+               polygon_y="187 195 195 186 186 187"/>
+   </layout>
+   <text>
+      <keyword>house</keyword>
+      <keyword>view</keyword>
+      <keyword>family</keyword>
+      <keyword>food</keyword>
+      <keyword>experience</keyword>
+      <keyword>bird</keyword>
+      <keyword>air</keyword>
+      <keyword>building</keyword>
+      <keyword>spring</keyword>
+      <keyword>flight</keyword>
+   </text>
+</annotation>

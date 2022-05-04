@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0481</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="116 116 155 155 116 116"
+               polygon_y="62 165 165 61 61 62"/>
+      <element label="text" polygon_x="11 11 105 105 11 11" polygon_y="67 105 105 66 66 67"/>
+      <element label="text" polygon_x="11 11 55 55 11 11" polygon_y="117 165 165 116 116 117"/>
+      <element label="text" polygon_x="11 11 55 55 11 11" polygon_y="237 285 285 236 236 237"/>
+      <element label="text" polygon_x="161 161 205 205 161 161"
+               polygon_y="82 125 125 81 81 82"/>
+      <element label="text" polygon_x="66 66 105 105 66 66"
+               polygon_y="117 165 165 116 116 117"/>
+      <element label="text" polygon_x="66 66 105 105 66 66"
+               polygon_y="237 280 280 236 236 237"/>
+      <element label="text" polygon_x="166 166 210 210 166 166"
+               polygon_y="237 275 275 236 236 237"/>
+      <element label="text" polygon_x="116 116 155 155 116 116"
+               polygon_y="237 275 275 236 236 237"/>
+      <element label="text" polygon_x="11 11 65 65 11 11" polygon_y="17 25 25 16 16 17"/>
+      <element label="text" polygon_x="161 161 185 185 161 161"
+               polygon_y="132 145 145 131 131 132"/>
+      <element label="image" polygon_x="161 161 210 210 161 161" polygon_y="12 75 75 11 11 12"/>
+      <element label="image" polygon_x="11 11 55 55 11 11" polygon_y="187 230 230 186 186 187"/>
+      <element label="image" polygon_x="166 166 210 210 166 166"
+               polygon_y="187 230 230 186 186 187"/>
+      <element label="image" polygon_x="66 66 105 105 66 66"
+               polygon_y="187 230 230 186 186 187"/>
+      <element label="image" polygon_x="116 116 155 155 116 116"
+               polygon_y="187 230 230 186 186 187"/>
+      <element label="headline" polygon_x="11 11 95 95 11 11" polygon_y="42 55 55 41 41 42"/>
+   </layout>
+   <text>
+      <keyword>decade</keyword>
+      <keyword>science</keyword>
+      <keyword>create</keyword>
+      <keyword>image</keyword>
+      <keyword>focus</keyword>
+      <keyword>issue</keyword>
+      <keyword>technology</keyword>
+      <keyword>interest</keyword>
+      <keyword>state</keyword>
+      <keyword>future</keyword>
+      <keyword>sky</keyword>
+      <keyword>material</keyword>
+      <keyword>evolution</keyword>
+      <keyword>program</keyword>
+   </text>
+</annotation>

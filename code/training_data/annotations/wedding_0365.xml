@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0365</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="141 141 195 195 141 141"
+               polygon_y="192 285 285 191 191 192"/>
+      <element label="text" polygon_x="26 26 90 90 26 26" polygon_y="72 135 135 71 71 72"/>
+      <element label="text" polygon_x="26 26 90 90 26 26" polygon_y="42 65 65 41 41 42"/>
+      <element label="text" polygon_x="141 141 195 195 141 141"
+               polygon_y="162 185 185 161 161 162"/>
+      <element label="text" polygon_x="26 26 60 60 26 26" polygon_y="27 35 35 26 26 27"/>
+      <element label="text" polygon_x="141 141 155 155 141 141"
+               polygon_y="147 155 155 146 146 147"/>
+      <element label="image" polygon_x="21 21 135 135 21 21"
+               polygon_y="147 285 285 146 146 147"/>
+      <element label="image" polygon_x="96 96 225 225 96 96" polygon_y="22 140 140 21 21 22"/>
+      <element label="text-over-image" polygon_x="21 21 55 55 21 21"
+               polygon_y="147 160 160 146 146 147"/>
+      <element label="text-over-image" polygon_x="96 96 130 130 96 96"
+               polygon_y="22 30 30 21 21 22"/>
+   </layout>
+   <text>
+      <keyword>wedding</keyword>
+      <keyword>style</keyword>
+      <keyword>friend</keyword>
+      <keyword>hair</keyword>
+      <keyword>beautiful</keyword>
+      <keyword>photo</keyword>
+      <keyword>mother</keyword>
+      <keyword>relationship</keyword>
+   </text>
+</annotation>

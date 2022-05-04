@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0438</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="6 6 220 220 6 6" polygon_y="7 295 295 6 6 7"/>
+      <element label="text-over-image" polygon_x="146 146 215 215 166 165 165 146 146"
+               polygon_y="67 90 90 36 36 65 66 66 67"/>
+      <element label="text-over-image" polygon_x="46 46 215 215 46 46"
+               polygon_y="97 100 100 96 96 97"/>
+      <element label="headline-over-image" polygon_x="11 11 140 140 11 11"
+               polygon_y="32 90 90 31 31 32"/>
+   </layout>
+   <text>
+      <keyword>cooking</keyword>
+      <keyword>love</keyword>
+      <keyword>fresh</keyword>
+      <keyword>vegetable</keyword>
+   </text>
+</annotation>

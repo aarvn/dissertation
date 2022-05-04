@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0576</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="16 16 115 115 16 16"
+               polygon_y="222 290 290 221 221 222"/>
+      <element label="text" polygon_x="121 121 215 215 121 121"
+               polygon_y="222 285 285 221 221 222"/>
+      <element label="text" polygon_x="81 81 155 155 81 81" polygon_y="92 110 110 91 91 92"/>
+      <element label="image" polygon_x="1 1 75 75 1 1" polygon_y="62 155 155 61 61 62"/>
+      <element label="image" polygon_x="81 81 155 155 81 81" polygon_y="2 85 85 1 1 2"/>
+      <element label="image" polygon_x="161 161 225 225 161 161"
+               polygon_y="62 155 155 61 61 62"/>
+      <element label="image" polygon_x="1 1 110 110 1 1" polygon_y="162 215 215 161 161 162"/>
+      <element label="image" polygon_x="116 116 225 225 116 116"
+               polygon_y="162 215 215 161 161 162"/>
+      <element label="image" polygon_x="1 1 75 75 1 1" polygon_y="2 55 55 1 1 2"/>
+      <element label="image" polygon_x="161 161 225 225 161 161" polygon_y="2 55 55 1 1 2"/>
+      <element label="image" polygon_x="81 81 155 155 81 81"
+               polygon_y="117 155 155 116 116 117"/>
+   </layout>
+   <text>
+      <keyword>wedding</keyword>
+      <keyword>style</keyword>
+      <keyword>ceremony</keyword>
+      <keyword>dress</keyword>
+      <keyword>budget</keyword>
+      <keyword>remember</keyword>
+      <keyword>moment</keyword>
+      <keyword>special</keyword>
+      <keyword>wear</keyword>
+      <keyword>party</keyword>
+      <keyword>store</keyword>
+      <keyword>mother</keyword>
+      <keyword>season</keyword>
+      <keyword>ring</keyword>
+   </text>
+</annotation>

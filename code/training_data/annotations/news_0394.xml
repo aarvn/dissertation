@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0394</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="146 146 210 210 146 146"
+               polygon_y="12 290 290 11 11 12"/>
+      <element label="text" polygon_x="16 16 75 75 60 60 61 61 75 75 16 16"
+               polygon_y="12 295 295 116 116 115 61 60 60 11 11 12"/>
+      <element label="text" polygon_x="81 81 101 101 100 100 81 81 140 140 81 81"
+               polygon_y="12 60 60 61 115 116 116 290 290 11 11 12"/>
+      <element label="image" polygon_x="66 66 95 95 66 66" polygon_y="67 110 110 66 66 67"/>
+   </layout>
+   <text>
+      <keyword>country</keyword>
+      <keyword>decade</keyword>
+      <keyword>city</keyword>
+      <keyword>president</keyword>
+      <keyword>idea</keyword>
+      <keyword>study</keyword>
+      <keyword>nation</keyword>
+      <keyword>matter</keyword>
+      <keyword>struggle</keyword>
+      <keyword>police</keyword>
+   </text>
+</annotation>

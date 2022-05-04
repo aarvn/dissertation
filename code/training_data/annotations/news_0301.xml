@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0301</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="81 81 145 145 81 81" polygon_y="47 185 185 46 46 47"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="177 290 290 176 176 177"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="17 125 125 16 16 17"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="217 290 290 216 216 217"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="217 290 290 216 216 217"/>
+      <element label="text" polygon_x="151 151 215 215 151 151" polygon_y="47 95 95 46 46 47"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="197 205 205 196 196 197"/>
+      <element label="text" polygon_x="81 81 185 185 81 81" polygon_y="37 40 40 36 36 37"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="167 170 170 166 166 167"/>
+      <element label="image" polygon_x="151 151 215 215 151 151"
+               polygon_y="102 205 205 101 101 102"/>
+      <element label="headline" polygon_x="11 11 70 70 11 11"
+               polygon_y="137 150 150 136 136 137"/>
+      <element label="headline" polygon_x="81 81 150 150 81 81" polygon_y="22 30 30 21 21 22"/>
+   </layout>
+   <text>
+      <keyword>man</keyword>
+      <keyword>issue</keyword>
+      <keyword>cost</keyword>
+      <keyword>struggle</keyword>
+      <keyword>bank</keyword>
+      <keyword>service</keyword>
+   </text>
+</annotation>

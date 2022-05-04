@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0313</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="81 81 140 140 81 81"
+               polygon_y="27 105 105 26 26 27"/>
+      <element label="text-over-image" polygon_x="146 146 205 205 146 146"
+               polygon_y="27 105 105 26 26 27"/>
+      <element label="text-over-image" polygon_x="16 16 75 75 16 16"
+               polygon_y="92 105 105 91 91 92"/>
+      <element label="text-over-image" polygon_x="16 16 65 65 16 16"
+               polygon_y="72 85 85 71 71 72"/>
+      <element label="text-over-image" polygon_x="141 141 160 160 141 141"
+               polygon_y="252 270 270 251 251 252"/>
+   </layout>
+   <text>
+      <keyword>season</keyword>
+      <keyword>cheese</keyword>
+      <keyword>inspire</keyword>
+      <keyword>dessert</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0721</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 70 70 21 21" polygon_y="142 220 220 141 141 142"/>
+      <element label="text" polygon_x="21 21 70 70 21 21" polygon_y="227 285 285 226 226 227"/>
+      <element label="text" polygon_x="31 31 105 105 31 31" polygon_y="92 125 125 91 91 92"/>
+      <element label="text" polygon_x="76 76 125 125 76 76"
+               polygon_y="242 285 285 241 241 242"/>
+      <element label="text" polygon_x="76 76 125 125 76 76"
+               polygon_y="197 235 235 196 196 197"/>
+      <element label="text" polygon_x="76 76 105 105 76 76"
+               polygon_y="142 175 175 141 141 142"/>
+      <element label="text" polygon_x="76 76 105 105 76 76"
+               polygon_y="182 190 190 181 181 182"/>
+      <element label="text" polygon_x="181 181 200 200 181 181"
+               polygon_y="132 145 145 131 131 132"/>
+      <element label="text" polygon_x="21 21 65 65 21 21" polygon_y="12 15 15 11 11 12"/>
+      <element label="image"
+               polygon_x="111 111 205 205 175 175 176 176 225 225 126 125 125 111 111"
+               polygon_y="107 180 180 151 151 150 126 125 125 1 1 105 106 106 107"/>
+      <element label="image" polygon_x="131 131 225 225 131 131"
+               polygon_y="187 240 240 186 186 187"/>
+      <element label="image" polygon_x="131 131 205 205 131 131"
+               polygon_y="247 285 285 246 246 247"/>
+      <element label="headline" polygon_x="21 21 120 120 21 21" polygon_y="62 85 85 61 61 62"/>
+      <element label="text-over-image" polygon_x="171 171 205 205 171 171"
+               polygon_y="152 180 180 151 151 152"/>
+   </layout>
+   <text>
+      <keyword>top</keyword>
+      <keyword>place</keyword>
+      <keyword>dish</keyword>
+      <keyword>salad</keyword>
+      <keyword>juice</keyword>
+      <keyword>cake</keyword>
+      <keyword>vegetable</keyword>
+   </text>
+</annotation>

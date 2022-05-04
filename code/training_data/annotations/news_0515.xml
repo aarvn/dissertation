@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0515</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="136 136 215 215 136 136"
+               polygon_y="82 200 200 81 81 82"/>
+      <element label="text" polygon_x="11 11 90 90 11 11" polygon_y="177 290 290 176 176 177"/>
+      <element label="text" polygon_x="136 136 215 215 136 136"
+               polygon_y="207 290 290 206 206 207"/>
+      <element label="text" polygon_x="11 11 90 90 36 35 35 11 11"
+               polygon_y="102 170 170 81 81 100 101 101 102"/>
+      <element label="text" polygon_x="111 111 210 210 111 111" polygon_y="17 35 35 16 16 17"/>
+      <element label="text" polygon_x="101 101 125 125 101 101"
+               polygon_y="147 190 190 146 146 147"/>
+      <element label="text" polygon_x="101 101 125 125 101 101"
+               polygon_y="222 250 250 221 221 222"/>
+      <element label="text" polygon_x="11 11 80 80 11 11" polygon_y="12 15 15 11 11 12"/>
+      <element label="text" polygon_x="101 101 125 125 101 101"
+               polygon_y="282 290 290 281 281 282"/>
+      <element label="text" polygon_x="106 106 120 120 106 106"
+               polygon_y="102 115 115 101 101 102"/>
+      <element label="image" polygon_x="11 11 35 35 11 11" polygon_y="82 100 100 81 81 82"/>
+      <element label="image" polygon_x="101 101 125 125 101 101"
+               polygon_y="122 140 140 121 121 122"/>
+      <element label="image" polygon_x="101 101 125 125 101 101"
+               polygon_y="197 215 215 196 196 197"/>
+      <element label="headline" polygon_x="11 11 125 125 11 11" polygon_y="52 75 75 51 51 52"/>
+   </layout>
+   <text>
+      <keyword>company</keyword>
+      <keyword>fact</keyword>
+      <keyword>cost</keyword>
+      <keyword>economy</keyword>
+      <keyword>history</keyword>
+      <keyword>technology</keyword>
+      <keyword>research</keyword>
+   </text>
+</annotation>

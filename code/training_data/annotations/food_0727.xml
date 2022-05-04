@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0727</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="156 156 205 205 156 156"
+               polygon_y="17 230 230 16 16 17"/>
+      <element label="text" polygon_x="101 101 150 150 101 101"
+               polygon_y="182 230 230 181 181 182"/>
+      <element label="text" polygon_x="51 51 90 90 51 51" polygon_y="242 260 260 241 241 242"/>
+      <element label="text" polygon_x="21 21 45 45 21 21" polygon_y="257 280 280 256 256 257"/>
+      <element label="text" polygon_x="51 51 80 80 51 51" polygon_y="217 235 235 216 216 217"/>
+      <element label="text" polygon_x="51 51 90 90 51 51" polygon_y="267 280 280 266 266 267"/>
+      <element label="text" polygon_x="51 51 95 95 51 51" polygon_y="172 180 180 171 171 172"/>
+      <element label="text" polygon_x="51 51 85 85 51 51" polygon_y="187 195 195 186 186 187"/>
+      <element label="text" polygon_x="51 51 85 85 51 51" polygon_y="202 210 210 201 201 202"/>
+      <element label="text" polygon_x="101 101 140 140 101 101"
+               polygon_y="172 175 175 171 171 172"/>
+      <element label="image" polygon_x="101 101 205 205 101 101"
+               polygon_y="237 280 280 236 236 237"/>
+      <element label="image" polygon_x="21 21 85 85 21 21" polygon_y="17 85 85 16 16 17"/>
+      <element label="image" polygon_x="21 21 85 85 21 21" polygon_y="92 160 160 91 91 92"/>
+      <element label="image" polygon_x="91 91 150 150 91 91" polygon_y="17 85 85 16 16 17"/>
+      <element label="image" polygon_x="91 91 150 150 91 91" polygon_y="92 160 160 91 91 92"/>
+      <element label="image" polygon_x="21 21 45 45 21 21" polygon_y="232 250 250 231 231 232"/>
+   </layout>
+   <text>
+      <keyword>top</keyword>
+      <keyword>salt</keyword>
+      <keyword>stir</keyword>
+      <keyword>heat</keyword>
+      <keyword>oven</keyword>
+      <keyword>water</keyword>
+      <keyword>pan</keyword>
+      <keyword>fry</keyword>
+      <keyword>bake</keyword>
+      <keyword>flour</keyword>
+      <keyword>pepper</keyword>
+      <keyword>enjoy</keyword>
+      <keyword>table</keyword>
+      <keyword>dry</keyword>
+      <keyword>crisp</keyword>
+   </text>
+</annotation>

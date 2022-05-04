@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0398</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 95 95 11 11" polygon_y="132 280 280 131 131 132"/>
+      <element label="text" polygon_x="11 11 60 60 11 11" polygon_y="82 125 125 81 81 82"/>
+      <element label="text" polygon_x="11 11 80 80 11 11" polygon_y="62 75 75 61 61 62"/>
+      <element label="image" polygon_x="101 101 225 225 101 101" polygon_y="2 300 300 1 1 2"/>
+   </layout>
+   <text>
+      <keyword>salt</keyword>
+      <keyword>oven</keyword>
+      <keyword>sugar</keyword>
+      <keyword>egg</keyword>
+      <keyword>flour</keyword>
+      <keyword>fat</keyword>
+      <keyword>cupcake</keyword>
+      <keyword>milk</keyword>
+      <keyword>soften</keyword>
+      <keyword>cup</keyword>
+      <keyword>vanilla</keyword>
+   </text>
+</annotation>

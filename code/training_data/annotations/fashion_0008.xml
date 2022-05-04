@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0008</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="16 16 55 55 16 16" polygon_y="162 220 220 161 161 162"/>
+      <element label="text" polygon_x="21 21 65 65 21 21" polygon_y="57 105 105 56 56 57"/>
+      <element label="text" polygon_x="161 161 200 200 161 161"
+               polygon_y="62 100 100 61 61 62"/>
+      <element label="text" polygon_x="161 161 205 205 161 161"
+               polygon_y="142 175 175 141 141 142"/>
+      <element label="text" polygon_x="21 21 55 55 21 21" polygon_y="227 265 265 226 226 227"/>
+      <element label="text" polygon_x="31 31 70 70 31 31" polygon_y="117 145 145 116 116 117"/>
+      <element label="text" polygon_x="151 151 205 205 151 151"
+               polygon_y="187 205 205 186 186 187"/>
+      <element label="text" polygon_x="116 116 175 175 116 116" polygon_y="42 55 55 41 41 42"/>
+      <element label="text" polygon_x="161 161 205 205 161 161"
+               polygon_y="237 255 255 236 236 237"/>
+      <element label="text" polygon_x="161 161 205 205 161 161"
+               polygon_y="267 285 285 266 266 267"/>
+      <element label="text" polygon_x="16 16 85 85 16 16" polygon_y="12 20 20 11 11 12"/>
+      <element label="text" polygon_x="161 161 205 205 161 161"
+               polygon_y="217 225 225 216 216 217"/>
+      <element label="text" polygon_x="161 161 175 175 161 161"
+               polygon_y="112 125 125 111 111 112"/>
+      <element label="image" polygon_x="71 71 150 150 115 115 115 71 71"
+               polygon_y="32 290 290 56 56 55 31 31 32"/>
+      <element label="headline" polygon_x="116 116 165 165 116 116"
+               polygon_y="22 35 35 21 21 22"/>
+   </layout>
+   <text>
+      <keyword>skin</keyword>
+      <keyword>light</keyword>
+      <keyword>hair</keyword>
+   </text>
+</annotation>

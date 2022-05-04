@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0233</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="62 290 290 61 61 62"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="27 195 195 26 26 27"/>
+      <element label="text" polygon_x="81 81 145 145 81 81" polygon_y="27 90 90 26 26 27"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="142 195 195 141 141 142"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="47 55 55 46 46 47"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="127 135 135 126 126 127"/>
+      <element label="image" polygon_x="81 81 215 215 81 81"
+               polygon_y="202 290 290 201 201 202"/>
+      <element label="headline" polygon_x="81 81 135 135 81 81"
+               polygon_y="102 115 115 101 101 102"/>
+      <element label="headline" polygon_x="11 11 75 75 11 11" polygon_y="22 30 30 21 21 22"/>
+   </layout>
+   <text>
+      <keyword>government</keyword>
+      <keyword>book</keyword>
+      <keyword>death</keyword>
+      <keyword>money</keyword>
+      <keyword>issue</keyword>
+      <keyword>group</keyword>
+      <keyword>firm</keyword>
+      <keyword>service</keyword>
+   </text>
+</annotation>

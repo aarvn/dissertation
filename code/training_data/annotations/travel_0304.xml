@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0304</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 85 85 21 21" polygon_y="207 290 290 206 206 207"/>
+      <element label="text" polygon_x="136 136 200 200 136 136"
+               polygon_y="87 165 165 86 86 87"/>
+      <element label="text" polygon_x="21 21 75 75 21 21" polygon_y="192 200 200 191 191 192"/>
+      <element label="text" polygon_x="136 136 190 190 136 136" polygon_y="72 80 80 71 71 72"/>
+      <element label="image" polygon_x="91 91 200 200 91 91"
+               polygon_y="177 290 290 176 176 177"/>
+      <element label="image" polygon_x="21 21 130 130 21 21" polygon_y="67 165 165 66 66 67"/>
+      <element label="headline" polygon_x="21 21 200 200 21 21" polygon_y="27 45 45 26 26 27"/>
+   </layout>
+   <text>
+      <keyword>garden</keyword>
+      <keyword>town</keyword>
+      <keyword>bedroom</keyword>
+      <keyword>property</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0422</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="26 26 95 95 26 26" polygon_y="247 265 265 246 246 247"/>
+      <element label="text" polygon_x="31 31 95 95 31 31" polygon_y="272 280 280 271 271 272"/>
+      <element label="image"
+               polygon_x="21 21 26 26 26 71 71 71 111 111 111 205 205 120 120 121 121 215 216 216 220 220 146 145 145 22 71 21 NaN 120 71 121 146 146 145 145 120 120 120"
+               polygon_y="37 120 120 121 235 235 236 240 240 241 280 280 206 206 205 201 200 200 96 95 95 1 1 35 36 36 81 37 NaN 126 81 125 125 126 130 131 131 130 126"/>
+      <element label="headline" polygon_x="21 21 140 140 21 21" polygon_y="22 30 30 21 21 22"/>
+      <element label="text-over-image" polygon_x="91 91 180 180 116 115 115 91 91"
+               polygon_y="152 200 200 131 131 150 151 151 152"/>
+      <element label="text-over-image" polygon_x="121 121 180 180 121 121"
+               polygon_y="112 125 125 111 111 112"/>
+      <element label="text-over-image" polygon_x="91 91 115 115 91 91"
+               polygon_y="207 225 225 206 206 207"/>
+   </layout>
+   <text>
+      <keyword>bride</keyword>
+      <keyword>dress</keyword>
+      <keyword>visit</keyword>
+   </text>
+</annotation>

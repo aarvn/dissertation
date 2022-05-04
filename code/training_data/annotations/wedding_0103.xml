@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0103</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="6 6 80 80 6 6" polygon_y="102 155 155 101 101 102"/>
+      <element label="text" polygon_x="6 6 80 80 6 6" polygon_y="202 255 255 201 201 202"/>
+      <element label="text" polygon_x="6 6 80 80 6 6" polygon_y="62 95 95 61 61 62"/>
+      <element label="text" polygon_x="6 6 80 80 6 6" polygon_y="162 195 195 161 161 162"/>
+      <element label="text" polygon_x="6 6 75 75 6 6" polygon_y="262 275 275 261 261 262"/>
+      <element label="text" polygon_x="6 6 70 70 6 6" polygon_y="47 50 50 46 46 47"/>
+      <element label="image" polygon_x="91 91 225 225 91 91" polygon_y="62 275 275 61 61 62"/>
+      <element label="headline" polygon_x="6 6 140 140 6 6" polygon_y="27 40 40 26 26 27"/>
+   </layout>
+   <text>
+      <keyword>wedding</keyword>
+      <keyword>guest</keyword>
+      <keyword>bride</keyword>
+      <keyword>couple</keyword>
+      <keyword>venue</keyword>
+      <keyword>family</keyword>
+      <keyword>budget</keyword>
+      <keyword>event</keyword>
+      <keyword>plan</keyword>
+      <keyword>moment</keyword>
+      <keyword>relax</keyword>
+      <keyword>host</keyword>
+      <keyword>parent</keyword>
+      <keyword>invite</keyword>
+      <keyword>location</keyword>
+      <keyword>opportunity</keyword>
+      <keyword>dinner</keyword>
+      <keyword>cost</keyword>
+   </text>
+</annotation>

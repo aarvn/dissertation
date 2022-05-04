@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0259</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="81 81 145 145 81 81" polygon_y="27 290 290 26 26 27"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="72 185 185 71 71 72"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="12 115 115 11 11 12"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="187 290 290 186 186 187"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="152 175 175 151 151 152"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="47 65 65 46 46 47"/>
+      <element label="image" polygon_x="11 11 75 75 11 11" polygon_y="192 290 290 191 191 192"/>
+      <element label="headline" polygon_x="11 11 70 70 11 11" polygon_y="12 35 35 11 11 12"/>
+      <element label="headline" polygon_x="151 151 200 200 151 151"
+               polygon_y="122 145 145 121 121 122"/>
+   </layout>
+   <text>
+      <keyword>country</keyword>
+      <keyword>book</keyword>
+      <keyword>place</keyword>
+      <keyword>bad</keyword>
+      <keyword>study</keyword>
+      <keyword>school</keyword>
+      <keyword>university</keyword>
+      <keyword>budget</keyword>
+   </text>
+</annotation>

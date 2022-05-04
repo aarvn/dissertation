@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0628</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="11 11 105 105 11 11"
+               polygon_y="182 280 280 181 181 182"/>
+      <element label="text-over-image" polygon_x="11 11 80 80 11 11"
+               polygon_y="97 175 175 96 96 97"/>
+      <element label="text-over-image" polygon_x="11 11 105 105 11 11"
+               polygon_y="67 90 90 66 66 67"/>
+      <element label="text-over-image" polygon_x="11 11 85 85 11 11"
+               polygon_y="52 60 60 51 51 52"/>
+   </layout>
+   <text>
+      <keyword>salt</keyword>
+      <keyword>stir</keyword>
+      <keyword>taste</keyword>
+      <keyword>cool</keyword>
+      <keyword>season</keyword>
+      <keyword>oil</keyword>
+      <keyword>sugar</keyword>
+      <keyword>bake</keyword>
+      <keyword>pepper</keyword>
+      <keyword>potato</keyword>
+      <keyword>grill</keyword>
+      <keyword>honey</keyword>
+   </text>
+</annotation>

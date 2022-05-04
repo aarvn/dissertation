@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0019</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="156 156 205 205 156 156"
+               polygon_y="52 220 220 51 51 52"/>
+      <element label="text-over-image" polygon_x="41 41 95 95 41 41"
+               polygon_y="22 55 55 21 21 22"/>
+      <element label="text-over-image" polygon_x="156 156 205 205 156 156"
+               polygon_y="17 45 45 16 16 17"/>
+      <element label="text-over-image" polygon_x="101 101 140 140 101 101"
+               polygon_y="22 55 55 21 21 22"/>
+      <element label="text-over-image" polygon_x="161 161 205 205 161 161"
+               polygon_y="247 275 275 246 246 247"/>
+      <element label="text-over-image" polygon_x="156 156 205 205 156 156"
+               polygon_y="227 235 235 226 226 227"/>
+   </layout>
+   <text>
+      <keyword>top</keyword>
+      <keyword>cool</keyword>
+      <keyword>oven</keyword>
+      <keyword>sugar</keyword>
+      <keyword>boil</keyword>
+      <keyword>bake</keyword>
+      <keyword>cooking</keyword>
+      <keyword>flour</keyword>
+      <keyword>golden</keyword>
+      <keyword>fridge</keyword>
+      <keyword>milk</keyword>
+      <keyword>sweet</keyword>
+      <keyword>summer</keyword>
+      <keyword>cream</keyword>
+      <keyword>thick</keyword>
+      <keyword>saucepan</keyword>
+   </text>
+</annotation>

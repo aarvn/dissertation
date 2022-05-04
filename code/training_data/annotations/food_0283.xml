@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0283</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="81 81 140 140 81 81"
+               polygon_y="162 280 280 161 161 162"/>
+      <element label="text" polygon_x="21 21 75 75 21 21" polygon_y="162 280 280 161 161 162"/>
+      <element label="text" polygon_x="146 146 205 205 146 146"
+               polygon_y="192 280 280 191 191 192"/>
+      <element label="text" polygon_x="146 146 190 190 146 146"
+               polygon_y="162 180 180 161 161 162"/>
+      <element label="text" polygon_x="11 11 55 55 11 11" polygon_y="12 20 20 11 11 12"/>
+      <element label="image" polygon_x="11 11 105 105 11 11" polygon_y="22 155 155 21 21 22"/>
+      <element label="image" polygon_x="111 111 205 205 111 111"
+               polygon_y="22 155 155 21 21 22"/>
+   </layout>
+   <text>
+      <keyword>place</keyword>
+      <keyword>restaurant</keyword>
+      <keyword>salad</keyword>
+      <keyword>menu</keyword>
+      <keyword>delicious</keyword>
+      <keyword>fish</keyword>
+      <keyword>table</keyword>
+      <keyword>chicken</keyword>
+   </text>
+</annotation>

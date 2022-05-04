@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0487</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 110 110 11 11" polygon_y="32 115 115 31 31 32"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="167 285 285 166 166 167"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="202 285 285 201 201 202"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="172 240 240 171 171 172"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="132 190 190 131 131 132"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="247 285 285 246 246 247"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="132 165 165 131 131 132"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="132 160 160 131 131 132"/>
+      <element label="image" polygon_x="116 116 220 220 116 116"
+               polygon_y="32 115 115 31 31 32"/>
+   </layout>
+   <text>
+      <keyword>researcher</keyword>
+      <keyword>reason</keyword>
+      <keyword>evidence</keyword>
+      <keyword>technology</keyword>
+      <keyword>system</keyword>
+      <keyword>method</keyword>
+      <keyword>challenge</keyword>
+      <keyword>analysis</keyword>
+   </text>
+</annotation>

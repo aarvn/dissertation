@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0489</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="61 61 215 215 61 61" polygon_y="52 115 115 51 51 52"/>
+      <element label="text" polygon_x="61 61 110 110 61 61"
+               polygon_y="272 290 290 271 271 272"/>
+      <element label="text" polygon_x="166 166 215 215 166 166"
+               polygon_y="272 290 290 271 271 272"/>
+      <element label="text" polygon_x="11 11 55 55 11 11" polygon_y="272 290 290 271 271 272"/>
+      <element label="text" polygon_x="116 116 160 160 116 116"
+               polygon_y="272 290 290 271 271 272"/>
+      <element label="text" polygon_x="11 11 45 45 11 11" polygon_y="22 30 30 21 21 22"/>
+      <element label="text" polygon_x="81 81 145 145 81 81" polygon_y="12 15 15 11 11 12"/>
+      <element label="image" polygon_x="11 11 110 110 11 11"
+               polygon_y="122 190 190 121 121 122"/>
+      <element label="image" polygon_x="11 11 110 110 11 11"
+               polygon_y="197 265 265 196 196 197"/>
+      <element label="image" polygon_x="116 116 215 215 116 116"
+               polygon_y="122 190 190 121 121 122"/>
+      <element label="image" polygon_x="116 116 215 215 116 116"
+               polygon_y="197 265 265 196 196 197"/>
+      <element label="headline" polygon_x="11 11 55 55 11 11" polygon_y="52 85 85 51 51 52"/>
+      <element label="text-over-image" polygon_x="11 11 40 40 11 11"
+               polygon_y="202 215 215 201 201 202"/>
+   </layout>
+   <text>
+      <keyword>company</keyword>
+      <keyword>university</keyword>
+      <keyword>technology</keyword>
+   </text>
+</annotation>

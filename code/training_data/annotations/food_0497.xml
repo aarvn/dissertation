@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0497</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 215 215 11 11"
+               polygon_y="162 170 170 161 161 162"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="122 125 125 121 121 122"/>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="177 300 300 176 176 177"/>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 115 115 1 1 2"/>
+      <element label="headline" polygon_x="11 11 215 215 11 11"
+               polygon_y="132 155 155 131 131 132"/>
+      <element label="text-over-image" polygon_x="11 11 45 45 11 11"
+               polygon_y="102 110 110 101 101 102"/>
+      <element label="text-over-image" polygon_x="11 11 60 60 11 11"
+               polygon_y="287 290 290 286 286 287"/>
+      <element label="text-over-image" polygon_x="166 166 215 215 166 166"
+               polygon_y="182 185 185 181 181 182"/>
+   </layout>
+   <text>
+      <keyword>recipe</keyword>
+      <keyword>season</keyword>
+      <keyword>salad</keyword>
+   </text>
+</annotation>

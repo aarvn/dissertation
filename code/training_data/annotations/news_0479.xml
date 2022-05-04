@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0479</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="121 121 215 215 121 121"
+               polygon_y="42 210 210 41 41 42"/>
+      <element label="text" polygon_x="26 26 115 115 26 26" polygon_y="67 220 220 66 66 67"/>
+      <element label="text" polygon_x="6 6 75 75 6 6" polygon_y="247 290 290 246 246 247"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="247 290 290 246 246 247"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="247 290 290 246 246 247"/>
+      <element label="text" polygon_x="26 26 115 115 26 26" polygon_y="42 60 60 41 41 42"/>
+      <element label="text" polygon_x="121 121 205 205 121 121"
+               polygon_y="217 220 220 216 216 217"/>
+      <element label="headline" polygon_x="26 26 155 155 26 26" polygon_y="22 30 30 21 21 22"/>
+   </layout>
+   <text>
+      <keyword>country</keyword>
+      <keyword>law</keyword>
+      <keyword>fact</keyword>
+      <keyword>live</keyword>
+      <keyword>court</keyword>
+      <keyword>service</keyword>
+   </text>
+</annotation>

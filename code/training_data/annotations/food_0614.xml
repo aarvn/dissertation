@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0614</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 110 110 11 11"
+               polygon_y="147 210 210 146 146 147"/>
+      <element label="text" polygon_x="11 11 110 110 11 11" polygon_y="32 80 80 31 31 32"/>
+      <element label="text" polygon_x="121 121 215 215 121 121"
+               polygon_y="62 110 110 61 61 62"/>
+      <element label="text" polygon_x="11 11 110 110 11 11" polygon_y="87 115 115 86 86 87"/>
+      <element label="text" polygon_x="121 121 215 215 121 121" polygon_y="32 55 55 31 31 32"/>
+      <element label="text" polygon_x="11 11 110 110 11 11"
+               polygon_y="122 135 135 121 121 122"/>
+      <element label="text" polygon_x="121 121 215 215 121 121"
+               polygon_y="117 130 130 116 116 117"/>
+      <element label="text" polygon_x="121 121 215 215 121 121"
+               polygon_y="147 155 155 146 146 147"/>
+      <element label="text" polygon_x="196 196 215 215 196 196"
+               polygon_y="232 275 275 231 231 232"/>
+      <element label="text" polygon_x="196 196 215 215 196 196"
+               polygon_y="172 205 205 171 171 172"/>
+      <element label="image" polygon_x="11 11 110 110 11 11"
+               polygon_y="217 280 280 216 216 217"/>
+      <element label="image" polygon_x="121 121 190 190 121 121"
+               polygon_y="162 220 220 161 161 162"/>
+      <element label="image" polygon_x="121 121 190 190 121 121"
+               polygon_y="227 280 280 226 226 227"/>
+   </layout>
+   <text>
+      <keyword>heat</keyword>
+      <keyword>pan</keyword>
+      <keyword>cooking</keyword>
+      <keyword>enjoy</keyword>
+      <keyword>meat</keyword>
+      <keyword>dry</keyword>
+      <keyword>grill</keyword>
+      <keyword>ginger</keyword>
+   </text>
+</annotation>

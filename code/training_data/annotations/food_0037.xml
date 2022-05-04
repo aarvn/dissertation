@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0037</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="151 151 205 205 151 151"
+               polygon_y="222 275 275 221 221 222"/>
+      <element label="text" polygon_x="21 21 135 135 21 21"
+               polygon_y="222 240 240 221 221 222"/>
+      <element label="text" polygon_x="21 21 125 125 21 21"
+               polygon_y="262 280 280 261 261 262"/>
+      <element label="text" polygon_x="181 181 210 210 181 181" polygon_y="7 15 15 6 6 7"/>
+      <element label="image" polygon_x="21 21 146 146 146 210 210 175 175 175 21 21"
+               polygon_y="2 175 175 176 215 215 146 146 145 1 1 2"/>
+      <element label="headline" polygon_x="21 21 110 110 21 21"
+               polygon_y="182 215 215 181 181 182"/>
+   </layout>
+   <text>
+      <keyword>recipe</keyword>
+      <keyword>dish</keyword>
+      <keyword>life</keyword>
+   </text>
+</annotation>

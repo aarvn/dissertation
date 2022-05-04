@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0045</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="76 76 140 140 76 76" polygon_y="82 180 180 81 81 82"/>
+      <element label="text" polygon_x="6 6 70 70 6 6" polygon_y="82 165 165 81 81 82"/>
+      <element label="text" polygon_x="6 6 70 70 6 6" polygon_y="172 255 255 171 171 172"/>
+      <element label="text" polygon_x="76 76 140 140 76 76"
+               polygon_y="222 285 285 221 221 222"/>
+      <element label="text" polygon_x="146 146 205 205 146 146"
+               polygon_y="222 285 285 221 221 222"/>
+      <element label="text" polygon_x="146 146 205 205 146 146"
+               polygon_y="132 180 180 131 131 132"/>
+      <element label="text" polygon_x="146 146 205 205 146 146"
+               polygon_y="82 125 125 81 81 82"/>
+      <element label="text" polygon_x="91 91 195 195 91 91"
+               polygon_y="192 210 210 191 191 192"/>
+      <element label="text" polygon_x="6 6 70 70 6 6" polygon_y="262 285 285 261 261 262"/>
+      <element label="image" polygon_x="6 6 70 70 6 6" polygon_y="12 75 75 11 11 12"/>
+   </layout>
+   <text>
+      <keyword>government</keyword>
+      <keyword>man</keyword>
+      <keyword>child</keyword>
+      <keyword>place</keyword>
+      <keyword>bad</keyword>
+      <keyword>law</keyword>
+      <keyword>attack</keyword>
+      <keyword>cost</keyword>
+   </text>
+</annotation>

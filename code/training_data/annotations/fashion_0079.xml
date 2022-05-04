@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0079</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="6 6 75 75 6 6" polygon_y="142 200 200 141 141 142"/>
+      <element label="text" polygon_x="41 41 75 75 41 41" polygon_y="212 285 285 211 211 212"/>
+      <element label="text" polygon_x="146 146 185 185 146 146"
+               polygon_y="37 100 100 36 36 37"/>
+      <element label="image" polygon_x="1 1 130 131 131 140 140 130 130 131 131 190 190 1 1"
+               polygon_y="2 135 135 81 80 80 41 41 40 21 20 20 1 1 2"/>
+      <element label="image" polygon_x="86 86 225 225 196 195 195 141 140 140 86 86"
+               polygon_y="147 200 200 6 6 115 116 116 145 146 146 147"/>
+      <element label="image"
+               polygon_x="86 86 180 181 181 205 205 156 155 155 150 150 150 86 86"
+               polygon_y="207 300 300 281 280 280 211 211 240 241 241 240 206 206 207"/>
+      <element label="image" polygon_x="1 1 30 30 1 1" polygon_y="212 285 285 211 211 212"/>
+      <element label="text-over-image" polygon_x="156 156 181 181 181 205 205 156 156"
+               polygon_y="212 260 260 261 280 280 211 211 212"/>
+      <element label="headline-over-image" polygon_x="16 16 190 190 16 16"
+               polygon_y="2 20 20 1 1 2"/>
+   </layout>
+   <text>
+      <keyword>love</keyword>
+      <keyword>price</keyword>
+      <keyword>picture</keyword>
+      <keyword>artist</keyword>
+   </text>
+</annotation>

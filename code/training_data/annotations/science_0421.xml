@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0421</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="26 26 110 110 26 26"
+               polygon_y="217 280 280 216 216 217"/>
+      <element label="text" polygon_x="116 116 200 200 116 116"
+               polygon_y="217 280 280 216 216 217"/>
+      <element label="text" polygon_x="66 66 195 195 66 66"
+               polygon_y="197 210 210 196 196 197"/>
+      <element label="image" polygon_x="26 26 220 220 26 26" polygon_y="2 190 190 1 1 2"/>
+   </layout>
+   <text>
+      <keyword>research</keyword>
+      <keyword>effect</keyword>
+      <keyword>interest</keyword>
+   </text>
+</annotation>

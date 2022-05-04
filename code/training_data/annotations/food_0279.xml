@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0279</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 75 75 21 21" polygon_y="27 170 170 26 26 27"/>
+      <element label="text" polygon_x="146 146 205 205 146 146"
+               polygon_y="27 110 110 26 26 27"/>
+      <element label="text" polygon_x="81 81 140 140 81 81" polygon_y="27 60 60 26 26 27"/>
+      <element label="text" polygon_x="81 81 130 130 81 81" polygon_y="67 95 95 66 66 67"/>
+      <element label="text" polygon_x="81 81 140 140 81 81"
+               polygon_y="102 110 110 101 101 102"/>
+      <element label="text" polygon_x="171 171 215 215 171 171" polygon_y="12 20 20 11 11 12"/>
+      <element label="text" polygon_x="21 21 60 60 21 21" polygon_y="182 190 190 181 181 182"/>
+      <element label="image" polygon_x="81 81 205 205 81 81"
+               polygon_y="117 280 280 116 116 117"/>
+      <element label="image" polygon_x="21 21 75 75 21 21" polygon_y="197 280 280 196 196 197"/>
+   </layout>
+   <text>
+      <keyword>eat</keyword>
+      <keyword>restaurant</keyword>
+      <keyword>flavour</keyword>
+      <keyword>salad</keyword>
+      <keyword>meat</keyword>
+      <keyword>delicious</keyword>
+      <keyword>warm</keyword>
+      <keyword>crisp</keyword>
+      <keyword>cream</keyword>
+      <keyword>dessert</keyword>
+   </text>
+</annotation>

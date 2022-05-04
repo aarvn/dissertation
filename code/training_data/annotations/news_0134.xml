@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0134</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="16 16 110 110 61 60 60 16 16"
+               polygon_y="87 195 195 51 51 85 86 86 87"/>
+      <element label="text" polygon_x="116 116 210 210 116 116"
+               polygon_y="52 140 140 51 51 52"/>
+      <element label="text" polygon_x="116 116 215 215 116 116"
+               polygon_y="237 290 290 236 236 237"/>
+      <element label="text" polygon_x="116 116 210 210 116 116"
+               polygon_y="152 195 195 151 151 152"/>
+      <element label="text" polygon_x="16 16 110 110 61 60 60 16 16"
+               polygon_y="272 290 290 236 236 270 271 271 272"/>
+      <element label="text" polygon_x="16 16 155 155 16 16"
+               polygon_y="227 230 230 226 226 227"/>
+      <element label="text" polygon_x="16 16 130 130 16 16" polygon_y="42 45 45 41 41 42"/>
+      <element label="text" polygon_x="161 161 210 210 161 161" polygon_y="12 15 15 11 11 12"/>
+      <element label="image" polygon_x="16 16 55 55 16 16" polygon_y="52 80 80 51 51 52"/>
+      <element label="image" polygon_x="16 16 55 55 16 16" polygon_y="237 265 265 236 236 237"/>
+      <element label="headline" polygon_x="16 16 115 115 16 16" polygon_y="17 30 30 16 16 17"/>
+      <element label="headline" polygon_x="16 16 55 55 16 16"
+               polygon_y="207 220 220 206 206 207"/>
+   </layout>
+   <text>
+      <keyword>talk</keyword>
+      <keyword>child</keyword>
+      <keyword>death</keyword>
+      <keyword>law</keyword>
+      <keyword>firm</keyword>
+      <keyword>freedom</keyword>
+   </text>
+</annotation>

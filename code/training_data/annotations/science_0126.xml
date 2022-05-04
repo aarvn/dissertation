@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0126</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="186 186 210 210 186 186"
+               polygon_y="107 165 165 106 106 107"/>
+      <element label="text" polygon_x="156 156 210 210 156 156"
+               polygon_y="172 190 190 171 171 172"/>
+      <element label="text" polygon_x="151 151 175 175 151 151"
+               polygon_y="132 165 165 131 131 132"/>
+      <element label="text" polygon_x="186 186 210 210 186 186" polygon_y="47 75 75 46 46 47"/>
+      <element label="text" polygon_x="186 186 210 210 186 186"
+               polygon_y="82 100 100 81 81 82"/>
+      <element label="image" polygon_x="6 6 175 175 6 6" polygon_y="2 100 100 1 1 2"/>
+      <element label="image" polygon_x="6 6 145 145 6 6" polygon_y="107 190 190 106 106 107"/>
+      <element label="image" polygon_x="71 71 195 195 71 71"
+               polygon_y="197 280 280 196 196 197"/>
+      <element label="image" polygon_x="6 6 65 65 6 6" polygon_y="197 295 295 196 196 197"/>
+   </layout>
+   <text>
+      <keyword>image</keyword>
+      <keyword>south</keyword>
+   </text>
+</annotation>

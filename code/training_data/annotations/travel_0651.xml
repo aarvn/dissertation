@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0651</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="26 26 95 95 26 26" polygon_y="192 275 275 191 191 192"/>
+      <element label="text" polygon_x="26 26 95 95 26 26" polygon_y="162 185 185 161 161 162"/>
+      <element label="image" polygon_x="6 6 220 220 6 6" polygon_y="2 155 155 1 1 2"/>
+      <element label="image" polygon_x="101 101 205 205 101 101"
+               polygon_y="162 220 220 161 161 162"/>
+      <element label="image" polygon_x="101 101 205 205 101 101"
+               polygon_y="227 275 275 226 226 227"/>
+      <element label="headline-over-image" polygon_x="26 26 115 115 26 26"
+               polygon_y="112 150 150 111 111 112"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>visit</keyword>
+      <keyword>room</keyword>
+      <keyword>hotel</keyword>
+      <keyword>city</keyword>
+      <keyword>celebrate</keyword>
+   </text>
+</annotation>

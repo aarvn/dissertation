@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0595</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="136 136 215 215 136 136"
+               polygon_y="57 175 175 56 56 57"/>
+      <element label="text" polygon_x="16 16 115 115 16 16"
+               polygon_y="207 285 285 206 206 207"/>
+      <element label="text" polygon_x="26 26 100 100 26 26"
+               polygon_y="192 200 200 191 191 192"/>
+      <element label="text" polygon_x="186 186 215 215 186 186" polygon_y="7 25 25 6 6 7"/>
+      <element label="text" polygon_x="151 151 195 195 151 151" polygon_y="42 50 50 41 41 42"/>
+      <element label="image" polygon_x="6 6 130 130 6 6" polygon_y="2 175 175 1 1 2"/>
+      <element label="image" polygon_x="126 126 225 225 126 126"
+               polygon_y="182 295 295 181 181 182"/>
+   </layout>
+   <text>
+      <keyword>view</keyword>
+      <keyword>child</keyword>
+      <keyword>hotel</keyword>
+      <keyword>food</keyword>
+      <keyword>city</keyword>
+      <keyword>restaurant</keyword>
+      <keyword>bedroom</keyword>
+      <keyword>taste</keyword>
+      <keyword>lake</keyword>
+   </text>
+</annotation>

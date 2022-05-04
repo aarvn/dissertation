@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0101</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="26 26 85 85 26 26" polygon_y="37 280 280 36 36 37"/>
+      <element label="text" polygon_x="91 91 145 145 91 91" polygon_y="37 235 235 36 36 37"/>
+      <element label="text" polygon_x="151 151 205 205 151 151"
+               polygon_y="37 235 235 36 36 37"/>
+      <element label="text" polygon_x="91 91 205 205 91 91"
+               polygon_y="247 270 270 246 246 247"/>
+      <element label="text" polygon_x="26 26 95 95 26 26" polygon_y="17 30 30 16 16 17"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>talk</keyword>
+      <keyword>power</keyword>
+      <keyword>president</keyword>
+      <keyword>war</keyword>
+      <keyword>idea</keyword>
+      <keyword>family</keyword>
+      <keyword>bad</keyword>
+      <keyword>fact</keyword>
+      <keyword>money</keyword>
+      <keyword>future</keyword>
+      <keyword>rule</keyword>
+      <keyword>office</keyword>
+      <keyword>fail</keyword>
+      <keyword>matter</keyword>
+      <keyword>wife</keyword>
+      <keyword>top</keyword>
+   </text>
+</annotation>

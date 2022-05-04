@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0157</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="6 6 220 220 6 6" polygon_y="12 290 290 11 11 12"/>
+      <element label="text-over-image" polygon_x="151 151 205 205 151 151"
+               polygon_y="57 100 100 56 56 57"/>
+      <element label="text-over-image" polygon_x="151 151 205 205 151 151"
+               polygon_y="147 185 185 146 146 147"/>
+      <element label="text-over-image" polygon_x="21 21 70 70 21 21"
+               polygon_y="202 240 240 201 201 202"/>
+      <element label="text-over-image" polygon_x="151 151 205 205 151 151"
+               polygon_y="112 140 140 111 111 112"/>
+      <element label="text-over-image" polygon_x="151 151 205 205 151 151"
+               polygon_y="192 215 215 191 191 192"/>
+      <element label="text-over-image" polygon_x="151 151 205 205 151 151"
+               polygon_y="222 245 245 221 221 222"/>
+      <element label="text-over-image" polygon_x="151 151 205 205 151 151"
+               polygon_y="252 275 275 251 251 252"/>
+      <element label="text-over-image" polygon_x="151 151 205 205 151 151"
+               polygon_y="32 50 50 31 31 32"/>
+      <element label="headline-over-image" polygon_x="26 26 130 130 26 26"
+               polygon_y="42 55 55 41 41 42"/>
+   </layout>
+   <text>
+      <keyword>top</keyword>
+      <keyword>taste</keyword>
+      <keyword>season</keyword>
+      <keyword>oven</keyword>
+      <keyword>bowl</keyword>
+      <keyword>sugar</keyword>
+      <keyword>garlic</keyword>
+      <keyword>bake</keyword>
+      <keyword>golden</keyword>
+      <keyword>milk</keyword>
+      <keyword>delicious</keyword>
+      <keyword>chilli</keyword>
+      <keyword>dress</keyword>
+      <keyword>roast</keyword>
+      <keyword>cream</keyword>
+      <keyword>honey</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0358</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 75 75 21 21" polygon_y="237 265 265 236 236 237"/>
+      <element label="text" polygon_x="21 21 75 75 21 21" polygon_y="272 280 280 271 271 272"/>
+      <element label="text" polygon_x="21 21 45 45 21 21" polygon_y="12 15 15 11 11 12"/>
+      <element label="image"
+               polygon_x="1 1 21 21 21 80 81 81 130 131 131 136 136 136 225 225 136 135 135 130 130 130 1 1"
+               polygon_y="22 140 140 141 145 145 141 140 140 131 130 130 131 140 140 21 21 80 81 81 80 21 21 22"/>
+      <element label="image" polygon_x="1 1 81 81 81 135 135 1 1"
+               polygon_y="157 235 235 236 280 280 156 156 157"/>
+      <element label="image" polygon_x="141 141 225 225 141 141"
+               polygon_y="157 300 300 156 156 157"/>
+      <element label="text-over-image" polygon_x="21 21 145 145 21 21"
+               polygon_y="82 130 130 81 81 82"/>
+      <element label="text-over-image" polygon_x="141 141 200 200 141 141"
+               polygon_y="237 260 260 236 236 237"/>
+      <element label="text-over-image" polygon_x="21 21 90 90 21 21"
+               polygon_y="62 75 75 61 61 62"/>
+      <element label="text-over-image" polygon_x="21 21 85 85 21 21"
+               polygon_y="217 230 230 216 216 217"/>
+      <element label="text-over-image" polygon_x="141 141 200 200 141 141"
+               polygon_y="217 230 230 216 216 217"/>
+      <element label="text-over-image" polygon_x="21 21 80 80 21 21"
+               polygon_y="137 145 145 136 136 137"/>
+      <element label="text-over-image" polygon_x="141 141 185 185 141 141"
+               polygon_y="267 275 275 266 266 267"/>
+   </layout>
+   <text>
+      <keyword>style</keyword>
+      <keyword>family</keyword>
+      <keyword>heart</keyword>
+      <keyword>opportunity</keyword>
+      <keyword>relaxed</keyword>
+      <keyword>excite</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0719</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="151 151 210 210 151 151"
+               polygon_y="147 290 290 146 146 147"/>
+      <element label="text" polygon_x="91 91 145 145 91 91"
+               polygon_y="227 290 290 226 226 227"/>
+      <element label="text" polygon_x="11 11 50 50 11 11" polygon_y="227 255 255 226 226 227"/>
+      <element label="image" polygon_x="11 11 140 140 11 11" polygon_y="12 215 215 11 11 12"/>
+      <element label="image" polygon_x="146 146 210 210 146 146"
+               polygon_y="42 140 140 41 41 42"/>
+   </layout>
+   <text>
+      <keyword>child</keyword>
+      <keyword>travel</keyword>
+      <keyword>restaurant</keyword>
+      <keyword>inspire</keyword>
+      <keyword>bird</keyword>
+      <keyword>sky</keyword>
+      <keyword>resort</keyword>
+      <keyword>smile</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0692</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="136 136 210 210 136 136"
+               polygon_y="142 285 285 141 141 142"/>
+      <element label="text" polygon_x="16 16 50 50 16 16" polygon_y="217 285 285 216 216 217"/>
+      <element label="text" polygon_x="16 16 50 50 16 16" polygon_y="7 15 15 6 6 7"/>
+      <element label="image" polygon_x="16 16 210 210 16 16" polygon_y="27 135 135 26 26 27"/>
+      <element label="image" polygon_x="56 56 130 130 56 56"
+               polygon_y="217 285 285 216 216 217"/>
+      <element label="image" polygon_x="16 16 70 70 16 16" polygon_y="142 210 210 141 141 142"/>
+      <element label="image" polygon_x="76 76 130 130 76 76"
+               polygon_y="142 210 210 141 141 142"/>
+   </layout>
+   <text>
+      <keyword>menu</keyword>
+      <keyword>fresh</keyword>
+      <keyword>sweet</keyword>
+      <keyword>fruit</keyword>
+      <keyword>market</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0406</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 110 110 21 21" polygon_y="92 150 150 91 91 92"/>
+      <element label="text" polygon_x="116 116 205 205 116 116" polygon_y="27 80 80 26 26 27"/>
+      <element label="text" polygon_x="116 116 205 205 116 116"
+               polygon_y="162 215 215 161 161 162"/>
+      <element label="text" polygon_x="151 151 205 205 151 151" polygon_y="12 15 15 11 11 12"/>
+      <element label="image" polygon_x="1 1 205 205 1 1" polygon_y="222 285 285 221 221 222"/>
+      <element label="image" polygon_x="116 116 205 205 116 116"
+               polygon_y="92 150 150 91 91 92"/>
+      <element label="image" polygon_x="21 21 110 110 21 21" polygon_y="27 80 80 26 26 27"/>
+      <element label="image" polygon_x="21 21 110 110 21 21"
+               polygon_y="162 215 215 161 161 162"/>
+   </layout>
+   <text>
+      <keyword>style</keyword>
+      <keyword>venue</keyword>
+      <keyword>hotel</keyword>
+      <keyword>suit</keyword>
+   </text>
+</annotation>

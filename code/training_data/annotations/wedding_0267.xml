@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0267</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 115 115 21 21"
+               polygon_y="172 260 260 171 171 172"/>
+      <element label="text" polygon_x="21 21 115 115 21 21"
+               polygon_y="267 285 285 266 266 267"/>
+      <element label="image" polygon_x="21 21 95 96 96 121 121 121 210 210 21 21"
+               polygon_y="22 165 165 136 135 135 136 185 185 21 21 22"/>
+      <element label="image" polygon_x="121 121 210 210 121 121"
+               polygon_y="192 235 235 191 191 192"/>
+      <element label="image" polygon_x="121 121 210 210 121 121"
+               polygon_y="242 285 285 241 241 242"/>
+      <element label="text-over-image" polygon_x="141 141 205 205 141 141"
+               polygon_y="27 50 50 26 26 27"/>
+      <element label="headline-over-image" polygon_x="21 21 95 95 21 21"
+               polygon_y="127 165 165 126 126 127"/>
+   </layout>
+   <text>
+      <keyword>guest</keyword>
+      <keyword>dream</keyword>
+      <keyword>experience</keyword>
+      <keyword>heart</keyword>
+   </text>
+</annotation>

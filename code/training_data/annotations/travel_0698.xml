@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0698</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="161 161 215 215 161 161"
+               polygon_y="142 275 275 141 141 142"/>
+      <element label="text" polygon_x="161 161 215 215 161 161"
+               polygon_y="17 135 135 16 16 17"/>
+      <element label="image" polygon_x="1 1 155 155 1 1" polygon_y="2 300 300 1 1 2"/>
+   </layout>
+   <text>
+      <keyword>place</keyword>
+      <keyword>food</keyword>
+      <keyword>serve</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0333</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="116 116 205 205 116 116"
+               polygon_y="27 165 165 26 26 27"/>
+      <element label="text-over-image" polygon_x="21 21 105 105 21 21"
+               polygon_y="27 165 165 26 26 27"/>
+      <element label="text-over-image" polygon_x="11 11 40 40 11 11"
+               polygon_y="12 20 20 11 11 12"/>
+   </layout>
+   <text>
+      <keyword>place</keyword>
+      <keyword>recipe</keyword>
+      <keyword>dish</keyword>
+      <keyword>oven</keyword>
+      <keyword>sugar</keyword>
+      <keyword>food</keyword>
+      <keyword>pan</keyword>
+      <keyword>restaurant</keyword>
+      <keyword>cooking</keyword>
+      <keyword>flour</keyword>
+      <keyword>kitchen</keyword>
+      <keyword>life</keyword>
+      <keyword>family</keyword>
+      <keyword>bread</keyword>
+      <keyword>market</keyword>
+   </text>
+</annotation>

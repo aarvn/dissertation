@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0439</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="66 66 110 110 66 66" polygon_y="37 120 120 36 36 37"/>
+      <element label="text" polygon_x="66 66 110 110 66 66"
+               polygon_y="207 290 290 206 206 207"/>
+      <element label="text" polygon_x="166 166 210 210 166 166"
+               polygon_y="207 290 290 206 206 207"/>
+      <element label="text" polygon_x="116 116 160 160 116 116"
+               polygon_y="167 245 245 166 166 167"/>
+      <element label="text" polygon_x="16 16 60 60 16 16" polygon_y="72 145 145 71 71 72"/>
+      <element label="text" polygon_x="16 16 60 60 16 16" polygon_y="152 225 225 151 151 152"/>
+      <element label="text" polygon_x="66 66 110 110 66 66"
+               polygon_y="127 200 200 126 126 127"/>
+      <element label="text" polygon_x="166 166 210 210 166 166"
+               polygon_y="57 130 130 56 56 57"/>
+      <element label="text" polygon_x="116 116 160 160 116 116" polygon_y="17 85 85 16 16 17"/>
+      <element label="text" polygon_x="116 116 160 160 116 116"
+               polygon_y="92 160 160 91 91 92"/>
+      <element label="text" polygon_x="166 166 210 210 166 166"
+               polygon_y="137 200 200 136 136 137"/>
+      <element label="text" polygon_x="16 16 60 60 16 16" polygon_y="232 290 290 231 231 232"/>
+      <element label="text" polygon_x="16 16 60 60 16 16" polygon_y="17 65 65 16 16 17"/>
+      <element label="text" polygon_x="116 116 160 160 116 116"
+               polygon_y="252 290 290 251 251 252"/>
+      <element label="text" polygon_x="166 166 210 210 166 166" polygon_y="17 50 50 16 16 17"/>
+      <element label="text" polygon_x="66 66 110 110 66 66" polygon_y="17 30 30 16 16 17"/>
+   </layout>
+   <text>
+      <keyword>decade</keyword>
+      <keyword>place</keyword>
+      <keyword>art</keyword>
+      <keyword>thousand</keyword>
+   </text>
+</annotation>

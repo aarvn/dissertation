@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0102</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="76 76 125 125 76 76" polygon_y="72 280 280 71 71 72"/>
+      <element label="text" polygon_x="131 131 175 175 131 131"
+               polygon_y="107 245 245 106 106 107"/>
+      <element label="text" polygon_x="21 21 70 70 21 21" polygon_y="127 245 245 126 126 127"/>
+      <element label="text" polygon_x="21 21 70 70 21 21" polygon_y="62 120 120 61 61 62"/>
+      <element label="text" polygon_x="131 131 175 175 131 131"
+               polygon_y="57 100 100 56 56 57"/>
+      <element label="text" polygon_x="51 51 70 70 51 51" polygon_y="22 50 50 21 21 22"/>
+      <element label="text" polygon_x="106 106 125 125 106 106" polygon_y="22 50 50 21 21 22"/>
+      <element label="text" polygon_x="161 161 180 180 161 161" polygon_y="22 50 50 21 21 22"/>
+      <element label="text" polygon_x="21 21 70 70 21 21" polygon_y="252 260 260 251 251 252"/>
+      <element label="text" polygon_x="76 76 125 125 76 76" polygon_y="57 65 65 56 56 57"/>
+      <element label="text" polygon_x="191 191 205 205 191 191"
+               polygon_y="252 280 280 251 251 252"/>
+      <element label="text" polygon_x="181 181 210 210 181 181" polygon_y="7 15 15 6 6 7"/>
+      <element label="image" polygon_x="21 21 45 45 21 21" polygon_y="22 50 50 21 21 22"/>
+      <element label="image" polygon_x="76 76 100 100 76 76" polygon_y="22 50 50 21 21 22"/>
+      <element label="image" polygon_x="131 131 155 155 131 131" polygon_y="22 50 50 21 21 22"/>
+   </layout>
+   <text>
+      <keyword>top</keyword>
+      <keyword>salt</keyword>
+      <keyword>oven</keyword>
+      <keyword>sugar</keyword>
+      <keyword>bake</keyword>
+      <keyword>butter</keyword>
+      <keyword>flour</keyword>
+      <keyword>golden</keyword>
+      <keyword>fruit</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0421</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="71 71 125 125 71 71"
+               polygon_y="32 155 155 31 31 32"/>
+      <element label="text-over-image" polygon_x="11 11 65 65 11 11"
+               polygon_y="92 155 155 91 91 92"/>
+      <element label="text-over-image" polygon_x="11 11 65 65 11 11"
+               polygon_y="32 85 85 31 31 32"/>
+      <element label="text-over-image" polygon_x="186 186 210 210 186 186"
+               polygon_y="42 65 65 41 41 42"/>
+      <element label="text-over-image" polygon_x="186 186 210 210 186 186"
+               polygon_y="72 95 95 71 71 72"/>
+      <element label="text-over-image" polygon_x="186 186 210 210 186 186"
+               polygon_y="102 125 125 101 101 102"/>
+      <element label="text-over-image" polygon_x="156 156 210 210 156 156"
+               polygon_y="32 35 35 31 31 32"/>
+      <element label="text-over-image" polygon_x="186 186 210 210 186 186"
+               polygon_y="132 140 140 131 131 132"/>
+   </layout>
+   <text>
+      <keyword>stir</keyword>
+      <keyword>place</keyword>
+      <keyword>roll</keyword>
+      <keyword>fat</keyword>
+      <keyword>cupcake</keyword>
+      <keyword>thick</keyword>
+   </text>
+</annotation>

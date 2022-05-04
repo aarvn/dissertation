@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0343</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="116 116 205 205 116 116"
+               polygon_y="27 110 110 26 26 27"/>
+      <element label="text-over-image" polygon_x="116 116 205 205 116 116"
+               polygon_y="202 270 270 201 201 202"/>
+      <element label="text-over-image" polygon_x="116 116 205 205 116 116"
+               polygon_y="142 195 195 141 141 142"/>
+      <element label="text-over-image" polygon_x="21 21 105 105 21 21"
+               polygon_y="232 280 280 231 231 232"/>
+      <element label="text-over-image" polygon_x="21 21 105 105 21 21"
+               polygon_y="207 225 225 206 206 207"/>
+      <element label="text-over-image" polygon_x="116 116 205 205 116 116"
+               polygon_y="122 135 135 121 121 122"/>
+   </layout>
+   <text>
+      <keyword>salt</keyword>
+      <keyword>taste</keyword>
+      <keyword>season</keyword>
+      <keyword>oil</keyword>
+      <keyword>oven</keyword>
+      <keyword>bowl</keyword>
+      <keyword>water</keyword>
+      <keyword>pan</keyword>
+      <keyword>garlic</keyword>
+      <keyword>boil</keyword>
+      <keyword>bake</keyword>
+      <keyword>butter</keyword>
+      <keyword>golden</keyword>
+      <keyword>sauce</keyword>
+      <keyword>warm</keyword>
+      <keyword>tomato</keyword>
+      <keyword>fish</keyword>
+      <keyword>vegetable</keyword>
+      <keyword>saucepan</keyword>
+   </text>
+</annotation>

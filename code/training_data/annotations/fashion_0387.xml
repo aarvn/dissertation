@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0387</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="126 126 205 205 126 126"
+               polygon_y="207 265 265 206 206 207"/>
+      <element label="text" polygon_x="16 16 65 65 16 16" polygon_y="77 105 105 76 76 77"/>
+      <element label="text" polygon_x="16 16 65 65 16 16" polygon_y="147 170 170 146 146 147"/>
+      <element label="text" polygon_x="16 16 65 65 16 16" polygon_y="182 205 205 181 181 182"/>
+      <element label="text" polygon_x="16 16 65 65 16 16" polygon_y="112 130 130 111 111 112"/>
+      <element label="text" polygon_x="126 126 205 205 126 126"
+               polygon_y="277 285 285 276 276 277"/>
+      <element label="text" polygon_x="16 16 65 65 16 16" polygon_y="222 235 235 221 221 222"/>
+      <element label="text" polygon_x="21 21 45 45 21 21" polygon_y="262 280 280 261 261 262"/>
+      <element label="image" polygon_x="71 71 120 121 121 210 210 76 75 75 71 71"
+               polygon_y="177 295 295 196 195 195 16 16 175 176 176 177"/>
+      <element label="headline" polygon_x="16 16 65 65 16 16" polygon_y="42 65 65 41 41 42"/>
+   </layout>
+   <text>
+      <keyword>love</keyword>
+      <keyword>skin</keyword>
+      <keyword>scent</keyword>
+      <keyword>perfect</keyword>
+      <keyword>enjoy</keyword>
+      <keyword>beautiful</keyword>
+      <keyword>product</keyword>
+   </text>
+</annotation>

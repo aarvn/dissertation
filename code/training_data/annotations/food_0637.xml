@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0637</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="136 136 215 215 136 136"
+               polygon_y="67 125 125 66 66 67"/>
+      <element label="text" polygon_x="11 11 65 65 11 11" polygon_y="237 280 280 236 236 237"/>
+      <element label="text" polygon_x="71 71 120 120 71 71"
+               polygon_y="237 280 280 236 236 237"/>
+      <element label="text" polygon_x="136 136 215 215 136 136" polygon_y="47 55 55 46 46 47"/>
+      <element label="text" polygon_x="136 136 215 215 136 136"
+               polygon_y="197 205 205 196 196 197"/>
+      <element label="text" polygon_x="46 46 115 115 46 46"
+               polygon_y="222 230 230 221 221 222"/>
+      <element label="text" polygon_x="136 136 215 215 136 136"
+               polygon_y="272 275 275 271 271 272"/>
+      <element label="text" polygon_x="11 11 40 40 11 11" polygon_y="222 225 225 221 221 222"/>
+      <element label="text" polygon_x="136 136 165 165 136 136" polygon_y="37 40 40 36 36 37"/>
+      <element label="image" polygon_x="11 11 125 125 11 11" polygon_y="32 195 195 31 31 32"/>
+      <element label="image" polygon_x="136 136 215 215 136 136"
+               polygon_y="132 195 195 131 131 132"/>
+      <element label="image" polygon_x="136 136 215 215 136 136"
+               polygon_y="207 270 270 206 206 207"/>
+      <element label="image" polygon_x="31 31 95 95 31 31" polygon_y="202 215 215 201 201 202"/>
+      <element label="image" polygon_x="106 106 125 125 106 106" polygon_y="7 20 20 6 6 7"/>
+      <element label="text-over-image" polygon_x="21 21 115 115 21 21"
+               polygon_y="112 135 135 111 111 112"/>
+      <element label="text-over-image" polygon_x="21 21 65 65 21 21"
+               polygon_y="142 160 160 141 141 142"/>
+      <element label="text-over-image" polygon_x="21 21 65 65 21 21"
+               polygon_y="167 185 185 166 166 167"/>
+      <element label="text-over-image" polygon_x="71 71 115 115 71 71"
+               polygon_y="167 185 185 166 166 167"/>
+      <element label="text-over-image" polygon_x="71 71 115 115 71 71"
+               polygon_y="142 155 155 141 141 142"/>
+   </layout>
+   <text>
+      <keyword>top</keyword>
+      <keyword>taste</keyword>
+      <keyword>butter</keyword>
+      <keyword>ingredient</keyword>
+      <keyword>sauce</keyword>
+      <keyword>sweet</keyword>
+      <keyword>spice</keyword>
+      <keyword>thick</keyword>
+   </text>
+</annotation>

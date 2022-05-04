@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0672</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="131 131 215 215 131 131"
+               polygon_y="222 245 245 221 221 222"/>
+      <element label="text" polygon_x="11 11 125 125 11 11"
+               polygon_y="177 190 190 176 176 177"/>
+      <element label="text" polygon_x="161 161 215 215 161 161"
+               polygon_y="262 285 285 261 261 262"/>
+      <element label="text" polygon_x="11 11 120 120 11 11"
+               polygon_y="162 170 170 161 161 162"/>
+      <element label="text" polygon_x="131 131 215 215 131 131"
+               polygon_y="252 255 255 251 251 252"/>
+      <element label="image" polygon_x="11 11 151 151 151 215 216 216 225 225 11 11"
+               polygon_y="22 145 145 146 215 215 146 145 145 21 21 22"/>
+      <element label="image" polygon_x="11 11 125 125 11 11"
+               polygon_y="197 285 285 196 196 197"/>
+      <element label="headline" polygon_x="11 11 140 140 11 11"
+               polygon_y="152 160 160 151 151 152"/>
+   </layout>
+   <text>
+      <keyword>room</keyword>
+      <keyword>hotel</keyword>
+   </text>
+</annotation>

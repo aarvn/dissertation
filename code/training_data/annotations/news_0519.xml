@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0519</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 85 85 11 11" polygon_y="127 290 290 126 126 127"/>
+      <element label="text" polygon_x="91 91 165 165 91 91"
+               polygon_y="127 290 290 126 126 127"/>
+      <element label="text" polygon_x="171 171 205 205 171 171"
+               polygon_y="257 290 290 256 256 257"/>
+      <element label="text" polygon_x="11 11 60 60 11 11" polygon_y="82 85 85 81 81 82"/>
+      <element label="headline" polygon_x="11 11 150 150 11 11" polygon_y="22 80 80 21 21 22"/>
+   </layout>
+   <text>
+      <keyword>family</keyword>
+      <keyword>grow</keyword>
+      <keyword>young</keyword>
+      <keyword>culture</keyword>
+      <keyword>hospital</keyword>
+   </text>
+</annotation>

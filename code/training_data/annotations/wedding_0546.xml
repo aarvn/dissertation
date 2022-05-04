@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0546</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="146 146 195 195 146 146"
+               polygon_y="57 160 160 56 56 57"/>
+      <element label="text" polygon_x="26 26 200 200 26 26"
+               polygon_y="267 285 285 266 266 267"/>
+      <element label="text" polygon_x="116 116 176 176 176 200 200 116 116"
+               polygon_y="192 210 210 211 260 260 191 191 192"/>
+      <element label="text" polygon_x="26 26 81 81 81 110 110 26 26"
+               polygon_y="197 210 210 211 260 260 196 196 197"/>
+      <element label="text" polygon_x="31 31 185 185 31 31" polygon_y="42 50 50 41 41 42"/>
+      <element label="text" polygon_x="26 26 85 85 26 26" polygon_y="177 190 190 176 176 177"/>
+      <element label="text" polygon_x="116 116 165 165 116 116"
+               polygon_y="177 185 185 176 176 177"/>
+      <element label="image" polygon_x="26 26 140 140 26 26" polygon_y="57 170 170 56 56 57"/>
+      <element label="image" polygon_x="116 116 170 170 116 116"
+               polygon_y="217 260 260 216 216 217"/>
+      <element label="image" polygon_x="26 26 75 75 26 26" polygon_y="217 260 260 216 216 217"/>
+      <element label="headline" polygon_x="26 26 200 200 26 26" polygon_y="22 35 35 21 21 22"/>
+   </layout>
+   <text>
+      <keyword>wedding</keyword>
+      <keyword>place</keyword>
+      <keyword>design</keyword>
+      <keyword>host</keyword>
+      <keyword>hair</keyword>
+   </text>
+</annotation>

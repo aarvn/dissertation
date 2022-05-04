@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0479</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="212 285 285 211 211 212"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="132 200 200 131 131 132"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="62 125 125 61 61 62"/>
+      <element label="text" polygon_x="161 161 210 210 161 161"
+               polygon_y="222 275 275 221 221 222"/>
+      <element label="text" polygon_x="86 86 120 120 86 86" polygon_y="52 120 120 51 51 52"/>
+      <element label="text" polygon_x="86 86 205 205 86 86"
+               polygon_y="132 145 145 131 131 132"/>
+      <element label="image" polygon_x="86 86 210 210 86 86"
+               polygon_y="152 210 210 151 151 152"/>
+      <element label="image" polygon_x="126 126 210 210 126 126"
+               polygon_y="52 120 120 51 51 52"/>
+      <element label="image" polygon_x="86 86 155 155 86 86"
+               polygon_y="217 295 295 216 216 217"/>
+      <element label="headline" polygon_x="116 116 180 180 116 116"
+               polygon_y="32 40 40 31 31 32"/>
+   </layout>
+   <text>
+      <keyword>reason</keyword>
+      <keyword>rate</keyword>
+      <keyword>universe</keyword>
+   </text>
+</annotation>

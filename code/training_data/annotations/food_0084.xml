@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0084</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="11 11 70 70 11 11"
+               polygon_y="202 270 270 201 201 202"/>
+      <element label="text-over-image" polygon_x="16 16 70 70 16 16"
+               polygon_y="122 190 190 121 121 122"/>
+      <element label="text-over-image" polygon_x="16 16 75 75 16 16"
+               polygon_y="92 100 100 91 91 92"/>
+      <element label="text-over-image" polygon_x="166 166 210 210 166 166"
+               polygon_y="7 15 15 6 6 7"/>
+      <element label="text-over-image" polygon_x="16 16 50 50 16 16"
+               polygon_y="107 115 115 106 106 107"/>
+   </layout>
+   <text>
+      <keyword>top</keyword>
+      <keyword>salt</keyword>
+      <keyword>recipe</keyword>
+      <keyword>cool</keyword>
+      <keyword>season</keyword>
+      <keyword>oil</keyword>
+      <keyword>eat</keyword>
+      <keyword>pan</keyword>
+      <keyword>garlic</keyword>
+      <keyword>boil</keyword>
+      <keyword>ingredient</keyword>
+      <keyword>small</keyword>
+   </text>
+</annotation>

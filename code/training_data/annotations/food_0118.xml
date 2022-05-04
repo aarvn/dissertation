@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0118</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="161 161 195 195 161 161"
+               polygon_y="77 205 205 76 76 77"/>
+      <element label="text" polygon_x="26 26 115 115 71 70 70 26 26"
+               polygon_y="262 275 275 221 221 260 261 261 262"/>
+      <element label="text" polygon_x="176 176 200 200 176 176"
+               polygon_y="217 270 270 216 216 217"/>
+      <element label="text" polygon_x="71 71 205 205 71 71" polygon_y="52 60 60 51 51 52"/>
+      <element label="image" polygon_x="6 6 155 155 6 6" polygon_y="67 215 215 66 66 67"/>
+      <element label="image" polygon_x="131 131 170 170 131 131"
+               polygon_y="222 275 275 221 221 222"/>
+      <element label="image" polygon_x="26 26 65 65 26 26" polygon_y="222 255 255 221 221 222"/>
+      <element label="image" polygon_x="26 26 60 60 26 26" polygon_y="32 60 60 31 31 32"/>
+      <element label="headline" polygon_x="71 71 185 185 71 71" polygon_y="32 45 45 31 31 32"/>
+   </layout>
+   <text>
+      <keyword>heat</keyword>
+      <keyword>recipe</keyword>
+      <keyword>cool</keyword>
+      <keyword>oil</keyword>
+      <keyword>food</keyword>
+      <keyword>pan</keyword>
+      <keyword>fry</keyword>
+      <keyword>garlic</keyword>
+      <keyword>butter</keyword>
+      <keyword>ingredient</keyword>
+      <keyword>pepper</keyword>
+      <keyword>fat</keyword>
+      <keyword>book</keyword>
+      <keyword>hot</keyword>
+      <keyword>chef</keyword>
+      <keyword>coriander</keyword>
+   </text>
+</annotation>

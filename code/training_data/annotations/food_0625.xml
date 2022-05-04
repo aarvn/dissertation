@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0625</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="66 66 115 115 66 66"
+               polygon_y="162 285 285 161 161 162"/>
+      <element label="text-over-image" polygon_x="121 121 165 165 121 121"
+               polygon_y="162 230 230 161 161 162"/>
+      <element label="text-over-image" polygon_x="121 121 165 165 121 121"
+               polygon_y="237 285 285 236 236 237"/>
+      <element label="text-over-image" polygon_x="11 11 60 60 11 11"
+               polygon_y="247 285 285 246 246 247"/>
+      <element label="text-over-image" polygon_x="11 11 60 60 11 11"
+               polygon_y="212 240 240 211 211 212"/>
+      <element label="text-over-image" polygon_x="176 176 215 215 176 176"
+               polygon_y="202 235 235 201 201 202"/>
+      <element label="text-over-image" polygon_x="11 11 60 60 11 11"
+               polygon_y="182 205 205 181 181 182"/>
+      <element label="text-over-image" polygon_x="11 11 105 105 11 11"
+               polygon_y="147 155 155 146 146 147"/>
+      <element label="text-over-image" polygon_x="171 171 215 215 171 171"
+               polygon_y="177 195 195 176 176 177"/>
+      <element label="text-over-image" polygon_x="11 11 60 60 11 11"
+               polygon_y="162 175 175 161 161 162"/>
+      <element label="text-over-image" polygon_x="171 171 215 215 171 171"
+               polygon_y="162 170 170 161 161 162"/>
+   </layout>
+   <text>
+      <keyword>salt</keyword>
+      <keyword>stir</keyword>
+      <keyword>heat</keyword>
+      <keyword>cool</keyword>
+      <keyword>season</keyword>
+      <keyword>bowl</keyword>
+      <keyword>water</keyword>
+      <keyword>pan</keyword>
+      <keyword>boil</keyword>
+      <keyword>pepper</keyword>
+      <keyword>sweet</keyword>
+      <keyword>thick</keyword>
+      <keyword>dessert</keyword>
+      <keyword>honey</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0103</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="151 151 210 210 151 151"
+               polygon_y="82 240 240 81 81 82"/>
+      <element label="text" polygon_x="26 26 85 85 26 26" polygon_y="127 280 280 126 126 127"/>
+      <element label="text" polygon_x="91 91 145 145 91 91"
+               polygon_y="142 280 280 141 141 142"/>
+      <element label="text" polygon_x="151 151 210 210 151 151" polygon_y="37 75 75 36 36 37"/>
+      <element label="text" polygon_x="26 26 100 100 26 26" polygon_y="17 30 30 16 16 17"/>
+      <element label="text" polygon_x="91 91 140 140 91 91"
+               polygon_y="127 135 135 126 126 127"/>
+      <element label="image" polygon_x="26 26 145 145 26 26" polygon_y="37 120 120 36 36 37"/>
+      <element label="image" polygon_x="151 151 210 210 151 151"
+               polygon_y="247 280 280 246 246 247"/>
+   </layout>
+   <text>
+      <keyword>issue</keyword>
+      <keyword>office</keyword>
+   </text>
+</annotation>

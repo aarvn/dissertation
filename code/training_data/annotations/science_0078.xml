@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0078</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="26 26 145 145 26 26"
+               polygon_y="187 265 265 186 186 187"/>
+      <element label="text" polygon_x="156 156 210 210 156 156"
+               polygon_y="217 280 280 216 216 217"/>
+      <element label="text" polygon_x="156 156 210 210 156 156"
+               polygon_y="87 125 125 86 86 87"/>
+      <element label="text" polygon_x="156 156 210 210 156 156"
+               polygon_y="167 205 205 166 166 167"/>
+      <element label="text" polygon_x="51 51 145 145 51 51"
+               polygon_y="162 180 180 161 161 162"/>
+      <element label="text" polygon_x="161 161 205 205 161 161" polygon_y="62 80 80 61 61 62"/>
+      <element label="text" polygon_x="156 156 210 210 156 156"
+               polygon_y="147 155 155 146 146 147"/>
+      <element label="text" polygon_x="166 166 200 200 166 166"
+               polygon_y="132 140 140 131 131 132"/>
+      <element label="image" polygon_x="16 16 150 150 16 16" polygon_y="57 145 145 56 56 57"/>
+      <element label="image" polygon_x="176 176 225 225 176 176" polygon_y="2 50 50 1 1 2"/>
+      <element label="image" polygon_x="26 26 50 50 26 26" polygon_y="152 180 180 151 151 152"/>
+      <element label="headline" polygon_x="16 16 170 170 16 16" polygon_y="17 45 45 16 16 17"/>
+      <element label="text-over-image" polygon_x="16 16 55 55 16 16"
+               polygon_y="132 145 145 131 131 132"/>
+   </layout>
+   <text>
+      <keyword>scientist</keyword>
+      <keyword>project</keyword>
+      <keyword>issue</keyword>
+   </text>
+</annotation>

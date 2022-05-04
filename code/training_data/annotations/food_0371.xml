@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0371</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="126 126 200 200 126 126"
+               polygon_y="112 280 280 111 111 112"/>
+      <element label="text-over-image" polygon_x="171 171 210 210 171 171"
+               polygon_y="17 30 30 16 16 17"/>
+   </layout>
+   <text>
+      <keyword>cupcake</keyword>
+      <keyword>cake</keyword>
+   </text>
+</annotation>

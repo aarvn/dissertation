@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0264</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="137 150 150 136 136 137"/>
+      <element label="text" polygon_x="46 46 75 75 46 46" polygon_y="162 175 175 161 161 162"/>
+      <element label="text" polygon_x="21 21 40 40 21 21" polygon_y="157 175 175 156 156 157"/>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="127 130 130 126 126 127"/>
+      <element label="image"
+               polygon_x="1 1 16 16 16 40 41 41 81 81 80 80 75 75 75 56 55 55 11 11 26 26 26 45 46 46 66 66 66 81 81 81 220 220 160 160 161 161 225 225 111 110 110 100 100 100 1 1"
+               polygon_y="2 115 115 116 120 120 116 115 115 116 185 186 186 185 181 181 185 186 186 280 280 281 290 290 281 280 280 281 290 290 291 300 300 136 136 135 131 130 130 11 11 70 71 71 70 1 1 2"/>
+      <element label="text-over-image" polygon_x="176 176 220 220 176 176"
+               polygon_y="207 230 230 206 206 207"/>
+      <element label="text-over-image" polygon_x="56 56 75 75 56 56"
+               polygon_y="182 220 220 181 181 182"/>
+      <element label="text-over-image" polygon_x="136 136 165 165 136 136"
+               polygon_y="92 115 115 91 91 92"/>
+      <element label="text-over-image" polygon_x="141 141 160 160 141 141"
+               polygon_y="127 155 155 126 126 127"/>
+      <element label="text-over-image" polygon_x="171 171 190 190 171 171"
+               polygon_y="137 160 160 136 136 137"/>
+      <element label="text-over-image" polygon_x="196 196 215 215 196 196"
+               polygon_y="22 45 45 21 21 22"/>
+      <element label="text-over-image" polygon_x="6 6 35 35 6 6" polygon_y="87 95 95 86 86 87"/>
+      <element label="text-over-image" polygon_x="16 16 40 40 16 16"
+               polygon_y="37 45 45 36 36 37"/>
+      <element label="text-over-image" polygon_x="16 16 40 40 16 16"
+               polygon_y="112 120 120 111 111 112"/>
+      <element label="text-over-image" polygon_x="196 196 220 220 196 196"
+               polygon_y="192 200 200 191 191 192"/>
+      <element label="text-over-image" polygon_x="26 26 45 45 26 26"
+               polygon_y="282 290 290 281 281 282"/>
+      <element label="text-over-image" polygon_x="46 46 65 65 46 46"
+               polygon_y="17 25 25 16 16 17"/>
+      <element label="text-over-image" polygon_x="66 66 85 85 66 66"
+               polygon_y="282 290 290 281 281 282"/>
+      <element label="text-over-image" polygon_x="181 181 205 205 181 181"
+               polygon_y="287 290 290 286 286 287"/>
+   </layout>
+   <text>
+      <keyword>wear</keyword>
+      <keyword>season</keyword>
+      <keyword>fit</keyword>
+   </text>
+</annotation>

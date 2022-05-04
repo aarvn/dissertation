@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0371</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 110 110 75 75 75 11 11"
+               polygon_y="32 285 285 91 91 90 31 31 32"/>
+      <element label="text" polygon_x="116 116 215 215 116 116"
+               polygon_y="157 285 285 156 156 157"/>
+      <element label="text" polygon_x="81 81 110 110 81 81" polygon_y="32 85 85 31 31 32"/>
+      <element label="image" polygon_x="116 116 215 215 116 116"
+               polygon_y="32 150 150 31 31 32"/>
+   </layout>
+   <text>
+      <keyword>scientist</keyword>
+      <keyword>university</keyword>
+      <keyword>effect</keyword>
+      <keyword>disease</keyword>
+      <keyword>source</keyword>
+      <keyword>knowledge</keyword>
+   </text>
+</annotation>

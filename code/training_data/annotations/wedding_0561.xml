@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0561</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="132 275 275 131 131 132"/>
+      <element label="text" polygon_x="146 146 210 210 146 146"
+               polygon_y="132 275 275 131 131 132"/>
+      <element label="text" polygon_x="81 81 140 140 81 81"
+               polygon_y="132 275 275 131 131 132"/>
+      <element label="text" polygon_x="46 46 175 175 46 46"
+               polygon_y="112 125 125 111 111 112"/>
+      <element label="text" polygon_x="6 6 30 30 6 6" polygon_y="7 15 15 6 6 7"/>
+      <element label="headline" polygon_x="61 61 160 160 61 61" polygon_y="47 95 95 46 46 47"/>
+   </layout>
+   <text>
+      <keyword>guest</keyword>
+      <keyword>bride</keyword>
+      <keyword>style</keyword>
+      <keyword>venue</keyword>
+      <keyword>reception</keyword>
+      <keyword>choice</keyword>
+      <keyword>important</keyword>
+      <keyword>unique</keyword>
+      <keyword>event</keyword>
+      <keyword>book</keyword>
+      <keyword>remember</keyword>
+      <keyword>experience</keyword>
+      <keyword>service</keyword>
+      <keyword>host</keyword>
+      <keyword>color</keyword>
+      <keyword>food</keyword>
+      <keyword>location</keyword>
+      <keyword>serve</keyword>
+      <keyword>fit</keyword>
+      <keyword>opportunity</keyword>
+      <keyword>taste</keyword>
+      <keyword>theme</keyword>
+      <keyword>season</keyword>
+   </text>
+</annotation>

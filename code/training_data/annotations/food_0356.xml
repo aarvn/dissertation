@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0356</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="151 151 205 205 151 151"
+               polygon_y="107 235 235 106 106 107"/>
+      <element label="text" polygon_x="21 21 75 75 21 21" polygon_y="72 190 190 71 71 72"/>
+      <element label="text" polygon_x="21 21 75 75 21 21" polygon_y="197 280 280 196 196 197"/>
+      <element label="text" polygon_x="151 151 205 205 151 151"
+               polygon_y="27 100 100 26 26 27"/>
+      <element label="text" polygon_x="21 21 60 60 21 21" polygon_y="27 65 65 26 26 27"/>
+      <element label="text" polygon_x="151 151 170 170 151 151"
+               polygon_y="242 260 260 241 241 242"/>
+      <element label="text" polygon_x="11 11 40 40 11 11" polygon_y="12 20 20 11 11 12"/>
+      <element label="image" polygon_x="81 81 145 145 81 81"
+               polygon_y="197 280 280 196 196 197"/>
+      <element label="image" polygon_x="81 81 145 145 81 81" polygon_y="27 105 105 26 26 27"/>
+      <element label="image" polygon_x="81 81 145 145 81 81"
+               polygon_y="112 190 190 111 111 112"/>
+      <element label="image" polygon_x="176 176 205 205 176 176"
+               polygon_y="242 280 280 241 241 242"/>
+   </layout>
+   <text>
+      <keyword>dish</keyword>
+      <keyword>cheese</keyword>
+      <keyword>menu</keyword>
+      <keyword>delicious</keyword>
+      <keyword>table</keyword>
+      <keyword>plenty</keyword>
+   </text>
+</annotation>

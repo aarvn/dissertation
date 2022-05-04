@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0372</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 110 110 11 11"
+               polygon_y="102 285 285 101 101 102"/>
+      <element label="text" polygon_x="116 116 215 215 116 116"
+               polygon_y="222 285 285 221 221 222"/>
+      <element label="text" polygon_x="116 116 215 215 116 116"
+               polygon_y="192 215 215 191 191 192"/>
+      <element label="text" polygon_x="11 11 135 135 11 11" polygon_y="62 75 75 61 61 62"/>
+      <element label="text" polygon_x="11 11 110 110 11 11" polygon_y="82 95 95 81 81 82"/>
+      <element label="image" polygon_x="116 116 215 215 116 116"
+               polygon_y="82 185 185 81 81 82"/>
+      <element label="headline" polygon_x="11 11 170 170 11 11" polygon_y="32 50 50 31 31 32"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>cancer</keyword>
+      <keyword>school</keyword>
+      <keyword>report</keyword>
+      <keyword>tumor</keyword>
+      <keyword>therapy</keyword>
+   </text>
+</annotation>

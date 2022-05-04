@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0099</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 155 156 156 161 161 161 220 221 221 225 225 1 1"
+               polygon_y="2 300 300 216 215 215 216 285 285 216 215 215 1 1 2"/>
+      <element label="text-over-image" polygon_x="161 161 220 220 161 161"
+               polygon_y="147 285 285 146 146 147"/>
+      <element label="text-over-image" polygon_x="161 161 220 220 161 161"
+               polygon_y="117 140 140 116 116 117"/>
+      <element label="text-over-image" polygon_x="6 6 30 30 6 6"
+               polygon_y="187 210 210 186 186 187"/>
+      <element label="text-over-image" polygon_x="121 121 150 150 121 121"
+               polygon_y="227 240 240 226 226 227"/>
+      <element label="headline-over-image" polygon_x="161 161 215 215 161 161"
+               polygon_y="87 110 110 86 86 87"/>
+   </layout>
+   <text>
+      <keyword>friend</keyword>
+      <keyword>wedding</keyword>
+      <keyword>drink</keyword>
+   </text>
+</annotation>

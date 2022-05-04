@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0586</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="136 136 210 210 136 136"
+               polygon_y="112 285 285 111 111 112"/>
+      <element label="text" polygon_x="51 51 130 130 51 51"
+               polygon_y="192 285 285 191 191 192"/>
+      <element label="text" polygon_x="11 11 40 40 11 11" polygon_y="192 230 230 191 191 192"/>
+      <element label="image" polygon_x="11 11 130 130 11 11" polygon_y="17 185 185 16 16 17"/>
+      <element label="image" polygon_x="136 136 210 210 136 136"
+               polygon_y="17 105 105 16 16 17"/>
+      <element label="text-over-image" polygon_x="91 91 125 125 91 91"
+               polygon_y="27 55 55 26 26 27"/>
+   </layout>
+   <text>
+      <keyword>dish</keyword>
+      <keyword>eat</keyword>
+      <keyword>fry</keyword>
+      <keyword>boil</keyword>
+      <keyword>enjoy</keyword>
+      <keyword>potato</keyword>
+      <keyword>delicious</keyword>
+      <keyword>tomato</keyword>
+      <keyword>cup</keyword>
+      <keyword>plenty</keyword>
+      <keyword>meal</keyword>
+   </text>
+</annotation>

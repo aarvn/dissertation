@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0241</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="22 285 285 21 21 22"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="22 115 115 21 21 22"/>
+      <element label="text" polygon_x="81 81 145 145 81 81" polygon_y="22 105 105 21 21 22"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="112 170 170 111 111 112"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="122 170 170 121 121 122"/>
+      <element label="text" polygon_x="11 11 145 145 11 11"
+               polygon_y="272 280 280 271 271 272"/>
+      <element label="image" polygon_x="11 11 145 145 11 11"
+               polygon_y="177 260 260 176 176 177"/>
+   </layout>
+   <text>
+      <keyword>study</keyword>
+      <keyword>life</keyword>
+      <keyword>earth</keyword>
+      <keyword>decade</keyword>
+      <keyword>science</keyword>
+      <keyword>area</keyword>
+      <keyword>field</keyword>
+      <keyword>idea</keyword>
+      <keyword>experience</keyword>
+      <keyword>interest</keyword>
+      <keyword>model</keyword>
+      <keyword>develop</keyword>
+      <keyword>development</keyword>
+      <keyword>ocean</keyword>
+      <keyword>knowledge</keyword>
+      <keyword>structure</keyword>
+      <keyword>evolution</keyword>
+      <keyword>program</keyword>
+   </text>
+</annotation>

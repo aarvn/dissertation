@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0216</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="86 86 205 205 86 86"
+               polygon_y="252 285 285 251 251 252"/>
+      <element label="text" polygon_x="176 176 215 215 176 176"
+               polygon_y="177 220 220 176 176 177"/>
+      <element label="text" polygon_x="16 16 65 65 16 16" polygon_y="137 170 170 136 136 137"/>
+      <element label="text" polygon_x="26 26 200 200 26 26" polygon_y="37 45 45 36 36 37"/>
+      <element label="text" polygon_x="16 16 65 65 16 16" polygon_y="207 235 235 206 206 207"/>
+      <element label="text" polygon_x="16 16 65 65 16 16" polygon_y="242 270 270 241 241 242"/>
+      <element label="text" polygon_x="16 16 65 65 16 16" polygon_y="177 200 200 176 176 177"/>
+      <element label="text" polygon_x="111 111 190 190 111 111"
+               polygon_y="237 245 245 236 236 237"/>
+      <element label="text" polygon_x="16 16 65 65 16 16" polygon_y="277 290 290 276 276 277"/>
+      <element label="text" polygon_x="166 166 215 215 166 166" polygon_y="7 15 15 6 6 7"/>
+      <element label="image" polygon_x="1 1 176 176 176 215 216 216 225 225 1 1"
+               polygon_y="57 125 125 126 170 170 126 125 125 56 56 57"/>
+      <element label="image" polygon_x="71 71 170 170 71 71"
+               polygon_y="137 230 230 136 136 137"/>
+      <element label="headline" polygon_x="21 21 210 210 21 21" polygon_y="22 35 35 21 21 22"/>
+      <element label="text-over-image" polygon_x="176 176 215 215 176 176"
+               polygon_y="107 170 170 106 106 107"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>ring</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0065</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 65 65 41 40 40 21 21"
+               polygon_y="247 285 285 221 221 245 246 246 247"/>
+      <element label="text" polygon_x="121 121 165 165 121 121"
+               polygon_y="237 285 285 236 236 237"/>
+      <element label="text" polygon_x="71 71 115 115 71 71"
+               polygon_y="247 285 285 246 246 247"/>
+      <element label="text" polygon_x="171 171 205 205 171 171"
+               polygon_y="222 265 265 221 221 222"/>
+      <element label="text" polygon_x="71 71 115 115 71 71"
+               polygon_y="222 240 240 221 221 222"/>
+      <element label="text" polygon_x="171 171 205 205 171 171"
+               polygon_y="272 285 285 271 271 272"/>
+      <element label="text" polygon_x="121 121 150 150 121 121"
+               polygon_y="222 230 230 221 221 222"/>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 215 215 1 1 2"/>
+      <element label="image" polygon_x="21 21 35 35 21 21" polygon_y="222 240 240 221 221 222"/>
+      <element label="text-over-image" polygon_x="21 21 80 80 21 21"
+               polygon_y="37 45 45 36 36 37"/>
+      <element label="headline-over-image" polygon_x="21 21 55 55 21 21"
+               polygon_y="22 35 35 21 21 22"/>
+   </layout>
+   <text>
+      <keyword>top</keyword>
+      <keyword>salt</keyword>
+      <keyword>stir</keyword>
+      <keyword>heat</keyword>
+      <keyword>sugar</keyword>
+      <keyword>food</keyword>
+      <keyword>boil</keyword>
+      <keyword>fridge</keyword>
+      <keyword>glass</keyword>
+      <keyword>drink</keyword>
+      <keyword>meal</keyword>
+   </text>
+</annotation>

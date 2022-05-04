@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0523</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="26 26 195 195 66 65 65 26 26"
+               polygon_y="227 235 235 206 206 225 226 226 227"/>
+      <element label="image" polygon_x="21 21 105 105 21 21" polygon_y="27 110 110 26 26 27"/>
+      <element label="image" polygon_x="21 21 105 105 21 21"
+               polygon_y="117 200 200 116 116 117"/>
+      <element label="image" polygon_x="111 111 195 195 111 111"
+               polygon_y="27 110 110 26 26 27"/>
+      <element label="image" polygon_x="111 111 195 195 111 111"
+               polygon_y="117 200 200 116 116 117"/>
+      <element label="image" polygon_x="21 21 135 135 21 21"
+               polygon_y="247 275 275 246 246 247"/>
+      <element label="image" polygon_x="141 141 195 195 141 141"
+               polygon_y="247 275 275 246 246 247"/>
+      <element label="image" polygon_x="31 31 60 60 31 31" polygon_y="207 225 225 206 206 207"/>
+      <element label="text-over-image" polygon_x="61 61 105 105 61 61"
+               polygon_y="27 35 35 26 26 27"/>
+      <element label="text-over-image" polygon_x="76 76 105 105 76 76"
+               polygon_y="117 125 125 116 116 117"/>
+      <element label="text-over-image" polygon_x="111 111 135 135 111 111"
+               polygon_y="27 35 35 26 26 27"/>
+      <element label="text-over-image" polygon_x="111 111 135 135 111 111"
+               polygon_y="117 125 125 116 116 117"/>
+   </layout>
+   <text>
+      <keyword>bake</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0221</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="87 285 285 86 86 87"/>
+      <element label="text" polygon_x="86 86 145 145 135 135 135 86 86"
+               polygon_y="32 230 230 86 86 85 31 31 32"/>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="82 230 230 81 81 82"/>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="32 75 75 31 31 32"/>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="242 285 285 241 241 242"/>
+      <element label="text" polygon_x="86 86 145 145 86 86"
+               polygon_y="242 285 285 241 241 242"/>
+      <element label="text" polygon_x="141 141 215 215 141 141" polygon_y="57 75 75 56 56 57"/>
+      <element label="image" polygon_x="141 141 225 225 141 141" polygon_y="2 50 50 1 1 2"/>
+      <element label="headline" polygon_x="16 16 60 60 16 16" polygon_y="17 25 25 16 16 17"/>
+   </layout>
+   <text>
+      <keyword>study</keyword>
+      <keyword>earth</keyword>
+      <keyword>researcher</keyword>
+      <keyword>effect</keyword>
+      <keyword>area</keyword>
+      <keyword>surface</keyword>
+      <keyword>atmosphere</keyword>
+      <keyword>rate</keyword>
+      <keyword>air</keyword>
+      <keyword>temperature</keyword>
+      <keyword>ocean</keyword>
+      <keyword>warm</keyword>
+   </text>
+</annotation>

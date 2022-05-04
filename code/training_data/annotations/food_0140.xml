@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0140</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="26 26 80 80 26 26" polygon_y="42 195 195 41 41 42"/>
+      <element label="text" polygon_x="146 146 205 205 146 146"
+               polygon_y="117 195 195 116 116 117"/>
+      <element label="text" polygon_x="86 86 140 140 86 86" polygon_y="87 165 165 86 86 87"/>
+      <element label="text" polygon_x="86 86 140 140 86 86" polygon_y="32 80 80 31 31 32"/>
+      <element label="text" polygon_x="26 26 75 75 26 26" polygon_y="227 275 275 226 226 227"/>
+      <element label="text" polygon_x="86 86 140 140 86 86"
+               polygon_y="172 195 195 171 171 172"/>
+      <element label="text" polygon_x="26 26 70 70 26 26" polygon_y="212 220 220 211 211 212"/>
+      <element label="text" polygon_x="26 26 80 80 26 26" polygon_y="32 35 35 31 31 32"/>
+      <element label="text" polygon_x="11 11 35 35 11 11" polygon_y="12 20 20 11 11 12"/>
+      <element label="image" polygon_x="81 81 215 215 81 81"
+               polygon_y="207 280 280 206 206 207"/>
+      <element label="image" polygon_x="146 146 210 210 146 146"
+               polygon_y="27 105 105 26 26 27"/>
+   </layout>
+   <text>
+      <keyword>recipe</keyword>
+      <keyword>oven</keyword>
+      <keyword>eat</keyword>
+      <keyword>food</keyword>
+      <keyword>pan</keyword>
+      <keyword>cooking</keyword>
+      <keyword>delicious</keyword>
+      <keyword>kitchen</keyword>
+      <keyword>cake</keyword>
+      <keyword>family</keyword>
+      <keyword>cuisine</keyword>
+      <keyword>drink</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0311</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="91 91 175 175 91 91"
+               polygon_y="142 280 280 141 141 142"/>
+      <element label="text" polygon_x="6 6 85 85 6 6" polygon_y="72 215 215 71 71 72"/>
+      <element label="text" polygon_x="91 91 175 175 91 91" polygon_y="72 125 125 71 71 72"/>
+      <element label="text" polygon_x="181 181 210 210 181 181"
+               polygon_y="192 255 255 191 191 192"/>
+      <element label="text" polygon_x="186 186 200 200 186 186" polygon_y="77 85 85 76 76 77"/>
+      <element label="image" polygon_x="6 6 85 85 6 6" polygon_y="222 280 280 221 221 222"/>
+      <element label="image" polygon_x="186 186 210 210 186 186" polygon_y="27 70 70 26 26 27"/>
+      <element label="image" polygon_x="181 181 210 210 181 181"
+               polygon_y="167 185 185 166 166 167"/>
+      <element label="headline" polygon_x="6 6 85 85 6 6" polygon_y="47 60 60 46 46 47"/>
+   </layout>
+   <text>
+      <keyword>field</keyword>
+      <keyword>discover</keyword>
+      <keyword>experience</keyword>
+      <keyword>problem</keyword>
+      <keyword>technology</keyword>
+      <keyword>release</keyword>
+   </text>
+</annotation>

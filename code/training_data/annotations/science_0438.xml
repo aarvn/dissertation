@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0438</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="81 81 140 140 81 81"
+               polygon_y="177 280 280 176 176 177"/>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="197 280 280 196 196 197"/>
+      <element label="text" polygon_x="146 146 210 210 146 146"
+               polygon_y="177 235 235 176 176 177"/>
+      <element label="text" polygon_x="146 146 210 210 146 146"
+               polygon_y="242 280 280 241 241 242"/>
+      <element label="text" polygon_x="91 91 210 210 91 91"
+               polygon_y="152 160 160 151 151 152"/>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="177 190 190 176 176 177"/>
+      <element label="text" polygon_x="16 16 45 45 16 16" polygon_y="142 160 160 141 141 142"/>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 135 135 1 1 2"/>
+   </layout>
+   <text>
+      <keyword>water</keyword>
+      <keyword>nature</keyword>
+      <keyword>group</keyword>
+      <keyword>rock</keyword>
+      <keyword>fall</keyword>
+      <keyword>challenge</keyword>
+   </text>
+</annotation>

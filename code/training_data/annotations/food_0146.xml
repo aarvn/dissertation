@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0146</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="151 151 205 205 151 151"
+               polygon_y="217 265 265 216 216 217"/>
+      <element label="text" polygon_x="151 151 205 205 151 151"
+               polygon_y="87 130 130 86 86 87"/>
+      <element label="text" polygon_x="151 151 205 205 151 151"
+               polygon_y="172 210 210 171 171 172"/>
+      <element label="text" polygon_x="151 151 205 205 151 151"
+               polygon_y="137 165 165 136 136 137"/>
+      <element label="text" polygon_x="151 151 205 205 151 151"
+               polygon_y="272 285 285 271 271 272"/>
+      <element label="text" polygon_x="151 151 200 200 151 151" polygon_y="67 75 75 66 66 67"/>
+      <element label="image" polygon_x="1 1 145 145 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="image" polygon_x="156 156 200 200 156 156" polygon_y="12 60 60 11 11 12"/>
+      <element label="text-over-image" polygon_x="101 101 135 135 101 101"
+               polygon_y="262 280 280 261 261 262"/>
+   </layout>
+   <text>
+      <keyword>top</keyword>
+      <keyword>taste</keyword>
+      <keyword>garlic</keyword>
+      <keyword>ingredient</keyword>
+      <keyword>dress</keyword>
+      <keyword>ginger</keyword>
+   </text>
+</annotation>

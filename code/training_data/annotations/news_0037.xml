@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0037</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="6 6 50 50 6 6" polygon_y="77 215 215 76 76 77"/>
+      <element label="text" polygon_x="56 56 105 105 56 56"
+               polygon_y="157 215 215 156 156 157"/>
+      <element label="text" polygon_x="161 161 210 210 161 161"
+               polygon_y="157 215 215 156 156 157"/>
+      <element label="text" polygon_x="111 111 155 155 111 111"
+               polygon_y="157 215 215 156 156 157"/>
+      <element label="text" polygon_x="56 56 105 105 56 56"
+               polygon_y="242 280 280 241 241 242"/>
+      <element label="text" polygon_x="161 161 210 210 161 161"
+               polygon_y="242 280 280 241 241 242"/>
+      <element label="text" polygon_x="6 6 50 50 6 6" polygon_y="242 280 280 241 241 242"/>
+      <element label="text" polygon_x="111 111 155 155 111 111"
+               polygon_y="242 280 280 241 241 242"/>
+      <element label="text" polygon_x="56 56 205 205 56 56"
+               polygon_y="147 150 150 146 146 147"/>
+      <element label="text" polygon_x="6 6 50 50 6 6" polygon_y="62 70 70 61 61 62"/>
+      <element label="text" polygon_x="16 16 40 40 16 16" polygon_y="12 15 15 11 11 12"/>
+      <element label="image" polygon_x="56 56 210 210 56 56" polygon_y="62 145 145 61 61 62"/>
+      <element label="headline" polygon_x="6 6 175 175 6 6" polygon_y="32 50 50 31 31 32"/>
+   </layout>
+   <text>
+      <keyword>country</keyword>
+      <keyword>life</keyword>
+      <keyword>government</keyword>
+      <keyword>woman</keyword>
+      <keyword>sense</keyword>
+      <keyword>challenge</keyword>
+   </text>
+</annotation>

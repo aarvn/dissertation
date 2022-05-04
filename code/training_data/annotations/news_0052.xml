@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0052</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="86 86 145 145 86 86" polygon_y="82 280 280 81 81 82"/>
+      <element label="text" polygon_x="156 156 215 215 156 156"
+               polygon_y="82 255 255 81 81 82"/>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="82 230 230 81 81 82"/>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="17 70 70 16 16 17"/>
+      <element label="text" polygon_x="111 111 195 195 111 111" polygon_y="42 70 70 41 41 42"/>
+      <element label="text" polygon_x="41 41 75 75 41 41" polygon_y="257 280 280 256 256 257"/>
+      <element label="text" polygon_x="171 171 215 215 171 171"
+               polygon_y="267 280 280 266 266 267"/>
+      <element label="text" polygon_x="16 16 65 65 16 16" polygon_y="242 245 245 241 241 242"/>
+      <element label="image" polygon_x="16 16 35 35 16 16" polygon_y="252 280 280 251 251 252"/>
+      <element label="image" polygon_x="156 156 165 165 156 156"
+               polygon_y="267 280 280 266 266 267"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>man</keyword>
+      <keyword>city</keyword>
+      <keyword>fact</keyword>
+   </text>
+</annotation>

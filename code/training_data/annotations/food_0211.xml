@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0211</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 80 80 21 21" polygon_y="147 275 275 146 146 147"/>
+      <element label="text" polygon_x="86 86 145 145 86 86"
+               polygon_y="147 275 275 146 146 147"/>
+      <element label="text" polygon_x="161 161 220 220 161 161"
+               polygon_y="262 295 295 261 261 262"/>
+      <element label="text" polygon_x="166 166 215 215 166 166" polygon_y="12 35 35 11 11 12"/>
+      <element label="text" polygon_x="161 161 220 220 161 161" polygon_y="57 75 75 56 56 57"/>
+      <element label="text" polygon_x="111 111 150 150 111 111" polygon_y="12 20 20 11 11 12"/>
+      <element label="text" polygon_x="161 161 220 220 161 161" polygon_y="42 45 45 41 41 42"/>
+      <element label="image"
+               polygon_x="21 21 80 81 81 86 86 86 150 150 105 105 105 66 65 65 21 21"
+               polygon_y="42 140 140 46 45 45 46 140 140 41 41 40 31 31 40 41 41 42"/>
+      <element label="image" polygon_x="156 156 225 225 156 156"
+               polygon_y="142 200 200 141 141 142"/>
+      <element label="image" polygon_x="156 156 225 225 156 156"
+               polygon_y="82 135 135 81 81 82"/>
+      <element label="image" polygon_x="156 156 225 225 156 156"
+               polygon_y="207 255 255 206 206 207"/>
+      <element label="text-over-image" polygon_x="66 66 105 105 66 66"
+               polygon_y="32 45 45 31 31 32"/>
+      <element label="text-over-image" polygon_x="91 91 120 120 91 91"
+               polygon_y="122 140 140 121 121 122"/>
+   </layout>
+   <text>
+      <keyword>restaurant</keyword>
+      <keyword>love</keyword>
+      <keyword>life</keyword>
+      <keyword>summer</keyword>
+   </text>
+</annotation>

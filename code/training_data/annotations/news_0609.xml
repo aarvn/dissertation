@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0609</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 110 110 11 11"
+               polygon_y="162 290 290 161 161 162"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="62 205 205 61 61 62"/>
+      <element label="text" polygon_x="11 11 110 110 11 11" polygon_y="92 155 155 91 91 92"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="212 290 290 211 211 212"/>
+      <element label="text" polygon_x="121 121 140 140 121 121"
+               polygon_y="217 275 275 216 216 217"/>
+      <element label="text" polygon_x="121 121 140 140 121 121"
+               polygon_y="132 185 185 131 131 132"/>
+      <element label="text" polygon_x="121 121 140 140 121 121"
+               polygon_y="92 105 105 91 91 92"/>
+      <element label="text" polygon_x="11 11 60 60 11 11" polygon_y="17 20 20 16 16 17"/>
+      <element label="image" polygon_x="11 11 35 35 11 11" polygon_y="37 55 55 36 36 37"/>
+      <element label="image" polygon_x="121 121 140 140 121 121"
+               polygon_y="192 210 210 191 191 192"/>
+      <element label="image" polygon_x="121 121 140 140 121 121"
+               polygon_y="112 125 125 111 111 112"/>
+      <element label="headline" polygon_x="11 11 110 110 11 11" polygon_y="62 85 85 61 61 62"/>
+   </layout>
+   <text>
+      <keyword>country</keyword>
+      <keyword>talk</keyword>
+      <keyword>power</keyword>
+      <keyword>president</keyword>
+      <keyword>family</keyword>
+      <keyword>fear</keyword>
+      <keyword>issue</keyword>
+      <keyword>mind</keyword>
+      <keyword>campaign</keyword>
+      <keyword>election</keyword>
+      <keyword>question</keyword>
+      <keyword>police</keyword>
+      <keyword>speech</keyword>
+   </text>
+</annotation>

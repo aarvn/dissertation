@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0436</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 65 65 11 11" polygon_y="147 280 280 146 146 147"/>
+      <element label="text" polygon_x="11 11 55 55 11 11" polygon_y="127 140 140 126 126 127"/>
+      <element label="image" polygon_x="76 76 225 225 76 76" polygon_y="2 300 300 1 1 2"/>
+      <element label="image" polygon_x="1 1 70 70 1 1" polygon_y="7 120 120 6 6 7"/>
+      <element label="text-over-image" polygon_x="161 161 210 210 161 161"
+               polygon_y="27 120 120 26 26 27"/>
+      <element label="text-over-image" polygon_x="101 101 155 155 101 101"
+               polygon_y="52 120 120 51 51 52"/>
+      <element label="text-over-image" polygon_x="101 101 155 155 101 101"
+               polygon_y="27 45 45 26 26 27"/>
+   </layout>
+   <text>
+      <keyword>top</keyword>
+      <keyword>salt</keyword>
+      <keyword>stir</keyword>
+      <keyword>taste</keyword>
+      <keyword>dish</keyword>
+      <keyword>season</keyword>
+      <keyword>water</keyword>
+      <keyword>pan</keyword>
+      <keyword>boil</keyword>
+      <keyword>bake</keyword>
+      <keyword>pepper</keyword>
+      <keyword>cheese</keyword>
+      <keyword>golden</keyword>
+      <keyword>potato</keyword>
+      <keyword>sauce</keyword>
+      <keyword>crisp</keyword>
+      <keyword>choice</keyword>
+   </text>
+</annotation>

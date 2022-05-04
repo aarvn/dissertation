@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0020</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="26 26 75 75 26 26" polygon_y="227 285 285 226 226 227"/>
+      <element label="text" polygon_x="151 151 200 200 151 151"
+               polygon_y="127 180 180 126 126 127"/>
+      <element label="text" polygon_x="151 151 200 200 151 151"
+               polygon_y="192 235 235 191 191 192"/>
+      <element label="text" polygon_x="26 26 75 75 26 26" polygon_y="77 115 115 76 76 77"/>
+      <element label="text" polygon_x="26 26 75 75 26 26" polygon_y="142 180 180 141 141 142"/>
+      <element label="text" polygon_x="151 151 200 200 151 151"
+               polygon_y="247 285 285 246 246 247"/>
+      <element label="text" polygon_x="26 26 75 75 26 26" polygon_y="187 220 220 186 186 187"/>
+      <element label="text" polygon_x="151 151 200 200 151 151"
+               polygon_y="92 120 120 91 91 92"/>
+      <element label="text" polygon_x="86 86 140 140 86 86" polygon_y="77 100 100 76 76 77"/>
+      <element label="text" polygon_x="86 86 140 140 86 86"
+               polygon_y="152 175 175 151 151 152"/>
+      <element label="text" polygon_x="86 86 140 140 86 86"
+               polygon_y="217 235 235 216 216 217"/>
+      <element label="text" polygon_x="86 86 140 140 86 86"
+               polygon_y="242 260 260 241 241 242"/>
+      <element label="text" polygon_x="86 86 140 140 86 86"
+               polygon_y="267 285 285 266 266 267"/>
+      <element label="text" polygon_x="86 86 140 140 86 86"
+               polygon_y="197 210 210 196 196 197"/>
+      <element label="text" polygon_x="26 26 75 75 26 26" polygon_y="122 135 135 121 121 122"/>
+      <element label="text" polygon_x="86 86 140 140 86 86"
+               polygon_y="182 190 190 181 181 182"/>
+      <element label="text" polygon_x="151 151 200 200 151 151" polygon_y="77 85 85 76 76 77"/>
+      <element label="image" polygon_x="91 91 220 220 91 91" polygon_y="2 70 70 1 1 2"/>
+      <element label="image" polygon_x="6 6 85 85 6 6" polygon_y="2 70 70 1 1 2"/>
+      <element label="image" polygon_x="86 86 140 140 86 86"
+               polygon_y="107 145 145 106 106 107"/>
+   </layout>
+   <text>
+      <keyword>couple</keyword>
+      <keyword>place</keyword>
+      <keyword>visit</keyword>
+      <keyword>choice</keyword>
+      <keyword>beach</keyword>
+      <keyword>relax</keyword>
+      <keyword>drink</keyword>
+      <keyword>suit</keyword>
+      <keyword>party</keyword>
+      <keyword>restaurant</keyword>
+      <keyword>island</keyword>
+      <keyword>excite</keyword>
+   </text>
+</annotation>

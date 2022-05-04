@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0104</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="31 31 110 110 31 31" polygon_y="82 285 285 81 81 82"/>
+      <element label="text" polygon_x="116 116 195 195 116 116"
+               polygon_y="82 245 245 81 81 82"/>
+      <element label="text" polygon_x="31 31 190 190 31 31" polygon_y="32 70 70 31 31 32"/>
+      <element label="text" polygon_x="116 116 195 195 116 116"
+               polygon_y="252 265 265 251 251 252"/>
+      <element label="text" polygon_x="116 116 195 195 116 116"
+               polygon_y="272 285 285 271 271 272"/>
+   </layout>
+   <text>
+      <keyword>scientist</keyword>
+      <keyword>island</keyword>
+      <keyword>water</keyword>
+      <keyword>story</keyword>
+      <keyword>experience</keyword>
+      <keyword>south</keyword>
+      <keyword>disease</keyword>
+      <keyword>school</keyword>
+      <keyword>specie</keyword>
+      <keyword>west</keyword>
+      <keyword>air</keyword>
+      <keyword>temperature</keyword>
+      <keyword>camera</keyword>
+      <keyword>landscape</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0318</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="57 290 290 56 56 57"/>
+      <element label="text" polygon_x="81 81 145 145 81 81" polygon_y="47 170 170 46 46 47"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="182 290 290 181 181 182"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="222 290 290 221 221 222"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="142 170 170 141 141 142"/>
+      <element label="text" polygon_x="81 81 155 155 81 81" polygon_y="37 40 40 36 36 37"/>
+      <element label="text" polygon_x="11 11 65 65 11 11" polygon_y="47 50 50 46 46 47"/>
+      <element label="text" polygon_x="151 151 200 200 151 151"
+               polygon_y="212 215 215 211 211 212"/>
+      <element label="image" polygon_x="151 151 215 215 151 151"
+               polygon_y="92 135 135 91 91 92"/>
+      <element label="image" polygon_x="151 151 215 215 151 151" polygon_y="47 85 85 46 46 47"/>
+      <element label="headline" polygon_x="11 11 50 50 11 11" polygon_y="17 35 35 16 16 17"/>
+      <element label="headline" polygon_x="81 81 120 120 81 81" polygon_y="22 30 30 21 21 22"/>
+      <element label="headline" polygon_x="151 151 175 175 151 151"
+               polygon_y="182 190 190 181 181 182"/>
+   </layout>
+   <text>
+      <keyword>government</keyword>
+      <keyword>company</keyword>
+      <keyword>cost</keyword>
+      <keyword>struggle</keyword>
+      <keyword>bank</keyword>
+      <keyword>technology</keyword>
+   </text>
+</annotation>

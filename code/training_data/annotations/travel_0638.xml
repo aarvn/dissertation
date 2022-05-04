@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0638</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="86 86 145 145 86 86"
+               polygon_y="197 285 285 196 196 197"/>
+      <element label="text" polygon_x="21 21 80 80 21 21" polygon_y="72 155 155 71 71 72"/>
+      <element label="text" polygon_x="166 166 210 210 166 166"
+               polygon_y="197 285 285 196 196 197"/>
+      <element label="text" polygon_x="21 21 80 80 21 21" polygon_y="162 215 215 161 161 162"/>
+      <element label="text" polygon_x="166 166 210 210 166 166"
+               polygon_y="127 185 185 126 126 127"/>
+      <element label="text" polygon_x="46 46 125 125 46 46" polygon_y="52 60 60 51 51 52"/>
+      <element label="text" polygon_x="86 86 155 155 86 86"
+               polygon_y="182 190 190 181 181 182"/>
+      <element label="text" polygon_x="166 166 210 210 166 166"
+               polygon_y="107 120 120 106 106 107"/>
+      <element label="text" polygon_x="21 21 80 80 21 21" polygon_y="277 285 285 276 276 277"/>
+      <element label="text" polygon_x="166 166 220 220 166 166" polygon_y="2 10 10 1 1 2"/>
+      <element label="image" polygon_x="86 86 155 155 86 86" polygon_y="72 175 175 71 71 72"/>
+      <element label="image" polygon_x="166 166 210 210 166 166"
+               polygon_y="22 100 100 21 21 22"/>
+      <element label="image" polygon_x="21 21 80 80 21 21" polygon_y="222 270 270 221 221 222"/>
+      <element label="headline" polygon_x="36 36 135 135 36 36" polygon_y="17 45 45 16 16 17"/>
+   </layout>
+   <text>
+      <keyword>garden</keyword>
+      <keyword>tree</keyword>
+      <keyword>summer</keyword>
+      <keyword>plant</keyword>
+      <keyword>season</keyword>
+      <keyword>bird</keyword>
+      <keyword>field</keyword>
+      <keyword>picture</keyword>
+      <keyword>wildlife</keyword>
+   </text>
+</annotation>

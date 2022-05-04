@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0602</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="11 11 70 70 11 11"
+               polygon_y="162 240 240 161 161 162"/>
+      <element label="text-over-image" polygon_x="21 21 65 65 21 21"
+               polygon_y="87 155 155 86 86 87"/>
+      <element label="text-over-image" polygon_x="11 11 70 70 11 11"
+               polygon_y="47 80 80 46 46 47"/>
+      <element label="text-over-image" polygon_x="21 21 70 70 21 21"
+               polygon_y="247 275 275 246 246 247"/>
+      <element label="text-over-image" polygon_x="86 86 110 110 86 86"
+               polygon_y="252 275 275 251 251 252"/>
+      <element label="text-over-image" polygon_x="11 11 50 50 11 11"
+               polygon_y="32 40 40 31 31 32"/>
+   </layout>
+   <text>
+      <keyword>heat</keyword>
+      <keyword>oil</keyword>
+      <keyword>water</keyword>
+      <keyword>garlic</keyword>
+      <keyword>boil</keyword>
+      <keyword>onion</keyword>
+      <keyword>juice</keyword>
+      <keyword>tomato</keyword>
+      <keyword>ginger</keyword>
+      <keyword>spice</keyword>
+      <keyword>bread</keyword>
+      <keyword>coriander</keyword>
+   </text>
+</annotation>

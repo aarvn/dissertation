@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0122</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="186 186 225 225 186 186"
+               polygon_y="17 40 40 16 16 17"/>
+      <element label="text-over-image" polygon_x="196 196 225 225 196 196"
+               polygon_y="252 280 280 251 251 252"/>
+   </layout>
+   <text>
+      <keyword>price</keyword>
+      <keyword>makeup</keyword>
+      <keyword>dior</keyword>
+      <keyword>chanel</keyword>
+   </text>
+</annotation>

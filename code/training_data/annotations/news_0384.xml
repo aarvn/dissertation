@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0384</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="86 86 145 145 86 86" polygon_y="12 290 290 11 11 12"/>
+      <element label="text" polygon_x="151 151 210 210 151 151"
+               polygon_y="12 290 290 11 11 12"/>
+      <element label="text" polygon_x="16 16 80 80 16 16" polygon_y="47 290 290 46 46 47"/>
+      <element label="text" polygon_x="16 16 80 80 16 16" polygon_y="12 40 40 11 11 12"/>
+   </layout>
+   <text>
+      <keyword>talk</keyword>
+      <keyword>state</keyword>
+      <keyword>president</keyword>
+      <keyword>war</keyword>
+      <keyword>attack</keyword>
+      <keyword>support</keyword>
+      <keyword>question</keyword>
+   </text>
+</annotation>

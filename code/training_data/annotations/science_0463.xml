@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0463</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="76 76 116 116 115 115 76 76 200 200 76 76"
+               polygon_y="62 90 90 91 175 176 176 225 225 61 61 62"/>
+      <element label="text" polygon_x="131 131 200 200 131 131"
+               polygon_y="237 250 250 236 236 237"/>
+      <element label="text" polygon_x="36 36 70 70 36 36" polygon_y="22 30 30 21 21 22"/>
+      <element label="text" polygon_x="31 31 45 45 31 31" polygon_y="182 195 195 181 181 182"/>
+      <element label="image" polygon_x="1 1 105 105 1 1" polygon_y="97 170 170 96 96 97"/>
+      <element label="headline" polygon_x="76 76 185 185 76 76" polygon_y="47 55 55 46 46 47"/>
+   </layout>
+   <text>
+      <keyword>story</keyword>
+      <keyword>north</keyword>
+      <keyword>issue</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0071</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="186 186 210 210 186 186" polygon_y="7 15 15 6 6 7"/>
+      <element label="image" polygon_x="11 11 225 225 11 11" polygon_y="17 300 300 16 16 17"/>
+      <element label="text-over-image" polygon_x="131 131 180 180 131 131"
+               polygon_y="22 145 145 21 21 22"/>
+      <element label="text-over-image" polygon_x="76 76 95 96 96 125 125 76 76"
+               polygon_y="22 150 150 106 105 105 21 21 22"/>
+      <element label="text-over-image" polygon_x="21 21 65 65 21 21"
+               polygon_y="67 150 150 66 66 67"/>
+      <element label="text-over-image" polygon_x="186 186 205 205 186 186"
+               polygon_y="22 125 125 21 21 22"/>
+      <element label="text-over-image" polygon_x="21 21 65 65 21 21"
+               polygon_y="22 45 45 21 21 22"/>
+      <element label="text-over-image" polygon_x="21 21 65 65 21 21"
+               polygon_y="52 60 60 51 51 52"/>
+   </layout>
+   <text>
+      <keyword>top</keyword>
+      <keyword>stir</keyword>
+      <keyword>heat</keyword>
+      <keyword>taste</keyword>
+      <keyword>dish</keyword>
+      <keyword>cool</keyword>
+      <keyword>season</keyword>
+      <keyword>oven</keyword>
+      <keyword>pan</keyword>
+      <keyword>fry</keyword>
+      <keyword>garlic</keyword>
+      <keyword>butter</keyword>
+      <keyword>flour</keyword>
+      <keyword>golden</keyword>
+      <keyword>potato</keyword>
+      <keyword>fat</keyword>
+      <keyword>fridge</keyword>
+      <keyword>chilli</keyword>
+      <keyword>fresh</keyword>
+      <keyword>hot</keyword>
+      <keyword>skin</keyword>
+      <keyword>roast</keyword>
+   </text>
+</annotation>

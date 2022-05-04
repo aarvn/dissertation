@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0494</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="126 126 210 210 126 126"
+               polygon_y="57 220 220 56 56 57"/>
+      <element label="text" polygon_x="126 126 210 210 126 126" polygon_y="27 50 50 26 26 27"/>
+      <element label="text" polygon_x="171 171 210 210 171 171"
+               polygon_y="237 280 280 236 236 237"/>
+      <element label="text" polygon_x="36 36 80 80 36 36" polygon_y="232 265 265 231 231 232"/>
+      <element label="text" polygon_x="91 91 125 125 91 91"
+               polygon_y="237 280 280 236 236 237"/>
+      <element label="text" polygon_x="131 131 165 165 131 131"
+               polygon_y="237 280 280 236 236 237"/>
+      <element label="text" polygon_x="126 126 210 210 126 126"
+               polygon_y="287 295 295 286 286 287"/>
+      <element label="image" polygon_x="1 1 115 115 1 1" polygon_y="27 220 220 26 26 27"/>
+      <element label="image" polygon_x="1 1 30 30 1 1" polygon_y="232 265 265 231 231 232"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>family</keyword>
+      <keyword>summer</keyword>
+      <keyword>bedroom</keyword>
+      <keyword>fun</keyword>
+      <keyword>landscape</keyword>
+   </text>
+</annotation>

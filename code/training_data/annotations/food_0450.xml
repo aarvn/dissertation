@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0450</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="116 116 165 165 116 116"
+               polygon_y="167 225 225 166 166 167"/>
+      <element label="text" polygon_x="11 11 55 55 11 11" polygon_y="42 100 100 41 41 42"/>
+      <element label="text" polygon_x="61 61 105 105 61 61" polygon_y="42 100 100 41 41 42"/>
+      <element label="text" polygon_x="171 171 215 215 171 171"
+               polygon_y="167 225 225 166 166 167"/>
+      <element label="text" polygon_x="11 11 60 60 11 11" polygon_y="27 35 35 26 26 27"/>
+      <element label="image" polygon_x="116 116 225 225 116 116" polygon_y="2 155 155 1 1 2"/>
+      <element label="image" polygon_x="1 1 110 110 1 1" polygon_y="162 300 300 161 161 162"/>
+      <element label="image" polygon_x="11 11 60 60 11 11" polygon_y="107 155 155 106 106 107"/>
+      <element label="image" polygon_x="116 116 165 165 116 116"
+               polygon_y="232 280 280 231 231 232"/>
+      <element label="image" polygon_x="66 66 110 110 66 66"
+               polygon_y="107 155 155 106 106 107"/>
+      <element label="image" polygon_x="171 171 215 215 171 171"
+               polygon_y="232 280 280 231 231 232"/>
+   </layout>
+   <text>
+      <keyword>top</keyword>
+      <keyword>butter</keyword>
+      <keyword>ingredient</keyword>
+      <keyword>onion</keyword>
+      <keyword>cheese</keyword>
+      <keyword>hot</keyword>
+      <keyword>crisp</keyword>
+      <keyword>bread</keyword>
+   </text>
+</annotation>

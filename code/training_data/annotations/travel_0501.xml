@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0501</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="146 146 210 210 146 146"
+               polygon_y="22 190 190 21 21 22"/>
+      <element label="text" polygon_x="76 76 140 140 76 76" polygon_y="22 150 150 21 21 22"/>
+      <element label="text" polygon_x="146 146 210 210 146 146"
+               polygon_y="197 280 280 196 196 197"/>
+      <element label="text" polygon_x="6 6 70 70 6 6" polygon_y="22 100 100 21 21 22"/>
+      <element label="text" polygon_x="6 6 70 70 6 6" polygon_y="107 170 170 106 106 107"/>
+      <element label="text" polygon_x="76 76 140 140 76 76"
+               polygon_y="157 170 170 156 156 157"/>
+      <element label="image" polygon_x="71 71 140 140 71 71"
+               polygon_y="177 280 280 176 176 177"/>
+      <element label="image" polygon_x="1 1 65 65 1 1" polygon_y="177 280 280 176 176 177"/>
+      <element label="text-over-image" polygon_x="96 96 135 135 96 96"
+               polygon_y="182 195 195 181 181 182"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>house</keyword>
+      <keyword>view</keyword>
+      <keyword>family</keyword>
+      <keyword>sea</keyword>
+      <keyword>town</keyword>
+      <keyword>discover</keyword>
+      <keyword>island</keyword>
+      <keyword>serve</keyword>
+      <keyword>dog</keyword>
+      <keyword>sky</keyword>
+      <keyword>woman</keyword>
+   </text>
+</annotation>

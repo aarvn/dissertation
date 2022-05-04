@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0477</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="161 161 210 210 161 161"
+               polygon_y="127 285 285 126 126 127"/>
+      <element label="text" polygon_x="101 101 155 155 101 101"
+               polygon_y="102 225 225 101 101 102"/>
+      <element label="text" polygon_x="41 41 95 95 41 41" polygon_y="157 235 235 156 156 157"/>
+      <element label="text" polygon_x="101 101 155 155 101 101" polygon_y="27 95 95 26 26 27"/>
+      <element label="text" polygon_x="161 161 210 210 161 161"
+               polygon_y="67 120 120 66 66 67"/>
+      <element label="text" polygon_x="41 41 95 95 41 41" polygon_y="242 285 285 241 241 242"/>
+      <element label="text" polygon_x="161 161 210 210 161 161" polygon_y="27 60 60 26 26 27"/>
+      <element label="text" polygon_x="101 101 155 155 101 101"
+               polygon_y="232 255 255 231 231 232"/>
+      <element label="text" polygon_x="101 101 155 155 101 101"
+               polygon_y="262 285 285 261 261 262"/>
+      <element label="text" polygon_x="41 41 95 95 41 41" polygon_y="142 150 150 141 141 142"/>
+      <element label="image" polygon_x="11 11 95 95 11 11" polygon_y="27 135 135 26 26 27"/>
+      <element label="image" polygon_x="1 1 35 35 1 1" polygon_y="202 300 300 201 201 202"/>
+      <element label="image" polygon_x="126 126 180 180 126 126" polygon_y="2 20 20 1 1 2"/>
+   </layout>
+   <text>
+      <keyword>salt</keyword>
+      <keyword>stir</keyword>
+      <keyword>oil</keyword>
+      <keyword>eat</keyword>
+      <keyword>pan</keyword>
+      <keyword>fry</keyword>
+      <keyword>mixture</keyword>
+      <keyword>garlic</keyword>
+      <keyword>pepper</keyword>
+      <keyword>onion</keyword>
+      <keyword>salad</keyword>
+      <keyword>chilli</keyword>
+      <keyword>hot</keyword>
+      <keyword>choice</keyword>
+      <keyword>ginger</keyword>
+      <keyword>spice</keyword>
+      <keyword>chicken</keyword>
+      <keyword>bread</keyword>
+      <keyword>saucepan</keyword>
+      <keyword>meal</keyword>
+   </text>
+</annotation>

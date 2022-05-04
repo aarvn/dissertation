@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0352</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="22 215 215 21 21 22"/>
+      <element label="text" polygon_x="81 81 145 145 81 81" polygon_y="27 215 215 26 26 27"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="17 120 120 16 16 17"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="182 285 285 181 181 182"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="162 175 175 161 161 162"/>
+      <element label="image" polygon_x="81 81 215 215 81 81"
+               polygon_y="222 290 290 221 221 222"/>
+      <element label="headline" polygon_x="11 11 50 50 11 11"
+               polygon_y="132 150 150 131 131 132"/>
+   </layout>
+   <text>
+      <keyword>government</keyword>
+      <keyword>state</keyword>
+      <keyword>book</keyword>
+      <keyword>company</keyword>
+      <keyword>future</keyword>
+      <keyword>rule</keyword>
+      <keyword>thousand</keyword>
+      <keyword>fail</keyword>
+      <keyword>economy</keyword>
+      <keyword>market</keyword>
+   </text>
+</annotation>

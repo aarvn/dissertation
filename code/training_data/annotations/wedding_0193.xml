@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0193</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="126 126 160 160 126 126"
+               polygon_y="257 280 280 256 256 257"/>
+      <element label="image"
+               polygon_x="1 1 125 126 126 136 136 136 166 166 166 225 225 155 155 156 156 210 210 155 155 155 16 15 15 1 1"
+               polygon_y="117 300 300 176 175 175 176 245 245 246 300 300 101 101 100 96 95 95 41 41 40 16 16 115 116 116 117"/>
+      <element label="image" polygon_x="186 186 210 210 186 186" polygon_y="17 30 30 16 16 17"/>
+      <element label="text-over-image" polygon_x="146 146 210 210 146 146"
+               polygon_y="42 95 95 41 41 42"/>
+      <element label="text-over-image" polygon_x="26 26 75 75 26 26"
+               polygon_y="217 275 275 216 216 217"/>
+      <element label="text-over-image" polygon_x="91 91 140 140 91 91"
+               polygon_y="122 175 175 121 121 122"/>
+      <element label="text-over-image" polygon_x="186 186 210 210 186 186"
+               polygon_y="17 30 30 16 16 17"/>
+   </layout>
+   <text>
+      <keyword>store</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0618</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="177 270 270 176 176 177"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="62 120 120 61 61 62"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="177 235 235 176 176 177"/>
+      <element label="text" polygon_x="81 81 145 145 81 81" polygon_y="62 110 110 61 61 62"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="127 170 170 126 126 127"/>
+      <element label="text" polygon_x="11 11 130 130 11 11" polygon_y="37 55 55 36 36 37"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="117 145 145 116 116 117"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="242 270 270 241 241 242"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="152 170 170 151 151 152"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="277 290 290 276 276 277"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="277 290 290 276 276 277"/>
+      <element label="image" polygon_x="146 146 210 210 146 146"
+               polygon_y="62 295 295 61 61 62"/>
+   </layout>
+   <text>
+      <keyword>book</keyword>
+      <keyword>war</keyword>
+      <keyword>idea</keyword>
+      <keyword>fact</keyword>
+      <keyword>group</keyword>
+      <keyword>cost</keyword>
+      <keyword>sense</keyword>
+      <keyword>explain</keyword>
+      <keyword>important</keyword>
+   </text>
+</annotation>

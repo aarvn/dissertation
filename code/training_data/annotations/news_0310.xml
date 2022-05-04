@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0310</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 60 60 11 11" polygon_y="87 150 150 86 86 87"/>
+      <element label="text" polygon_x="11 11 60 60 11 11" polygon_y="232 290 290 231 231 232"/>
+      <element label="text" polygon_x="116 116 160 160 116 116"
+               polygon_y="127 185 185 126 126 127"/>
+      <element label="text" polygon_x="116 116 160 160 116 116"
+               polygon_y="67 120 120 66 66 67"/>
+      <element label="text" polygon_x="116 116 160 160 116 116"
+               polygon_y="192 245 245 191 191 192"/>
+      <element label="text" polygon_x="166 166 215 215 166 166"
+               polygon_y="92 135 135 91 91 92"/>
+      <element label="text" polygon_x="166 166 215 215 166 166"
+               polygon_y="147 190 190 146 146 147"/>
+      <element label="text" polygon_x="166 166 215 215 166 166"
+               polygon_y="197 240 240 196 196 197"/>
+      <element label="text" polygon_x="166 166 215 215 166 166"
+               polygon_y="252 295 295 251 251 252"/>
+      <element label="text" polygon_x="66 66 110 110 66 66" polygon_y="67 110 110 66 66 67"/>
+      <element label="text" polygon_x="66 66 110 110 66 66"
+               polygon_y="117 160 160 116 116 117"/>
+      <element label="text" polygon_x="11 11 60 60 11 11" polygon_y="187 225 225 186 186 187"/>
+      <element label="text" polygon_x="66 66 110 110 66 66"
+               polygon_y="167 205 205 166 166 167"/>
+      <element label="text" polygon_x="116 116 160 160 116 116"
+               polygon_y="252 290 290 251 251 252"/>
+      <element label="text" polygon_x="66 66 110 110 66 66" polygon_y="27 60 60 26 26 27"/>
+      <element label="text" polygon_x="116 116 160 160 116 116" polygon_y="27 60 60 26 26 27"/>
+      <element label="text" polygon_x="66 66 110 110 66 66"
+               polygon_y="262 290 290 261 261 262"/>
+      <element label="text" polygon_x="11 11 60 60 11 11" polygon_y="157 180 180 156 156 157"/>
+      <element label="text" polygon_x="166 166 215 215 166 166" polygon_y="22 40 40 21 21 22"/>
+      <element label="text" polygon_x="11 11 30 30 11 11" polygon_y="22 30 30 21 21 22"/>
+      <element label="image" polygon_x="11 11 60 60 11 11" polygon_y="37 80 80 36 36 37"/>
+      <element label="image" polygon_x="66 66 110 110 66 66"
+               polygon_y="212 255 255 211 211 212"/>
+      <element label="image" polygon_x="166 166 215 215 166 166" polygon_y="47 85 85 46 46 47"/>
+   </layout>
+   <text>
+      <keyword>country</keyword>
+      <keyword>fight</keyword>
+      <keyword>nation</keyword>
+      <keyword>meeting</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0453</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="81 81 145 145 81 81" polygon_y="17 290 290 16 16 17"/>
+      <element label="text" polygon_x="151 151 210 210 151 151"
+               polygon_y="17 290 290 16 16 17"/>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="17 180 180 16 16 17"/>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="187 290 290 186 186 187"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>decade</keyword>
+      <keyword>friend</keyword>
+      <keyword>idea</keyword>
+      <keyword>win</keyword>
+      <keyword>fact</keyword>
+      <keyword>live</keyword>
+      <keyword>group</keyword>
+      <keyword>study</keyword>
+      <keyword>sign</keyword>
+      <keyword>university</keyword>
+      <keyword>young</keyword>
+      <keyword>research</keyword>
+   </text>
+</annotation>

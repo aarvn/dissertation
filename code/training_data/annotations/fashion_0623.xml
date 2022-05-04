@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0623</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image"
+               polygon_x="1 1 31 31 31 51 51 50 50 11 11 65 66 66 105 106 106 110 110 75 75 75 1 1"
+               polygon_y="27 150 150 151 180 180 181 195 196 196 285 285 241 240 240 236 235 235 181 181 180 26 26 27"/>
+      <element label="image"
+               polygon_x="81 81 145 146 146 151 151 151 195 196 196 225 225 141 140 140 81 81"
+               polygon_y="107 175 175 121 120 120 121 170 170 121 120 120 26 26 105 106 106 107"/>
+      <element label="image" polygon_x="71 71 160 160 116 115 115 105 105 105 71 71"
+               polygon_y="247 300 300 186 186 250 251 251 250 246 246 247"/>
+      <element label="image" polygon_x="166 166 225 225 166 166"
+               polygon_y="177 285 285 176 176 177"/>
+      <element label="image" polygon_x="81 81 135 135 81 81" polygon_y="2 80 80 1 1 2"/>
+      <element label="headline" polygon_x="86 86 140 140 86 86"
+               polygon_y="87 100 100 86 86 87"/>
+      <element label="text-over-image" polygon_x="81 81 145 145 81 81"
+               polygon_y="107 175 175 106 106 107"/>
+      <element label="text-over-image" polygon_x="71 71 105 105 71 71"
+               polygon_y="247 260 260 246 246 247"/>
+      <element label="text-over-image" polygon_x="61 61 105 105 61 61"
+               polygon_y="232 240 240 231 231 232"/>
+      <element label="text-over-image" polygon_x="146 146 175 175 146 146"
+               polygon_y="27 35 35 26 26 27"/>
+      <element label="text-over-image" polygon_x="31 31 40 40 31 31"
+               polygon_y="117 125 125 116 116 117"/>
+   </layout>
+   <text>
+      <keyword>art</keyword>
+      <keyword>girl</keyword>
+      <keyword>brand</keyword>
+      <keyword>collection</keyword>
+      <keyword>celebrate</keyword>
+      <keyword>diamond</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0343</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="17 285 285 16 16 17"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="222 290 290 221 221 222"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="222 290 290 221 221 222"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="112 170 170 111 111 112"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="112 170 170 111 111 112"/>
+      <element label="text" polygon_x="11 11 135 135 11 11"
+               polygon_y="207 215 215 206 206 207"/>
+      <element label="image" polygon_x="11 11 145 145 11 11" polygon_y="17 105 105 16 16 17"/>
+      <element label="headline" polygon_x="11 11 105 105 11 11"
+               polygon_y="182 190 190 181 181 182"/>
+   </layout>
+   <text>
+      <keyword>fall</keyword>
+      <keyword>law</keyword>
+      <keyword>company</keyword>
+      <keyword>money</keyword>
+      <keyword>explain</keyword>
+   </text>
+</annotation>

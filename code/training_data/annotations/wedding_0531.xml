@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0531</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="136 136 200 200 136 136"
+               polygon_y="37 110 110 36 36 37"/>
+      <element label="text" polygon_x="136 136 205 205 136 136"
+               polygon_y="167 220 220 166 166 167"/>
+      <element label="text" polygon_x="21 21 115 115 21 21"
+               polygon_y="247 285 285 246 246 247"/>
+      <element label="text" polygon_x="26 26 120 120 26 26"
+               polygon_y="147 160 160 146 146 147"/>
+      <element label="text" polygon_x="136 136 205 205 136 136"
+               polygon_y="147 160 160 146 146 147"/>
+      <element label="text" polygon_x="136 136 195 195 136 136" polygon_y="22 30 30 21 21 22"/>
+      <element label="image" polygon_x="1 1 26 26 26 180 180 130 130 130 1 1"
+               polygon_y="2 135 135 136 140 140 116 116 115 1 1 2"/>
+      <element label="image" polygon_x="1 1 125 125 1 1" polygon_y="167 240 240 166 166 167"/>
+      <element label="image" polygon_x="136 136 205 205 136 136"
+               polygon_y="227 285 285 226 226 227"/>
+      <element label="text-over-image" polygon_x="21 21 65 65 21 21"
+               polygon_y="227 240 240 226 226 227"/>
+      <element label="headline-over-image" polygon_x="26 26 180 180 26 26"
+               polygon_y="117 140 140 116 116 117"/>
+   </layout>
+   <text>
+      <keyword>wedding</keyword>
+      <keyword>couple</keyword>
+      <keyword>enjoy</keyword>
+      <keyword>unique</keyword>
+   </text>
+</annotation>

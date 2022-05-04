@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0261</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 220 220 1 1" polygon_y="12 290 290 11 11 12"/>
+      <element label="text-over-image" polygon_x="81 81 140 140 81 81"
+               polygon_y="92 155 155 91 91 92"/>
+      <element label="text-over-image" polygon_x="21 21 75 75 21 21"
+               polygon_y="92 160 160 91 91 92"/>
+      <element label="text-over-image" polygon_x="81 81 140 140 81 81"
+               polygon_y="27 85 85 26 26 27"/>
+      <element label="text-over-image" polygon_x="21 21 75 75 21 21"
+               polygon_y="167 230 230 166 166 167"/>
+      <element label="text-over-image" polygon_x="21 21 75 75 21 21"
+               polygon_y="27 85 85 26 26 27"/>
+      <element label="text-over-image" polygon_x="81 81 140 140 81 81"
+               polygon_y="162 205 205 161 161 162"/>
+      <element label="text-over-image" polygon_x="21 21 75 75 21 21"
+               polygon_y="237 280 280 236 236 237"/>
+   </layout>
+   <text>
+      <keyword>top</keyword>
+      <keyword>salt</keyword>
+      <keyword>season</keyword>
+      <keyword>water</keyword>
+      <keyword>garlic</keyword>
+      <keyword>bake</keyword>
+      <keyword>butter</keyword>
+      <keyword>flour</keyword>
+      <keyword>pepper</keyword>
+      <keyword>golden</keyword>
+      <keyword>roll</keyword>
+      <keyword>milk</keyword>
+      <keyword>crisp</keyword>
+      <keyword>dress</keyword>
+      <keyword>skin</keyword>
+      <keyword>ginger</keyword>
+      <keyword>roast</keyword>
+      <keyword>plenty</keyword>
+   </text>
+</annotation>

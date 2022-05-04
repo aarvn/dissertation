@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0571</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="6 6 220 220 6 6" polygon_y="7 295 295 6 6 7"/>
+      <element label="text-over-image" polygon_x="126 126 210 210 126 126"
+               polygon_y="37 115 115 36 36 37"/>
+      <element label="text-over-image" polygon_x="31 31 75 75 31 31"
+               polygon_y="67 130 130 66 66 67"/>
+      <element label="text-over-image" polygon_x="31 31 115 115 31 31"
+               polygon_y="32 60 60 31 31 32"/>
+      <element label="text-over-image" polygon_x="126 126 210 210 126 126"
+               polygon_y="152 175 175 151 151 152"/>
+      <element label="text-over-image" polygon_x="81 81 115 115 81 81"
+               polygon_y="67 120 120 66 66 67"/>
+      <element label="text-over-image" polygon_x="131 131 170 170 131 131"
+               polygon_y="132 145 145 131 131 132"/>
+      <element label="text-over-image" polygon_x="176 176 210 210 176 176"
+               polygon_y="132 140 140 131 131 132"/>
+      <element label="text-over-image" polygon_x="141 141 200 200 141 141"
+               polygon_y="122 125 125 121 121 122"/>
+   </layout>
+   <text>
+      <keyword>heat</keyword>
+      <keyword>cool</keyword>
+      <keyword>oven</keyword>
+      <keyword>sugar</keyword>
+      <keyword>mixture</keyword>
+      <keyword>butter</keyword>
+      <keyword>ingredient</keyword>
+      <keyword>egg</keyword>
+      <keyword>milk</keyword>
+      <keyword>cream</keyword>
+      <keyword>thick</keyword>
+   </text>
+</annotation>

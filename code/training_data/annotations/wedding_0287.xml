@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0287</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 80 80 21 21" polygon_y="92 220 220 91 91 92"/>
+      <element label="image"
+               polygon_x="6 6 71 71 71 165 166 166 200 201 201 225 225 116 115 115 21 21 116 116 115 115 21 21 116 116 115 115 86 85 85 6 6"
+               polygon_y="227 285 285 286 300 300 286 285 285 246 245 245 1 1 30 31 31 65 65 66 70 71 71 85 85 86 90 91 91 225 226 226 227"/>
+      <element label="text-over-image" polygon_x="86 86 135 135 86 86"
+               polygon_y="92 235 235 91 91 92"/>
+      <element label="text-over-image" polygon_x="21 21 135 135 21 21"
+               polygon_y="72 85 85 71 71 72"/>
+      <element label="headline-over-image" polygon_x="21 21 135 135 21 21"
+               polygon_y="32 65 65 31 31 32"/>
+   </layout>
+   <text>
+      <keyword>love</keyword>
+      <keyword>style</keyword>
+      <keyword>dream</keyword>
+      <keyword>book</keyword>
+      <keyword>amaze</keyword>
+      <keyword>romantic</keyword>
+   </text>
+</annotation>

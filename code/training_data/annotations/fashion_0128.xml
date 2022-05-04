@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0128</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text"
+               polygon_x="151 151 161 161 161 220 220 205 205 206 206 220 220 166 165 165 151 151"
+               polygon_y="182 255 255 256 280 280 221 221 220 196 195 195 51 51 180 181 181 182"/>
+      <element label="text" polygon_x="6 6 70 70 55 55 55 6 6"
+               polygon_y="57 190 190 181 181 180 56 56 57"/>
+      <element label="text" polygon_x="81 81 135 136 136 140 140 81 81"
+               polygon_y="182 280 280 261 260 260 181 181 182"/>
+      <element label="text" polygon_x="6 6 70 70 6 6" polygon_y="197 285 285 196 196 197"/>
+      <element label="text" polygon_x="21 21 200 200 21 21" polygon_y="37 45 45 36 36 37"/>
+      <element label="text" polygon_x="76 76 145 145 76 76" polygon_y="12 15 15 11 11 12"/>
+      <element label="image" polygon_x="66 66 160 160 66 66" polygon_y="52 175 175 51 51 52"/>
+      <element label="image" polygon_x="136 136 160 160 136 136"
+               polygon_y="262 300 300 261 261 262"/>
+      <element label="image" polygon_x="206 206 225 225 206 206"
+               polygon_y="202 215 215 201 201 202"/>
+      <element label="headline" polygon_x="46 46 180 180 46 46" polygon_y="22 35 35 21 21 22"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>friend</keyword>
+      <keyword>skin</keyword>
+      <keyword>face</keyword>
+      <keyword>heart</keyword>
+      <keyword>model</keyword>
+      <keyword>man</keyword>
+      <keyword>moment</keyword>
+      <keyword>picture</keyword>
+      <keyword>kid</keyword>
+      <keyword>party</keyword>
+      <keyword>laugh</keyword>
+      <keyword>school</keyword>
+      <keyword>movie</keyword>
+   </text>
+</annotation>

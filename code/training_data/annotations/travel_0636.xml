@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0636</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 85 85 11 11" polygon_y="57 220 220 56 56 57"/>
+      <element label="text" polygon_x="11 11 85 85 11 11" polygon_y="232 260 260 231 231 232"/>
+      <element label="text" polygon_x="11 11 85 85 11 11" polygon_y="272 285 285 271 271 272"/>
+      <element label="text" polygon_x="61 61 85 85 61 61" polygon_y="22 50 50 21 21 22"/>
+      <element label="image" polygon_x="91 91 215 215 91 91" polygon_y="22 285 285 21 21 22"/>
+   </layout>
+   <text>
+      <keyword>visit</keyword>
+      <keyword>family</keyword>
+      <keyword>coast</keyword>
+      <keyword>island</keyword>
+      <keyword>air</keyword>
+      <keyword>nature</keyword>
+   </text>
+</annotation>

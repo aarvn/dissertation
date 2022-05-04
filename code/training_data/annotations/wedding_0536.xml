@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0536</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="26 26 75 75 26 26" polygon_y="247 280 280 246 246 247"/>
+      <element label="text" polygon_x="21 21 65 65 21 21" polygon_y="12 15 15 11 11 12"/>
+      <element label="image" polygon_x="1 1 225 225 81 80 80 1 1"
+               polygon_y="17 145 145 1 1 15 16 16 17"/>
+      <element label="image"
+               polygon_x="1 1 26 26 26 75 76 76 81 81 81 131 131 131 225 225 131 130 130 100 100 100 1 1"
+               polygon_y="152 225 225 226 240 240 226 225 225 226 280 280 281 300 300 151 151 165 166 166 165 151 151 152"/>
+      <element label="text-over-image" polygon_x="86 86 135 135 86 86"
+               polygon_y="87 145 145 86 86 87"/>
+      <element label="text-over-image" polygon_x="141 141 195 195 141 141"
+               polygon_y="97 145 145 96 96 97"/>
+      <element label="text-over-image" polygon_x="81 81 135 135 81 81"
+               polygon_y="237 280 280 236 236 237"/>
+      <element label="text-over-image" polygon_x="26 26 75 75 26 26"
+               polygon_y="212 240 240 211 211 212"/>
+      <element label="text-over-image" polygon_x="86 86 135 135 86 86"
+               polygon_y="57 80 80 56 56 57"/>
+   </layout>
+   <text>
+      <keyword>wedding</keyword>
+      <keyword>love</keyword>
+      <keyword>dress</keyword>
+      <keyword>food</keyword>
+      <keyword>stress</keyword>
+   </text>
+</annotation>

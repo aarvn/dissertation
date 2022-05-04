@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0432</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="26 26 115 115 26 26"
+               polygon_y="217 280 280 216 216 217"/>
+      <element label="text" polygon_x="26 26 115 115 26 26" polygon_y="27 30 30 26 26 27"/>
+      <element label="image" polygon_x="26 26 121 121 121 200 200 26 26"
+               polygon_y="47 185 185 186 240 240 46 46 47"/>
+      <element label="headline" polygon_x="26 26 75 75 26 26"
+               polygon_y="192 210 210 191 191 192"/>
+   </layout>
+   <text>
+      <keyword>state</keyword>
+      <keyword>west</keyword>
+      <keyword>sky</keyword>
+   </text>
+</annotation>

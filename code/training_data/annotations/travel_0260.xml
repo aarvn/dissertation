@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0260</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="26 26 90 90 26 26" polygon_y="162 250 250 161 161 162"/>
+      <element label="text" polygon_x="136 136 200 200 136 136"
+               polygon_y="162 250 250 161 161 162"/>
+      <element label="text" polygon_x="26 26 200 200 26 26"
+               polygon_y="272 285 285 271 271 272"/>
+      <element label="text" polygon_x="31 31 200 200 31 31"
+               polygon_y="137 150 150 136 136 137"/>
+      <element label="text" polygon_x="26 26 65 65 26 26" polygon_y="257 265 265 256 256 257"/>
+      <element label="image" polygon_x="46 46 180 180 46 46" polygon_y="22 110 110 21 21 22"/>
+      <element label="image" polygon_x="96 96 130 130 96 96"
+               polygon_y="222 250 250 221 221 222"/>
+      <element label="image" polygon_x="96 96 130 130 96 96"
+               polygon_y="162 185 185 161 161 162"/>
+      <element label="image" polygon_x="96 96 130 130 96 96"
+               polygon_y="192 215 215 191 191 192"/>
+      <element label="headline" polygon_x="56 56 170 170 56 56"
+               polygon_y="117 125 125 116 116 117"/>
+   </layout>
+   <text>
+      <keyword>space</keyword>
+      <keyword>kitchen</keyword>
+      <keyword>guest</keyword>
+      <keyword>story</keyword>
+      <keyword>shop</keyword>
+      <keyword>taste</keyword>
+   </text>
+</annotation>

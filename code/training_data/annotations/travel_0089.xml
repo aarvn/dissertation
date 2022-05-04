@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0089</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="16 16 60 60 16 16" polygon_y="162 260 260 161 161 162"/>
+      <element label="text" polygon_x="16 16 60 60 16 16" polygon_y="122 155 155 121 121 122"/>
+      <element label="text" polygon_x="66 66 110 110 66 66"
+               polygon_y="122 155 155 121 121 122"/>
+      <element label="text" polygon_x="116 116 155 155 116 116"
+               polygon_y="122 155 155 121 121 122"/>
+      <element label="text" polygon_x="161 161 205 205 161 161"
+               polygon_y="122 135 135 121 121 122"/>
+      <element label="text" polygon_x="31 31 60 60 31 31" polygon_y="267 285 285 266 266 267"/>
+      <element label="text" polygon_x="181 181 205 205 181 181"
+               polygon_y="142 155 155 141 141 142"/>
+      <element label="text" polygon_x="181 181 215 215 181 181" polygon_y="7 15 15 6 6 7"/>
+      <element label="image" polygon_x="66 66 210 210 66 66"
+               polygon_y="162 285 285 161 161 162"/>
+      <element label="image" polygon_x="16 16 210 210 16 16" polygon_y="22 105 105 21 21 22"/>
+      <element label="image" polygon_x="16 16 30 30 16 16" polygon_y="267 285 285 266 266 267"/>
+      <element label="image" polygon_x="161 161 180 180 161 161"
+               polygon_y="142 155 155 141 141 142"/>
+      <element label="headline" polygon_x="16 16 95 95 16 16"
+               polygon_y="112 115 115 111 111 112"/>
+   </layout>
+   <text>
+      <keyword>place</keyword>
+      <keyword>garden</keyword>
+      <keyword>sea</keyword>
+      <keyword>area</keyword>
+      <keyword>plant</keyword>
+      <keyword>story</keyword>
+   </text>
+</annotation>

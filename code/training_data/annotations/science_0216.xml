@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0216</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="16 16 110 110 70 70 71 71 110 110 16 16"
+               polygon_y="32 280 280 196 196 195 81 80 80 31 31 32"/>
+      <element label="text" polygon_x="116 116 161 161 160 160 116 116 210 210 116 116"
+               polygon_y="32 80 80 81 195 196 196 280 280 31 31 32"/>
+      <element label="text" polygon_x="76 76 155 155 76 76"
+               polygon_y="167 185 185 166 166 167"/>
+      <element label="text" polygon_x="61 61 165 165 61 61"
+               polygon_y="292 295 295 291 291 292"/>
+      <element label="image" polygon_x="76 76 155 155 76 76" polygon_y="87 160 160 86 86 87"/>
+      <element label="headline" polygon_x="16 16 165 165 16 16" polygon_y="17 25 25 16 16 17"/>
+   </layout>
+   <text>
+      <keyword>study</keyword>
+      <keyword>university</keyword>
+      <keyword>water</keyword>
+      <keyword>north</keyword>
+      <keyword>publish</keyword>
+   </text>
+</annotation>

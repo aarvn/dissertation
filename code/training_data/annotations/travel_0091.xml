@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0091</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 60 60 21 21" polygon_y="162 285 285 161 161 162"/>
+      <element label="text" polygon_x="116 116 136 136 135 135 116 116 160 160 116 116"
+               polygon_y="162 200 200 201 235 236 236 285 285 161 161 162"/>
+      <element label="text" polygon_x="166 166 210 210 166 166"
+               polygon_y="162 255 255 161 161 162"/>
+      <element label="text" polygon_x="66 66 110 110 66 66"
+               polygon_y="162 200 200 161 161 162"/>
+      <element label="text" polygon_x="66 66 130 130 66 66"
+               polygon_y="207 230 230 206 206 207"/>
+      <element label="text" polygon_x="66 66 110 110 66 66"
+               polygon_y="252 285 285 251 251 252"/>
+      <element label="text" polygon_x="21 21 160 160 21 21" polygon_y="47 55 55 46 46 47"/>
+      <element label="text" polygon_x="181 181 210 210 181 181"
+               polygon_y="262 285 285 261 261 262"/>
+      <element label="text" polygon_x="66 66 110 110 66 66"
+               polygon_y="237 245 245 236 236 237"/>
+      <element label="text" polygon_x="21 21 60 60 21 21" polygon_y="12 20 20 11 11 12"/>
+      <element label="image" polygon_x="21 21 210 210 21 21" polygon_y="62 155 155 61 61 62"/>
+      <element label="image" polygon_x="171 171 210 210 171 171" polygon_y="22 55 55 21 21 22"/>
+      <element label="image" polygon_x="166 166 180 180 166 166"
+               polygon_y="262 285 285 261 261 262"/>
+      <element label="headline" polygon_x="21 21 135 135 21 21" polygon_y="27 40 40 26 26 27"/>
+      <element label="text-over-image" polygon_x="146 146 210 210 146 146"
+               polygon_y="142 155 155 141 141 142"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>country</keyword>
+      <keyword>tree</keyword>
+      <keyword>discover</keyword>
+      <keyword>site</keyword>
+      <keyword>nature</keyword>
+      <keyword>valley</keyword>
+   </text>
+</annotation>

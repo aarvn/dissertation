@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0036</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="151 151 200 200 151 151"
+               polygon_y="37 165 165 36 36 37"/>
+      <element label="text" polygon_x="141 141 210 210 141 141"
+               polygon_y="182 240 240 181 181 182"/>
+      <element label="text" polygon_x="141 141 210 210 141 141"
+               polygon_y="262 285 285 261 261 262"/>
+      <element label="text" polygon_x="21 21 130 130 21 21"
+               polygon_y="102 110 110 101 101 102"/>
+      <element label="text" polygon_x="21 21 130 130 21 21"
+               polygon_y="187 195 195 186 186 187"/>
+      <element label="text" polygon_x="21 21 130 130 21 21"
+               polygon_y="277 285 285 276 276 277"/>
+      <element label="text" polygon_x="21 21 90 90 21 21" polygon_y="7 20 20 6 6 7"/>
+      <element label="text" polygon_x="151 151 195 195 151 151"
+               polygon_y="247 255 255 246 246 247"/>
+      <element label="text" polygon_x="161 161 190 190 161 161" polygon_y="22 30 30 21 21 22"/>
+      <element label="image" polygon_x="21 21 130 130 21 21" polygon_y="27 95 95 26 26 27"/>
+      <element label="image" polygon_x="21 21 130 130 21 21"
+               polygon_y="202 270 270 201 201 202"/>
+      <element label="image" polygon_x="21 21 130 130 21 21"
+               polygon_y="117 180 180 116 116 117"/>
+   </layout>
+   <text>
+      <keyword>earth</keyword>
+      <keyword>camera</keyword>
+      <keyword>product</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0339</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="116 116 200 200 116 116"
+               polygon_y="97 200 200 96 96 97"/>
+      <element label="text-over-image" polygon_x="21 21 100 100 21 21"
+               polygon_y="132 220 220 131 131 132"/>
+      <element label="text-over-image" polygon_x="21 21 80 80 21 21"
+               polygon_y="77 125 125 76 76 77"/>
+      <element label="text-over-image" polygon_x="116 116 200 200 116 116"
+               polygon_y="52 70 70 51 51 52"/>
+      <element label="text-over-image" polygon_x="21 21 100 100 21 21"
+               polygon_y="52 70 70 51 51 52"/>
+      <element label="text-over-image" polygon_x="116 116 190 190 116 116"
+               polygon_y="27 45 45 26 26 27"/>
+      <element label="text-over-image" polygon_x="21 21 90 90 21 21"
+               polygon_y="27 45 45 26 26 27"/>
+      <element label="text-over-image" polygon_x="116 116 200 200 116 116"
+               polygon_y="77 90 90 76 76 77"/>
+      <element label="text-over-image" polygon_x="26 26 70 70 26 26"
+               polygon_y="247 270 270 246 246 247"/>
+   </layout>
+   <text>
+      <keyword>top</keyword>
+      <keyword>salt</keyword>
+      <keyword>stir</keyword>
+      <keyword>heat</keyword>
+      <keyword>taste</keyword>
+      <keyword>cool</keyword>
+      <keyword>sugar</keyword>
+      <keyword>water</keyword>
+      <keyword>mixture</keyword>
+      <keyword>boil</keyword>
+      <keyword>flavour</keyword>
+      <keyword>onion</keyword>
+      <keyword>juice</keyword>
+      <keyword>fridge</keyword>
+      <keyword>delicious</keyword>
+      <keyword>fresh</keyword>
+      <keyword>vegetable</keyword>
+      <keyword>saucepan</keyword>
+      <keyword>lunch</keyword>
+   </text>
+</annotation>

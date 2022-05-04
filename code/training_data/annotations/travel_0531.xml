@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0531</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="26 26 115 115 26 26"
+               polygon_y="132 285 285 131 131 132"/>
+      <element label="text" polygon_x="121 121 205 205 121 121"
+               polygon_y="57 195 195 56 56 57"/>
+      <element label="text" polygon_x="121 121 205 205 121 121"
+               polygon_y="202 285 285 201 201 202"/>
+      <element label="text" polygon_x="26 26 115 115 26 26" polygon_y="57 125 125 56 56 57"/>
+      <element label="text" polygon_x="196 196 225 225 196 196" polygon_y="17 25 25 16 16 17"/>
+   </layout>
+   <text>
+      <keyword>food</keyword>
+   </text>
+</annotation>

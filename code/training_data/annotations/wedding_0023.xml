@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0023</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 80 80 21 21" polygon_y="17 120 120 16 16 17"/>
+      <element label="text" polygon_x="146 146 205 205 146 146"
+               polygon_y="167 245 245 166 166 167"/>
+      <element label="text" polygon_x="86 86 140 140 86 86"
+               polygon_y="232 285 285 231 231 232"/>
+      <element label="text" polygon_x="86 86 140 140 86 86"
+               polygon_y="177 225 225 176 176 177"/>
+      <element label="text" polygon_x="86 86 140 140 86 86"
+               polygon_y="132 170 170 131 131 132"/>
+      <element label="text" polygon_x="146 146 205 205 146 146"
+               polygon_y="132 160 160 131 131 132"/>
+      <element label="text" polygon_x="146 146 195 195 146 146"
+               polygon_y="252 285 285 251 251 252"/>
+      <element label="text" polygon_x="21 21 80 80 21 21" polygon_y="127 140 140 126 126 127"/>
+      <element label="image" polygon_x="86 86 205 205 86 86" polygon_y="2 125 125 1 1 2"/>
+      <element label="image" polygon_x="21 21 80 80 21 21" polygon_y="237 300 300 236 236 237"/>
+      <element label="image" polygon_x="21 21 80 80 21 21" polygon_y="187 230 230 186 186 187"/>
+      <element label="image" polygon_x="21 21 80 80 21 21" polygon_y="147 180 180 146 146 147"/>
+   </layout>
+   <text>
+      <keyword>wedding</keyword>
+      <keyword>guest</keyword>
+      <keyword>bride</keyword>
+      <keyword>place</keyword>
+      <keyword>enjoy</keyword>
+      <keyword>choice</keyword>
+      <keyword>dream</keyword>
+      <keyword>hotel</keyword>
+      <keyword>flower</keyword>
+      <keyword>book</keyword>
+      <keyword>experience</keyword>
+      <keyword>beach</keyword>
+      <keyword>relax</keyword>
+      <keyword>arrange</keyword>
+      <keyword>host</keyword>
+      <keyword>dance</keyword>
+      <keyword>party</keyword>
+      <keyword>serve</keyword>
+      <keyword>restaurant</keyword>
+      <keyword>opportunity</keyword>
+      <keyword>resort</keyword>
+      <keyword>dinner</keyword>
+      <keyword>plenty</keyword>
+      <keyword>romantic</keyword>
+      <keyword>garden</keyword>
+   </text>
+</annotation>

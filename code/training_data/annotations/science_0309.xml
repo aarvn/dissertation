@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0309</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 95 95 11 11" polygon_y="177 280 280 176 176 177"/>
+      <element label="text" polygon_x="101 101 150 150 101 101"
+               polygon_y="177 280 280 176 176 177"/>
+      <element label="text" polygon_x="166 166 210 210 166 166"
+               polygon_y="162 235 235 161 161 162"/>
+      <element label="image" polygon_x="1 1 215 215 1 1" polygon_y="2 135 135 1 1 2"/>
+      <element label="image" polygon_x="166 166 210 210 166 166"
+               polygon_y="247 275 275 246 246 247"/>
+      <element label="headline" polygon_x="11 11 140 140 11 11"
+               polygon_y="142 165 165 141 141 142"/>
+      <element label="text-over-image" polygon_x="171 171 205 205 171 171"
+               polygon_y="37 100 100 36 36 37"/>
+   </layout>
+   <text>
+      <keyword>test</keyword>
+      <keyword>project</keyword>
+      <keyword>animal</keyword>
+      <keyword>design</keyword>
+      <keyword>system</keyword>
+      <keyword>opportunity</keyword>
+   </text>
+</annotation>

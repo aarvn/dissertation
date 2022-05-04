@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0164</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="6 6 80 80 6 6" polygon_y="62 95 95 61 61 62"/>
+      <element label="text" polygon_x="6 6 80 80 6 6" polygon_y="102 135 135 101 101 102"/>
+      <element label="text" polygon_x="6 6 80 80 6 6" polygon_y="142 170 170 141 141 142"/>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="207 235 235 206 206 207"/>
+      <element label="text" polygon_x="6 6 80 80 6 6" polygon_y="262 280 280 261 261 262"/>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="177 200 200 176 176 177"/>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="242 255 255 241 241 242"/>
+      <element label="text" polygon_x="6 6 65 65 6 6" polygon_y="47 50 50 46 46 47"/>
+      <element label="text" polygon_x="91 91 140 140 91 91"
+               polygon_y="277 280 280 276 276 277"/>
+      <element label="image" polygon_x="91 91 225 225 91 91" polygon_y="62 275 275 61 61 62"/>
+      <element label="headline" polygon_x="6 6 130 130 6 6" polygon_y="27 40 40 26 26 27"/>
+   </layout>
+   <text>
+      <keyword>wedding</keyword>
+      <keyword>guest</keyword>
+      <keyword>love</keyword>
+      <keyword>couple</keyword>
+      <keyword>family</keyword>
+      <keyword>friend</keyword>
+      <keyword>moment</keyword>
+      <keyword>image</keyword>
+      <keyword>fun</keyword>
+      <keyword>host</keyword>
+      <keyword>celebrate</keyword>
+      <keyword>celebration</keyword>
+   </text>
+</annotation>

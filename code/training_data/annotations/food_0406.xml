@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0406</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="156 156 205 205 156 156"
+               polygon_y="167 245 245 166 166 167"/>
+      <element label="text-over-image" polygon_x="16 16 50 50 16 16"
+               polygon_y="187 195 195 186 186 187"/>
+   </layout>
+   <text>
+      <keyword>glass</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0470</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="101 101 155 155 101 101"
+               polygon_y="32 285 285 31 31 32"/>
+      <element label="text" polygon_x="41 41 95 95 41 41" polygon_y="72 165 165 71 71 72"/>
+      <element label="text" polygon_x="41 41 95 95 41 41" polygon_y="207 285 285 206 206 207"/>
+      <element label="text" polygon_x="161 161 215 215 161 161"
+               polygon_y="232 285 285 231 231 232"/>
+      <element label="text" polygon_x="161 161 215 215 161 161"
+               polygon_y="182 225 225 181 181 182"/>
+      <element label="text" polygon_x="41 41 95 95 41 41" polygon_y="32 65 65 31 31 32"/>
+      <element label="text" polygon_x="161 161 215 215 161 161"
+               polygon_y="142 175 175 141 141 142"/>
+      <element label="text" polygon_x="41 41 95 95 41 41" polygon_y="172 200 200 171 171 172"/>
+      <element label="text" polygon_x="161 161 215 215 161 161"
+               polygon_y="117 135 135 116 116 117"/>
+      <element label="image" polygon_x="161 161 215 215 161 161"
+               polygon_y="32 110 110 31 31 32"/>
+   </layout>
+   <text>
+      <keyword>stir</keyword>
+      <keyword>season</keyword>
+      <keyword>oven</keyword>
+      <keyword>bowl</keyword>
+      <keyword>pan</keyword>
+      <keyword>fry</keyword>
+      <keyword>mixture</keyword>
+      <keyword>boil</keyword>
+      <keyword>cheese</keyword>
+      <keyword>roll</keyword>
+      <keyword>juice</keyword>
+      <keyword>fridge</keyword>
+      <keyword>soft</keyword>
+      <keyword>sauce</keyword>
+      <keyword>warm</keyword>
+      <keyword>crisp</keyword>
+      <keyword>choice</keyword>
+   </text>
+</annotation>

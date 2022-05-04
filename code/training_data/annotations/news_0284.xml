@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0284</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="16 16 110 110 16 16"
+               polygon_y="127 290 290 126 126 127"/>
+      <element label="text" polygon_x="116 116 146 146 145 145 116 116 210 210 116 116"
+               polygon_y="32 55 55 56 125 126 126 175 175 31 31 32"/>
+      <element label="text" polygon_x="116 116 210 210 116 116"
+               polygon_y="222 295 295 221 221 222"/>
+      <element label="text" polygon_x="16 16 75 76 76 110 110 16 16"
+               polygon_y="32 95 95 56 55 55 31 31 32"/>
+      <element label="text" polygon_x="16 16 140 140 16 16"
+               polygon_y="102 115 115 101 101 102"/>
+      <element label="text" polygon_x="31 31 65 65 31 31" polygon_y="12 20 20 11 11 12"/>
+      <element label="image" polygon_x="81 81 140 140 81 81" polygon_y="62 95 95 61 61 62"/>
+      <element label="headline" polygon_x="121 121 180 180 121 121"
+               polygon_y="192 205 205 191 191 192"/>
+   </layout>
+   <text>
+      <keyword>country</keyword>
+      <keyword>government</keyword>
+      <keyword>friend</keyword>
+      <keyword>family</keyword>
+      <keyword>fear</keyword>
+      <keyword>future</keyword>
+      <keyword>job</keyword>
+      <keyword>cost</keyword>
+      <keyword>university</keyword>
+      <keyword>deal</keyword>
+      <keyword>economy</keyword>
+      <keyword>sound</keyword>
+      <keyword>top</keyword>
+      <keyword>technology</keyword>
+      <keyword>service</keyword>
+      <keyword>freedom</keyword>
+   </text>
+</annotation>

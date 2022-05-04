@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0373</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="141 141 195 195 141 141"
+               polygon_y="152 285 285 151 151 152"/>
+      <element label="image" polygon_x="1 1 135 136 136 141 141 141 195 196 196 225 225 1 1"
+               polygon_y="2 300 300 141 140 140 141 145 145 141 140 140 1 1 2"/>
+      <element label="text-over-image" polygon_x="141 141 195 195 141 141"
+               polygon_y="122 145 145 121 121 122"/>
+      <element label="text-over-image" polygon_x="96 96 130 130 96 96"
+               polygon_y="222 230 230 221 221 222"/>
+      <element label="text-over-image" polygon_x="21 21 50 50 21 21"
+               polygon_y="127 135 135 126 126 127"/>
+   </layout>
+   <text>
+      <keyword>wedding</keyword>
+      <keyword>guest</keyword>
+      <keyword>love</keyword>
+      <keyword>ceremony</keyword>
+      <keyword>dress</keyword>
+      <keyword>reception</keyword>
+      <keyword>service</keyword>
+      <keyword>bridesmaid</keyword>
+   </text>
+</annotation>

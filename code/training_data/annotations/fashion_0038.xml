@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0038</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="16 16 70 70 16 16" polygon_y="137 280 280 136 136 137"/>
+      <element label="text" polygon_x="81 81 135 135 81 81"
+               polygon_y="137 280 280 136 136 137"/>
+      <element label="text" polygon_x="151 151 205 205 151 151"
+               polygon_y="137 275 275 136 136 137"/>
+      <element label="text" polygon_x="16 16 125 125 16 16" polygon_y="92 110 110 91 91 92"/>
+      <element label="image" polygon_x="126 126 225 225 126 126" polygon_y="2 135 135 1 1 2"/>
+      <element label="headline" polygon_x="16 16 115 115 16 16" polygon_y="32 85 85 31 31 32"/>
+   </layout>
+   <text>
+      <keyword>woman</keyword>
+      <keyword>skin</keyword>
+      <keyword>face</keyword>
+      <keyword>model</keyword>
+      <keyword>moment</keyword>
+      <keyword>dior</keyword>
+   </text>
+</annotation>

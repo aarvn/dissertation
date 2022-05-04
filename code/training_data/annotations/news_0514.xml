@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0514</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="52 290 290 51 51 52"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="187 290 290 186 186 187"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="187 290 290 186 186 187"/>
+      <element label="text" polygon_x="11 11 85 85 11 11" polygon_y="22 35 35 21 21 22"/>
+      <element label="text" polygon_x="46 46 145 145 46 46"
+               polygon_y="177 180 180 176 176 177"/>
+      <element label="text" polygon_x="101 101 120 120 101 101" polygon_y="12 15 15 11 11 12"/>
+      <element label="image" polygon_x="11 11 145 145 11 11" polygon_y="77 175 175 76 76 77"/>
+      <element label="headline" polygon_x="11 11 140 140 11 11" polygon_y="57 70 70 56 56 57"/>
+   </layout>
+   <text>
+      <keyword>government</keyword>
+      <keyword>man</keyword>
+      <keyword>party</keyword>
+      <keyword>fall</keyword>
+      <keyword>death</keyword>
+   </text>
+</annotation>

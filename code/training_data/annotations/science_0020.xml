@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0020</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="62 120 120 61 61 62"/>
+      <element label="text" polygon_x="81 81 140 140 81 81" polygon_y="62 120 120 61 61 62"/>
+      <element label="text" polygon_x="146 146 205 205 146 146" polygon_y="27 80 80 26 26 27"/>
+      <element label="text" polygon_x="16 16 135 135 16 16" polygon_y="27 45 45 26 26 27"/>
+      <element label="text" polygon_x="146 146 205 205 146 146"
+               polygon_y="87 120 120 86 86 87"/>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="132 300 300 131 131 132"/>
+   </layout>
+   <text>
+      <keyword>island</keyword>
+      <keyword>water</keyword>
+   </text>
+</annotation>

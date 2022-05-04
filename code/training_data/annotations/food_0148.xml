@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0148</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="126 126 205 205 126 126"
+               polygon_y="102 135 135 101 101 102"/>
+      <element label="text" polygon_x="126 126 205 205 126 126"
+               polygon_y="142 175 175 141 141 142"/>
+      <element label="text" polygon_x="126 126 205 205 126 126"
+               polygon_y="182 200 200 181 181 182"/>
+      <element label="text" polygon_x="131 131 200 200 131 131"
+               polygon_y="257 275 275 256 256 257"/>
+      <element label="text" polygon_x="171 171 200 200 171 171"
+               polygon_y="217 245 245 216 216 217"/>
+      <element label="text" polygon_x="126 126 165 165 126 126" polygon_y="77 95 95 76 76 77"/>
+      <element label="image" polygon_x="1 1 120 121 121 205 205 31 30 30 1 1"
+               polygon_y="57 300 300 71 70 70 46 46 55 56 56 57"/>
+      <element label="image" polygon_x="126 126 165 165 126 126"
+               polygon_y="212 245 245 211 211 212"/>
+      <element label="headline" polygon_x="71 71 165 165 71 71" polygon_y="27 40 40 26 26 27"/>
+      <element label="text-over-image" polygon_x="31 31 205 205 31 31"
+               polygon_y="47 70 70 46 46 47"/>
+   </layout>
+   <text>
+      <keyword>top</keyword>
+      <keyword>stir</keyword>
+      <keyword>recipe</keyword>
+      <keyword>cool</keyword>
+      <keyword>pan</keyword>
+      <keyword>fry</keyword>
+      <keyword>bake</keyword>
+      <keyword>cooking</keyword>
+      <keyword>cheese</keyword>
+      <keyword>potato</keyword>
+      <keyword>juice</keyword>
+      <keyword>fat</keyword>
+      <keyword>soft</keyword>
+      <keyword>soften</keyword>
+      <keyword>chicken</keyword>
+   </text>
+</annotation>

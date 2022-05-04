@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0694</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="11 11 110 110 11 11"
+               polygon_y="237 290 290 236 236 237"/>
+      <element label="text-over-image" polygon_x="116 116 210 210 116 116"
+               polygon_y="252 290 290 251 251 252"/>
+      <element label="text-over-image" polygon_x="11 11 210 210 11 11"
+               polygon_y="227 230 230 226 226 227"/>
+      <element label="text-over-image" polygon_x="116 116 210 210 116 116"
+               polygon_y="237 245 245 236 236 237"/>
+      <element label="headline-over-image" polygon_x="11 11 130 130 11 11"
+               polygon_y="187 220 220 186 186 187"/>
+   </layout>
+   <text>
+      <keyword>enjoy</keyword>
+   </text>
+</annotation>

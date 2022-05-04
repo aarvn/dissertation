@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0399</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="116 116 215 215 156 155 155 116 116"
+               polygon_y="137 220 220 31 31 135 136 136 137"/>
+      <element label="text" polygon_x="11 11 110 110 11 11"
+               polygon_y="167 285 285 166 166 167"/>
+      <element label="text" polygon_x="116 116 215 215 116 116"
+               polygon_y="227 285 285 226 226 227"/>
+      <element label="text" polygon_x="11 11 110 110 11 11"
+               polygon_y="137 160 160 136 136 137"/>
+      <element label="image" polygon_x="1 1 150 150 1 1" polygon_y="22 130 130 21 21 22"/>
+   </layout>
+   <text>
+      <keyword>scientist</keyword>
+      <keyword>researcher</keyword>
+      <keyword>test</keyword>
+      <keyword>virus</keyword>
+      <keyword>design</keyword>
+      <keyword>reveal</keyword>
+      <keyword>develop</keyword>
+      <keyword>structure</keyword>
+   </text>
+</annotation>

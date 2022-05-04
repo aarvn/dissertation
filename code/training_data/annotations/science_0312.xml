@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0312</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 85 85 11 11" polygon_y="82 285 285 81 81 82"/>
+      <element label="text" polygon_x="91 91 175 175 91 91"
+               polygon_y="132 285 285 131 131 132"/>
+      <element label="text" polygon_x="91 91 175 175 91 91" polygon_y="82 125 125 81 81 82"/>
+      <element label="text" polygon_x="186 186 210 210 186 186"
+               polygon_y="187 255 255 186 186 187"/>
+      <element label="text" polygon_x="186 186 205 205 186 186" polygon_y="77 85 85 76 76 77"/>
+      <element label="image" polygon_x="186 186 210 210 186 186" polygon_y="32 70 70 31 31 32"/>
+      <element label="image" polygon_x="186 186 210 210 186 186"
+               polygon_y="152 180 180 151 151 152"/>
+      <element label="headline" polygon_x="11 11 160 160 11 11" polygon_y="47 75 75 46 46 47"/>
+   </layout>
+   <text>
+      <keyword>create</keyword>
+      <keyword>area</keyword>
+      <keyword>future</keyword>
+      <keyword>product</keyword>
+   </text>
+</annotation>

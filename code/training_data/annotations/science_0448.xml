@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0448</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="31 31 110 110 31 31" polygon_y="47 280 280 46 46 47"/>
+      <element label="text" polygon_x="131 131 195 195 131 131"
+               polygon_y="47 130 130 46 46 47"/>
+      <element label="text" polygon_x="131 131 195 195 131 131"
+               polygon_y="242 270 270 241 241 242"/>
+      <element label="image" polygon_x="131 131 195 195 131 131"
+               polygon_y="142 235 235 141 141 142"/>
+   </layout>
+   <text>
+      <keyword>science</keyword>
+      <keyword>story</keyword>
+      <keyword>interest</keyword>
+      <keyword>school</keyword>
+      <keyword>question</keyword>
+   </text>
+</annotation>

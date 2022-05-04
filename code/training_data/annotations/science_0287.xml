@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0287</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="27 285 285 26 26 27"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="222 285 285 221 221 222"/>
+      <element label="text" polygon_x="86 86 145 145 86 86"
+               polygon_y="222 260 260 221 221 222"/>
+      <element label="text" polygon_x="86 86 215 215 86 86"
+               polygon_y="202 215 215 201 201 202"/>
+      <element label="text" polygon_x="86 86 145 145 86 86"
+               polygon_y="267 285 285 266 266 267"/>
+      <element label="image" polygon_x="86 86 215 215 86 86"
+               polygon_y="112 195 195 111 111 112"/>
+      <element label="image" polygon_x="86 86 215 215 86 86" polygon_y="27 105 105 26 26 27"/>
+   </layout>
+   <text>
+      <keyword>place</keyword>
+      <keyword>patient</keyword>
+      <keyword>test</keyword>
+      <keyword>focus</keyword>
+      <keyword>cancer</keyword>
+      <keyword>reason</keyword>
+      <keyword>design</keyword>
+      <keyword>treatment</keyword>
+      <keyword>technique</keyword>
+      <keyword>camera</keyword>
+   </text>
+</annotation>

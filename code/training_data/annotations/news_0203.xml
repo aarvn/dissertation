@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0203</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="151 151 210 210 151 151"
+               polygon_y="17 290 290 16 16 17"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="62 290 290 61 61 62"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="107 190 190 106 106 107"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="242 290 290 241 241 242"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="47 55 55 46 46 47"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="227 235 235 226 226 227"/>
+      <element label="image" polygon_x="81 81 145 145 81 81" polygon_y="17 95 95 16 16 17"/>
+      <element label="headline" polygon_x="11 11 65 65 11 11" polygon_y="17 35 35 16 16 17"/>
+      <element label="headline" polygon_x="81 81 130 130 81 81"
+               polygon_y="197 205 205 196 196 197"/>
+   </layout>
+   <text>
+      <keyword>country</keyword>
+      <keyword>government</keyword>
+      <keyword>party</keyword>
+      <keyword>election</keyword>
+      <keyword>support</keyword>
+      <keyword>vote</keyword>
+      <keyword>father</keyword>
+      <keyword>parliament</keyword>
+   </text>
+</annotation>

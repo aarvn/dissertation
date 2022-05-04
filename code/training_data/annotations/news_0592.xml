@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0592</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="41 41 125 125 41 41" polygon_y="62 290 290 61 61 62"/>
+      <element label="text" polygon_x="131 131 215 215 131 131"
+               polygon_y="62 180 180 61 61 62"/>
+      <element label="text" polygon_x="131 131 215 215 131 131"
+               polygon_y="187 290 290 186 186 187"/>
+      <element label="text" polygon_x="6 6 35 35 6 6" polygon_y="62 125 125 61 61 62"/>
+      <element label="text" polygon_x="11 11 60 60 11 11" polygon_y="12 15 15 11 11 12"/>
+   </layout>
+   <text>
+      <keyword>decade</keyword>
+      <keyword>book</keyword>
+      <keyword>bad</keyword>
+      <keyword>meeting</keyword>
+   </text>
+</annotation>

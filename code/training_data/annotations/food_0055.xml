@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0055</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="151 151 205 205 151 151"
+               polygon_y="102 190 190 101 101 102"/>
+      <element label="text-over-image" polygon_x="151 151 205 205 151 151"
+               polygon_y="47 95 95 46 46 47"/>
+      <element label="text-over-image" polygon_x="16 16 70 70 16 16"
+               polygon_y="87 125 125 86 86 87"/>
+      <element label="text-over-image" polygon_x="26 26 135 135 26 26"
+               polygon_y="62 80 80 61 61 62"/>
+      <element label="text-over-image" polygon_x="81 81 135 135 81 81"
+               polygon_y="87 125 125 86 86 87"/>
+      <element label="text-over-image" polygon_x="86 86 135 135 86 86"
+               polygon_y="142 165 165 141 141 142"/>
+      <element label="text-over-image" polygon_x="151 151 205 205 151 151"
+               polygon_y="27 35 35 26 26 27"/>
+      <element label="headline-over-image" polygon_x="21 21 135 135 21 21"
+               polygon_y="22 55 55 21 21 22"/>
+   </layout>
+   <text>
+      <keyword>top</keyword>
+      <keyword>place</keyword>
+      <keyword>taste</keyword>
+      <keyword>dish</keyword>
+      <keyword>oil</keyword>
+      <keyword>water</keyword>
+      <keyword>food</keyword>
+      <keyword>pan</keyword>
+      <keyword>cheese</keyword>
+      <keyword>fridge</keyword>
+      <keyword>delicious</keyword>
+      <keyword>life</keyword>
+      <keyword>chicken</keyword>
+   </text>
+</annotation>

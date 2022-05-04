@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0111</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="116 116 155 155 116 116"
+               polygon_y="122 225 225 121 121 122"/>
+      <element label="text" polygon_x="166 166 205 205 166 166"
+               polygon_y="47 125 125 46 46 47"/>
+      <element label="text" polygon_x="166 166 205 205 166 166"
+               polygon_y="132 195 195 131 131 132"/>
+      <element label="text" polygon_x="16 16 55 55 16 16" polygon_y="107 165 165 106 106 107"/>
+      <element label="text" polygon_x="16 16 55 55 16 16" polygon_y="172 225 225 171 171 172"/>
+      <element label="text" polygon_x="16 16 55 55 16 16" polygon_y="232 280 280 231 231 232"/>
+      <element label="text" polygon_x="66 66 105 105 66 66"
+               polygon_y="232 280 280 231 231 232"/>
+      <element label="text" polygon_x="66 66 105 105 66 66"
+               polygon_y="182 225 225 181 181 182"/>
+      <element label="text" polygon_x="66 66 105 105 66 66"
+               polygon_y="137 175 175 136 136 137"/>
+      <element label="text" polygon_x="66 66 105 105 66 66"
+               polygon_y="107 130 130 106 106 107"/>
+      <element label="text" polygon_x="166 166 205 205 166 166"
+               polygon_y="202 225 225 201 201 202"/>
+      <element label="text" polygon_x="116 116 155 155 116 116"
+               polygon_y="107 115 115 106 106 107"/>
+      <element label="text" polygon_x="166 166 205 205 166 166" polygon_y="32 40 40 31 31 32"/>
+      <element label="image" polygon_x="1 1 155 155 1 1" polygon_y="2 100 100 1 1 2"/>
+      <element label="image" polygon_x="116 116 215 215 116 116"
+               polygon_y="232 295 295 231 231 232"/>
+      <element label="text-over-image" polygon_x="126 126 155 155 126 126"
+               polygon_y="12 30 30 11 11 12"/>
+      <element label="text-over-image" polygon_x="181 181 215 215 181 181"
+               polygon_y="232 245 245 231 231 232"/>
+      <element label="headline-over-image" polygon_x="21 21 145 145 21 21"
+               polygon_y="87 95 95 86 86 87"/>
+   </layout>
+   <text>
+      <keyword>area</keyword>
+      <keyword>story</keyword>
+      <keyword>south</keyword>
+      <keyword>north</keyword>
+      <keyword>top</keyword>
+      <keyword>state</keyword>
+      <keyword>challenge</keyword>
+   </text>
+</annotation>

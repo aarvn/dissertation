@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0335</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="132 185 185 131 131 132"/>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 125 125 1 1 2"/>
+      <element label="image"
+               polygon_x="11 11 75 76 76 81 81 81 120 121 121 166 166 166 215 215 151 151 176 176 175 175 170 170 170 66 65 65 60 60 61 61 75 75 11 11"
+               polygon_y="132 285 285 276 275 275 276 285 285 276 275 275 276 285 285 131 131 185 185 186 265 266 266 265 191 191 260 261 261 260 186 185 185 131 131 132"/>
+      <element label="text-over-image" polygon_x="11 11 75 75 60 60 61 61 75 75 11 11"
+               polygon_y="132 285 285 261 261 260 186 185 185 131 131 132"/>
+      <element label="text-over-image"
+               polygon_x="151 151 176 176 175 175 166 166 215 215 151 151"
+               polygon_y="132 185 185 186 265 266 266 285 285 131 131 132"/>
+      <element label="text-over-image" polygon_x="81 81 120 120 81 81"
+               polygon_y="262 285 285 261 261 262"/>
+      <element label="headline-over-image" polygon_x="11 11 205 205 11 11"
+               polygon_y="97 125 125 96 96 97"/>
+   </layout>
+   <text>
+      <keyword>earth</keyword>
+      <keyword>university</keyword>
+      <keyword>science</keyword>
+      <keyword>launch</keyword>
+      <keyword>group</keyword>
+      <keyword>problem</keyword>
+      <keyword>space</keyword>
+      <keyword>challenge</keyword>
+      <keyword>universe</keyword>
+   </text>
+</annotation>

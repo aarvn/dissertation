@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0359</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="146 146 205 205 146 146"
+               polygon_y="67 280 280 66 66 67"/>
+      <element label="text" polygon_x="146 146 195 195 146 146" polygon_y="27 50 50 26 26 27"/>
+      <element label="text" polygon_x="11 11 45 45 11 11" polygon_y="12 20 20 11 11 12"/>
+      <element label="image" polygon_x="11 11 140 140 11 11" polygon_y="22 110 110 21 21 22"/>
+      <element label="image" polygon_x="11 11 140 140 11 11"
+               polygon_y="197 280 280 196 196 197"/>
+      <element label="image" polygon_x="11 11 140 140 11 11"
+               polygon_y="117 190 190 116 116 117"/>
+   </layout>
+   <text>
+      <keyword>water</keyword>
+      <keyword>fish</keyword>
+      <keyword>family</keyword>
+      <keyword>summer</keyword>
+      <keyword>meal</keyword>
+   </text>
+</annotation>

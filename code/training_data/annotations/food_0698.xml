@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0698</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="16 16 160 160 16 16"
+               polygon_y="237 260 260 236 236 237"/>
+      <element label="text-over-image" polygon_x="171 171 210 210 171 171"
+               polygon_y="112 185 185 111 111 112"/>
+      <element label="text-over-image" polygon_x="146 146 210 210 146 146"
+               polygon_y="87 105 105 86 86 87"/>
+      <element label="text-over-image" polygon_x="21 21 75 75 21 21"
+               polygon_y="22 40 40 21 21 22"/>
+      <element label="text-over-image" polygon_x="51 51 160 160 51 51"
+               polygon_y="267 270 270 266 266 267"/>
+      <element label="text-over-image" polygon_x="26 26 70 70 26 26"
+               polygon_y="52 60 60 51 51 52"/>
+   </layout>
+   <text>
+      <keyword>taste</keyword>
+      <keyword>quality</keyword>
+   </text>
+</annotation>

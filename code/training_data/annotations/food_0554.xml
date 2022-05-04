@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0554</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="21 21 105 105 21 21"
+               polygon_y="122 205 205 121 121 122"/>
+      <element label="text-over-image" polygon_x="121 121 205 205 121 121"
+               polygon_y="122 180 180 121 121 122"/>
+      <element label="text-over-image" polygon_x="26 26 65 65 26 26"
+               polygon_y="57 115 115 56 56 57"/>
+      <element label="text-over-image" polygon_x="26 26 100 100 26 26"
+               polygon_y="212 240 240 211 211 212"/>
+      <element label="text-over-image" polygon_x="126 126 165 165 126 126"
+               polygon_y="62 115 115 61 61 62"/>
+      <element label="text-over-image" polygon_x="21 21 105 105 21 21"
+               polygon_y="27 50 50 26 26 27"/>
+      <element label="text-over-image" polygon_x="71 71 100 100 71 71"
+               polygon_y="57 115 115 56 56 57"/>
+      <element label="text-over-image" polygon_x="171 171 200 200 171 171"
+               polygon_y="62 115 115 61 61 62"/>
+      <element label="text-over-image" polygon_x="121 121 205 205 121 121"
+               polygon_y="42 55 55 41 41 42"/>
+      <element label="text-over-image" polygon_x="126 126 200 200 126 126"
+               polygon_y="27 35 35 26 26 27"/>
+      <element label="text-over-image" polygon_x="126 126 200 200 126 126"
+               polygon_y="187 195 195 186 186 187"/>
+   </layout>
+   <text>
+      <keyword>top</keyword>
+      <keyword>salt</keyword>
+      <keyword>place</keyword>
+      <keyword>season</keyword>
+      <keyword>oil</keyword>
+      <keyword>oven</keyword>
+      <keyword>bowl</keyword>
+      <keyword>water</keyword>
+      <keyword>garlic</keyword>
+      <keyword>boil</keyword>
+      <keyword>ingredient</keyword>
+      <keyword>egg</keyword>
+      <keyword>pepper</keyword>
+      <keyword>salad</keyword>
+      <keyword>meat</keyword>
+      <keyword>delicious</keyword>
+      <keyword>sauce</keyword>
+      <keyword>fish</keyword>
+      <keyword>family</keyword>
+      <keyword>dress</keyword>
+      <keyword>spice</keyword>
+      <keyword>thick</keyword>
+      <keyword>vegetable</keyword>
+      <keyword>lunch</keyword>
+   </text>
+</annotation>

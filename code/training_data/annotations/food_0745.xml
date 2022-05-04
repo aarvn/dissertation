@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0745</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 180 181 181 205 205 180 180 180 1 1"
+               polygon_y="2 300 300 201 200 200 31 31 30 1 1 2"/>
+      <element label="text-over-image" polygon_x="156 156 205 205 156 156"
+               polygon_y="32 200 200 31 31 32"/>
+      <element label="text-over-image" polygon_x="101 101 150 150 101 101"
+               polygon_y="82 200 200 81 81 82"/>
+      <element label="text-over-image" polygon_x="46 46 95 95 46 46"
+               polygon_y="32 140 140 31 31 32"/>
+      <element label="text-over-image" polygon_x="51 51 110 110 51 51"
+               polygon_y="217 275 275 216 216 217"/>
+      <element label="text-over-image" polygon_x="101 101 150 150 101 101"
+               polygon_y="32 75 75 31 31 32"/>
+   </layout>
+   <text>
+      <keyword>love</keyword>
+      <keyword>book</keyword>
+      <keyword>life</keyword>
+      <keyword>free</keyword>
+   </text>
+</annotation>

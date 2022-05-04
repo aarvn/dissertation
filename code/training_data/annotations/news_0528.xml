@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0528</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="136 136 215 215 136 136"
+               polygon_y="37 235 235 36 36 37"/>
+      <element label="text" polygon_x="16 16 95 95 16 16" polygon_y="37 165 165 36 36 37"/>
+      <element label="text" polygon_x="16 16 95 95 16 16" polygon_y="172 290 290 171 171 172"/>
+      <element label="text" polygon_x="136 136 215 215 136 136"
+               polygon_y="242 290 290 241 241 242"/>
+      <element label="text" polygon_x="101 101 130 130 101 101"
+               polygon_y="112 135 135 111 111 112"/>
+      <element label="text" polygon_x="101 101 130 130 101 101"
+               polygon_y="172 195 195 171 171 172"/>
+      <element label="text" polygon_x="101 101 130 130 101 101"
+               polygon_y="237 255 255 236 236 237"/>
+      <element label="text" polygon_x="101 101 130 130 101 101" polygon_y="62 75 75 61 61 62"/>
+      <element label="image" polygon_x="101 101 130 130 101 101"
+               polygon_y="82 110 110 81 81 82"/>
+      <element label="image" polygon_x="101 101 130 130 101 101"
+               polygon_y="142 170 170 141 141 142"/>
+      <element label="image" polygon_x="101 101 130 130 101 101"
+               polygon_y="207 235 235 206 206 207"/>
+   </layout>
+   <text>
+      <keyword>woman</keyword>
+      <keyword>grow</keyword>
+      <keyword>support</keyword>
+      <keyword>bank</keyword>
+      <keyword>deal</keyword>
+      <keyword>history</keyword>
+   </text>
+</annotation>

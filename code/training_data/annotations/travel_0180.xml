@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0180</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="66 66 110 110 66 66"
+               polygon_y="157 285 285 156 156 157"/>
+      <element label="text" polygon_x="21 21 60 60 21 21" polygon_y="157 285 285 156 156 157"/>
+      <element label="text" polygon_x="116 116 160 160 116 116"
+               polygon_y="157 260 260 156 156 157"/>
+      <element label="text" polygon_x="166 166 210 210 166 166"
+               polygon_y="227 285 285 226 226 227"/>
+      <element label="text" polygon_x="21 21 195 195 21 21" polygon_y="47 55 55 46 46 47"/>
+      <element label="text" polygon_x="166 166 210 210 166 166"
+               polygon_y="157 190 190 156 156 157"/>
+      <element label="text" polygon_x="131 131 160 160 131 131"
+               polygon_y="267 285 285 266 266 267"/>
+      <element label="text" polygon_x="21 21 105 105 21 21" polygon_y="22 25 25 21 21 22"/>
+      <element label="text" polygon_x="181 181 215 215 181 181" polygon_y="7 15 15 6 6 7"/>
+      <element label="image" polygon_x="21 21 210 210 21 21" polygon_y="62 150 150 61 61 62"/>
+      <element label="image" polygon_x="166 166 210 210 166 166"
+               polygon_y="197 220 220 196 196 197"/>
+      <element label="image" polygon_x="116 116 130 130 116 116"
+               polygon_y="267 285 285 266 266 267"/>
+      <element label="headline" polygon_x="21 21 110 110 21 21" polygon_y="32 40 40 31 31 32"/>
+      <element label="text-over-image" polygon_x="161 161 210 210 161 161"
+               polygon_y="62 75 75 61 61 62"/>
+   </layout>
+   <text>
+      <keyword>sea</keyword>
+      <keyword>summer</keyword>
+      <keyword>travel</keyword>
+      <keyword>wildlife</keyword>
+      <keyword>young</keyword>
+   </text>
+</annotation>

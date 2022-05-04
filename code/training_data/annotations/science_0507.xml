@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0507</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="102 285 285 101 101 102"/>
+      <element label="text" polygon_x="151 151 220 220 151 151"
+               polygon_y="187 285 285 186 186 187"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="187 285 285 186 186 187"/>
+      <element label="text" polygon_x="81 81 220 220 81 81"
+               polygon_y="157 175 175 156 156 157"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="62 95 95 61 61 62"/>
+      <element label="text" polygon_x="11 11 65 65 11 11" polygon_y="12 15 15 11 11 12"/>
+      <element label="image" polygon_x="151 151 220 220 151 151"
+               polygon_y="62 150 150 61 61 62"/>
+      <element label="image" polygon_x="81 81 145 145 81 81" polygon_y="62 150 150 61 61 62"/>
+      <element label="headline" polygon_x="11 11 170 170 11 11" polygon_y="32 45 45 31 31 32"/>
+   </layout>
+   <text>
+      <keyword>researcher</keyword>
+      <keyword>science</keyword>
+      <keyword>area</keyword>
+      <keyword>field</keyword>
+      <keyword>project</keyword>
+      <keyword>lab</keyword>
+      <keyword>brain</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0414</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="122 255 255 121 121 122"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="182 285 285 181 181 182"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="182 260 260 181 181 182"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="77 115 115 76 76 77"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="262 285 285 261 261 262"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="267 285 285 266 266 267"/>
+      <element label="text" polygon_x="11 11 120 120 11 11" polygon_y="47 55 55 46 46 47"/>
+      <element label="text" polygon_x="11 11 45 45 11 11" polygon_y="62 65 65 61 61 62"/>
+      <element label="image" polygon_x="11 11 145 145 11 11" polygon_y="77 175 175 76 76 77"/>
+      <element label="headline" polygon_x="11 11 190 190 11 11" polygon_y="32 40 40 31 31 32"/>
+   </layout>
+   <text>
+      <keyword>scientist</keyword>
+      <keyword>researcher</keyword>
+      <keyword>university</keyword>
+      <keyword>group</keyword>
+      <keyword>reason</keyword>
+      <keyword>lab</keyword>
+      <keyword>technique</keyword>
+   </text>
+</annotation>

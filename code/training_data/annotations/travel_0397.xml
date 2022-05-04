@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0397</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="131 131 220 220 131 131"
+               polygon_y="227 260 260 226 226 227"/>
+      <element label="text" polygon_x="131 131 220 220 131 131"
+               polygon_y="192 220 220 191 191 192"/>
+      <element label="text" polygon_x="131 131 220 220 131 131"
+               polygon_y="267 280 280 266 266 267"/>
+      <element label="text" polygon_x="156 156 200 200 156 156"
+               polygon_y="162 185 185 161 161 162"/>
+      <element label="text" polygon_x="66 66 170 170 66 66"
+               polygon_y="287 290 290 286 286 287"/>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 145 145 1 1 2"/>
+      <element label="image" polygon_x="1 1 60 60 1 1" polygon_y="217 280 280 216 216 217"/>
+      <element label="image" polygon_x="66 66 125 125 66 66"
+               polygon_y="217 280 280 216 216 217"/>
+      <element label="image" polygon_x="1 1 60 60 1 1" polygon_y="152 210 210 151 151 152"/>
+      <element label="image" polygon_x="66 66 125 125 66 66"
+               polygon_y="152 210 210 151 151 152"/>
+      <element label="headline-over-image" polygon_x="11 11 150 150 11 11"
+               polygon_y="102 130 130 101 101 102"/>
+   </layout>
+   <text>
+      <keyword>family</keyword>
+      <keyword>beach</keyword>
+   </text>
+</annotation>

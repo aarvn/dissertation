@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0043</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="16 16 60 60 16 16" polygon_y="162 260 260 161 161 162"/>
+      <element label="text" polygon_x="16 16 60 60 16 16" polygon_y="87 155 155 86 86 87"/>
+      <element label="text" polygon_x="16 16 60 60 16 16" polygon_y="22 80 80 21 21 22"/>
+      <element label="text" polygon_x="66 66 210 210 66 66"
+               polygon_y="172 180 180 171 171 172"/>
+      <element label="text" polygon_x="36 36 60 60 36 36" polygon_y="267 285 285 266 266 267"/>
+      <element label="image" polygon_x="66 66 210 210 66 66"
+               polygon_y="187 285 285 186 186 187"/>
+      <element label="image" polygon_x="66 66 210 210 66 66" polygon_y="82 165 165 81 81 82"/>
+      <element label="image" polygon_x="66 66 135 135 66 66" polygon_y="22 75 75 21 21 22"/>
+      <element label="image" polygon_x="141 141 210 210 141 141" polygon_y="22 75 75 21 21 22"/>
+      <element label="image" polygon_x="16 16 35 35 16 16" polygon_y="267 285 285 266 266 267"/>
+      <element label="text-over-image" polygon_x="66 66 95 95 66 66"
+               polygon_y="187 195 195 186 186 187"/>
+   </layout>
+   <text>
+      <keyword>area</keyword>
+      <keyword>building</keyword>
+      <keyword>hill</keyword>
+   </text>
+</annotation>

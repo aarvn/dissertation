@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0579</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="81 81 140 140 81 81"
+               polygon_y="132 275 275 131 131 132"/>
+      <element label="text" polygon_x="146 146 181 181 180 180 146 146 210 210 146 146"
+               polygon_y="132 200 200 201 255 256 256 275 275 131 131 132"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="132 200 200 131 131 132"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="257 275 275 256 256 257"/>
+      <element label="text" polygon_x="46 46 170 170 46 46"
+               polygon_y="122 125 125 121 121 122"/>
+      <element label="text" polygon_x="81 81 140 140 81 81" polygon_y="52 55 55 51 51 52"/>
+      <element label="text" polygon_x="6 6 25 25 6 6" polygon_y="7 15 15 6 6 7"/>
+      <element label="image" polygon_x="11 11 75 75 11 11" polygon_y="207 250 250 206 206 207"/>
+      <element label="image" polygon_x="146 146 175 175 146 146"
+               polygon_y="207 250 250 206 206 207"/>
+      <element label="headline" polygon_x="66 66 160 160 66 66" polygon_y="62 85 85 61 61 62"/>
+   </layout>
+   <text>
+      <keyword>wedding</keyword>
+      <keyword>guest</keyword>
+      <keyword>venue</keyword>
+      <keyword>family</keyword>
+      <keyword>perfect</keyword>
+      <keyword>event</keyword>
+      <keyword>book</keyword>
+      <keyword>experience</keyword>
+      <keyword>dance</keyword>
+      <keyword>fit</keyword>
+      <keyword>store</keyword>
+      <keyword>dinner</keyword>
+      <keyword>mother</keyword>
+      <keyword>relationship</keyword>
+   </text>
+</annotation>

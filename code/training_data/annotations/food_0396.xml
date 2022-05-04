@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0396</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="46 46 95 95 46 46" polygon_y="127 275 275 126 126 127"/>
+      <element label="text" polygon_x="101 101 155 155 101 101"
+               polygon_y="172 285 285 171 171 172"/>
+      <element label="text" polygon_x="161 161 215 215 161 161"
+               polygon_y="172 275 275 171 171 172"/>
+      <element label="text" polygon_x="46 46 95 95 46 46" polygon_y="67 120 120 66 66 67"/>
+      <element label="text" polygon_x="16 16 35 35 16 16" polygon_y="137 175 175 136 136 137"/>
+      <element label="image" polygon_x="101 101 225 225 101 101" polygon_y="2 165 165 1 1 2"/>
+      <element label="image" polygon_x="1 1 40 40 1 1" polygon_y="107 130 130 106 106 107"/>
+   </layout>
+   <text>
+      <keyword>sugar</keyword>
+      <keyword>water</keyword>
+      <keyword>butter</keyword>
+      <keyword>roll</keyword>
+      <keyword>cupcake</keyword>
+      <keyword>thick</keyword>
+      <keyword>vanilla</keyword>
+   </text>
+</annotation>

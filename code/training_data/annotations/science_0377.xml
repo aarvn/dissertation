@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0377</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="67 285 285 66 66 67"/>
+      <element label="text" polygon_x="81 81 145 145 81 81" polygon_y="67 285 285 66 66 67"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="67 140 140 66 66 67"/>
+      <element label="text" polygon_x="11 11 160 160 11 11" polygon_y="47 55 55 46 46 47"/>
+      <element label="image" polygon_x="146 146 225 225 146 146"
+               polygon_y="142 300 300 141 141 142"/>
+      <element label="headline" polygon_x="11 11 210 210 11 11" polygon_y="32 40 40 31 31 32"/>
+   </layout>
+   <text>
+      <keyword>scientist</keyword>
+      <keyword>life</keyword>
+      <keyword>researcher</keyword>
+      <keyword>research</keyword>
+      <keyword>patient</keyword>
+      <keyword>effect</keyword>
+      <keyword>cancer</keyword>
+      <keyword>lab</keyword>
+      <keyword>question</keyword>
+      <keyword>treatment</keyword>
+      <keyword>impact</keyword>
+      <keyword>future</keyword>
+      <keyword>tumor</keyword>
+      <keyword>challenge</keyword>
+      <keyword>treat</keyword>
+   </text>
+</annotation>

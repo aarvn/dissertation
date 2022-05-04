@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0476</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="6 6 165 165 6 6" polygon_y="172 185 185 171 171 172"/>
+      <element label="text" polygon_x="6 6 125 125 6 6" polygon_y="202 220 220 201 201 202"/>
+      <element label="text" polygon_x="136 136 165 165 136 136"
+               polygon_y="212 275 275 211 211 212"/>
+      <element label="text" polygon_x="86 86 125 125 86 86"
+               polygon_y="247 290 290 246 246 247"/>
+      <element label="text" polygon_x="6 6 40 40 6 6" polygon_y="247 290 290 246 246 247"/>
+      <element label="text" polygon_x="46 46 80 80 46 46" polygon_y="247 290 290 246 246 247"/>
+      <element label="text" polygon_x="181 181 210 210 181 181"
+               polygon_y="107 150 150 106 106 107"/>
+      <element label="text" polygon_x="181 181 210 210 181 181"
+               polygon_y="242 285 285 241 241 242"/>
+      <element label="text" polygon_x="181 181 210 210 181 181"
+               polygon_y="182 220 220 181 181 182"/>
+      <element label="text" polygon_x="181 181 210 210 181 181" polygon_y="52 60 60 51 51 52"/>
+      <element label="image" polygon_x="6 6 165 165 131 130 130 6 6"
+               polygon_y="52 165 165 21 21 50 51 51 52"/>
+      <element label="image" polygon_x="181 181 210 210 181 181"
+               polygon_y="62 100 100 61 61 62"/>
+      <element label="image" polygon_x="176 176 215 215 176 176"
+               polygon_y="222 240 240 221 221 222"/>
+      <element label="image" polygon_x="181 181 210 210 181 181"
+               polygon_y="162 180 180 161 161 162"/>
+      <element label="image" polygon_x="6 6 25 25 6 6" polygon_y="227 240 240 226 226 227"/>
+      <element label="image" polygon_x="51 51 70 70 51 51" polygon_y="227 240 240 226 226 227"/>
+      <element label="image" polygon_x="91 91 110 110 91 91"
+               polygon_y="227 240 240 226 226 227"/>
+   </layout>
+   <text>
+      <keyword>party</keyword>
+      <keyword>win</keyword>
+      <keyword>death</keyword>
+      <keyword>leader</keyword>
+      <keyword>fight</keyword>
+      <keyword>attack</keyword>
+      <keyword>sound</keyword>
+   </text>
+</annotation>

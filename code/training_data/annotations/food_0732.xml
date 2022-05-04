@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0732</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="61 61 125 125 61 61"
+               polygon_y="252 280 280 251 251 252"/>
+      <element label="text" polygon_x="156 156 205 205 156 156"
+               polygon_y="262 285 285 261 261 262"/>
+      <element label="text" polygon_x="156 156 190 190 156 156"
+               polygon_y="232 255 255 231 231 232"/>
+      <element label="text" polygon_x="156 156 190 190 156 156"
+               polygon_y="217 225 225 216 216 217"/>
+      <element label="text" polygon_x="156 156 190 190 156 156"
+               polygon_y="207 210 210 206 206 207"/>
+      <element label="image" polygon_x="21 21 205 205 21 21" polygon_y="17 200 200 16 16 17"/>
+      <element label="headline" polygon_x="56 56 145 145 56 56"
+               polygon_y="207 245 245 206 206 207"/>
+   </layout>
+   <text>
+      <keyword>ingredient</keyword>
+      <keyword>juice</keyword>
+      <keyword>kitchen</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0277</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="57 290 290 56 56 57"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="137 285 285 136 136 137"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="17 100 100 16 16 17"/>
+      <element label="text" polygon_x="86 86 140 140 86 86" polygon_y="27 95 95 26 26 27"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="237 285 285 236 236 237"/>
+      <element label="text" polygon_x="151 151 215 215 151 151" polygon_y="42 50 50 41 41 42"/>
+      <element label="text" polygon_x="11 11 115 115 11 11"
+               polygon_y="127 130 130 126 126 127"/>
+      <element label="image" polygon_x="81 81 145 145 81 81"
+               polygon_y="137 230 230 136 136 137"/>
+      <element label="headline" polygon_x="11 11 55 55 11 11"
+               polygon_y="107 120 120 106 106 107"/>
+      <element label="headline" polygon_x="151 151 195 195 151 151"
+               polygon_y="22 30 30 21 21 22"/>
+   </layout>
+   <text>
+      <keyword>country</keyword>
+      <keyword>decade</keyword>
+      <keyword>party</keyword>
+      <keyword>fear</keyword>
+      <keyword>leader</keyword>
+      <keyword>fact</keyword>
+      <keyword>grow</keyword>
+      <keyword>issue</keyword>
+      <keyword>office</keyword>
+      <keyword>vote</keyword>
+      <keyword>deal</keyword>
+      <keyword>sense</keyword>
+   </text>
+</annotation>

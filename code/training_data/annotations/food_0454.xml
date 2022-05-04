@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0454</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="131 131 180 180 131 131"
+               polygon_y="152 225 225 151 151 152"/>
+      <element label="text" polygon_x="16 16 60 60 16 16" polygon_y="202 280 280 201 201 202"/>
+      <element label="text" polygon_x="131 131 180 180 131 131"
+               polygon_y="232 280 280 231 231 232"/>
+      <element label="text" polygon_x="66 66 110 110 66 66"
+               polygon_y="252 280 280 251 251 252"/>
+      <element label="text" polygon_x="161 161 180 180 161 161"
+               polygon_y="132 145 145 131 131 132"/>
+      <element label="text" polygon_x="186 186 210 210 186 186" polygon_y="62 70 70 61 61 62"/>
+      <element label="text" polygon_x="186 186 210 210 186 186"
+               polygon_y="97 105 105 96 96 97"/>
+      <element label="text" polygon_x="186 186 210 210 186 186"
+               polygon_y="132 140 140 131 131 132"/>
+      <element label="text" polygon_x="186 186 210 210 186 186"
+               polygon_y="272 280 280 271 271 272"/>
+      <element label="text" polygon_x="186 186 205 205 186 186" polygon_y="27 35 35 26 26 27"/>
+      <element label="text" polygon_x="186 186 205 205 186 186"
+               polygon_y="167 175 175 166 166 167"/>
+      <element label="text" polygon_x="186 186 205 205 186 186"
+               polygon_y="202 210 210 201 201 202"/>
+      <element label="text" polygon_x="186 186 205 205 186 186"
+               polygon_y="242 245 245 241 241 242"/>
+      <element label="image" polygon_x="1 1 125 126 126 180 180 125 125 125 1 1"
+               polygon_y="2 190 190 111 110 110 21 21 20 1 1 2"/>
+      <element label="image" polygon_x="66 66 125 125 66 66"
+               polygon_y="202 245 245 201 201 202"/>
+      <element label="image" polygon_x="131 131 155 155 131 131"
+               polygon_y="117 145 145 116 116 117"/>
+      <element label="image" polygon_x="186 186 205 205 186 186"
+               polygon_y="217 240 240 216 216 217"/>
+      <element label="image" polygon_x="186 186 205 205 186 186" polygon_y="42 60 60 41 41 42"/>
+      <element label="image" polygon_x="186 186 205 205 186 186" polygon_y="77 95 95 76 76 77"/>
+      <element label="image" polygon_x="186 186 205 205 186 186"
+               polygon_y="112 130 130 111 111 112"/>
+      <element label="image" polygon_x="186 186 205 205 186 186"
+               polygon_y="147 165 165 146 146 147"/>
+      <element label="image" polygon_x="186 186 205 205 186 186"
+               polygon_y="182 200 200 181 181 182"/>
+      <element label="image" polygon_x="186 186 205 205 186 186"
+               polygon_y="252 270 270 251 251 252"/>
+   </layout>
+   <text>
+      <keyword>delicious</keyword>
+      <keyword>book</keyword>
+   </text>
+</annotation>

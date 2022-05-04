@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0046</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="26 26 205 205 26 26" polygon_y="47 60 60 46 46 47"/>
+      <element label="text" polygon_x="26 26 80 80 26 26" polygon_y="247 290 290 246 246 247"/>
+      <element label="text" polygon_x="151 151 205 205 151 151"
+               polygon_y="187 230 230 186 186 187"/>
+      <element label="text" polygon_x="26 26 80 80 26 26" polygon_y="167 200 200 166 166 167"/>
+      <element label="text" polygon_x="26 26 80 80 26 26" polygon_y="207 240 240 206 206 207"/>
+      <element label="text" polygon_x="86 86 145 145 86 86"
+               polygon_y="262 290 290 261 261 262"/>
+      <element label="text" polygon_x="151 151 205 205 151 151"
+               polygon_y="237 260 260 236 236 237"/>
+      <element label="text" polygon_x="151 151 190 190 151 151"
+               polygon_y="267 290 290 266 266 267"/>
+      <element label="text" polygon_x="151 151 205 205 151 151"
+               polygon_y="167 180 180 166 166 167"/>
+      <element label="image" polygon_x="26 26 220 220 26 26" polygon_y="67 160 160 66 66 67"/>
+      <element label="image" polygon_x="86 86 145 145 86 86"
+               polygon_y="207 255 255 206 206 207"/>
+      <element label="image" polygon_x="86 86 145 145 86 86"
+               polygon_y="167 200 200 166 166 167"/>
+      <element label="headline" polygon_x="26 26 205 205 26 26" polygon_y="12 40 40 11 11 12"/>
+   </layout>
+   <text>
+      <keyword>enjoy</keyword>
+      <keyword>hotel</keyword>
+      <keyword>beach</keyword>
+      <keyword>space</keyword>
+      <keyword>serve</keyword>
+      <keyword>restaurant</keyword>
+      <keyword>resort</keyword>
+      <keyword>island</keyword>
+      <keyword>music</keyword>
+      <keyword>happy</keyword>
+      <keyword>ideal</keyword>
+   </text>
+</annotation>

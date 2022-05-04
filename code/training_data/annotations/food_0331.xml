@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0331</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="121 121 200 200 121 121"
+               polygon_y="177 250 250 176 176 177"/>
+      <element label="text-over-image" polygon_x="26 26 110 110 26 26"
+               polygon_y="192 240 240 191 191 192"/>
+      <element label="text-over-image" polygon_x="26 26 110 110 26 26"
+               polygon_y="102 140 140 101 101 102"/>
+      <element label="text-over-image" polygon_x="26 26 85 85 26 26"
+               polygon_y="147 185 185 146 146 147"/>
+      <element label="text-over-image" polygon_x="121 121 175 175 121 121"
+               polygon_y="132 170 170 131 131 132"/>
+      <element label="text-over-image" polygon_x="121 121 200 200 121 121"
+               polygon_y="257 280 280 256 256 257"/>
+      <element label="text-over-image" polygon_x="121 121 200 200 121 121"
+               polygon_y="107 125 125 106 106 107"/>
+      <element label="text-over-image" polygon_x="121 121 190 190 121 121"
+               polygon_y="82 100 100 81 81 82"/>
+      <element label="text-over-image" polygon_x="26 26 95 95 26 26"
+               polygon_y="82 95 95 81 81 82"/>
+      <element label="text-over-image" polygon_x="11 11 50 50 11 11"
+               polygon_y="12 20 20 11 11 12"/>
+   </layout>
+   <text>
+      <keyword>salt</keyword>
+      <keyword>cool</keyword>
+      <keyword>season</keyword>
+      <keyword>oil</keyword>
+      <keyword>oven</keyword>
+      <keyword>bowl</keyword>
+      <keyword>sugar</keyword>
+      <keyword>food</keyword>
+      <keyword>bake</keyword>
+      <keyword>flavour</keyword>
+      <keyword>butter</keyword>
+      <keyword>flour</keyword>
+      <keyword>salad</keyword>
+      <keyword>milk</keyword>
+      <keyword>glass</keyword>
+      <keyword>fresh</keyword>
+      <keyword>dress</keyword>
+      <keyword>saucepan</keyword>
+      <keyword>dessert</keyword>
+      <keyword>market</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0303</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 95 95 21 21" polygon_y="27 275 275 26 26 27"/>
+      <element label="text" polygon_x="101 101 180 180 101 101"
+               polygon_y="147 275 275 146 146 147"/>
+      <element label="image" polygon_x="101 101 210 210 101 101" polygon_y="2 140 140 1 1 2"/>
+   </layout>
+   <text>
+      <keyword>water</keyword>
+      <keyword>north</keyword>
+      <keyword>reason</keyword>
+      <keyword>impact</keyword>
+      <keyword>air</keyword>
+   </text>
+</annotation>

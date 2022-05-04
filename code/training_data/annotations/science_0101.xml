@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0101</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 100 100 11 11" polygon_y="97 245 245 96 96 97"/>
+      <element label="text" polygon_x="116 116 215 215 116 116"
+               polygon_y="177 215 215 176 176 177"/>
+      <element label="text" polygon_x="11 11 100 100 11 11" polygon_y="47 80 80 46 46 47"/>
+      <element label="text" polygon_x="11 11 100 100 11 11"
+               polygon_y="252 285 285 251 251 252"/>
+      <element label="image" polygon_x="111 111 220 220 111 111" polygon_y="7 170 170 6 6 7"/>
+      <element label="image" polygon_x="111 111 220 220 111 111"
+               polygon_y="222 285 285 221 221 222"/>
+   </layout>
+   <text>
+      <keyword>island</keyword>
+      <keyword>south</keyword>
+      <keyword>north</keyword>
+      <keyword>state</keyword>
+      <keyword>west</keyword>
+   </text>
+</annotation>

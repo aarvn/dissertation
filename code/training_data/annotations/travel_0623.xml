@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0623</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="111 111 205 205 111 111"
+               polygon_y="57 285 285 56 56 57"/>
+      <element label="text" polygon_x="16 16 100 100 16 16" polygon_y="12 130 130 11 11 12"/>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="137 285 285 136 136 137"/>
+   </layout>
+   <text>
+      <keyword>area</keyword>
+      <keyword>land</keyword>
+      <keyword>town</keyword>
+      <keyword>winter</keyword>
+      <keyword>plant</keyword>
+      <keyword>building</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0057</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 80 80 21 21" polygon_y="197 265 265 196 196 197"/>
+      <element label="text" polygon_x="96 96 195 195 96 96"
+               polygon_y="132 155 155 131 131 132"/>
+      <element label="text" polygon_x="21 21 70 70 21 21" polygon_y="172 190 190 171 171 172"/>
+      <element label="text" polygon_x="21 21 70 70 21 21" polygon_y="272 280 280 271 271 272"/>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 125 125 1 1 2"/>
+      <element label="image" polygon_x="86 86 225 225 86 86"
+               polygon_y="162 300 300 161 161 162"/>
+      <element label="headline" polygon_x="21 21 90 90 21 21"
+               polygon_y="132 155 155 131 131 132"/>
+   </layout>
+   <text>
+      <keyword>hotel</keyword>
+      <keyword>design</keyword>
+      <keyword>restaurant</keyword>
+      <keyword>cool</keyword>
+   </text>
+</annotation>

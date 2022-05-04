@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0048</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="71 71 120 120 71 71"
+               polygon_y="22 115 115 21 21 22"/>
+      <element label="text-over-image" polygon_x="126 126 175 175 126 126"
+               polygon_y="22 100 100 21 21 22"/>
+      <element label="text-over-image" polygon_x="16 16 65 65 16 16"
+               polygon_y="47 115 115 46 46 47"/>
+      <element label="text-over-image" polygon_x="16 16 65 65 16 16"
+               polygon_y="17 40 40 16 16 17"/>
+   </layout>
+   <text>
+      <keyword>stir</keyword>
+      <keyword>oil</keyword>
+      <keyword>fry</keyword>
+      <keyword>mixture</keyword>
+      <keyword>boil</keyword>
+      <keyword>flour</keyword>
+      <keyword>cheese</keyword>
+      <keyword>roll</keyword>
+      <keyword>potato</keyword>
+      <keyword>milk</keyword>
+   </text>
+</annotation>

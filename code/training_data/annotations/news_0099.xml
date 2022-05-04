@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0099</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="146 146 200 200 146 146"
+               polygon_y="187 250 250 186 186 187"/>
+      <element label="text" polygon_x="86 86 135 135 86 86"
+               polygon_y="227 280 280 226 226 227"/>
+      <element label="text" polygon_x="21 21 70 70 21 21" polygon_y="152 200 200 151 151 152"/>
+      <element label="text" polygon_x="21 21 70 70 21 21" polygon_y="82 115 115 81 81 82"/>
+      <element label="text" polygon_x="26 26 195 195 26 26" polygon_y="32 40 40 31 31 32"/>
+      <element label="text" polygon_x="146 146 200 200 146 146"
+               polygon_y="157 180 180 156 156 157"/>
+      <element label="text" polygon_x="21 21 70 70 21 21" polygon_y="52 75 75 51 51 52"/>
+      <element label="text" polygon_x="21 21 70 70 21 21" polygon_y="122 145 145 121 121 122"/>
+      <element label="text" polygon_x="76 76 200 200 76 76"
+               polygon_y="142 150 150 141 141 142"/>
+      <element label="text" polygon_x="81 81 135 135 81 81"
+               polygon_y="157 175 175 156 156 157"/>
+      <element label="text" polygon_x="81 81 135 135 81 81"
+               polygon_y="187 205 205 186 186 187"/>
+      <element label="text" polygon_x="146 146 200 200 146 146"
+               polygon_y="257 275 275 256 256 257"/>
+      <element label="text" polygon_x="86 86 135 135 86 86"
+               polygon_y="212 220 220 211 211 212"/>
+      <element label="text" polygon_x="21 21 75 75 21 21" polygon_y="277 280 280 276 276 277"/>
+      <element label="image" polygon_x="76 76 200 200 76 76" polygon_y="47 140 140 46 46 47"/>
+      <element label="image" polygon_x="21 21 80 80 21 21" polygon_y="207 270 270 206 206 207"/>
+      <element label="headline" polygon_x="21 21 200 200 21 21" polygon_y="22 30 30 21 21 22"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>bad</keyword>
+      <keyword>job</keyword>
+      <keyword>mind</keyword>
+      <keyword>promise</keyword>
+      <keyword>demand</keyword>
+      <keyword>question</keyword>
+      <keyword>science</keyword>
+      <keyword>challenge</keyword>
+   </text>
+</annotation>

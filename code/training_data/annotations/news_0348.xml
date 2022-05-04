@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0348</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="112 290 290 111 111 112"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="17 180 180 16 16 17"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="222 290 290 221 221 222"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="112 170 170 111 111 112"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="242 290 290 241 241 242"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="222 235 235 221 221 222"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="207 215 215 206 206 207"/>
+      <element label="image" polygon_x="81 81 215 215 81 81" polygon_y="17 105 105 16 16 17"/>
+      <element label="headline" polygon_x="11 11 65 65 11 11"
+               polygon_y="192 205 205 191 191 192"/>
+      <element label="headline" polygon_x="151 151 190 190 151 151"
+               polygon_y="182 200 200 181 181 182"/>
+   </layout>
+   <text>
+      <keyword>book</keyword>
+      <keyword>war</keyword>
+      <keyword>idea</keyword>
+      <keyword>law</keyword>
+      <keyword>live</keyword>
+      <keyword>matter</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0514</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="26 26 155 155 26 26"
+               polygon_y="92 110 110 91 91 92"/>
+      <element label="text-over-image" polygon_x="26 26 195 195 26 26"
+               polygon_y="282 285 285 281 281 282"/>
+      <element label="text-over-image" polygon_x="131 131 190 190 131 131"
+               polygon_y="37 45 45 36 36 37"/>
+      <element label="headline-over-image" polygon_x="11 11 195 195 11 11"
+               polygon_y="62 85 85 61 61 62"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>experience</keyword>
+   </text>
+</annotation>

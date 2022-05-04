@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0290</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="146 146 205 205 146 146"
+               polygon_y="27 280 280 26 26 27"/>
+      <element label="text" polygon_x="21 21 80 80 21 21" polygon_y="72 280 280 71 71 72"/>
+      <element label="text" polygon_x="86 86 140 140 86 86"
+               polygon_y="227 280 280 226 226 227"/>
+      <element label="text" polygon_x="21 21 140 140 21 21" polygon_y="57 65 65 56 56 57"/>
+      <element label="text" polygon_x="11 11 40 40 11 11" polygon_y="12 20 20 11 11 12"/>
+      <element label="image" polygon_x="86 86 140 140 86 86" polygon_y="72 220 220 71 71 72"/>
+      <element label="headline" polygon_x="21 21 110 110 21 21" polygon_y="27 50 50 26 26 27"/>
+   </layout>
+   <text>
+      <keyword>taste</keyword>
+      <keyword>season</keyword>
+      <keyword>eat</keyword>
+      <keyword>food</keyword>
+      <keyword>wine</keyword>
+      <keyword>love</keyword>
+      <keyword>potato</keyword>
+      <keyword>family</keyword>
+      <keyword>choice</keyword>
+      <keyword>summer</keyword>
+      <keyword>chicken</keyword>
+      <keyword>quality</keyword>
+      <keyword>meal</keyword>
+   </text>
+</annotation>

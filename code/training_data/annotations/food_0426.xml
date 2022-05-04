@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0426</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="76 76 155 155 76 76"
+               polygon_y="197 280 280 196 196 197"/>
+      <element label="text" polygon_x="66 66 110 110 66 66"
+               polygon_y="112 180 180 111 111 112"/>
+      <element label="text" polygon_x="116 116 160 160 116 116"
+               polygon_y="112 180 180 111 111 112"/>
+      <element label="text" polygon_x="11 11 60 60 31 30 30 11 11"
+               polygon_y="132 180 180 111 111 130 131 131 132"/>
+      <element label="text" polygon_x="166 166 210 210 166 166"
+               polygon_y="132 155 155 131 131 132"/>
+      <element label="text" polygon_x="166 166 210 210 166 166"
+               polygon_y="162 180 180 161 161 162"/>
+      <element label="text" polygon_x="196 196 220 220 196 196" polygon_y="12 15 15 11 11 12"/>
+      <element label="image"
+               polygon_x="1 1 21 21 21 55 56 56 66 66 66 166 166 166 225 225 190 190 190 126 125 125 75 75 75 1 1"
+               polygon_y="2 90 90 91 100 100 91 90 90 91 105 105 106 125 125 46 46 45 11 11 20 21 21 20 1 1 2"/>
+      <element label="image" polygon_x="161 161 225 225 161 161"
+               polygon_y="192 280 280 191 191 192"/>
+      <element label="image" polygon_x="11 11 70 70 11 11" polygon_y="197 280 280 196 196 197"/>
+      <element label="image" polygon_x="11 11 30 30 11 11" polygon_y="112 130 130 111 111 112"/>
+      <element label="text-over-image" polygon_x="21 21 55 55 21 21"
+               polygon_y="87 100 100 86 86 87"/>
+   </layout>
+   <text>
+      <keyword>recipe</keyword>
+      <keyword>dish</keyword>
+      <keyword>sugar</keyword>
+      <keyword>fry</keyword>
+      <keyword>cooking</keyword>
+      <keyword>butter</keyword>
+      <keyword>ingredient</keyword>
+      <keyword>egg</keyword>
+      <keyword>flour</keyword>
+      <keyword>sweet</keyword>
+      <keyword>chef</keyword>
+   </text>
+</annotation>

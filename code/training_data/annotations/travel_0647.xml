@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0647</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 95 95 21 21" polygon_y="132 275 275 131 131 132"/>
+      <element label="text" polygon_x="101 101 170 170 101 101"
+               polygon_y="162 275 275 161 161 162"/>
+      <element label="text" polygon_x="176 176 205 205 176 176"
+               polygon_y="132 210 210 131 131 132"/>
+      <element label="text" polygon_x="101 101 170 170 101 101"
+               polygon_y="132 155 155 131 131 132"/>
+      <element label="image" polygon_x="11 11 225 225 11 11" polygon_y="2 125 125 1 1 2"/>
+      <element label="text-over-image" polygon_x="161 161 205 205 161 161"
+               polygon_y="12 20 20 11 11 12"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>explore</keyword>
+      <keyword>air</keyword>
+      <keyword>imagine</keyword>
+      <keyword>snow</keyword>
+      <keyword>mountain</keyword>
+   </text>
+</annotation>

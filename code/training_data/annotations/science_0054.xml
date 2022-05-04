@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0054</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="31 31 110 110 31 31" polygon_y="32 260 260 31 31 32"/>
+      <element label="text" polygon_x="116 116 195 195 116 116"
+               polygon_y="197 285 285 196 196 197"/>
+      <element label="text" polygon_x="116 116 195 195 116 116"
+               polygon_y="47 125 125 46 46 47"/>
+      <element label="text" polygon_x="31 31 110 110 31 31"
+               polygon_y="267 285 285 266 266 267"/>
+      <element label="text" polygon_x="116 116 185 185 116 116" polygon_y="32 40 40 31 31 32"/>
+      <element label="text" polygon_x="116 116 195 195 116 116"
+               polygon_y="182 185 185 181 181 182"/>
+      <element label="image" polygon_x="116 116 205 205 116 116"
+               polygon_y="132 180 180 131 131 132"/>
+   </layout>
+   <text>
+      <keyword>place</keyword>
+      <keyword>earth</keyword>
+      <keyword>create</keyword>
+      <keyword>country</keyword>
+      <keyword>group</keyword>
+      <keyword>interest</keyword>
+      <keyword>west</keyword>
+      <keyword>land</keyword>
+      <keyword>knowledge</keyword>
+      <keyword>landscape</keyword>
+   </text>
+</annotation>

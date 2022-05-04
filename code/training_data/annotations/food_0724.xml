@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0724</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="146 146 205 205 146 146"
+               polygon_y="107 175 175 106 106 107"/>
+      <element label="text" polygon_x="131 131 175 175 150 150 150 131 131"
+               polygon_y="197 285 285 236 236 235 196 196 197"/>
+      <element label="text" polygon_x="21 21 70 70 21 21" polygon_y="237 285 285 236 236 237"/>
+      <element label="text" polygon_x="76 76 120 120 76 76"
+               polygon_y="232 285 285 231 231 232"/>
+      <element label="text" polygon_x="146 146 205 205 146 146" polygon_y="62 80 80 61 61 62"/>
+      <element label="text" polygon_x="146 146 195 195 146 146"
+               polygon_y="87 100 100 86 86 87"/>
+      <element label="text" polygon_x="186 186 200 200 186 186"
+               polygon_y="242 285 285 241 241 242"/>
+      <element label="text" polygon_x="146 146 180 180 146 146" polygon_y="42 55 55 41 41 42"/>
+      <element label="text" polygon_x="21 21 70 70 21 21" polygon_y="197 200 200 196 196 197"/>
+      <element label="text" polygon_x="181 181 205 205 181 181" polygon_y="7 10 10 6 6 7"/>
+      <element label="image" polygon_x="21 21 140 140 21 21" polygon_y="42 190 190 41 41 42"/>
+      <element label="image" polygon_x="151 151 205 205 151 151"
+               polygon_y="197 235 235 196 196 197"/>
+      <element label="image" polygon_x="21 21 70 70 21 21" polygon_y="202 235 235 201 201 202"/>
+      <element label="image" polygon_x="76 76 125 125 76 76"
+               polygon_y="197 230 230 196 196 197"/>
+      <element label="headline" polygon_x="21 21 145 145 21 21" polygon_y="17 25 25 16 16 17"/>
+   </layout>
+   <text>
+      <keyword>top</keyword>
+      <keyword>heat</keyword>
+      <keyword>taste</keyword>
+      <keyword>cool</keyword>
+      <keyword>oven</keyword>
+      <keyword>sugar</keyword>
+      <keyword>food</keyword>
+      <keyword>bake</keyword>
+      <keyword>ingredient</keyword>
+      <keyword>flour</keyword>
+      <keyword>cake</keyword>
+      <keyword>book</keyword>
+      <keyword>summer</keyword>
+      <keyword>plenty</keyword>
+      <keyword>drink</keyword>
+   </text>
+</annotation>

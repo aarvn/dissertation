@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0339</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="121 121 200 200 121 121"
+               polygon_y="217 285 285 216 216 217"/>
+      <element label="image" polygon_x="16 16 105 106 106 220 220 16 16"
+               polygon_y="2 300 300 156 155 155 1 1 2"/>
+      <element label="headline" polygon_x="126 126 195 195 126 126"
+               polygon_y="162 205 205 161 161 162"/>
+   </layout>
+   <text>
+      <keyword>north</keyword>
+   </text>
+</annotation>

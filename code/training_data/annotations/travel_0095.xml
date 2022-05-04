@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0095</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="47 90 90 46 46 47"/>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="142 185 185 141 141 142"/>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="192 235 235 191 191 192"/>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="242 285 285 241 241 242"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="202 240 240 201 201 202"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="247 285 285 246 246 247"/>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="97 135 135 96 96 97"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="92 125 125 91 91 92"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="132 160 160 131 131 132"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="167 195 195 166 166 167"/>
+      <element label="text" polygon_x="166 166 195 195 166 166" polygon_y="72 85 85 71 71 72"/>
+      <element label="image" polygon_x="81 81 145 145 81 81" polygon_y="47 90 90 46 46 47"/>
+      <element label="image" polygon_x="81 81 145 145 81 81"
+               polygon_y="142 185 185 141 141 142"/>
+      <element label="image" polygon_x="81 81 145 145 81 81"
+               polygon_y="192 235 235 191 191 192"/>
+      <element label="image" polygon_x="81 81 145 145 81 81"
+               polygon_y="242 285 285 241 241 242"/>
+      <element label="image" polygon_x="151 151 215 215 151 151" polygon_y="22 65 65 21 21 22"/>
+      <element label="image" polygon_x="81 81 145 145 81 81" polygon_y="97 135 135 96 96 97"/>
+      <element label="image" polygon_x="16 16 30 30 16 16" polygon_y="27 40 40 26 26 27"/>
+      <element label="image" polygon_x="151 151 165 165 151 151" polygon_y="72 85 85 71 71 72"/>
+      <element label="headline" polygon_x="31 31 110 110 31 31" polygon_y="27 40 40 26 26 27"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>country</keyword>
+      <keyword>view</keyword>
+      <keyword>enjoy</keyword>
+      <keyword>land</keyword>
+      <keyword>summer</keyword>
+      <keyword>island</keyword>
+      <keyword>spring</keyword>
+   </text>
+</annotation>

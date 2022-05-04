@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0232</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="106 106 200 200 106 106"
+               polygon_y="27 125 125 26 26 27"/>
+      <element label="text" polygon_x="11 11 100 100 11 11"
+               polygon_y="112 180 180 111 111 112"/>
+      <element label="text" polygon_x="106 106 215 215 106 106"
+               polygon_y="267 285 285 266 266 267"/>
+      <element label="text" polygon_x="11 11 100 100 11 11" polygon_y="87 100 100 86 86 87"/>
+      <element label="text" polygon_x="11 11 100 100 11 11"
+               polygon_y="272 285 285 271 271 272"/>
+      <element label="image" polygon_x="106 106 215 215 106 106"
+               polygon_y="132 260 260 131 131 132"/>
+      <element label="image" polygon_x="1 1 100 100 1 1" polygon_y="2 80 80 1 1 2"/>
+      <element label="image" polygon_x="11 11 100 100 11 11"
+               polygon_y="187 260 260 186 186 187"/>
+   </layout>
+   <text>
+      <keyword>island</keyword>
+      <keyword>country</keyword>
+      <keyword>south</keyword>
+      <keyword>reason</keyword>
+   </text>
+</annotation>

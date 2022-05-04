@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0004</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="217 280 280 216 216 217"/>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="217 280 280 216 216 217"/>
+      <element label="text" polygon_x="151 151 210 210 151 151"
+               polygon_y="217 275 275 216 216 217"/>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 210 210 1 1 2"/>
+      <element label="text-over-image" polygon_x="166 166 205 205 166 166"
+               polygon_y="22 40 40 21 21 22"/>
+      <element label="text-over-image" polygon_x="41 41 75 75 41 41"
+               polygon_y="92 105 105 91 91 92"/>
+   </layout>
+   <text>
+      <keyword>focus</keyword>
+      <keyword>north</keyword>
+   </text>
+</annotation>

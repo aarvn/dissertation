@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0073</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 75 76 76 135 135 60 60 60 11 11"
+               polygon_y="22 210 210 186 185 185 86 86 85 21 21 22"/>
+      <element label="text"
+               polygon_x="151 151 166 166 165 165 151 151 215 215 161 160 160 151 151"
+               polygon_y="77 185 185 186 255 256 256 280 280 26 26 75 76 76 77"/>
+      <element label="text" polygon_x="11 11 135 135 75 75 75 11 11"
+               polygon_y="232 280 280 256 256 255 231 231 232"/>
+      <element label="text" polygon_x="86 86 155 155 86 86"
+               polygon_y="202 235 235 201 201 202"/>
+      <element label="text" polygon_x="66 66 130 130 66 66" polygon_y="72 80 80 71 71 72"/>
+      <element label="text" polygon_x="21 21 70 70 21 21" polygon_y="217 225 225 216 216 217"/>
+      <element label="image" polygon_x="66 66 150 150 66 66" polygon_y="7 65 65 6 6 7"/>
+   </layout>
+   <text>
+      <keyword>country</keyword>
+      <keyword>place</keyword>
+      <keyword>grow</keyword>
+      <keyword>future</keyword>
+      <keyword>nation</keyword>
+      <keyword>struggle</keyword>
+   </text>
+</annotation>

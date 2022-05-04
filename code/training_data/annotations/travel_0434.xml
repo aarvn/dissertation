@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0434</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="91 91 155 155 91 91"
+               polygon_y="222 280 280 221 221 222"/>
+      <element label="text" polygon_x="161 161 220 220 161 161"
+               polygon_y="222 280 280 221 221 222"/>
+      <element label="text" polygon_x="26 26 85 85 26 26" polygon_y="257 280 280 256 256 257"/>
+      <element label="text" polygon_x="26 26 180 180 26 26"
+               polygon_y="292 295 295 291 291 292"/>
+      <element label="text" polygon_x="156 156 220 220 156 156" polygon_y="12 15 15 11 11 12"/>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="27 215 215 26 26 27"/>
+      <element label="headline" polygon_x="31 31 80 80 31 31"
+               polygon_y="237 250 250 236 236 237"/>
+      <element label="text-over-image" polygon_x="11 11 40 40 11 11"
+               polygon_y="27 45 45 26 26 27"/>
+   </layout>
+   <text>
+      <keyword>island</keyword>
+      <keyword>history</keyword>
+      <keyword>haven</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0009</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="16 16 105 105 16 16"
+               polygon_y="187 280 280 186 186 187"/>
+      <element label="text" polygon_x="111 111 200 200 111 111"
+               polygon_y="162 230 230 161 161 162"/>
+      <element label="text" polygon_x="16 16 105 105 16 16"
+               polygon_y="142 180 180 141 141 142"/>
+      <element label="text" polygon_x="111 111 200 200 111 111"
+               polygon_y="237 255 255 236 236 237"/>
+      <element label="text" polygon_x="111 111 200 200 111 111"
+               polygon_y="262 280 280 261 261 262"/>
+      <element label="text" polygon_x="111 111 200 200 111 111"
+               polygon_y="142 155 155 141 141 142"/>
+      <element label="text" polygon_x="16 16 55 55 16 16" polygon_y="17 35 35 16 16 17"/>
+      <element label="text" polygon_x="16 16 55 55 16 16" polygon_y="42 55 55 41 41 42"/>
+      <element label="text" polygon_x="21 21 70 70 21 21" polygon_y="122 130 130 121 121 122"/>
+      <element label="image" polygon_x="81 81 225 225 81 81" polygon_y="17 130 130 16 16 17"/>
+      <element label="image" polygon_x="16 16 75 75 16 16" polygon_y="62 115 115 61 61 62"/>
+   </layout>
+   <text>
+      <keyword>study</keyword>
+      <keyword>decade</keyword>
+      <keyword>research</keyword>
+      <keyword>effect</keyword>
+      <keyword>area</keyword>
+      <keyword>island</keyword>
+      <keyword>human</keyword>
+      <keyword>surface</keyword>
+   </text>
+</annotation>

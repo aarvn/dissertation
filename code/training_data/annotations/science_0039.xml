@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0039</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="16 16 85 85 16 16"
+               polygon_y="72 275 275 71 71 72"/>
+      <element label="text-over-image" polygon_x="56 56 170 170 56 56"
+               polygon_y="47 55 55 46 46 47"/>
+      <element label="text-over-image" polygon_x="136 136 205 205 136 136"
+               polygon_y="277 290 290 276 276 277"/>
+      <element label="text-over-image" polygon_x="11 11 40 40 11 11"
+               polygon_y="12 15 15 11 11 12"/>
+      <element label="text-over-image" polygon_x="96 96 125 125 96 96"
+               polygon_y="17 20 20 16 16 17"/>
+      <element label="headline-over-image" polygon_x="56 56 170 170 56 56"
+               polygon_y="27 40 40 26 26 27"/>
+   </layout>
+   <text>
+      <keyword>scientist</keyword>
+      <keyword>life</keyword>
+      <keyword>researcher</keyword>
+      <keyword>university</keyword>
+      <keyword>image</keyword>
+      <keyword>project</keyword>
+   </text>
+</annotation>

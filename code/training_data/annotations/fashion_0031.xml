@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0031</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="122 245 245 121 121 122"/>
+      <element label="text" polygon_x="151 151 205 205 151 151"
+               polygon_y="52 180 180 51 51 52"/>
+      <element label="text" polygon_x="86 86 145 145 86 86"
+               polygon_y="117 205 205 116 116 117"/>
+      <element label="text" polygon_x="101 101 190 190 101 101"
+               polygon_y="242 285 285 241 241 242"/>
+      <element label="text" polygon_x="36 36 76 76 76 135 135 36 36"
+               polygon_y="37 55 55 56 85 85 36 36 37"/>
+      <element label="text" polygon_x="26 26 70 70 26 26" polygon_y="62 85 85 61 61 62"/>
+      <element label="text" polygon_x="151 151 195 195 151 151"
+               polygon_y="187 210 210 186 186 187"/>
+      <element label="text" polygon_x="36 36 75 75 36 36" polygon_y="252 275 275 251 251 252"/>
+      <element label="text" polygon_x="41 41 65 65 41 41" polygon_y="97 110 110 96 96 97"/>
+      <element label="text" polygon_x="136 136 170 170 136 136"
+               polygon_y="227 235 235 226 226 227"/>
+      <element label="text" polygon_x="111 111 130 130 111 111"
+               polygon_y="97 110 110 96 96 97"/>
+      <element label="text" polygon_x="166 166 195 195 166 166" polygon_y="37 45 45 36 36 37"/>
+      <element label="text" polygon_x="76 76 100 100 76 76" polygon_y="17 25 25 16 16 17"/>
+      <element label="image" polygon_x="16 16 35 35 16 16" polygon_y="97 115 115 96 96 97"/>
+      <element label="image" polygon_x="51 51 70 70 51 51" polygon_y="12 30 30 11 11 12"/>
+      <element label="image" polygon_x="86 86 105 105 86 86" polygon_y="97 115 115 96 96 97"/>
+      <element label="image" polygon_x="101 101 120 120 101 101"
+               polygon_y="217 235 235 216 216 217"/>
+      <element label="image" polygon_x="196 196 215 215 196 196" polygon_y="32 50 50 31 31 32"/>
+   </layout>
+   <text>
+      <keyword>friend</keyword>
+      <keyword>talk</keyword>
+      <keyword>job</keyword>
+      <keyword>shoe</keyword>
+      <keyword>kid</keyword>
+      <keyword>laugh</keyword>
+      <keyword>clothes</keyword>
+      <keyword>cool</keyword>
+   </text>
+</annotation>

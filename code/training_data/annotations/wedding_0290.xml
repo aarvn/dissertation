@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0290</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 105 105 21 21"
+               polygon_y="197 240 240 196 196 197"/>
+      <element label="text" polygon_x="116 116 205 205 116 116"
+               polygon_y="67 105 105 66 66 67"/>
+      <element label="image" polygon_x="1 1 110 111 111 225 225 111 110 110 1 1"
+               polygon_y="247 300 300 296 295 295 196 196 245 246 246 247"/>
+      <element label="image" polygon_x="21 21 205 205 21 21"
+               polygon_y="112 190 190 111 111 112"/>
+      <element label="image" polygon_x="1 1 110 110 1 1" polygon_y="2 105 105 1 1 2"/>
+      <element label="image" polygon_x="116 116 225 225 116 116" polygon_y="7 60 60 6 6 7"/>
+      <element label="text-over-image" polygon_x="136 136 195 195 136 136"
+               polygon_y="122 185 185 121 121 122"/>
+      <element label="text-over-image" polygon_x="41 41 100 100 41 41"
+               polygon_y="37 95 95 36 36 37"/>
+   </layout>
+   <text>
+      <keyword>dress</keyword>
+      <keyword>place</keyword>
+      <keyword>book</keyword>
+      <keyword>dinner</keyword>
+   </text>
+</annotation>

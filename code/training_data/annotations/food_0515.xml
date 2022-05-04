@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0515</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="161 161 210 210 161 161"
+               polygon_y="167 280 280 166 166 167"/>
+      <element label="text" polygon_x="21 21 85 85 56 55 55 21 21"
+               polygon_y="217 280 280 181 181 215 216 216 217"/>
+      <element label="text" polygon_x="101 101 155 155 101 101"
+               polygon_y="187 280 280 186 186 187"/>
+      <element label="text" polygon_x="101 101 155 155 101 101"
+               polygon_y="167 180 180 166 166 167"/>
+      <element label="text" polygon_x="21 21 85 85 21 21" polygon_y="167 175 175 166 166 167"/>
+      <element label="image" polygon_x="1 1 155 155 125 125 125 1 1"
+               polygon_y="2 155 155 101 101 100 1 1 2"/>
+      <element label="image" polygon_x="131 131 225 225 131 131" polygon_y="2 95 95 1 1 2"/>
+      <element label="image" polygon_x="161 161 225 225 161 161"
+               polygon_y="102 155 155 101 101 102"/>
+      <element label="image" polygon_x="21 21 50 50 21 21" polygon_y="182 210 210 181 181 182"/>
+   </layout>
+   <text>
+      <keyword>salt</keyword>
+      <keyword>place</keyword>
+      <keyword>eat</keyword>
+      <keyword>food</keyword>
+      <keyword>restaurant</keyword>
+      <keyword>flavour</keyword>
+      <keyword>cheese</keyword>
+      <keyword>meat</keyword>
+      <keyword>milk</keyword>
+      <keyword>dry</keyword>
+   </text>
+</annotation>

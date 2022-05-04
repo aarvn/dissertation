@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0029</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="26 26 75 75 26 26" polygon_y="92 250 250 91 91 92"/>
+      <element label="text" polygon_x="26 26 130 130 26 26" polygon_y="17 85 85 16 16 17"/>
+      <element label="text" polygon_x="81 81 130 130 81 81"
+               polygon_y="157 285 285 156 156 157"/>
+      <element label="text" polygon_x="81 81 130 130 81 81" polygon_y="92 150 150 91 91 92"/>
+      <element label="text" polygon_x="26 26 75 75 26 26" polygon_y="257 285 285 256 256 257"/>
+      <element label="image" polygon_x="141 141 220 220 141 141"
+               polygon_y="77 225 225 76 76 77"/>
+      <element label="image" polygon_x="141 141 220 220 141 141" polygon_y="2 70 70 1 1 2"/>
+      <element label="image" polygon_x="141 141 220 220 141 141"
+               polygon_y="232 300 300 231 231 232"/>
+   </layout>
+   <text>
+      <keyword>love</keyword>
+      <keyword>couple</keyword>
+      <keyword>venue</keyword>
+      <keyword>family</keyword>
+      <keyword>friend</keyword>
+      <keyword>visit</keyword>
+      <keyword>perfect</keyword>
+      <keyword>important</keyword>
+      <keyword>book</keyword>
+      <keyword>plan</keyword>
+      <keyword>heart</keyword>
+      <keyword>idea</keyword>
+      <keyword>arrange</keyword>
+      <keyword>special</keyword>
+      <keyword>married</keyword>
+      <keyword>invite</keyword>
+      <keyword>location</keyword>
+      <keyword>serve</keyword>
+      <keyword>opportunity</keyword>
+      <keyword>dinner</keyword>
+   </text>
+</annotation>

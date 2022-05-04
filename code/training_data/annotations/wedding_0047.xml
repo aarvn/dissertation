@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0047</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 80 80 21 21" polygon_y="162 260 260 161 161 162"/>
+      <element label="text" polygon_x="21 21 205 205 21 21"
+               polygon_y="142 155 155 141 141 142"/>
+      <element label="text" polygon_x="146 146 205 205 146 146"
+               polygon_y="187 225 225 186 186 187"/>
+      <element label="text" polygon_x="146 146 200 200 146 146"
+               polygon_y="262 290 290 261 261 262"/>
+      <element label="text" polygon_x="21 21 80 80 21 21" polygon_y="267 290 290 266 266 267"/>
+      <element label="text" polygon_x="146 146 205 205 146 146"
+               polygon_y="232 255 255 231 231 232"/>
+      <element label="text" polygon_x="146 146 205 205 146 146"
+               polygon_y="162 180 180 161 161 162"/>
+      <element label="text" polygon_x="86 86 140 140 86 86"
+               polygon_y="277 290 290 276 276 277"/>
+      <element label="image" polygon_x="6 6 220 220 6 6" polygon_y="2 135 135 1 1 2"/>
+      <element label="image" polygon_x="86 86 140 140 86 86"
+               polygon_y="162 195 195 161 161 162"/>
+      <element label="image" polygon_x="86 86 140 140 86 86"
+               polygon_y="202 235 235 201 201 202"/>
+      <element label="image" polygon_x="86 86 140 140 86 86"
+               polygon_y="242 270 270 241 241 242"/>
+      <element label="headline-over-image" polygon_x="21 21 205 205 21 21"
+               polygon_y="12 35 35 11 11 12"/>
+   </layout>
+   <text>
+      <keyword>guest</keyword>
+      <keyword>budget</keyword>
+      <keyword>perfect</keyword>
+      <keyword>design</keyword>
+      <keyword>beach</keyword>
+      <keyword>relax</keyword>
+      <keyword>suit</keyword>
+      <keyword>restaurant</keyword>
+      <keyword>resort</keyword>
+      <keyword>island</keyword>
+      <keyword>taste</keyword>
+      <keyword>happy</keyword>
+      <keyword>menu</keyword>
+   </text>
+</annotation>

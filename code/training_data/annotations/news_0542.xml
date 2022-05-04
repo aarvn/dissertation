@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0542</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="81 81 210 210 81 81"
+               polygon_y="102 170 170 101 101 102"/>
+      <element label="text" polygon_x="11 11 60 60 11 11" polygon_y="67 190 190 66 66 67"/>
+      <element label="text" polygon_x="91 91 120 121 121 145 145 91 91"
+               polygon_y="217 275 275 241 240 240 216 216 217"/>
+      <element label="text" polygon_x="151 151 176 176 176 205 205 151 151"
+               polygon_y="217 240 240 241 275 275 216 216 217"/>
+      <element label="text" polygon_x="101 101 200 200 101 101"
+               polygon_y="192 210 210 191 191 192"/>
+      <element label="text" polygon_x="81 81 145 145 81 81" polygon_y="77 95 95 76 76 77"/>
+      <element label="text" polygon_x="11 11 60 60 11 11" polygon_y="37 60 60 36 36 37"/>
+      <element label="text" polygon_x="81 81 210 210 81 81"
+               polygon_y="177 180 180 176 176 177"/>
+      <element label="text" polygon_x="186 186 210 210 186 186" polygon_y="47 70 70 46 46 47"/>
+      <element label="text" polygon_x="21 21 50 50 21 21" polygon_y="217 235 235 216 216 217"/>
+      <element label="text" polygon_x="11 11 60 60 11 11" polygon_y="197 205 205 196 196 197"/>
+      <element label="image" polygon_x="81 81 180 180 81 81" polygon_y="2 70 70 1 1 2"/>
+      <element label="image" polygon_x="11 11 60 60 11 11" polygon_y="242 300 300 241 241 242"/>
+      <element label="image" polygon_x="126 126 170 170 126 126"
+               polygon_y="247 275 275 246 246 247"/>
+   </layout>
+   <text>
+      <keyword>woman</keyword>
+      <keyword>decade</keyword>
+      <keyword>family</keyword>
+      <keyword>fact</keyword>
+      <keyword>future</keyword>
+      <keyword>top</keyword>
+      <keyword>court</keyword>
+   </text>
+</annotation>

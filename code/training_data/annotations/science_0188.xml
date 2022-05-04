@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0188</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="41 41 210 210 41 41" polygon_y="37 55 55 36 36 37"/>
+      <element label="text" polygon_x="106 106 150 150 106 106"
+               polygon_y="222 280 280 221 221 222"/>
+      <element label="image"
+               polygon_x="16 16 100 101 101 126 126 126 156 156 156 210 210 161 160 160 155 155 155 71 70 70 65 65 65 16 16"
+               polygon_y="87 280 280 206 205 205 206 210 210 211 280 280 86 86 170 171 171 170 66 66 170 171 171 170 86 86 87"/>
+      <element label="image" polygon_x="16 16 35 35 16 16" polygon_y="22 55 55 21 21 22"/>
+      <element label="headline" polygon_x="41 41 195 195 41 41" polygon_y="22 30 30 21 21 22"/>
+      <element label="text-over-image" polygon_x="16 16 100 100 65 65 65 16 16"
+               polygon_y="87 280 280 171 171 170 86 86 87"/>
+      <element label="text-over-image"
+               polygon_x="126 126 156 156 156 210 210 161 160 160 126 126"
+               polygon_y="172 210 210 211 280 280 86 86 170 171 171 172"/>
+   </layout>
+   <text>
+      <keyword>researcher</keyword>
+      <keyword>decade</keyword>
+      <keyword>science</keyword>
+      <keyword>research</keyword>
+      <keyword>test</keyword>
+      <keyword>discover</keyword>
+      <keyword>issue</keyword>
+   </text>
+</annotation>

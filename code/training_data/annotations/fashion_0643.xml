@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0643</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="16 16 105 105 16 16"
+               polygon_y="232 285 285 231 231 232"/>
+      <element label="text" polygon_x="116 116 205 205 116 116"
+               polygon_y="232 285 285 231 231 232"/>
+      <element label="text" polygon_x="31 31 190 190 31 31"
+               polygon_y="212 225 225 211 211 212"/>
+      <element label="text" polygon_x="11 11 70 70 11 11" polygon_y="12 20 20 11 11 12"/>
+      <element label="text" polygon_x="26 26 50 50 26 26" polygon_y="132 140 140 131 131 132"/>
+      <element label="image" polygon_x="56 56 225 225 56 56" polygon_y="27 190 190 26 26 27"/>
+      <element label="image" polygon_x="1 1 50 50 1 1" polygon_y="47 125 125 46 46 47"/>
+      <element label="headline" polygon_x="66 66 150 150 66 66"
+               polygon_y="197 205 205 196 196 197"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>fashion</keyword>
+      <keyword>dress</keyword>
+      <keyword>art</keyword>
+      <keyword>collection</keyword>
+      <keyword>design</keyword>
+      <keyword>place</keyword>
+      <keyword>artist</keyword>
+   </text>
+</annotation>

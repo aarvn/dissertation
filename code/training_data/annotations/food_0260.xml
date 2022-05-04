@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0260</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="11 11 225 225 11 11" polygon_y="12 290 290 11 11 12"/>
+      <element label="text-over-image" polygon_x="121 121 210 210 121 121"
+               polygon_y="187 265 265 186 186 187"/>
+      <element label="text-over-image" polygon_x="41 41 75 75 41 41"
+               polygon_y="157 165 165 156 156 157"/>
+   </layout>
+   <text>
+      <keyword>flavour</keyword>
+      <keyword>fish</keyword>
+      <keyword>sweet</keyword>
+      <keyword>honey</keyword>
+   </text>
+</annotation>

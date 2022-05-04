@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0001</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="126 126 200 200 126 126"
+               polygon_y="177 245 245 176 176 177"/>
+      <element label="text" polygon_x="126 126 200 200 126 126"
+               polygon_y="252 280 280 251 251 252"/>
+      <element label="text" polygon_x="51 51 165 165 51 51"
+               polygon_y="162 170 170 161 161 162"/>
+      <element label="image" polygon_x="6 6 220 220 6 6" polygon_y="2 135 135 1 1 2"/>
+      <element label="image" polygon_x="6 6 120 120 6 6" polygon_y="177 300 300 176 176 177"/>
+      <element label="headline" polygon_x="26 26 200 200 26 26"
+               polygon_y="142 160 160 141 141 142"/>
+      <element label="text-over-image" polygon_x="26 26 110 110 26 26"
+               polygon_y="12 65 65 11 11 12"/>
+      <element label="text-over-image" polygon_x="116 116 200 200 116 116"
+               polygon_y="22 45 45 21 21 22"/>
+      <element label="text-over-image" polygon_x="116 116 200 200 116 116"
+               polygon_y="52 65 65 51 51 52"/>
+   </layout>
+   <text>
+      <keyword>guest</keyword>
+      <keyword>couple</keyword>
+      <keyword>family</keyword>
+      <keyword>choice</keyword>
+      <keyword>flower</keyword>
+      <keyword>design</keyword>
+      <keyword>book</keyword>
+      <keyword>beach</keyword>
+      <keyword>fit</keyword>
+      <keyword>resort</keyword>
+      <keyword>amaze</keyword>
+   </text>
+</annotation>

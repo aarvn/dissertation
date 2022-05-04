@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0095</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="141 141 190 190 141 141"
+               polygon_y="42 180 180 41 41 42"/>
+      <element label="text" polygon_x="31 31 80 80 31 31" polygon_y="162 285 285 161 161 162"/>
+      <element label="text" polygon_x="86 86 135 135 86 86" polygon_y="72 165 165 71 71 72"/>
+      <element label="text" polygon_x="141 141 190 190 141 141"
+               polygon_y="197 285 285 196 196 197"/>
+      <element label="text" polygon_x="31 31 80 80 31 31" polygon_y="77 155 155 76 76 77"/>
+      <element label="text" polygon_x="86 86 135 135 86 86"
+               polygon_y="222 275 275 221 221 222"/>
+      <element label="text" polygon_x="86 86 135 135 86 86" polygon_y="42 65 65 41 41 42"/>
+      <element label="text" polygon_x="86 86 135 135 86 86"
+               polygon_y="197 215 215 196 196 197"/>
+      <element label="text" polygon_x="31 31 80 80 31 31" polygon_y="42 55 55 41 41 42"/>
+      <element label="text" polygon_x="86 86 135 135 86 86"
+               polygon_y="172 180 180 171 171 172"/>
+      <element label="text" polygon_x="31 31 65 65 31 31" polygon_y="62 70 70 61 61 62"/>
+      <element label="image" polygon_x="31 31 80 80 31 31" polygon_y="2 35 35 1 1 2"/>
+      <element label="image" polygon_x="86 86 135 135 86 86" polygon_y="2 35 35 1 1 2"/>
+   </layout>
+   <text>
+      <keyword>recipe</keyword>
+      <keyword>season</keyword>
+      <keyword>bowl</keyword>
+      <keyword>eat</keyword>
+      <keyword>water</keyword>
+      <keyword>pan</keyword>
+      <keyword>fry</keyword>
+      <keyword>mixture</keyword>
+      <keyword>boil</keyword>
+      <keyword>egg</keyword>
+      <keyword>flour</keyword>
+      <keyword>soft</keyword>
+      <keyword>chilli</keyword>
+      <keyword>spice</keyword>
+      <keyword>coriander</keyword>
+   </text>
+</annotation>

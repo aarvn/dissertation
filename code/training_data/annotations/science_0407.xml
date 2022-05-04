@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0407</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 110 110 11 11"
+               polygon_y="177 285 285 176 176 177"/>
+      <element label="text" polygon_x="11 11 110 110 11 11" polygon_y="72 140 140 71 71 72"/>
+      <element label="text" polygon_x="116 116 215 215 116 116"
+               polygon_y="157 200 200 156 156 157"/>
+      <element label="text" polygon_x="116 116 215 215 116 116"
+               polygon_y="72 110 110 71 71 72"/>
+      <element label="text" polygon_x="116 116 215 215 116 116"
+               polygon_y="117 150 150 116 116 117"/>
+      <element label="text" polygon_x="116 116 215 215 116 116"
+               polygon_y="237 270 270 236 236 237"/>
+      <element label="text" polygon_x="11 11 205 205 11 11" polygon_y="47 60 60 46 46 47"/>
+      <element label="text" polygon_x="116 116 215 215 116 116"
+               polygon_y="207 230 230 206 206 207"/>
+      <element label="text" polygon_x="11 11 100 100 11 11"
+               polygon_y="147 170 170 146 146 147"/>
+      <element label="text" polygon_x="116 116 215 215 116 116"
+               polygon_y="277 285 285 276 276 277"/>
+      <element label="headline" polygon_x="11 11 100 100 11 11" polygon_y="32 40 40 31 31 32"/>
+   </layout>
+   <text>
+      <keyword>study</keyword>
+      <keyword>scientist</keyword>
+      <keyword>university</keyword>
+      <keyword>science</keyword>
+      <keyword>create</keyword>
+      <keyword>field</keyword>
+      <keyword>idea</keyword>
+      <keyword>experience</keyword>
+      <keyword>virus</keyword>
+      <keyword>lab</keyword>
+      <keyword>disease</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0430</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="76 76 195 195 76 76"
+               polygon_y="187 280 280 186 186 187"/>
+      <element label="text" polygon_x="181 181 195 195 181 181"
+               polygon_y="147 180 180 146 146 147"/>
+      <element label="text" polygon_x="26 26 55 55 26 26" polygon_y="22 30 30 21 21 22"/>
+      <element label="image" polygon_x="1 1 175 175 1 1" polygon_y="52 180 180 51 51 52"/>
+      <element label="image" polygon_x="26 26 70 70 26 26" polygon_y="237 280 280 236 236 237"/>
+      <element label="headline" polygon_x="26 26 65 65 26 26"
+               polygon_y="187 215 215 186 186 187"/>
+   </layout>
+   <text>
+      <keyword>story</keyword>
+   </text>
+</annotation>

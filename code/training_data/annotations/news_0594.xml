@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0594</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="41 41 125 125 41 41" polygon_y="62 290 290 61 61 62"/>
+      <element label="text" polygon_x="131 131 215 215 131 131"
+               polygon_y="62 180 180 61 61 62"/>
+      <element label="text" polygon_x="131 131 215 215 131 131"
+               polygon_y="187 290 290 186 186 187"/>
+      <element label="text" polygon_x="11 11 35 35 11 11" polygon_y="62 140 140 61 61 62"/>
+      <element label="text" polygon_x="11 11 60 60 11 11" polygon_y="12 15 15 11 11 12"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>man</keyword>
+      <keyword>idea</keyword>
+      <keyword>job</keyword>
+      <keyword>mind</keyword>
+      <keyword>moment</keyword>
+      <keyword>university</keyword>
+      <keyword>demand</keyword>
+      <keyword>street</keyword>
+      <keyword>history</keyword>
+      <keyword>meeting</keyword>
+      <keyword>important</keyword>
+      <keyword>freedom</keyword>
+   </text>
+</annotation>

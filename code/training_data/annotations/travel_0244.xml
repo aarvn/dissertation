@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0244</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="41 41 110 110 41 41" polygon_y="27 180 180 26 26 27"/>
+      <element label="text" polygon_x="116 116 180 180 116 116"
+               polygon_y="152 290 290 151 151 152"/>
+      <element label="image" polygon_x="6 6 110 110 6 6" polygon_y="187 290 290 186 186 187"/>
+      <element label="image" polygon_x="116 116 180 180 116 116"
+               polygon_y="27 140 140 26 26 27"/>
+   </layout>
+   <text>
+      <keyword>land</keyword>
+      <keyword>summer</keyword>
+      <keyword>city</keyword>
+      <keyword>book</keyword>
+      <keyword>art</keyword>
+      <keyword>visitor</keyword>
+   </text>
+</annotation>

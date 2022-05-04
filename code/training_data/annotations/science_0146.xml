@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0146</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 60 60 36 35 35 11 11"
+               polygon_y="192 270 270 166 166 190 191 191 192"/>
+      <element label="text" polygon_x="66 66 110 110 66 66"
+               polygon_y="167 245 245 166 166 167"/>
+      <element label="text" polygon_x="171 171 215 215 171 171"
+               polygon_y="182 235 235 181 181 182"/>
+      <element label="text" polygon_x="11 11 70 70 11 11" polygon_y="277 290 290 276 276 277"/>
+      <element label="text" polygon_x="66 66 100 100 66 66"
+               polygon_y="252 270 270 251 251 252"/>
+      <element label="text" polygon_x="116 116 160 160 131 130 130 116 116"
+               polygon_y="192 195 195 176 176 190 191 191 192"/>
+      <element label="text" polygon_x="116 116 160 160 131 130 130 116 116"
+               polygon_y="217 220 220 201 201 215 216 216 217"/>
+      <element label="text" polygon_x="116 116 160 160 131 130 130 116 116"
+               polygon_y="267 270 270 251 251 265 266 266 267"/>
+      <element label="text" polygon_x="171 171 215 215 171 171"
+               polygon_y="242 255 255 241 241 242"/>
+      <element label="text" polygon_x="116 116 160 160 131 130 130 116 116"
+               polygon_y="242 245 245 231 231 240 241 241 242"/>
+      <element label="text" polygon_x="186 186 220 220 186 186"
+               polygon_y="152 165 165 151 151 152"/>
+      <element label="text" polygon_x="121 121 165 165 121 121"
+               polygon_y="277 285 285 276 276 277"/>
+      <element label="text" polygon_x="76 76 115 115 76 76"
+               polygon_y="277 285 285 276 276 277"/>
+      <element label="text" polygon_x="171 171 200 200 171 171"
+               polygon_y="277 285 285 276 276 277"/>
+      <element label="text" polygon_x="116 116 160 160 116 116"
+               polygon_y="167 170 170 166 166 167"/>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 145 145 1 1 2"/>
+      <element label="image" polygon_x="11 11 35 35 11 11" polygon_y="152 185 185 151 151 152"/>
+      <element label="image" polygon_x="116 116 130 130 116 116"
+               polygon_y="177 190 190 176 176 177"/>
+      <element label="image" polygon_x="116 116 130 130 116 116"
+               polygon_y="202 215 215 201 201 202"/>
+      <element label="image" polygon_x="116 116 130 130 116 116"
+               polygon_y="227 240 240 226 226 227"/>
+      <element label="image" polygon_x="116 116 130 130 116 116"
+               polygon_y="252 265 265 251 251 252"/>
+      <element label="headline" polygon_x="36 36 165 165 36 36"
+               polygon_y="152 160 160 151 151 152"/>
+   </layout>
+   <text>
+      <keyword>earth</keyword>
+      <keyword>decade</keyword>
+      <keyword>discover</keyword>
+      <keyword>image</keyword>
+      <keyword>launch</keyword>
+      <keyword>design</keyword>
+      <keyword>issue</keyword>
+      <keyword>sky</keyword>
+      <keyword>space</keyword>
+      <keyword>universe</keyword>
+   </text>
+</annotation>

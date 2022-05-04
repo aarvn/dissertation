@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0577</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="111 111 205 205 111 111"
+               polygon_y="232 270 270 231 231 232"/>
+      <element label="text-over-image" polygon_x="11 11 55 55 11 11"
+               polygon_y="232 285 285 231 231 232"/>
+      <element label="text-over-image" polygon_x="111 111 205 205 111 111"
+               polygon_y="202 225 225 201 201 202"/>
+      <element label="text-over-image" polygon_x="11 11 100 100 11 11"
+               polygon_y="202 225 225 201 201 202"/>
+      <element label="text-over-image" polygon_x="61 61 100 100 61 61"
+               polygon_y="232 285 285 231 231 232"/>
+   </layout>
+   <text>
+      <keyword>stir</keyword>
+      <keyword>cool</keyword>
+      <keyword>garlic</keyword>
+      <keyword>golden</keyword>
+      <keyword>fridge</keyword>
+      <keyword>meat</keyword>
+      <keyword>dry</keyword>
+      <keyword>roast</keyword>
+   </text>
+</annotation>

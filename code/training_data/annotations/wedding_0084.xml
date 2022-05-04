@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0084</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="6 6 105 105 6 6" polygon_y="67 180 180 66 66 67"/>
+      <element label="text" polygon_x="6 6 105 105 6 6" polygon_y="17 60 60 16 16 17"/>
+      <element label="text" polygon_x="6 6 105 105 6 6" polygon_y="187 215 215 186 186 187"/>
+      <element label="text" polygon_x="126 126 215 215 126 126"
+               polygon_y="232 255 255 231 231 232"/>
+      <element label="text" polygon_x="126 126 215 215 126 126"
+               polygon_y="262 285 285 261 261 262"/>
+      <element label="text" polygon_x="21 21 90 90 21 21" polygon_y="277 285 285 276 276 277"/>
+      <element label="text" polygon_x="26 26 85 85 26 26" polygon_y="227 230 230 226 226 227"/>
+      <element label="image" polygon_x="116 116 225 225 116 116"
+               polygon_y="17 225 225 16 16 17"/>
+      <element label="image" polygon_x="6 6 105 105 6 6" polygon_y="237 270 270 236 236 237"/>
+      <element label="text-over-image" polygon_x="126 126 170 170 126 126"
+               polygon_y="27 60 60 26 26 27"/>
+   </layout>
+   <text>
+      <keyword>wedding</keyword>
+      <keyword>guest</keyword>
+      <keyword>love</keyword>
+      <keyword>bride</keyword>
+      <keyword>ceremony</keyword>
+      <keyword>reception</keyword>
+      <keyword>important</keyword>
+      <keyword>remember</keyword>
+      <keyword>fun</keyword>
+      <keyword>bridesmaid</keyword>
+      <keyword>party</keyword>
+      <keyword>hair</keyword>
+      <keyword>serve</keyword>
+      <keyword>appointment</keyword>
+      <keyword>vow</keyword>
+      <keyword>honor</keyword>
+   </text>
+</annotation>

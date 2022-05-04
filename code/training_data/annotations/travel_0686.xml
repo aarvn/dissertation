@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0686</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="146 146 210 210 146 146"
+               polygon_y="17 280 280 16 16 17"/>
+      <element label="text" polygon_x="11 11 75 75 55 55 55 11 11"
+               polygon_y="92 280 280 151 151 150 91 91 92"/>
+      <element label="text" polygon_x="81 81 140 140 81 81"
+               polygon_y="152 280 280 151 151 152"/>
+      <element label="text" polygon_x="11 11 55 56 56 75 75 11 11"
+               polygon_y="17 85 85 66 65 65 16 16 17"/>
+      <element label="text" polygon_x="81 81 140 140 81 81" polygon_y="17 65 65 16 16 17"/>
+      <element label="text" polygon_x="81 81 120 120 81 81" polygon_y="72 140 140 71 71 72"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>garden</keyword>
+      <keyword>air</keyword>
+      <keyword>dog</keyword>
+      <keyword>dream</keyword>
+   </text>
+</annotation>

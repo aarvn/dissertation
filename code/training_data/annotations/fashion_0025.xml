@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0025</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="16 16 105 105 16 16" polygon_y="32 280 280 31 31 32"/>
+      <element label="text" polygon_x="116 116 205 205 116 116"
+               polygon_y="82 220 220 81 81 82"/>
+      <element label="text" polygon_x="116 116 205 205 116 116"
+               polygon_y="232 280 280 231 231 232"/>
+      <element label="text" polygon_x="116 116 200 200 116 116" polygon_y="27 70 70 26 26 27"/>
+   </layout>
+   <text>
+      <keyword>woman</keyword>
+      <keyword>friend</keyword>
+      <keyword>girl</keyword>
+      <keyword>man</keyword>
+      <keyword>inspire</keyword>
+      <keyword>child</keyword>
+      <keyword>hair</keyword>
+      <keyword>place</keyword>
+      <keyword>star</keyword>
+      <keyword>picture</keyword>
+      <keyword>body</keyword>
+      <keyword>shoe</keyword>
+      <keyword>company</keyword>
+      <keyword>laugh</keyword>
+      <keyword>clothes</keyword>
+      <keyword>shop</keyword>
+      <keyword>instagram</keyword>
+   </text>
+</annotation>

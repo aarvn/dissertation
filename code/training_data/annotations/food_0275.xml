@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0275</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="151 151 205 205 151 151"
+               polygon_y="167 280 280 166 166 167"/>
+      <element label="text" polygon_x="86 86 140 140 86 86"
+               polygon_y="197 280 280 196 196 197"/>
+      <element label="text" polygon_x="151 151 195 195 151 151"
+               polygon_y="132 150 150 131 131 132"/>
+      <element label="image" polygon_x="11 11 145 145 11 11" polygon_y="2 100 100 1 1 2"/>
+      <element label="image" polygon_x="11 11 145 145 11 11"
+               polygon_y="107 190 190 106 106 107"/>
+      <element label="image" polygon_x="151 151 215 215 151 151"
+               polygon_y="22 125 125 21 21 22"/>
+      <element label="image" polygon_x="21 21 80 80 21 21" polygon_y="202 280 280 201 201 202"/>
+   </layout>
+   <text>
+      <keyword>salt</keyword>
+      <keyword>oven</keyword>
+      <keyword>bake</keyword>
+      <keyword>cheese</keyword>
+      <keyword>hot</keyword>
+      <keyword>market</keyword>
+      <keyword>lunch</keyword>
+   </text>
+</annotation>

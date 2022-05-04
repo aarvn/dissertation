@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0346</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="21 21 85 85 21 21"
+               polygon_y="82 140 140 81 81 82"/>
+      <element label="text-over-image" polygon_x="121 121 165 165 121 121"
+               polygon_y="82 125 125 81 81 82"/>
+      <element label="text-over-image" polygon_x="86 86 135 135 86 86"
+               polygon_y="237 275 275 236 236 237"/>
+      <element label="text-over-image" polygon_x="166 166 205 205 166 166"
+               polygon_y="237 270 270 236 236 237"/>
+   </layout>
+   <text>
+      <keyword>style</keyword>
+      <keyword>perfect</keyword>
+   </text>
+</annotation>

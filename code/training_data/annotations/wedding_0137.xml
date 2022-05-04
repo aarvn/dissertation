@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0137</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="6 6 85 85 6 6" polygon_y="132 220 220 131 131 132"/>
+      <element label="text" polygon_x="6 6 85 85 6 6" polygon_y="62 125 125 61 61 62"/>
+      <element label="text" polygon_x="6 6 85 85 6 6" polygon_y="262 295 295 261 261 262"/>
+      <element label="text" polygon_x="6 6 85 85 6 6" polygon_y="227 255 255 226 226 227"/>
+      <element label="text" polygon_x="6 6 95 95 6 6" polygon_y="47 50 50 46 46 47"/>
+      <element label="image" polygon_x="91 91 225 225 91 91" polygon_y="62 275 275 61 61 62"/>
+      <element label="headline" polygon_x="6 6 160 160 6 6" polygon_y="27 40 40 26 26 27"/>
+   </layout>
+   <text>
+      <keyword>guest</keyword>
+      <keyword>style</keyword>
+      <keyword>ceremony</keyword>
+      <keyword>reception</keyword>
+      <keyword>important</keyword>
+      <keyword>plan</keyword>
+      <keyword>moment</keyword>
+      <keyword>image</keyword>
+      <keyword>drink</keyword>
+      <keyword>space</keyword>
+      <keyword>party</keyword>
+      <keyword>food</keyword>
+      <keyword>opportunity</keyword>
+      <keyword>music</keyword>
+      <keyword>menu</keyword>
+   </text>
+</annotation>

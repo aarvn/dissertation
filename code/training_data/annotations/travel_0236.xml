@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0236</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="26 26 155 155 56 55 55 26 26"
+               polygon_y="167 195 195 121 121 165 166 166 167"/>
+      <element label="text" polygon_x="36 36 105 105 36 36" polygon_y="27 110 110 26 26 27"/>
+      <element label="text" polygon_x="106 106 195 195 155 155 155 106 106"
+               polygon_y="207 280 280 261 261 260 206 206 207"/>
+      <element label="text" polygon_x="41 41 80 80 41 41" polygon_y="232 280 280 231 231 232"/>
+      <element label="text" polygon_x="176 176 205 205 176 176"
+               polygon_y="127 190 190 126 126 127"/>
+      <element label="text" polygon_x="41 41 80 80 41 41" polygon_y="207 225 225 206 206 207"/>
+      <element label="image" polygon_x="111 111 210 210 111 111" polygon_y="2 110 110 1 1 2"/>
+      <element label="image" polygon_x="161 161 195 195 161 161"
+               polygon_y="207 255 255 206 206 207"/>
+      <element label="image" polygon_x="26 26 55 55 26 26" polygon_y="122 165 165 121 121 122"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>man</keyword>
+      <keyword>island</keyword>
+      <keyword>wild</keyword>
+      <keyword>moment</keyword>
+   </text>
+</annotation>

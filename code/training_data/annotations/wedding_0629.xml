@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0629</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="16 16 80 80 16 16" polygon_y="62 160 160 61 61 62"/>
+      <element label="text" polygon_x="16 16 80 80 16 16" polygon_y="217 285 285 216 216 217"/>
+      <element label="text" polygon_x="16 16 80 80 16 16" polygon_y="167 210 210 166 166 167"/>
+      <element label="text" polygon_x="86 86 215 215 86 86"
+               polygon_y="272 285 285 271 271 272"/>
+      <element label="text" polygon_x="86 86 145 145 86 86" polygon_y="62 80 80 61 61 62"/>
+      <element label="text" polygon_x="91 91 145 145 91 91" polygon_y="42 55 55 41 41 42"/>
+      <element label="image" polygon_x="86 86 215 215 86 86" polygon_y="87 270 270 86 86 87"/>
+      <element label="image" polygon_x="151 151 215 215 151 151" polygon_y="2 80 80 1 1 2"/>
+      <element label="text-over-image" polygon_x="121 121 175 175 121 121"
+               polygon_y="207 210 210 206 206 207"/>
+   </layout>
+   <text>
+      <keyword>couple</keyword>
+      <keyword>choice</keyword>
+      <keyword>life</keyword>
+      <keyword>plan</keyword>
+      <keyword>experience</keyword>
+      <keyword>heart</keyword>
+      <keyword>fun</keyword>
+      <keyword>fit</keyword>
+      <keyword>amaze</keyword>
+      <keyword>husband</keyword>
+      <keyword>great</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0401</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="16 16 60 60 16 16" polygon_y="67 155 155 66 66 67"/>
+      <element label="text" polygon_x="166 166 210 210 166 166"
+               polygon_y="202 290 290 201 201 202"/>
+      <element label="text" polygon_x="66 66 110 110 66 66"
+               polygon_y="162 245 245 161 161 162"/>
+      <element label="text" polygon_x="116 116 160 160 116 116"
+               polygon_y="217 290 290 216 216 217"/>
+      <element label="text" polygon_x="16 16 60 60 16 16" polygon_y="162 225 225 161 161 162"/>
+      <element label="text" polygon_x="166 166 210 210 166 166"
+               polygon_y="132 195 195 131 131 132"/>
+      <element label="text" polygon_x="16 16 60 60 16 16" polygon_y="232 290 290 231 231 232"/>
+      <element label="text" polygon_x="66 66 110 110 66 66" polygon_y="42 100 100 41 41 42"/>
+      <element label="text" polygon_x="116 116 160 160 116 116"
+               polygon_y="152 210 210 151 151 152"/>
+      <element label="text" polygon_x="66 66 110 110 66 66"
+               polygon_y="107 155 155 106 106 107"/>
+      <element label="text" polygon_x="66 66 110 110 66 66"
+               polygon_y="252 290 290 251 251 252"/>
+      <element label="text" polygon_x="116 116 210 210 116 116"
+               polygon_y="117 125 125 116 116 117"/>
+      <element label="text" polygon_x="66 66 110 110 66 66" polygon_y="17 35 35 16 16 17"/>
+      <element label="text" polygon_x="116 116 160 160 116 116"
+               polygon_y="132 145 145 131 131 132"/>
+      <element label="image" polygon_x="116 116 225 225 116 116" polygon_y="2 115 115 1 1 2"/>
+      <element label="headline" polygon_x="21 21 55 55 21 21" polygon_y="32 55 55 31 31 32"/>
+   </layout>
+   <text>
+      <keyword>decade</keyword>
+      <keyword>state</keyword>
+      <keyword>city</keyword>
+      <keyword>death</keyword>
+      <keyword>grow</keyword>
+      <keyword>love</keyword>
+   </text>
+</annotation>

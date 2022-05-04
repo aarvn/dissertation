@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0330</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="116 116 200 200 116 116"
+               polygon_y="122 180 180 121 121 122"/>
+      <element label="text-over-image" polygon_x="116 116 200 200 116 116"
+               polygon_y="237 275 275 236 236 237"/>
+      <element label="text-over-image" polygon_x="116 116 200 200 116 116"
+               polygon_y="47 80 80 46 46 47"/>
+      <element label="text-over-image" polygon_x="116 116 200 200 116 116"
+               polygon_y="187 210 210 186 186 187"/>
+      <element label="text-over-image" polygon_x="116 116 185 185 116 116"
+               polygon_y="87 115 115 86 86 87"/>
+      <element label="text-over-image" polygon_x="116 116 200 200 116 116"
+               polygon_y="27 40 40 26 26 27"/>
+      <element label="text-over-image" polygon_x="116 116 185 185 116 116"
+               polygon_y="217 230 230 216 216 217"/>
+      <element label="text-over-image" polygon_x="11 11 50 50 11 11"
+               polygon_y="12 20 20 11 11 12"/>
+   </layout>
+   <text>
+      <keyword>salt</keyword>
+      <keyword>heat</keyword>
+      <keyword>recipe</keyword>
+      <keyword>oil</keyword>
+      <keyword>oven</keyword>
+      <keyword>water</keyword>
+      <keyword>garlic</keyword>
+      <keyword>boil</keyword>
+      <keyword>ingredient</keyword>
+      <keyword>flour</keyword>
+      <keyword>pepper</keyword>
+      <keyword>juice</keyword>
+      <keyword>meat</keyword>
+      <keyword>sauce</keyword>
+      <keyword>hot</keyword>
+      <keyword>grill</keyword>
+   </text>
+</annotation>

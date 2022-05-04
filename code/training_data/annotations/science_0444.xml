@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0444</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="151 151 210 210 151 151"
+               polygon_y="187 280 280 186 186 187"/>
+      <element label="text" polygon_x="81 81 140 140 81 81"
+               polygon_y="187 275 275 186 186 187"/>
+      <element label="text" polygon_x="16 16 65 65 16 16" polygon_y="192 230 230 191 191 192"/>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 170 170 1 1 2"/>
+   </layout>
+   <text>
+      <keyword>country</keyword>
+      <keyword>group</keyword>
+   </text>
+</annotation>

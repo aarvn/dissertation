@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0224</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="116 116 160 160 116 116"
+               polygon_y="182 280 280 181 181 182"/>
+      <element label="text" polygon_x="16 16 55 55 16 16" polygon_y="182 275 275 181 181 182"/>
+      <element label="text" polygon_x="66 66 105 105 66 66"
+               polygon_y="192 280 280 191 191 192"/>
+      <element label="text" polygon_x="171 171 205 205 171 171"
+               polygon_y="192 280 280 191 191 192"/>
+      <element label="text" polygon_x="16 16 95 95 16 16" polygon_y="82 115 115 81 81 82"/>
+      <element label="text" polygon_x="66 66 105 105 66 66"
+               polygon_y="122 185 185 121 121 122"/>
+      <element label="text" polygon_x="116 116 160 160 116 116"
+               polygon_y="122 175 175 121 121 122"/>
+      <element label="text" polygon_x="171 171 205 205 171 171"
+               polygon_y="122 185 185 121 121 122"/>
+      <element label="text" polygon_x="16 16 55 55 16 16" polygon_y="122 175 175 121 121 122"/>
+      <element label="text" polygon_x="6 6 15 16 16 55 55 6 6"
+               polygon_y="7 75 75 16 15 15 6 6 7"/>
+      <element label="text" polygon_x="31 31 85 85 31 31" polygon_y="67 75 75 66 66 67"/>
+      <element label="image" polygon_x="101 101 220 220 101 101" polygon_y="7 115 115 6 6 7"/>
+      <element label="headline" polygon_x="26 26 95 95 26 26" polygon_y="22 60 60 21 21 22"/>
+      <element label="text-over-image" polygon_x="186 186 215 215 186 186"
+               polygon_y="97 110 110 96 96 97"/>
+   </layout>
+   <text>
+      <keyword>love</keyword>
+      <keyword>friend</keyword>
+      <keyword>book</keyword>
+      <keyword>fun</keyword>
+      <keyword>relationship</keyword>
+      <keyword>important</keyword>
+      <keyword>role</keyword>
+   </text>
+</annotation>

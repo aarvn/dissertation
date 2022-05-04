@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0400</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="86 86 150 150 86 86"
+               polygon_y="197 280 280 196 196 197"/>
+      <element label="text" polygon_x="156 156 220 220 156 156"
+               polygon_y="197 280 280 196 196 197"/>
+      <element label="text" polygon_x="21 21 80 80 21 21" polygon_y="197 280 280 196 196 197"/>
+      <element label="text" polygon_x="166 166 205 205 166 166" polygon_y="57 95 95 56 56 57"/>
+      <element label="text" polygon_x="166 166 205 205 166 166"
+               polygon_y="102 135 135 101 101 102"/>
+      <element label="text" polygon_x="166 166 205 205 166 166"
+               polygon_y="142 175 175 141 141 142"/>
+      <element label="text" polygon_x="21 21 90 90 21 21" polygon_y="287 295 295 286 286 287"/>
+      <element label="text" polygon_x="166 166 205 205 166 166" polygon_y="42 50 50 41 41 42"/>
+      <element label="image" polygon_x="1 1 150 150 1 1" polygon_y="2 185 185 1 1 2"/>
+      <element label="text-over-image" polygon_x="116 116 145 145 116 116"
+               polygon_y="12 25 25 11 11 12"/>
+   </layout>
+   <text>
+      <keyword>view</keyword>
+      <keyword>explore</keyword>
+      <keyword>couple</keyword>
+      <keyword>island</keyword>
+      <keyword>bird</keyword>
+      <keyword>imagine</keyword>
+      <keyword>woman</keyword>
+      <keyword>smile</keyword>
+   </text>
+</annotation>

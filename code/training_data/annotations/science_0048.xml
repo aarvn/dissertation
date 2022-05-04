@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0048</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="116 116 210 210 116 116"
+               polygon_y="157 185 185 156 156 157"/>
+      <element label="text" polygon_x="156 156 195 195 156 156"
+               polygon_y="267 285 285 266 266 267"/>
+      <element label="text" polygon_x="116 116 150 150 116 116"
+               polygon_y="267 285 285 266 266 267"/>
+      <element label="image" polygon_x="6 6 220 220 6 6" polygon_y="12 150 150 11 11 12"/>
+      <element label="image" polygon_x="6 6 110 110 6 6" polygon_y="157 295 295 156 156 157"/>
+      <element label="image" polygon_x="116 116 220 220 116 116"
+               polygon_y="192 260 260 191 191 192"/>
+      <element label="text-over-image" polygon_x="186 186 215 215 186 186"
+               polygon_y="132 145 145 131 131 132"/>
+   </layout>
+   <text>
+      <keyword>launch</keyword>
+      <keyword>land</keyword>
+   </text>
+</annotation>

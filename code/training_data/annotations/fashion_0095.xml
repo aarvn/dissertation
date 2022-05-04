@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0095</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="151 151 220 220 151 151"
+               polygon_y="82 220 220 81 81 82"/>
+      <element label="text" polygon_x="6 6 70 70 6 6" polygon_y="192 285 285 191 191 192"/>
+      <element label="text" polygon_x="81 81 115 116 116 145 145 81 81"
+               polygon_y="162 285 285 221 220 220 161 161 162"/>
+      <element label="text" polygon_x="151 151 220 220 151 151" polygon_y="32 75 75 31 31 32"/>
+      <element label="text" polygon_x="6 6 65 65 6 6" polygon_y="162 185 185 161 161 162"/>
+      <element label="image" polygon_x="1 1 145 145 1 1" polygon_y="2 135 135 1 1 2"/>
+      <element label="image" polygon_x="121 121 225 225 121 121"
+               polygon_y="227 300 300 226 226 227"/>
+      <element label="headline" polygon_x="6 6 145 145 6 6"
+               polygon_y="142 155 155 141 141 142"/>
+   </layout>
+   <text>
+      <keyword>love</keyword>
+      <keyword>life</keyword>
+      <keyword>mother</keyword>
+      <keyword>idea</keyword>
+      <keyword>story</keyword>
+      <keyword>collection</keyword>
+      <keyword>scent</keyword>
+      <keyword>fragrance</keyword>
+      <keyword>ring</keyword>
+      <keyword>fit</keyword>
+      <keyword>celebrate</keyword>
+      <keyword>chanel</keyword>
+      <keyword>bracelet</keyword>
+   </text>
+</annotation>

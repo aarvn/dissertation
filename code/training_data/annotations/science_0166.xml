@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0166</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="6 6 110 110 6 6" polygon_y="132 145 145 131 131 132"/>
+      <element label="text" polygon_x="6 6 110 110 6 6" polygon_y="202 215 215 201 201 202"/>
+      <element label="text" polygon_x="6 6 110 110 6 6" polygon_y="272 285 285 271 271 272"/>
+      <element label="text" polygon_x="116 116 220 220 116 116"
+               polygon_y="132 145 145 131 131 132"/>
+      <element label="text" polygon_x="116 116 220 220 116 116"
+               polygon_y="202 215 215 201 201 202"/>
+      <element label="text" polygon_x="116 116 220 220 116 116"
+               polygon_y="272 285 285 271 271 272"/>
+      <element label="text" polygon_x="6 6 75 75 6 6" polygon_y="52 70 70 51 51 52"/>
+      <element label="text" polygon_x="81 81 145 145 81 81" polygon_y="52 70 70 51 51 52"/>
+      <element label="text" polygon_x="131 131 215 215 131 131" polygon_y="7 20 20 6 6 7"/>
+      <element label="text" polygon_x="151 151 220 220 151 151" polygon_y="57 70 70 56 56 57"/>
+      <element label="text" polygon_x="6 6 180 180 6 6" polygon_y="42 45 45 41 41 42"/>
+      <element label="image" polygon_x="6 6 110 110 6 6" polygon_y="72 130 130 71 71 72"/>
+      <element label="image" polygon_x="116 116 220 220 116 116"
+               polygon_y="72 130 130 71 71 72"/>
+      <element label="image" polygon_x="6 6 110 110 6 6" polygon_y="147 200 200 146 146 147"/>
+      <element label="image" polygon_x="6 6 110 110 6 6" polygon_y="217 270 270 216 216 217"/>
+      <element label="image" polygon_x="116 116 220 220 116 116"
+               polygon_y="147 200 200 146 146 147"/>
+      <element label="image" polygon_x="116 116 220 220 116 116"
+               polygon_y="217 270 270 216 216 217"/>
+      <element label="headline" polygon_x="6 6 100 100 6 6" polygon_y="32 40 40 31 31 32"/>
+   </layout>
+   <text>
+      <keyword>test</keyword>
+      <keyword>area</keyword>
+      <keyword>image</keyword>
+      <keyword>focus</keyword>
+      <keyword>sky</keyword>
+      <keyword>camera</keyword>
+   </text>
+</annotation>

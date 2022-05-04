@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0350</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="151 151 220 220 151 151"
+               polygon_y="22 285 285 21 21 22"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="122 285 285 121 121 122"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="122 285 285 121 121 122"/>
+      <element label="text" polygon_x="11 11 145 145 11 11" polygon_y="77 115 115 76 76 77"/>
+      <element label="text" polygon_x="11 11 145 145 11 11" polygon_y="62 70 70 61 61 62"/>
+      <element label="text" polygon_x="11 11 40 40 11 11" polygon_y="22 25 25 21 21 22"/>
+      <element label="headline" polygon_x="11 11 145 145 11 11" polygon_y="32 55 55 31 31 32"/>
+   </layout>
+   <text>
+      <keyword>test</keyword>
+      <keyword>effect</keyword>
+      <keyword>virus</keyword>
+      <keyword>technology</keyword>
+      <keyword>release</keyword>
+   </text>
+</annotation>

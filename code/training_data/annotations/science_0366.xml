@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0366</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="86 86 171 171 171 210 210 86 86"
+               polygon_y="32 140 140 141 195 195 31 31 32"/>
+      <element label="text" polygon_x="11 11 75 75 60 60 61 61 75 75 11 11"
+               polygon_y="32 285 285 236 236 235 141 140 140 31 31 32"/>
+      <element label="image" polygon_x="66 66 81 81 81 225 225 165 165 165 66 66"
+               polygon_y="147 230 230 231 300 300 201 201 200 146 146 147"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>human</keyword>
+      <keyword>nature</keyword>
+      <keyword>animal</keyword>
+      <keyword>cancer</keyword>
+      <keyword>disease</keyword>
+      <keyword>problem</keyword>
+      <keyword>release</keyword>
+      <keyword>specie</keyword>
+      <keyword>develop</keyword>
+   </text>
+</annotation>

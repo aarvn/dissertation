@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0053</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="26 26 200 200 26 26"
+               polygon_y="267 285 285 266 266 267"/>
+      <element label="image" polygon_x="11 11 210 210 11 11" polygon_y="22 160 160 21 21 22"/>
+      <element label="image" polygon_x="11 11 140 140 11 11"
+               polygon_y="167 260 260 166 166 167"/>
+      <element label="image" polygon_x="146 146 210 210 146 146"
+               polygon_y="167 260 260 166 166 167"/>
+   </layout>
+   <text>
+      <keyword>top</keyword>
+      <keyword>publish</keyword>
+   </text>
+</annotation>

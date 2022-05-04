@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0383</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="146 146 210 210 146 146"
+               polygon_y="17 290 290 16 16 17"/>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="172 290 290 171 171 172"/>
+      <element label="text" polygon_x="81 81 140 140 81 81"
+               polygon_y="172 290 290 171 171 172"/>
+      <element label="text" polygon_x="41 41 120 120 41 41"
+               polygon_y="147 155 155 146 146 147"/>
+      <element label="image" polygon_x="16 16 140 140 16 16" polygon_y="17 140 140 16 16 17"/>
+   </layout>
+   <text>
+      <keyword>power</keyword>
+      <keyword>state</keyword>
+      <keyword>win</keyword>
+      <keyword>bad</keyword>
+      <keyword>money</keyword>
+      <keyword>issue</keyword>
+      <keyword>problem</keyword>
+      <keyword>office</keyword>
+      <keyword>campaign</keyword>
+      <keyword>vote</keyword>
+      <keyword>deal</keyword>
+      <keyword>question</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0449</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="151 151 210 210 151 151"
+               polygon_y="17 290 290 16 16 17"/>
+      <element label="text" polygon_x="86 86 145 145 86 86"
+               polygon_y="167 290 290 166 166 167"/>
+      <element label="text" polygon_x="16 16 80 80 16 16" polygon_y="167 265 265 166 166 167"/>
+      <element label="text" polygon_x="16 16 80 80 16 16" polygon_y="272 290 290 271 271 272"/>
+      <element label="text" polygon_x="61 61 100 100 61 61" polygon_y="17 20 20 16 16 17"/>
+      <element label="text" polygon_x="61 61 100 100 61 61" polygon_y="52 55 55 51 51 52"/>
+      <element label="image" polygon_x="16 16 145 145 16 16" polygon_y="62 160 160 61 61 62"/>
+      <element label="headline" polygon_x="26 26 130 130 26 26" polygon_y="27 45 45 26 26 27"/>
+   </layout>
+   <text>
+      <keyword>party</keyword>
+      <keyword>place</keyword>
+      <keyword>friend</keyword>
+      <keyword>idea</keyword>
+      <keyword>plan</keyword>
+      <keyword>street</keyword>
+      <keyword>sense</keyword>
+      <keyword>important</keyword>
+   </text>
+</annotation>

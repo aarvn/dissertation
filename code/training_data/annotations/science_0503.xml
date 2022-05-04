@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0503</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="232 290 290 231 231 232"/>
+      <element label="text" polygon_x="6 6 75 75 6 6" polygon_y="247 290 290 246 246 247"/>
+      <element label="text" polygon_x="6 6 220 220 6 6" polygon_y="187 195 195 186 186 187"/>
+      <element label="text" polygon_x="151 151 220 220 151 151"
+               polygon_y="232 260 260 231 231 232"/>
+      <element label="text" polygon_x="151 151 220 220 151 151"
+               polygon_y="267 290 290 266 266 267"/>
+      <element label="text" polygon_x="11 11 90 90 11 11" polygon_y="17 35 35 16 16 17"/>
+      <element label="text" polygon_x="126 126 175 175 126 126" polygon_y="17 40 40 16 16 17"/>
+      <element label="text" polygon_x="6 6 195 195 6 6" polygon_y="222 225 225 221 221 222"/>
+      <element label="text" polygon_x="6 6 50 50 6 6" polygon_y="232 240 240 231 231 232"/>
+      <element label="image" polygon_x="6 6 220 220 6 6" polygon_y="57 185 185 56 56 57"/>
+      <element label="image" polygon_x="186 186 225 225 186 186" polygon_y="17 40 40 16 16 17"/>
+      <element label="headline" polygon_x="6 6 185 185 6 6"
+               polygon_y="202 215 215 201 201 202"/>
+   </layout>
+   <text>
+      <keyword>study</keyword>
+      <keyword>issue</keyword>
+      <keyword>system</keyword>
+      <keyword>state</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0273</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="26 26 75 75 26 26" polygon_y="122 245 245 121 121 122"/>
+      <element label="text" polygon_x="26 26 75 75 26 26" polygon_y="252 270 270 251 251 252"/>
+      <element label="text" polygon_x="26 26 75 75 26 26" polygon_y="107 115 115 106 106 107"/>
+      <element label="image" polygon_x="81 81 215 215 81 81" polygon_y="12 180 180 11 11 12"/>
+      <element label="image" polygon_x="81 81 145 145 81 81"
+               polygon_y="187 280 280 186 186 187"/>
+      <element label="image" polygon_x="151 151 215 215 151 151"
+               polygon_y="187 280 280 186 186 187"/>
+      <element label="image" polygon_x="21 21 75 75 21 21" polygon_y="12 100 100 11 11 12"/>
+      <element label="text-over-image" polygon_x="151 151 210 210 151 151"
+               polygon_y="167 180 180 166 166 167"/>
+   </layout>
+   <text>
+      <keyword>eat</keyword>
+      <keyword>food</keyword>
+      <keyword>wine</keyword>
+      <keyword>book</keyword>
+   </text>
+</annotation>

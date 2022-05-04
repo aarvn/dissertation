@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0562</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="16 16 70 70 16 16" polygon_y="12 25 25 11 11 12"/>
+      <element label="image" polygon_x="11 11 215 215 11 11" polygon_y="27 285 285 26 26 27"/>
+      <element label="text-over-image" polygon_x="16 16 70 70 16 16"
+               polygon_y="242 280 280 241 241 242"/>
+   </layout>
+   <text>
+      <keyword>top</keyword>
+   </text>
+</annotation>

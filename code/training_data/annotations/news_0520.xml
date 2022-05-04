@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0520</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="157 290 290 156 156 157"/>
+      <element label="text" polygon_x="106 106 170 170 106 106"
+               polygon_y="157 290 290 156 156 157"/>
+      <element label="text" polygon_x="181 181 210 210 181 181"
+               polygon_y="52 235 235 51 51 52"/>
+      <element label="text" polygon_x="11 11 65 65 11 11" polygon_y="22 35 35 21 21 22"/>
+      <element label="text" polygon_x="81 81 100 100 81 81"
+               polygon_y="212 245 245 211 211 212"/>
+      <element label="text" polygon_x="101 101 125 125 101 101" polygon_y="12 15 15 11 11 12"/>
+      <element label="image" polygon_x="11 11 175 175 11 11" polygon_y="52 130 130 51 51 52"/>
+      <element label="image" polygon_x="171 171 220 220 171 171"
+               polygon_y="247 290 290 246 246 247"/>
+      <element label="image" polygon_x="81 81 100 100 81 81"
+               polygon_y="182 205 205 181 181 182"/>
+      <element label="headline" polygon_x="11 11 110 110 11 11"
+               polygon_y="137 150 150 136 136 137"/>
+   </layout>
+   <text>
+      <keyword>death</keyword>
+      <keyword>young</keyword>
+   </text>
+</annotation>

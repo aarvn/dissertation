@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0511</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="52 290 290 51 51 52"/>
+      <element label="text" polygon_x="156 156 215 215 156 156"
+               polygon_y="52 240 240 51 51 52"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="132 290 290 131 131 132"/>
+      <element label="text" polygon_x="81 81 145 145 81 81" polygon_y="52 125 125 51 51 52"/>
+      <element label="image" polygon_x="156 156 215 215 156 156"
+               polygon_y="247 290 290 246 246 247"/>
+      <element label="text-over-image" polygon_x="156 156 170 170 156 156"
+               polygon_y="247 260 260 246 246 247"/>
+   </layout>
+   <text>
+      <keyword>president</keyword>
+      <keyword>debate</keyword>
+      <keyword>group</keyword>
+      <keyword>campaign</keyword>
+      <keyword>deal</keyword>
+      <keyword>serve</keyword>
+      <keyword>question</keyword>
+      <keyword>freedom</keyword>
+      <keyword>speech</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>travel_0481</filename>
+   <category>travel</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="126 126 205 205 126 126"
+               polygon_y="212 280 280 211 211 212"/>
+      <element label="text" polygon_x="6 6 85 85 6 6" polygon_y="12 15 15 11 11 12"/>
+      <element label="image"
+               polygon_x="1 1 36 36 36 120 121 121 225 225 106 105 105 100 100 100 1 1"
+               polygon_y="52 205 205 206 280 280 206 205 205 26 26 190 191 191 190 51 51 52"/>
+      <element label="text-over-image" polygon_x="111 111 150 150 111 111"
+               polygon_y="32 50 50 31 31 32"/>
+      <element label="text-over-image" polygon_x="6 6 40 40 6 6" polygon_y="57 70 70 56 56 57"/>
+      <element label="text-over-image" polygon_x="41 41 75 75 41 41"
+               polygon_y="192 200 200 191 191 192"/>
+   </layout>
+   <text>
+      <keyword>love</keyword>
+      <keyword>beach</keyword>
+      <keyword>haven</keyword>
+   </text>
+</annotation>

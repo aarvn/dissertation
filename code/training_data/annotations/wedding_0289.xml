@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0289</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="126 126 205 205 126 126"
+               polygon_y="197 240 240 196 196 197"/>
+      <element label="text" polygon_x="21 21 110 110 21 21" polygon_y="72 105 105 71 71 72"/>
+      <element label="image" polygon_x="1 1 225 225 120 120 120 1 1"
+               polygon_y="197 300 300 246 246 245 196 196 197"/>
+      <element label="image" polygon_x="21 21 205 205 21 21"
+               polygon_y="112 190 190 111 111 112"/>
+      <element label="image" polygon_x="116 116 225 225 116 116" polygon_y="2 105 105 1 1 2"/>
+      <element label="image" polygon_x="1 1 110 110 1 1" polygon_y="7 65 65 6 6 7"/>
+      <element label="text-over-image" polygon_x="126 126 180 180 126 126"
+               polygon_y="37 95 95 36 36 37"/>
+      <element label="text-over-image" polygon_x="36 36 90 90 36 36"
+               polygon_y="127 180 180 126 126 127"/>
+   </layout>
+   <text>
+      <keyword>style</keyword>
+      <keyword>book</keyword>
+      <keyword>location</keyword>
+      <keyword>honeymoon</keyword>
+      <keyword>taste</keyword>
+      <keyword>vow</keyword>
+      <keyword>romantic</keyword>
+   </text>
+</annotation>

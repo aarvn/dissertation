@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0202</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 160 160 21 21"
+               polygon_y="252 270 270 251 251 252"/>
+      <element label="text" polygon_x="21 21 70 70 21 21" polygon_y="202 225 225 201 201 202"/>
+      <element label="text" polygon_x="176 176 215 215 176 176"
+               polygon_y="247 270 270 246 246 247"/>
+      <element label="text" polygon_x="26 26 60 60 26 26" polygon_y="37 55 55 36 36 37"/>
+      <element label="text" polygon_x="21 21 155 155 21 21"
+               polygon_y="242 245 245 241 241 242"/>
+      <element label="text" polygon_x="161 161 205 205 161 161"
+               polygon_y="107 120 120 106 106 107"/>
+      <element label="text" polygon_x="41 41 125 125 41 41"
+               polygon_y="282 285 285 281 281 282"/>
+      <element label="image" polygon_x="1 1 145 145 1 1" polygon_y="67 125 125 66 66 67"/>
+      <element label="image" polygon_x="156 156 225 225 156 156"
+               polygon_y="132 205 205 131 131 132"/>
+      <element label="image" polygon_x="66 66 150 150 66 66" polygon_y="2 60 60 1 1 2"/>
+      <element label="image" polygon_x="156 156 210 210 156 156" polygon_y="32 95 95 31 31 32"/>
+      <element label="image" polygon_x="21 21 75 75 21 21" polygon_y="132 190 190 131 131 132"/>
+      <element label="image" polygon_x="81 81 150 150 81 81"
+               polygon_y="132 175 175 131 131 132"/>
+      <element label="image" polygon_x="81 81 150 150 81 81"
+               polygon_y="182 225 225 181 181 182"/>
+   </layout>
+   <text>
+      <keyword>heat</keyword>
+      <keyword>choice</keyword>
+   </text>
+</annotation>

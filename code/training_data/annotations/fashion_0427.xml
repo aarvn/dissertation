@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0427</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 105 105 11 11"
+               polygon_y="262 285 285 261 261 262"/>
+      <element label="text" polygon_x="121 121 210 210 121 121"
+               polygon_y="152 170 170 151 151 152"/>
+      <element label="text" polygon_x="56 56 105 105 56 56"
+               polygon_y="132 160 160 131 131 132"/>
+      <element label="text" polygon_x="146 146 180 180 146 146" polygon_y="27 55 55 26 26 27"/>
+      <element label="text" polygon_x="131 131 200 200 131 131"
+               polygon_y="137 145 145 136 136 137"/>
+      <element label="text" polygon_x="1 1 45 45 1 1" polygon_y="7 15 15 6 6 7"/>
+      <element label="text" polygon_x="171 171 215 215 171 171"
+               polygon_y="287 295 295 286 286 287"/>
+      <element label="image"
+               polygon_x="6 6 50 51 51 56 56 56 130 131 131 135 135 50 50 50 6 6"
+               polygon_y="27 165 165 71 70 70 71 125 125 71 70 70 31 31 30 26 26 27"/>
+      <element label="image" polygon_x="121 121 215 215 121 121"
+               polygon_y="177 280 280 176 176 177"/>
+      <element label="image" polygon_x="6 6 115 115 6 6" polygon_y="172 255 255 171 171 172"/>
+      <element label="image" polygon_x="151 151 215 215 186 185 185 151 151"
+               polygon_y="62 135 135 21 21 60 61 61 62"/>
+      <element label="text-over-image"
+               polygon_x="121 121 165 165 155 155 156 156 175 175 121 121"
+               polygon_y="177 280 280 261 261 260 226 225 225 176 176 177"/>
+   </layout>
+   <text>
+      <keyword>fashion</keyword>
+      <keyword>colour</keyword>
+      <keyword>designer</keyword>
+      <keyword>design</keyword>
+      <keyword>spirit</keyword>
+   </text>
+</annotation>

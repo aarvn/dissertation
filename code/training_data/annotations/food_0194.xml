@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0194</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="86 86 140 140 86 86"
+               polygon_y="122 280 280 121 121 122"/>
+      <element label="text" polygon_x="151 151 205 205 151 151"
+               polygon_y="62 180 180 61 61 62"/>
+      <element label="text" polygon_x="21 21 75 75 21 21" polygon_y="172 280 280 171 171 172"/>
+      <element label="text" polygon_x="151 151 205 205 151 151"
+               polygon_y="227 280 280 226 226 227"/>
+      <element label="text" polygon_x="21 21 70 70 21 21" polygon_y="142 165 165 141 141 142"/>
+      <element label="text" polygon_x="151 151 190 190 151 151"
+               polygon_y="192 220 220 191 191 192"/>
+      <element label="text" polygon_x="151 151 195 195 151 151" polygon_y="32 45 45 31 31 32"/>
+      <element label="text" polygon_x="11 11 50 50 11 11" polygon_y="12 20 20 11 11 12"/>
+      <element label="text" polygon_x="21 21 55 55 21 21" polygon_y="127 135 135 126 126 127"/>
+      <element label="image" polygon_x="11 11 75 75 11 11" polygon_y="27 115 115 26 26 27"/>
+      <element label="image" polygon_x="81 81 140 140 81 81" polygon_y="27 115 115 26 26 27"/>
+   </layout>
+   <text>
+      <keyword>dish</keyword>
+      <keyword>restaurant</keyword>
+      <keyword>menu</keyword>
+      <keyword>sauce</keyword>
+      <keyword>glass</keyword>
+      <keyword>hot</keyword>
+      <keyword>dress</keyword>
+      <keyword>choice</keyword>
+      <keyword>dessert</keyword>
+   </text>
+</annotation>

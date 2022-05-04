@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0161</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 75 75 21 21" polygon_y="32 280 280 31 31 32"/>
+      <element label="text" polygon_x="146 146 205 205 146 146"
+               polygon_y="147 275 275 146 146 147"/>
+      <element label="text" polygon_x="81 81 135 135 81 81"
+               polygon_y="172 280 280 171 171 172"/>
+      <element label="text" polygon_x="81 81 125 125 81 81"
+               polygon_y="142 160 160 141 141 142"/>
+      <element label="text" polygon_x="11 11 60 60 11 11" polygon_y="12 20 20 11 11 12"/>
+      <element label="image" polygon_x="81 81 205 205 81 81" polygon_y="27 135 135 26 26 27"/>
+   </layout>
+   <text>
+      <keyword>dish</keyword>
+      <keyword>food</keyword>
+      <keyword>ingredient</keyword>
+      <keyword>chef</keyword>
+   </text>
+</annotation>

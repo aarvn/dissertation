@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0173</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="21 21 135 135 21 21" polygon_y="42 125 125 41 41 42"/>
+      <element label="text" polygon_x="21 21 75 75 21 21" polygon_y="142 220 220 141 141 142"/>
+      <element label="text" polygon_x="146 146 205 205 146 146"
+               polygon_y="92 155 155 91 91 92"/>
+      <element label="text" polygon_x="146 146 205 205 146 146"
+               polygon_y="162 220 220 161 161 162"/>
+      <element label="text" polygon_x="146 146 205 205 146 146"
+               polygon_y="227 280 280 226 226 227"/>
+      <element label="text" polygon_x="21 21 75 75 21 21" polygon_y="227 280 280 226 226 227"/>
+      <element label="text" polygon_x="81 81 140 140 81 81"
+               polygon_y="232 280 280 231 231 232"/>
+      <element label="text" polygon_x="81 81 140 140 81 81"
+               polygon_y="182 225 225 181 181 182"/>
+      <element label="text" polygon_x="146 146 205 205 146 146" polygon_y="42 85 85 41 41 42"/>
+      <element label="text" polygon_x="81 81 140 140 81 81"
+               polygon_y="142 175 175 141 141 142"/>
+      <element label="text" polygon_x="161 161 215 215 161 161" polygon_y="12 20 20 11 11 12"/>
+   </layout>
+   <text>
+      <keyword>top</keyword>
+      <keyword>salt</keyword>
+      <keyword>stir</keyword>
+      <keyword>place</keyword>
+      <keyword>taste</keyword>
+      <keyword>dish</keyword>
+      <keyword>cool</keyword>
+      <keyword>oil</keyword>
+      <keyword>oven</keyword>
+      <keyword>water</keyword>
+      <keyword>food</keyword>
+      <keyword>fry</keyword>
+      <keyword>mixture</keyword>
+      <keyword>boil</keyword>
+      <keyword>ingredient</keyword>
+      <keyword>pepper</keyword>
+      <keyword>cheese</keyword>
+      <keyword>golden</keyword>
+      <keyword>delicious</keyword>
+      <keyword>choice</keyword>
+      <keyword>cuisine</keyword>
+      <keyword>roast</keyword>
+      <keyword>cream</keyword>
+      <keyword>chicken</keyword>
+      <keyword>cup</keyword>
+      <keyword>vegetable</keyword>
+      <keyword>saucepan</keyword>
+      <keyword>honey</keyword>
+   </text>
+</annotation>

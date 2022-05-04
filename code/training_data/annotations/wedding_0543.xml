@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0543</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 165 166 166 190 190 165 165 166 166 225 225 1 1"
+               polygon_y="2 300 300 276 275 275 221 221 220 216 215 215 1 1 2"/>
+      <element label="text-over-image" polygon_x="66 66 190 190 66 66"
+               polygon_y="222 275 275 221 221 222"/>
+      <element label="text-over-image" polygon_x="66 66 140 140 66 66"
+               polygon_y="207 215 215 206 206 207"/>
+   </layout>
+   <text>
+      <keyword>enjoy</keyword>
+      <keyword>moment</keyword>
+      <keyword>arrange</keyword>
+   </text>
+</annotation>

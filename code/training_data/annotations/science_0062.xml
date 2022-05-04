@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>science_0062</filename>
+   <category>science</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 110 110 11 11"
+               polygon_y="187 285 285 186 186 187"/>
+      <element label="text" polygon_x="116 116 210 210 116 116"
+               polygon_y="242 285 285 241 241 242"/>
+      <element label="text" polygon_x="116 116 200 200 116 116"
+               polygon_y="207 230 230 206 206 207"/>
+      <element label="text" polygon_x="116 116 210 210 116 116"
+               polygon_y="187 200 200 186 186 187"/>
+      <element label="image" polygon_x="11 11 210 210 11 11" polygon_y="17 165 165 16 16 17"/>
+   </layout>
+   <text>
+      <keyword>launch</keyword>
+      <keyword>design</keyword>
+      <keyword>model</keyword>
+   </text>
+</annotation>

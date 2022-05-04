@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0189</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="81 81 145 145 81 81" polygon_y="27 205 205 26 26 27"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="22 140 140 21 21 22"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="192 290 290 191 191 192"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="17 95 95 16 16 17"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="147 205 205 146 146 147"/>
+      <element label="text" polygon_x="151 151 215 215 151 151"
+               polygon_y="177 185 185 176 176 177"/>
+      <element label="text" polygon_x="11 11 65 65 11 11" polygon_y="132 140 140 131 131 132"/>
+      <element label="text" polygon_x="11 11 85 85 11 11" polygon_y="287 290 290 286 286 287"/>
+      <element label="image" polygon_x="11 11 145 145 11 11"
+               polygon_y="212 285 285 211 211 212"/>
+      <element label="headline" polygon_x="151 151 205 205 151 151"
+               polygon_y="147 160 160 146 146 147"/>
+      <element label="headline" polygon_x="11 11 65 65 11 11"
+               polygon_y="107 115 115 106 106 107"/>
+   </layout>
+   <text>
+      <keyword>family</keyword>
+      <keyword>economy</keyword>
+   </text>
+</annotation>

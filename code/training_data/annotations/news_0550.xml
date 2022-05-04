@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0550</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 110 110 11 11"
+               polygon_y="162 250 250 161 161 162"/>
+      <element label="text" polygon_x="176 176 210 210 176 176"
+               polygon_y="82 225 225 81 81 82"/>
+      <element label="text" polygon_x="11 11 110 110 11 11"
+               polygon_y="257 285 285 256 256 257"/>
+      <element label="text" polygon_x="116 116 150 150 116 116"
+               polygon_y="167 215 215 166 166 167"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="137 155 155 136 136 137"/>
+      <element label="text" polygon_x="176 176 210 210 176 176" polygon_y="47 75 75 46 46 47"/>
+      <element label="text" polygon_x="176 176 210 210 176 176"
+               polygon_y="232 245 245 231 231 232"/>
+      <element label="image" polygon_x="11 11 150 150 11 11" polygon_y="37 130 130 36 36 37"/>
+      <element label="image" polygon_x="176 176 210 210 176 176"
+               polygon_y="252 280 280 251 251 252"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>decade</keyword>
+      <keyword>fight</keyword>
+      <keyword>mind</keyword>
+      <keyword>sign</keyword>
+      <keyword>sense</keyword>
+      <keyword>culture</keyword>
+      <keyword>technology</keyword>
+   </text>
+</annotation>

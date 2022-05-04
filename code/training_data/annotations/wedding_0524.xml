@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0524</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image"
+               polygon_x="1 1 11 11 11 215 216 216 220 221 221 225 225 220 220 220 121 120 120 11 10 10 1 1"
+               polygon_y="117 210 210 211 300 300 296 295 295 186 185 185 96 96 95 1 1 5 6 6 115 116 116 117"/>
+      <element label="text-over-image" polygon_x="166 166 205 205 166 166"
+               polygon_y="257 285 285 256 256 257"/>
+      <element label="text-over-image" polygon_x="26 26 60 60 26 26"
+               polygon_y="267 290 290 266 266 267"/>
+      <element label="text-over-image" polygon_x="156 156 205 205 156 156"
+               polygon_y="7 20 20 6 6 7"/>
+      <element label="text-over-image" polygon_x="171 171 205 205 171 171"
+               polygon_y="72 90 90 71 71 72"/>
+      <element label="text-over-image" polygon_x="46 46 85 85 46 46"
+               polygon_y="187 200 200 186 186 187"/>
+      <element label="text-over-image" polygon_x="86 86 140 140 86 86"
+               polygon_y="172 180 180 171 171 172"/>
+      <element label="text-over-image" polygon_x="171 171 205 205 171 171"
+               polygon_y="167 180 180 166 166 167"/>
+      <element label="text-over-image" polygon_x="21 21 50 50 21 21"
+               polygon_y="102 115 115 101 101 102"/>
+      <element label="headline-over-image" polygon_x="76 76 150 150 76 76"
+               polygon_y="102 165 165 101 101 102"/>
+   </layout>
+   <text>
+      <keyword>flower</keyword>
+      <keyword>ideal</keyword>
+   </text>
+</annotation>

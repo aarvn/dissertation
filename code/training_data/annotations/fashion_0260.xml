@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0260</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="11 11 70 70 11 11" polygon_y="182 290 290 181 181 182"/>
+      <element label="text" polygon_x="146 146 205 205 146 146"
+               polygon_y="187 290 290 186 186 187"/>
+      <element label="text" polygon_x="81 81 135 135 81 81"
+               polygon_y="187 290 290 186 186 187"/>
+      <element label="text" polygon_x="11 11 110 110 36 35 35 11 11"
+               polygon_y="57 90 90 36 36 55 56 56 57"/>
+      <element label="text" polygon_x="131 131 210 210 161 160 160 131 131"
+               polygon_y="57 85 85 36 36 55 56 56 57"/>
+      <element label="text" polygon_x="36 36 110 110 36 36" polygon_y="17 30 30 16 16 17"/>
+      <element label="text" polygon_x="86 86 135 135 86 86"
+               polygon_y="172 180 180 171 171 172"/>
+      <element label="text" polygon_x="156 156 200 200 156 156"
+               polygon_y="172 180 180 171 171 172"/>
+      <element label="text" polygon_x="161 161 205 205 161 161" polygon_y="22 30 30 21 21 22"/>
+      <element label="text" polygon_x="6 6 55 55 6 6" polygon_y="7 10 10 6 6 7"/>
+      <element label="text" polygon_x="26 26 65 65 26 26" polygon_y="172 175 175 171 171 172"/>
+      <element label="image" polygon_x="156 156 200 200 156 156"
+               polygon_y="117 165 165 116 116 117"/>
+      <element label="image" polygon_x="26 26 70 70 26 26" polygon_y="122 165 165 121 121 122"/>
+      <element label="image" polygon_x="96 96 135 135 96 96"
+               polygon_y="122 165 165 121 121 122"/>
+      <element label="image" polygon_x="126 126 155 155 126 126" polygon_y="17 50 50 16 16 17"/>
+      <element label="image" polygon_x="6 6 30 30 6 6" polygon_y="17 50 50 16 16 17"/>
+      <element label="headline" polygon_x="51 51 175 175 51 51"
+               polygon_y="102 115 115 101 101 102"/>
+   </layout>
+   <text>
+      <keyword>life</keyword>
+      <keyword>job</keyword>
+      <keyword>perfect</keyword>
+      <keyword>money</keyword>
+      <keyword>party</keyword>
+   </text>
+</annotation>

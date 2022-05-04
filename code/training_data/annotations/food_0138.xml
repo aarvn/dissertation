@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0138</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="31 31 115 115 31 31"
+               polygon_y="152 275 275 151 151 152"/>
+      <element label="text" polygon_x="46 46 175 175 46 46"
+               polygon_y="282 290 290 281 281 282"/>
+      <element label="image" polygon_x="31 31 46 46 46 190 190 46 45 45 31 31"
+               polygon_y="37 50 50 51 145 145 6 6 35 36 36 37"/>
+      <element label="image" polygon_x="126 126 190 190 126 126"
+               polygon_y="152 275 275 151 151 152"/>
+      <element label="headline-over-image" polygon_x="31 31 90 90 31 31"
+               polygon_y="37 50 50 36 36 37"/>
+   </layout>
+   <text>
+      <keyword>place</keyword>
+      <keyword>roll</keyword>
+      <keyword>cake</keyword>
+   </text>
+</annotation>

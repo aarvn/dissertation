@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0163</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="21 21 105 105 21 21"
+               polygon_y="57 155 155 56 56 57"/>
+      <element label="text-over-image" polygon_x="116 116 205 205 116 116"
+               polygon_y="132 175 175 131 131 132"/>
+      <element label="text-over-image" polygon_x="116 116 205 205 116 116"
+               polygon_y="87 125 125 86 86 87"/>
+      <element label="text-over-image" polygon_x="116 116 205 205 116 116"
+               polygon_y="32 60 60 31 31 32"/>
+      <element label="text-over-image" polygon_x="21 21 105 105 21 21"
+               polygon_y="32 50 50 31 31 32"/>
+      <element label="text-over-image" polygon_x="116 116 205 205 116 116"
+               polygon_y="67 80 80 66 66 67"/>
+      <element label="text-over-image" polygon_x="11 11 50 50 11 11"
+               polygon_y="12 20 20 11 11 12"/>
+   </layout>
+   <text>
+      <keyword>top</keyword>
+      <keyword>dish</keyword>
+      <keyword>oven</keyword>
+      <keyword>eat</keyword>
+      <keyword>water</keyword>
+      <keyword>garlic</keyword>
+      <keyword>boil</keyword>
+      <keyword>flavour</keyword>
+      <keyword>ingredient</keyword>
+      <keyword>salad</keyword>
+      <keyword>sweet</keyword>
+      <keyword>dress</keyword>
+      <keyword>roast</keyword>
+      <keyword>dessert</keyword>
+   </text>
+</annotation>

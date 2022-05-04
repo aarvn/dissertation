@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0395</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="76 76 160 160 76 76" polygon_y="77 90 90 76 76 77"/>
+      <element label="image" polygon_x="1 1 116 116 116 225 225 75 75 75 1 1"
+               polygon_y="2 150 150 151 170 170 96 96 95 1 1 2"/>
+      <element label="image" polygon_x="116 116 225 225 116 116"
+               polygon_y="177 300 300 176 176 177"/>
+      <element label="image" polygon_x="1 1 110 110 1 1" polygon_y="217 280 280 216 216 217"/>
+      <element label="image" polygon_x="1 1 110 110 1 1" polygon_y="157 210 210 156 156 157"/>
+      <element label="image" polygon_x="166 166 225 225 166 166" polygon_y="22 90 90 21 21 22"/>
+      <element label="headline" polygon_x="76 76 160 160 76 76" polygon_y="27 70 70 26 26 27"/>
+      <element label="text-over-image" polygon_x="76 76 155 155 76 76"
+               polygon_y="97 150 150 96 96 97"/>
+      <element label="text-over-image" polygon_x="121 121 155 155 121 121"
+               polygon_y="182 210 210 181 181 182"/>
+   </layout>
+   <text>
+      <keyword>bride</keyword>
+      <keyword>style</keyword>
+      <keyword>theme</keyword>
+   </text>
+</annotation>

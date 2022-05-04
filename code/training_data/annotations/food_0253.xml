@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0253</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="2 300 300 1 1 2"/>
+      <element label="text-over-image" polygon_x="66 66 125 125 66 66"
+               polygon_y="62 120 120 61 61 62"/>
+      <element label="text-over-image" polygon_x="66 66 120 120 66 66"
+               polygon_y="127 155 155 126 126 127"/>
+      <element label="text-over-image" polygon_x="16 16 65 65 16 16"
+               polygon_y="282 295 295 281 281 282"/>
+      <element label="text-over-image" polygon_x="96 96 145 145 96 96"
+               polygon_y="287 295 295 286 286 287"/>
+      <element label="headline-over-image" polygon_x="66 66 140 140 66 66"
+               polygon_y="27 55 55 26 26 27"/>
+   </layout>
+   <text>
+      <keyword>taste</keyword>
+      <keyword>food</keyword>
+      <keyword>wine</keyword>
+      <keyword>glass</keyword>
+      <keyword>cuisine</keyword>
+      <keyword>quality</keyword>
+   </text>
+</annotation>

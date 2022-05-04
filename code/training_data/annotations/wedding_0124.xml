@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0124</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="6 6 220 220 6 6" polygon_y="267 285 285 266 266 267"/>
+      <element label="image" polygon_x="6 6 115 115 6 6" polygon_y="17 190 190 16 16 17"/>
+      <element label="image" polygon_x="121 121 225 225 121 121"
+               polygon_y="107 190 190 106 106 107"/>
+      <element label="image" polygon_x="6 6 80 80 6 6" polygon_y="197 260 260 196 196 197"/>
+      <element label="image" polygon_x="156 156 225 225 156 156"
+               polygon_y="197 260 260 196 196 197"/>
+      <element label="image" polygon_x="121 121 170 170 121 121"
+               polygon_y="17 100 100 16 16 17"/>
+      <element label="image" polygon_x="176 176 225 225 176 176"
+               polygon_y="17 100 100 16 16 17"/>
+      <element label="image" polygon_x="86 86 150 150 86 86"
+               polygon_y="197 260 260 196 196 197"/>
+   </layout>
+   <text>
+      <keyword>cake</keyword>
+      <keyword>music</keyword>
+   </text>
+</annotation>

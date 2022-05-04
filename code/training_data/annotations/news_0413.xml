@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0413</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="151 151 210 210 151 151"
+               polygon_y="17 290 290 16 16 17"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="122 290 290 121 121 122"/>
+      <element label="text" polygon_x="16 16 75 75 16 16" polygon_y="122 290 290 121 121 122"/>
+      <element label="text" polygon_x="31 31 130 130 31 31" polygon_y="22 110 110 21 21 22"/>
+   </layout>
+   <text>
+      <keyword>country</keyword>
+      <keyword>power</keyword>
+      <keyword>state</keyword>
+      <keyword>child</keyword>
+      <keyword>fall</keyword>
+      <keyword>death</keyword>
+      <keyword>company</keyword>
+      <keyword>fact</keyword>
+      <keyword>grow</keyword>
+      <keyword>story</keyword>
+      <keyword>money</keyword>
+      <keyword>mother</keyword>
+      <keyword>cost</keyword>
+      <keyword>campaign</keyword>
+      <keyword>business</keyword>
+      <keyword>election</keyword>
+      <keyword>support</keyword>
+      <keyword>father</keyword>
+      <keyword>sense</keyword>
+      <keyword>fund</keyword>
+      <keyword>market</keyword>
+      <keyword>announce</keyword>
+   </text>
+</annotation>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0143</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="image" polygon_x="1 1 225 225 1 1" polygon_y="152 300 300 151 151 152"/>
+      <element label="image" polygon_x="21 21 205 205 140 140 140 86 85 85 21 21"
+               polygon_y="27 145 145 26 26 25 21 21 25 26 26 27"/>
+      <element label="text-over-image" polygon_x="91 91 135 135 91 91"
+               polygon_y="42 130 130 41 41 42"/>
+      <element label="text-over-image" polygon_x="91 91 170 170 91 91"
+               polygon_y="252 290 290 251 251 252"/>
+      <element label="text-over-image" polygon_x="106 106 160 160 106 106"
+               polygon_y="177 210 210 176 176 177"/>
+      <element label="text-over-image" polygon_x="91 91 130 130 91 91"
+               polygon_y="222 245 245 221 221 222"/>
+      <element label="text-over-image" polygon_x="136 136 170 170 136 136"
+               polygon_y="222 245 245 221 221 222"/>
+      <element label="text-over-image" polygon_x="86 86 140 140 86 86"
+               polygon_y="22 30 30 21 21 22"/>
+   </layout>
+   <text>
+      <keyword>taste</keyword>
+      <keyword>season</keyword>
+      <keyword>juice</keyword>
+      <keyword>chilli</keyword>
+   </text>
+</annotation>

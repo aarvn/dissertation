@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>wedding_0253</filename>
+   <category>wedding</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="26 26 115 115 26 26"
+               polygon_y="187 260 260 186 186 187"/>
+      <element label="text" polygon_x="26 26 115 115 26 26"
+               polygon_y="267 285 285 266 266 267"/>
+      <element label="image"
+               polygon_x="26 26 121 121 120 120 26 26 100 101 101 121 121 121 205 205 26 26"
+               polygon_y="22 145 145 146 150 151 151 180 180 166 165 165 166 285 285 21 21 22"/>
+      <element label="text-over-image" polygon_x="141 141 205 205 141 141"
+               polygon_y="32 50 50 31 31 32"/>
+      <element label="headline-over-image" polygon_x="26 26 100 101 101 140 140 26 26"
+               polygon_y="152 180 180 166 165 165 151 151 152"/>
+   </layout>
+   <text>
+      <keyword>style</keyword>
+      <keyword>venue</keyword>
+      <keyword>celebration</keyword>
+      <keyword>theme</keyword>
+   </text>
+</annotation>

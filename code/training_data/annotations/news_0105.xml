@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>news_0105</filename>
+   <category>news</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="151 151 210 210 151 151"
+               polygon_y="52 280 280 51 51 52"/>
+      <element label="text" polygon_x="31 31 85 85 31 31" polygon_y="122 280 280 121 121 122"/>
+      <element label="text" polygon_x="91 91 140 140 91 91"
+               polygon_y="187 280 280 186 186 187"/>
+      <element label="text" polygon_x="91 91 145 145 91 91"
+               polygon_y="122 180 180 121 121 122"/>
+      <element label="text" polygon_x="151 151 205 205 151 151" polygon_y="32 45 45 31 31 32"/>
+      <element label="text" polygon_x="26 26 90 90 26 26" polygon_y="17 25 25 16 16 17"/>
+      <element label="image" polygon_x="26 26 145 145 26 26" polygon_y="32 115 115 31 31 32"/>
+   </layout>
+   <text>
+      <keyword>woman</keyword>
+      <keyword>decade</keyword>
+      <keyword>child</keyword>
+      <keyword>issue</keyword>
+      <keyword>group</keyword>
+      <keyword>mother</keyword>
+      <keyword>wife</keyword>
+      <keyword>vote</keyword>
+      <keyword>parliament</keyword>
+   </text>
+</annotation>

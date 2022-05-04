@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>fashion_0403</filename>
+   <category>fashion</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="16 16 105 105 60 60 61 61 105 105 16 16"
+               polygon_y="177 280 280 256 256 255 201 200 200 176 176 177"/>
+      <element label="text" polygon_x="111 111 205 205 156 155 155 111 111"
+               polygon_y="257 280 280 206 206 255 256 256 257"/>
+      <element label="text" polygon_x="66 66 150 150 66 66"
+               polygon_y="207 250 250 206 206 207"/>
+      <element label="text" polygon_x="111 111 205 205 111 111"
+               polygon_y="177 200 200 176 176 177"/>
+      <element label="image" polygon_x="16 16 205 205 16 16" polygon_y="12 170 170 11 11 12"/>
+      <element label="text-over-image" polygon_x="16 16 55 55 16 16"
+               polygon_y="152 170 170 151 151 152"/>
+   </layout>
+   <text>
+      <keyword>woman</keyword>
+      <keyword>story</keyword>
+      <keyword>role</keyword>
+   </text>
+</annotation>

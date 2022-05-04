@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0623</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="117 185 185 116 116 117"/>
+      <element label="text" polygon_x="161 161 205 205 161 161"
+               polygon_y="57 155 155 56 56 57"/>
+      <element label="text" polygon_x="81 81 140 140 81 81" polygon_y="47 110 110 46 46 47"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="47 95 95 46 46 47"/>
+      <element label="text" polygon_x="11 11 75 75 11 11" polygon_y="222 265 265 221 221 222"/>
+      <element label="text" polygon_x="11 11 65 65 11 11" polygon_y="102 145 145 101 101 102"/>
+      <element label="text" polygon_x="81 81 145 145 81 81"
+               polygon_y="192 220 220 191 191 192"/>
+      <element label="text" polygon_x="11 11 55 55 11 11" polygon_y="152 185 185 151 151 152"/>
+      <element label="text" polygon_x="11 11 70 70 11 11" polygon_y="192 215 215 191 191 192"/>
+      <element label="text" polygon_x="166 166 200 200 166 166"
+               polygon_y="187 225 225 186 186 187"/>
+      <element label="text" polygon_x="91 91 145 145 91 91"
+               polygon_y="227 245 245 226 226 227"/>
+      <element label="text" polygon_x="11 11 110 110 11 11" polygon_y="32 40 40 31 31 32"/>
+   </layout>
+   <text>
+      <keyword>top</keyword>
+      <keyword>salt</keyword>
+      <keyword>heat</keyword>
+      <keyword>recipe</keyword>
+      <keyword>season</keyword>
+      <keyword>bowl</keyword>
+      <keyword>water</keyword>
+      <keyword>mixture</keyword>
+      <keyword>pepper</keyword>
+      <keyword>fridge</keyword>
+      <keyword>meat</keyword>
+      <keyword>milk</keyword>
+      <keyword>ginger</keyword>
+      <keyword>thick</keyword>
+      <keyword>coriander</keyword>
+      <keyword>honey</keyword>
+   </text>
+</annotation>

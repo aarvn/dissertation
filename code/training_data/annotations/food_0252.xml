@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>food_0252</filename>
+   <category>food</category>
+   <size>
+      <width>225</width>
+      <height>300</height>
+   </size>
+   <layout>
+      <element label="text" polygon_x="116 116 200 200 116 116"
+               polygon_y="132 265 265 131 131 132"/>
+      <element label="text" polygon_x="116 116 200 200 116 116"
+               polygon_y="57 125 125 56 56 57"/>
+      <element label="text" polygon_x="21 21 110 110 21 21"
+               polygon_y="222 280 280 221 221 222"/>
+      <element label="text" polygon_x="116 116 200 200 116 116" polygon_y="27 50 50 26 26 27"/>
+      <element label="text" polygon_x="21 21 75 75 21 21" polygon_y="182 215 215 181 181 182"/>
+      <element label="text" polygon_x="21 21 100 100 21 21"
+               polygon_y="162 175 175 161 161 162"/>
+      <element label="text" polygon_x="116 116 200 200 116 116"
+               polygon_y="272 280 280 271 271 272"/>
+      <element label="text" polygon_x="11 11 45 45 11 11" polygon_y="12 15 15 11 11 12"/>
+      <element label="image" polygon_x="11 11 110 110 11 11" polygon_y="17 155 155 16 16 17"/>
+      <element label="text-over-image" polygon_x="86 86 105 105 86 86"
+               polygon_y="22 40 40 21 21 22"/>
+   </layout>
+   <text>
+      <keyword>salt</keyword>
+      <keyword>heat</keyword>
+      <keyword>place</keyword>
+      <keyword>oil</keyword>
+      <keyword>bowl</keyword>
+      <keyword>sugar</keyword>
+      <keyword>water</keyword>
+      <keyword>fry</keyword>
+      <keyword>cooking</keyword>
+      <keyword>flour</keyword>
+      <keyword>golden</keyword>
+      <keyword>roll</keyword>
+      <keyword>juice</keyword>
+      <keyword>warm</keyword>
+      <keyword>cream</keyword>
+      <keyword>thick</keyword>
+      <keyword>soften</keyword>
+      <keyword>cup</keyword>
+      <keyword>saucepan</keyword>
+      <keyword>honey</keyword>
+   </text>
+</annotation>
